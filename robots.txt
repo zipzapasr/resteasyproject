@@ -1,0 +1,11 @@
+
+User-agent: *
+Allow: /
+
+# Backend / non-public paths
+Disallow: /assets/inc/
+Disallow: /api/
+Disallow: /cache/
+Disallow: /includes/
+
+Sitemap: https://resteasyservices.com.au/sitemap.xml

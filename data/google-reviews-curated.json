@@ -1,0 +1,69 @@
+{
+  "_comment": "Curated Google reviews shown on the site. Google's API only ever returns up to 5 reviews, so add more real reviews here to display 10-15. Copy each review's text from your Google Business listing. Newest first. Fields: author_name, profile_photo_url (optional), relative_time_description (optional), text, rating (1-5), review_url (optional). Live API reviews are merged in automatically and duplicates are removed.",
+  "reviews": [
+    {
+      "author_name": "Tiffany Morrison",
+      "profile_photo_url": "",
+      "relative_time_description": "a week ago",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20vQ2H_K1WoROevGTy-Tj8Y",
+      "text": "Would highly recommend Rest Easy, I was in a real pickle moving into a new place and called very last minute, Perry was incredibly empathetic and worked with me to tailor a clean within my budget & at such short notice. I sent her pictures so she had an accurate idea of the house, a quote was sent promptly after our call outlining everything we chatted about, the cleaner who attended was lovely and did a phenomenal job! I am quite fussy and I was blown away.. they even put a hygenic strip on the toilet like you get in hotels which was such a lovely touch! Perry then checked in after the clean to ensure I was happy. Price isn't based on time, its based on services chosen & they spend however much time is required, meaning its a thorough job! Everything about the process was seamless, professional and also very personable! Thank you so much Perry & Team!"
+    },
+    {
+      "author_name": "Marco Di pietrantonio",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpvpZFIjBQwwTRBPwkj8XXh1n5EZR73q807SK0UhXRpQ7ArA=s128-c0x00000000-cc-rp-mo",
+      "relative_time_description": "3 weeks ago",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCcFEwaHVTR2hwTXpSMFNVRk9VVXhTT0dsVlkxRRAB!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "Resteasy have done an amazing job looking after my staff house for the past 3 years. And recently we used them to complete the move out clean. This was done well and really looked at the finer details that are required for this type of work. Highly recommend them to look after your house cleaning."
+    },
+    {
+      "author_name": "Alex C",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2Frul3pFzzXhpK3QGtGgk-vM3ekum3C05vsz0hAXiHPs9MA=s128-c0x00000000-cc-rp-mo-ba3",
+      "relative_time_description": "2 months ago",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odVdrSk5XRmt5Um5OcVpISktUbXhJYjIxTU9WRRAB!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "Rest Easy have been cleaning our home for years. They're very flexible and adaptable to our needs and do a great job! Fast to respond to any questions we have too. Would recommend for anyone looking for a reliable cleaner."
+    },
+    {
+      "author_name": "Paula Noble",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5hpAcr61HVuJJvMN6xbvA6a20rUqotuG7NOQOoQE5Xo2d3J0=s128-c0x00000000-cc-rp-mo",
+      "relative_time_description": "",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKZ2ZUOXlRRRAB!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "Rest Easy Services is true to their name. I completely rest easy knowing they are managing my Airbnb with excellent prompt cleaning and linen hire. I cannot recommend Leanne and the team enough and are very grateful to have found them and use their efficient service."
+    },
+    {
+      "author_name": "Joh Leonhardt",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIavnAwHEHB3NWmec3H4dK9ucWCSxYS_tLTb-VeeTP6UjVzA=s128-c0x00000000-cc-rp-mo",
+      "relative_time_description": "",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaeThpTWF3EAE!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "We run a Airbnb in Rosebud, Victoria Australia and have been doing so the last 1.5 years \u201cRest Easy Services\u201d have been perfect. Very accomodating for last minute changes, cleaning always spot on, trust worthy and reliable with their service from accounting to cleaning. Thanks for your hard work guys."
+    },
+    {
+      "author_name": "X . X",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_vDTm56T4E93JvFK84dnxuZwYyn5CLv04f6vaM_M184ywHvE=s128-c0x00000000-cc-rp-mo-ba3",
+      "relative_time_description": "3 months ago",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjMFRISnphMlJ0Ym1wV2NtTmxXVnBWUWtObFRtYxAB!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "My amazing cleaners who look after me year after year. Rest Easy Services also provide linen and towels. So your holiday house is always ready for next guests arriving. Thank You girls."
+    },
+    {
+      "author_name": "Annette",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyYivWMkhf0RBdSuDb5tW6Qk7oj9fl30n1bllHHUVy3Fjs=s128-c0x00000000-cc-rp-mo",
+      "relative_time_description": "a year ago",
+      "rating": 5,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmemNmc1RnEAE!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "We use Rest Easy for our holiday home. They are fantastic! In the few years we have been using, each clean is very thorough including making beds etc... The one time we had a question on the cleaning, they immediately went back and fixed it. I would recommend them 100%"
+    },
+    {
+      "author_name": "Nino Ng",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgiFGwLxnthTuSU4zMEfAmwM4moRR1xUNPJnJSEbwp440PDQ=s128-c0x00000000-cc-rp-mo",
+      "relative_time_description": "2 years ago",
+      "rating": 4,
+      "review_url": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaaTZYeWF3EAE!2m1!1s0x6ad5ca7fd8d04bdb:0xc68f932f4fc6eb39",
+      "text": "I've been using Rest Easy for our airbnb cleaning for the last few months. They did a great job & we are happy with the RestEasy team under guidance of Leanne. She has been supportive and very easy to work with. Thanks Leanne for your great support and looking forward to journey with you for our long-term business partnership together."
+    }
+  ]
+}
