@@ -30,7 +30,7 @@
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
-    <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -39,7 +39,7 @@
       "@id": "https://resteasyservices.com.au/#business",
       "name": "Rest Easy Services",
       "url": "https://resteasyservices.com.au/",
-      "image": " https://resteasyservices.com.au/assets/images/location.jpeg",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "telephone": "+61 429 780 896",
       "email": "sales@resteasyservices.com.au",
       "address": {
@@ -53,48 +53,116 @@
     },
     {
       "@type": "Service",
-      "@id": "https://resteasyservices.com.au/cleaning-services-glen-waverley/#service",
-      "name": "Cleaning Services Glen Waverley",
-      "url": "https://resteasyservices.com.au/cleaning-services-glen-waverley/",
-      "description": "Professional cleaning services in Glen Waverley for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning and car park cleaning.",
+      "@id": "https://resteasyservices.com.au/cleaning-services-frankston/#service",
+      "name": "Cleaning Services Frankston",
+      "url": "https://resteasyservices.com.au/cleaning-services-frankston",
+      "description": "Professional cleaning services in Frankston for homes, offices, Airbnb properties, end of lease cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance, home maintenance, linen hire, locksmith services and car park cleaning.",
       "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
         "@id": "https://resteasyservices.com.au/#business"
       },
       "areaServed": {
         "@type": "City",
-        "name": "Glen Waverley"
+        "name": "Frankston"
       },
       "serviceType": [
         "House Cleaning",
         "Office Cleaning",
-        "Vacate Cleaning",
+        "End of Lease Cleaning",
         "Airbnb Cleaning",
         "Carpet Cleaning",
         "Window Cleaning",
         "Pressure Washing",
+        "Garden Maintenance",
+        "Home Maintenance",
+        "Linen Hire",
         "NDIS Cleaning",
+        "Locksmith Services",
         "Car Park Cleaning"
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://resteasyservices.com.au/cleaning-services-glen-waverley/#faq",
+      "@id": "https://resteasyservices.com.au/cleaning-services-frankston/#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What cleaning services do you offer in Glen Waverley?",
+          "name": "Can cleaning services aid in preparing properties for special occasions?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "We offer residential, commercial, carpet, window, vacate, Airbnb, NDIS and pressure washing cleaning services."
+            "text": "Cleaning can be planned ahead of family occasions, parties, inspections, and corporate functions to make sure the property is well presented."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you offer one-off and scheduled cleaning services?",
+          "name": "Are there any services for cleaning up vacant properties?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, we offer one-off, weekly, fortnightly and monthly cleaning services."
+            "text": "Properties that are empty including houses, office spaces, and rental properties can be cleaned up by removing dust and grime before being sold or rented out."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do cleaning services aid property managers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cleaning can be helpful to property managers in maintaining their properties, keeping the property in good condition between tenants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can cleaning schedules be adjusted as required?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Requirements for cleaning vary, and cleaning schedules can be adjusted to meet any such seasonal requirements or the demands of the property."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is window cleaning necessary professionally?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cleaning of windows increases light and improves appearance and makes the whole place looking cleaner from both interior and exterior sides."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "In what way pressure washing benefits the outdoors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure washing is an effective method to remove dirt, algae, mold and stains from hard surfaces and make the area look cleaned and well-maintained."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you get cleaned after the completion of renovations of a property?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After completing the renovation process of your property, post-renovation cleaning will help in removing the construction dirt and debris."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does cleaning increase the longevity of furniture?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cleaning regularly will help decrease the dirt accumulation in the carpeting, flooring, and furniture."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Would cleaning services be appropriate for owners of multiple properties?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is possible to have cleaning services at multiple properties whether residential or commercial properties."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What parts of the building need to be cleaned regularly?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kitchens, bathrooms, entrances, living rooms, and office areas are some examples of high traffic areas that need regular cleaning services."
           }
         }
       ]
@@ -102,6 +170,8 @@
   ]
 }
 </script>
+
+
 
 
 

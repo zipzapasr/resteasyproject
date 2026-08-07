@@ -30,130 +30,150 @@
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
-    <script type="application/ld+json">
+ <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "LocalBusiness",
+      "@id": "https://resteasyservices.com.au/#business",
+      "name": "Rest Easy Services",
+      "url": "https://resteasyservices.com.au/",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "telephone": "+61 429 780 896",
+      "email": "sales@resteasyservices.com.au",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6/7 Suffolk Street",
+        "addressLocality": "Capel Sound",
+        "addressRegion": "VIC",
+        "postalCode": "3940",
+        "addressCountry": "AU"
+      }
+    },
+    {
       "@type": "Service",
-      "name": "House Cleaning Services",
-      "description": "Expert residential and commercial cleaning services including deep cleaning, regular maintenance, and spring or seasonal cleaning on the Mornington Peninsula.",
-      "url": "https://resteasyservices.com.au/house-cleaning",
+      "@id": "https://resteasyservices.com.au/cleaning-services-wheelers-hill/#service",
+      "name": "Cleaning Services Wheelers Hill",
+      "url": "https://resteasyservices.com.au/cleaning-services-wheelers-hill",
+      "description": "Professional cleaning services in Wheelers Hill for homes, apartments, offices, Airbnb properties, end of lease cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance, home maintenance, linen hire, locksmith services and car park cleaning.",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
-        "@type": "LocalBusiness",
-        "name": "Rest Easy Services",
-        "url": "https://resteasyservices.com.au/"
+        "@id": "https://resteasyservices.com.au/#business"
       },
-      "areaServed": [
-        { "@type": "Place", "name": "Mornington Peninsula" },
-        { "@type": "Place", "name": "Frankston" },
-        { "@type": "Place", "name": "Mornington" },
-        { "@type": "Place", "name": "Dromana" },
-        { "@type": "Place", "name": "Rosebud" },
-        { "@type": "Place", "name": "Mount Martha" },
-        { "@type": "Place", "name": "Mount Eliza" },
-        { "@type": "Place", "name": "Hastings" },
-        { "@type": "Place", "name": "Somerville" },
-        { "@type": "Place", "name": "Seaford" }
-      ],
+      "areaServed": {
+        "@type": "City",
+        "name": "Wheelers Hill"
+      },
       "serviceType": [
-        "Residential Cleaning",
+        "House Cleaning",
+        "Apartment Cleaning",
+        "Office Cleaning",
         "Commercial Cleaning",
-        "Deep Cleaning",
-        "Spring or Seasonal Cleaning",
-        "Regular Maintenance Cleaning"
+        "End of Lease Cleaning",
+        "Airbnb Cleaning",
+        "Carpet Cleaning",
+        "Window Cleaning",
+        "Pressure Washing",
+        "Garden Maintenance",
+        "Home Maintenance",
+        "Linen Hire",
+        "NDIS Cleaning",
+        "Locksmith Services",
+        "Car Park Cleaning"
       ]
     },
-
     {
       "@type": "FAQPage",
+      "@id": "https://resteasyservices.com.au/cleaning-services-wheelers-hill/#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is included in home cleaning services?",
+          "name": "Can I customize my cleaning services to meet my needs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Home cleaning normally entails such tasks as dusting, vacuuming, mopping of floors, cleaning of kitchens and bathrooms, along with general cleaning of all rooms within your house."
+            "text": "Yes, the company can customize cleaning programs to fit your needs based on- type of home, property size, frequency of cleaning, and what services will be required."
           }
         },
         {
           "@type": "Question",
-          "name": "How often should I book home cleaning?",
+          "name": "Are there any professional cleaning services available for residential and commercial property?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It largely depends on your preferences, however, most people tend to organize home cleaning once a week or once in two weeks."
+            "text": "Yes, there are professional cleaning services offered for homes, apartments, offices, retail stores, Airbnb properties, and other commercial businesses throughout Wheelers Hill."
           }
         },
         {
           "@type": "Question",
-          "name": "Do I need to be at home during the cleaning?",
+          "name": "Can I get same day cleaning services in Wheelers Hill?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Certainly not, since you can leave, or give your cleaner an entry into your place.."
+            "text": "Yes, some schedule same day and/or urgent appointments; however, same day and/or urgent appointments may not always be available based on your cleaning service and the business' proper scheduling."
           }
         },
         {
           "@type": "Question",
-          "name": "How long would it take to clean my house?",
+          "name": "What do I need to do to prepare for my upcoming cleaning appointment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It all depends on how big your home is and what type of cleaning you want done. Regular cleaning will require some time but deep cleaning will take more time as it is more detailed."
+            "text": "Before your cleaning service arrives, ensure your valuables are stored securely and provide easy access to the property for the cleaning team. If possible, remove or store personal items to help facilitate an efficient and hassle-free cleaning experience."
           }
         },
         {
           "@type": "Question",
-          "name": "How does the process of deep cleaning differ from the process of normal cleaning?",
+          "name": "Are weekend and/or public holiday appointments available?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Normal cleaning includes maintenance work only, but deep cleaning requires thorough cleaning and inaccessible areas too."
+            "text": "Yes, most cleaning companies offer flexible scheduling, including evenings, weekends, and select public holidays."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you bring the cleaning materials with you?",
+          "name": "How long will it typically take for my clean home to be completed?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, but we can also do your cleaning using your choice of products."
+            "text": "Duration of services will vary depending on how big, the condition and the type of service or clean required for your estate or home. Small jobs may only require a couple hours to complete whereas larger type cleaning requires a longer time investment."
           }
         },
         {
           "@type": "Question",
-          "name": "Am I able to tailor a plan for my house cleaning service?",
+          "name": "Will I be able to use garden maintenance services after the summer season ends?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, as we provide flexible services for any part of the house you choose."
+            "text": "Yes, you will be able to schedule garden maintenance services throughout the year to assist you with seasonal care of your landscaping, lawn maintenance, trimming or pruning and general landscaping maintenance and upkeep."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you clean apartments and big houses?",
+          "name": "Can I schedule multiple cleaning services at the same time?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, we offer home cleaning services for all property including apartments, villas, and big houses."
+            "text": "You can schedule your cleaning service based on a regular weekly; a fortnightly cleaning of once per month to keep the property in a continuous clean and organized order."
           }
         },
         {
           "@type": "Question",
-          "name": "How do I make an appointment for my home cleaning service?",
+          "name": "What types of properties can I use linen hire services for?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Please contact us by phone or booking form to schedule your home cleaning service time slot."
+            "text": "Linen hire services are good for holiday homes, Airbnb properties, guest lodging and accommodations, serviced apartments and residential homes."
           }
         },
         {
           "@type": "Question",
-          "name": "Is it safe if there are children or pets in the house during your cleaning process?",
+          "name": "What are the benefits of using professional cleaners in Wheelers Hill?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, because our procedure is very safe and can be done in homes with children and pets."
+            "text": "Some of the benefits of using a professional cleaning service is time saved, improved hygiene in the home, maintaining the neat and tidy appearance of your property and providing you with a professional and dependable service for all of your various household and business needs."
           }
         }
       ]
     }
-
   ]
 }
 </script>
+
+
 
 
     <!-- Favicons Icons -->

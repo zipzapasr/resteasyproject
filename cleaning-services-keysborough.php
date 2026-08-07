@@ -284,7 +284,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\house-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- House Cleaning -->
@@ -305,7 +305,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\vacate-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Linen Hire -->
@@ -328,7 +328,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\airbnb-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- House Maintenance -->
@@ -349,7 +349,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\window-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Garden Maintenance -->
@@ -360,7 +360,7 @@
                 </h3>
                 <br>
                 <p>Streak free window cleaning service for all types of houses and businesses to allow more natural
-                  lighting in the property.</p>
+                  lighting in the property year-round efficiently.</p>
               </div>
             </div>
           </div>
@@ -376,7 +376,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-langwarrin.png" alt="#">
+                  <img src="assets\images\location\linen-hire-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Car Park Cleaning -->
@@ -396,13 +396,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\home-maintenance-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="home-maintenance">Home Maintenance
+                  <a href="house-maintenance">Home Maintenance
                   </a>
                 </h3>
                 <br>
@@ -419,7 +419,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="#">
+                  <img src="assets\images\location\garden-maintenance-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Airbnb Cleaning -->
@@ -430,7 +430,7 @@
                 </h3>
                 <br>
                 <p>Garden maintenance is inclusive of grass mowing, plant trimming, and weed removal in addition to
-                  other services.
+                  other comprehensive outdoor care services.
                 </p>
               </div>
             </div>
@@ -441,7 +441,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\NDIS-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -452,7 +452,7 @@
                 </h3>
                 <br>
                 <p>Professional NDIS cleaning services offer effective and customized cleaning services to promote
-                  independence and comfortable living.
+                  independence, safety, comfortable, and stress-free living every day.
                 </p>
               </div>
             </div>
@@ -486,7 +486,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\carpet-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -496,10 +496,8 @@
                   </a>
                 </h3>
                 <br>
-                <p>The process of deep cleaning the carpets gets rid of dust, stains, allergens, and odors.
-
-
-                </p>
+                <p>The process of deep cleaning the carpets gets rid of dust, stains, allergens, and odors, leaving
+                  surfaces fresh, hygienic, sanitized, spotless, healthier, cleaner, and inviting.</p>
               </div>
             </div>
           </div>
@@ -509,13 +507,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\pressure-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-cleaning">Pressure Cleaning
+                  <a href="pressure-washing">Pressure Cleaning
                   </a>
                 </h3>
                 <br>
@@ -532,7 +530,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\car-park-cleaning-keysborough.png" alt="#">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -545,10 +543,8 @@
                 <br>
                 <p>
                   Professional cleaning of car parks ensures that the car parks are free from any litter and other
-                  debris.
-
-
-                </p>
+                  debris, creating safer, cleaner, more attractive, welcoming, hygienic, organized, and well-maintained
+                  environments.</p>
               </div>
             </div>
           </div>
@@ -568,7 +564,7 @@
           <div class="col-xl-12">
             <div class="features-two__inner">
               <div class="features-two__img">
-                <img src="assets/images/Emergency-Locksmith-Service.webp" alt="#">
+                <img src="assets/images/cleaning-process-langwarrin.png" alt="#">
               </div>
               <ul class="features-two__list">
                 <li class="wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
@@ -577,9 +573,8 @@
                   <div class="inner">
                     <h2 style="font-size: 21px;">Professional Cleaning Staff
                     </h2>
-                    <p>All cleaning work is done by professionals who know how to perform tasks and use quality tools.
-                      Constantly being attentive to details makes it possible to provide customers with clean, fresh,
-                      and well-maintained properties.
+                    <p>All cleaning work is done by professionals who know how to perform tasks and use tools. Being
+                      attentive to details makes it possible to provide clean, fresh, and well-maintained properties.
                     </p>
                   </div>
                 </li>

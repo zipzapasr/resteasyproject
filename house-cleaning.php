@@ -4,16 +4,16 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Professional House Cleaning Services Mornington Peninsula</title>
+    <title>House Cleaning Mornington Peninsula | Expert Cleaners</title>
     <meta name="description"
         content="Professional house cleaning services in Mornington Peninsula. Reliable, affordable, spotless results for every home. Call 0429 780 896 today! Trusted service." />
     <meta name="keywords"
-        content="cleaning services, house cleaning, commercial cleaning, deep cleaning, custom cleaning Mornington Peninsula, residential cleaning" />
+        content="cleaning services, house cleaning, deep cleaning, custom cleaning, spring or seasonal cleaning, residential cleaning in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/house-cleaning" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Professional House Cleaning Services Mornington Peninsula" />
+    <meta property="og:title" content="House Cleaning Mornington Peninsula | Expert Cleaners" />
     <meta property="og:description"
         content="Professional house cleaning services in Mornington Peninsula. Reliable, affordable, spotless results for every home. Call 0429 780 896 today! Trusted service." />
     <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Professional House Cleaning Services Mornington Peninsula" />
+    <meta name="twitter:title" content="House Cleaning Mornington Peninsula | Expert Cleaners" />
     <meta name="twitter:description"
         content="Professional house cleaning services in Mornington Peninsula. Reliable, affordable, spotless results for every home. Call 0429 780 896 today! Trusted service." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -245,15 +245,15 @@
                     <div class="col-xl-6">
                         <div class="team-details__middle-content">
                             <div class="title">
-                                <h1>Professional House Cleaning Services Mornington Peninsula</h1>
+                                <h1>House Cleaning Mornington Peninsula | Expert Cleaners</h1>
                             </div>
                             <div class="text-box">
                                 <p>House cleaning services ensure that your home is kept clean and fresh without needing
                                     to put more time into your daily tasks. House and apartment cleaning services can be
                                     provided either for regular cleaning or for intensive home cleaning based on the
                                     needs of each household. Houses are professionally cleaned to ensure that their
-                                    interiors are always neat and hygienic across Mornington Peninsula such as Rosebud,
-                                    Dromana, Mount Eliza, Hastings, Mornington, Mount Martha, Somerville, and
+                                    interiors are always neat and hygienic across Mornington Peninsula such as <a href="cleaning-services-rosebud"> Rosebud</a>,
+                                    Dromana, Mount Eliza, Hastings, Mornington, Mount Martha, <a href="cleaning-services-somerville"> Somerville</a>, and
                                     Blairgowrie.
 
                                 </p>

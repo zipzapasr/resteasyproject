@@ -182,17 +182,21 @@
                                         <span>About Us</span>
                                     </div>
                                 </div>
-                                <h2>Reliable Property Experts
+                                <h2>Trusted Cleaning and Property Maintenance Experts
+
                                 </h2>
                             </div>
-                            <div class="text">
-                                <p>At Rest Easy Services, we are committed to making property maintenance simple, efficient, and stress-free for homeowners, landlords, and rental property managers. Our goal is to provide dependable cleaning and property care solutions that ensure every space remains clean, organized, and well-maintained.
+                            <div class="text pad-20">
+                                <p>Rest Easy Services offers cleaning and maintenance services for homeowners, property owners, Airbnb, holiday rentals, and business properties in Mornington Peninsula, Frankston, and southeast Melbourne. With experience starting from 2012, the company has been offering quality services that make sure the properties remain clean and functional.
+
                                 </p>
-                                <p>Our trained professionals bring experience, attention to detail, and a service-focused approach to every project we handle. Whether preparing a holiday rental for incoming guests or maintaining residential spaces on a regular schedule, we ensure consistent quality and timely service delivery.
+                                <p>There are many different services that can be provided, such as cleaning for residential properties, holiday homes and Airbnb rental properties, vacate cleaning, carpet cleaning, pressure washing, window cleaning, linen supply services, gardening, property maintenance, lock smithing, and NDIS cleaning. Each service will be performed by skilled individuals using effective procedures and quality equipment.
+
                                 </p>
-                                <p>We understand that maintaining a property requires trust, reliability, and professionalism. That is why our services are designed to provide complete peace of mind while saving our clients valuable time and effort.
+                                <p>Recognizing the fact that all properties have varying needs, services will be offered based on flexible scheduling and a pragmatic approach to meet all customer needs. This may include regular property maintenance or a single time service. 
                                 </p>
-                                <p>With Rest Easy Services, you gain a reliable partner dedicated to maintaining the comfort, cleanliness, and value of your property.</p>
+                                <p>At all times, Rest Easy Services ensures that reliable solutions are provided to ensure properties' cleanliness and presentation.
+</p>
                             </div>
 
                 
@@ -201,10 +205,11 @@
                                 <div class="btn-box">
                                     <a class="thm-btn" href="contact.php">
                                         <span class="txt">Contact Us</span>
-                                    </a>
+                                    </a> &nbsp;  <a class="thm-btn" href="tel:0429 780 896">
+                            <span class="txt">0429 780 896</span></a>
                                 </div>
-
-                               
+  
+                          
                             </div>
 
                         </div>
@@ -215,152 +220,7 @@
         </section>
      
 
-<section class="features-one features-one--about">
-    <div class="features-one__bg"></div>
-
-    <div class="shape1 rotate-me">
-        <img src="assets/images/shapes/thm-shape1.png" alt="#">
-    </div>
-    <div class="shape2 rotate-me">
-        <img src="assets/images/shapes/thm-shape1.png" alt="#">
-    </div>
-
-    <div class="container">
-        <div class="sec-title text-center">
-            <h2>Our Services</h2>
-        </div>
-
-        <div class="row filter-layout masonary-layout">
-
-            <!-- 1 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single mb60">
-                    <div class="icon-box">
-                        <span class="icon-oosouji"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="house-cleaning">Residential Cleaning</a></h3>
-                        <p>Reliable cleaning for fresh, spotless homes.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 2 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single style2">
-                    <div class="icon-box">
-                        <span class="icon-floor-mop"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="airbnb-cleaning">Airbnb Cleaning</a></h3>
-                        <p>Fast turnover cleaning for guest-ready stays.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 3 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single mb60">
-                    <div class="icon-box">
-                        <span class="icon-house"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="#">Holiday Home Cleaning</a></h3>
-                        <p>Perfect upkeep for holiday and vacation homes.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 4 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single style2">
-                    <div class="icon-box">
-                        <span class="icon-clean"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="ndis-cleaning-service">NDIS Cleaning</a></h3>
-                        <p>Supportive cleaning tailored to participants.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 5 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single style2">
-                    <div class="icon-box">
-                        <span class="icon-window-cleaning"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="window-cleaning">Window Cleaning</a></h3>
-                        <p>Crystal-clear, streak-free window cleaning.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 6 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single style2">
-                    <div class="icon-box">
-                        <span class="icon-washing-plate"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="#">Car Park Cleaning</a></h3>
-                        <p>Efficient cleaning for neat, safe parking areas.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 7 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single">
-                    <div class="icon-box">
-                        <span class="icon-mop"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="vacate-cleaning">End of Lease Cleaning</a></h3>
-                        <p>Complete bond cleaning for stress-free moving.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 8 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single">
-                    <div class="icon-box">
-                        <span class="icon-sanitary"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="carpet-cleaning-services">Carpet Cleaning</a></h3>
-                        <p>Deep cleaning to remove dirt and stains.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 9 -->
-            <div class="col-xl-3 col-lg-6 col-md-6">
-                <div class="features-one__single">
-                    <div class="icon-box">
-                        <span class="icon-clean"></span>
-                        <div class="round-box"></div>
-                    </div>
-                    <div class="text-box">
-                        <h3><a href="pressure-washing">Pressure Washing</a></h3>
-                        <p>Power washing for tough dirt and surfaces.</p>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3127.461571707967!2d144.88229177591955!3d-38.384575466876306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad5ca7fd8d04bdb%3A0xc68f932f4fc6eb39!2sRest%20Easy%20Services!5e0!3m2!1sen!2sin!4v1785734725322!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
         <!--Start Footer One -->
         <?php include "includes/footer.php"; ?>
         <!--End Footer One-->

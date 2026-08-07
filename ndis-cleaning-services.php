@@ -7,7 +7,7 @@
     <title>NDIS Cleaning Service Mornington Peninsula</title>
     <meta name="description"
         content="Expert NDIS cleaning services in Mornington Peninsula providing reliable home cleaning, hygiene support, and comfortable living spaces for participants." />
-    <meta name="keywords" content="NDIS approved cleaning services, NDIS registered cleaning providers, NDIS home cleaning services, disability cleaning services NDIS, NDIS house cleaning services, NDIS support cleaning services" />
+    <meta name="keywords" content="NDIS approved cleaning services, NDIS registered cleaning providers, NDIS home cleaning services, disability cleaning services NDIS, NDIS house cleaning services, NDIS support cleaning services in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/ndis-cleaning-services" />
 

@@ -8,7 +8,7 @@
     <meta name="description"
         content="Trusted house maintenance services across Mornington Peninsula for repairs, upkeep, and property care with reliable and professional solutions." />
     <meta name="keywords"
-        content="residential maintenance services, home repair and maintenance services, house maintenance services, home maintenance company, handyman services, home maintenance near me, local home maintenance services" />
+        content="residential maintenance services, home repair and maintenance services, house maintenance services, home maintenance company, handyman services, home maintenance near me, local home maintenance services in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/house-maintenance" />
 

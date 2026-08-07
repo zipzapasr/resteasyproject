@@ -8,7 +8,7 @@
     <meta name="description"
         content="Lawn and garden maintenance services offered professionally within Mornington Peninsula for an attractive appearance all year round." />
     <meta name="keywords"
-        content="Secondary Keywords, lawn mowing services, gardening services, lawn care services, garden care services, yard maintenance services, outdoor maintenance services, turf maintenance services" />
+        content="Secondary Keywords, lawn mowing services, gardening services, lawn care services, garden care services, yard maintenance services, outdoor maintenance services, turf maintenance services in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/garden-maintenance-services" />
 
@@ -31,41 +31,142 @@
 
     <!-- Schema.org JSON-LD -->
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Garden Maintenance Services",
-        "description": "Professional gardening and lawn care services including garden maintenance, landscaping, lawn mowing, and hedge trimming on the Mornington Peninsula.",
-        "url": "https://resteasyservices.com.au/garden-maintenance-services",
-        "provider": {
-            "@type": "LocalBusiness",
-            "name": "Rest Easy Services",
-            "url": "https://resteasyservices.com.au/"
-        },
-        "areaServed": {
-            "@type": "Place",
-            "name": "Mornington Peninsula, Victoria, Australia"
-        },
-        "serviceType": ["Garden Maintenance", "Landscaping", "Lawn Mowing", "Hedge Trimming", "Garden Clean Up"],
-        "breadcrumb": {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://resteasyservices.com.au/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Gardening",
-                    "item": "https://resteasyservices.com.au/garden-maintenance-services"
-                }
-            ]
+      "@type": "Service",
+      "name": "Garden Maintenance Services Mornington Peninsula",
+      "serviceType": "Garden Maintenance Service",
+      "url": "https://resteasyservices.com.au/garden-maintenance-services",
+      "description": "Professional garden maintenance services across the Mornington Peninsula for residential and commercial properties. Services include lawn mowing, hedge trimming, pruning, weed removal, mulching, green waste removal, seasonal garden clean-ups, and general garden maintenance to keep outdoor spaces healthy, tidy, and well-maintained.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Rest Easy Services",
+        "url": "https://resteasyservices.com.au",
+        "telephone": "+61 429 780 896",
+        "email": "sales@resteasyservices.com.au",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6/7 Suffolk Street",
+          "addressLocality": "Capel Sound",
+          "addressRegion": "VIC",
+          "postalCode": "3940",
+          "addressCountry": "AU"
         }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Mornington"
+        },
+        {
+          "@type": "City",
+          "name": "Mount Eliza"
+        },
+        {
+          "@type": "City",
+          "name": "Rosebud"
+        },
+        {
+          "@type": "City",
+          "name": "Dromana"
+        },
+        {
+          "@type": "City",
+          "name": "Frankston"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is included in garden maintenance services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Garden maintenance services typically include lawn mowing, hedge trimming, pruning, weed removal, mulching, green waste removal, seasonal garden clean-ups, and general garden care to keep outdoor spaces healthy and well-maintained."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should one consider garden maintenance services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The frequency of garden maintenance depends on the size of the garden and the rate of plant growth. Most properties benefit from weekly, fortnightly, or monthly maintenance services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are garden maintenance services inclusive of lawn mowing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, lawn mowing is commonly included in garden maintenance services. Lawn edging and general lawn care are also typically provided to maintain a neat appearance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is garden maintenance offered for commercial sites?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, garden maintenance services are available for both residential and commercial properties, helping businesses maintain attractive and professional outdoor spaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the problem of garden overgrowth be solved at all?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, professional garden maintenance services can restore overgrown gardens through trimming, pruning, clearing vegetation, and general garden clean-up."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are weeds removed in gardening services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, weed removal is a standard part of many garden maintenance services. Removing weeds helps improve the appearance of the garden and supports healthy plant growth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is waste generated in garden maintenance removed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, green waste generated during garden maintenance is usually collected and removed, leaving the garden clean and tidy after the service is completed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are your gardening services for seasonal garden cleaning available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, seasonal garden cleaning services are available to prepare gardens for seasonal changes by removing debris, trimming plants, and refreshing outdoor spaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who will benefit from garden maintenance services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Garden maintenance services are suitable for residential homes, commercial properties, rental properties, office buildings, and any location where regular garden care is required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why should I use gardening services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Professional gardening services improve the appearance of outdoor spaces, promote healthy plant growth, control weeds, and help maintain a clean, attractive, and well-kept garden throughout the year."
+          }
+        }
+      ]
     }
-    </script>
+  ]
+}
+</script>
+
 
     <!-- Favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />

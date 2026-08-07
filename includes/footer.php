@@ -1,206 +1,516 @@
-<footer class="footer-one clearfix">
+<style>
+/* =============================================
+   REST EASY FOOTER — Custom Styles
+   ============================================= */
+.re-footer {
+    background-color: #0d1f45;
+    color: #cdd5e0;
+    font-family: 'Poppins', sans-serif;
+    padding: 26px 0 0;
+}
 
+/* --- About column --- */
+.re-footer__logo {
+    margin-bottom: 20px;
+}
+.re-footer__logo img {
+    max-width: 130px;
+    height: auto;
+}
+.re-footer__about-text {
+    font-size: 14px;
+    line-height: 1.75;
+    color: #b0bac8;
+    margin-bottom: 24px;
+}
+.re-footer__contact-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 22px;
+}
+.re-footer__contact-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 14px;
+    color: #cdd5e0;
+    margin-bottom: 10px;
+}
+.re-footer__contact-list li i {
+    color: #e07b2a;
+    font-size: 15px;
+    margin-top: 9px;
+    flex-shrink: 0;
+}
+.re-footer__contact-list a {
+    color: #cdd5e0;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.re-footer__contact-list a:hover { color: #e07b2a; }
 
-    <!--Start Footer-->
-    <div class="footer">
-        <div class="footer__pattern" style="background-image: url(assets/images/pattern/footer-v1-pattern.png);"></div>
-        <div class="shape1 wow slideInRight" data-wow-delay="500ms" data-wow-duration="2500ms"><img
-                src="assets/images/shapes/footer-v1-shape1.png" alt="#"></div>
-        <div class="shape2 wow slideInLeft" data-wow-delay="500ms" data-wow-duration="2500ms"><img
-                src="assets/images/shapes/footer-v1-shape2.png" alt="#"></div>
-        <div class="shape3 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
-        <div class="shape4 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
-        <div class="shape5 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
-        <div class="container">
-            <div class="row">
+/* Social icons */
+.re-footer__social {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.re-footer__social li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    border: 1.5px solid rgba(255,255,255,0.25);
+    color: #cdd5e0;
+    font-size: 15px;
+    text-decoration: none;
+    transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+.re-footer__social li a:hover {
+    border-color: #e07b2a;
+    color: #e07b2a;
+    background: rgba(224,123,42,0.08);
+}
 
-                <!--Start Footer Widget Single-->
-                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.1s">
-                    <div class="footer-widget__single footer-widget__single-about footer-accordion">
-                        <div class="title footer-accordion__header">
-                            <h2>About</h2>
-                            <span class="footer-accordion__icon"><i class="fa fa-plus"></i></span>
-                        </div>
+/* --- Section headings --- */
+.re-footer__section-title {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #e07b2a;
+    margin-bottom: 18px;
+}
 
-                        <div class="footer-accordion__content">
-                            <div class="text-box">
-                                <p>Rest Easy Services provides reliable cleaning, linen, gardening, and maintenance
-                                    services across Melbourne & the Mornington Peninsula. With experience since 2012,
-                                    our friendly and professional team delivers thorough service you can trust.</p>
-                            </div>
-                            <br>
-                              <div class="title footer-accordion__header">
-                            <h2>Visit Us</h2>
-                            <span class="footer-accordion__icon"><i class="fa fa-plus"></i></span>
-                        </div>
+/* --- Quick Links column --- */
+.re-footer__links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.re-footer__links li {
+    margin-bottom: 7px;
+}
+.re-footer__links li a {
+    font-size: 14px;
+    color: #cdd5e0;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.re-footer__links li a:hover { color: #e07b2a; }
 
-                        <div class="footer-accordion__content">
-                            <ul class="footer-widget__single-links-list">
-                                <li><b> Location :</b> 6/7 Suffolk St CAPEL SOUND VIC 3940</li>
-                                <li>
-                                    <a href="https://www.google.com/maps/place/?q=place_id:ChIJ20vQ2H_K1WoROevGTy-Tj8Y"
-                                        target="_blank" rel="noopener noreferrer">
-                                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i> View location
-                                    </a>
-                                </li>
+/* --- Services grid --- */
+.re-footer__services-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.re-footer__services-grid li {
+    width: 25%;
+    padding: 0 0 8px;
+    box-sizing: border-box; line-height: 21px;
+}
+.re-footer__services-grid li a {
+    font-size: 14px;
+    color: #cdd5e0;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.re-footer__services-grid li a:hover { color: #e07b2a; }
 
-                                <li><a href="tel:0429 780 896"><b> Phone : </b>0429 780 896
-                                    </a></li>
-                                <li style="color:white;"><b>Email us Today</b></li>
-                                <li style="text-transform: lowercase;"><a href="mailto:sales@resteasyservices.com.au">sales@resteasyservices.com.au</a></li>
-                            </ul>
-                        </div>
+/* --- Areas We Serve grid --- */
+.re-footer__areas-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.re-footer__areas-grid li {
+    width: 25%; /* 8 per row */
+    padding: 0 0 3px;
+    box-sizing: border-box;
+    line-height: 21px;
+}
+.re-footer__areas-grid li a {
+    font-size: 13px;
+    color: #cdd5e0;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.re-footer__areas-grid li a:hover { color: #e07b2a; }
+.re-footer__areas-grid li span {
+    font-size: 13px;
+    color: #cdd5e0;
+}
 
-                            <ul class="social-link">
-                                <!-- <li><a href="#"><span class="icon-twitter"></span></a></li> -->
-                                <li><a href="https://www.facebook.com/resteasyservicesau/"><span
-                                            class="icon-facebook"></span></a></li>
-                                <!-- <li><a href=""><span class="icon-pinterest"></span></a></li> -->
-                                <li><a href="https://www.instagram.com/resteasyservicesau/"><span
-                                            class="fab fa-instagram"></span></a></li>
-                                <li><a href="https://www.linkedin.com/in/rest-easy-services/"><span
-                                            class="fab fa-linkedin-in"></span></a></li>
+/* Divider between services and areas — hidden */
+.re-footer__divider {
+    display: none;
+}
 
+/* --- Bottom bar --- */
+.re-footer__bottom {
+    background-color: #e07b2a;
+    padding: 14px 0;
+    margin-top: 40px;
+}
+.re-footer__bottom-inner {
+    /*display: flex;*/
+    align-items: center;
+    text-align: center;
+    /*justify-content: space-between;*/
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.re-footer__bottom-copy {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 0;
+}
+.re-footer__bottom-copy a { color: #fff; text-decoration: none; }
+.re-footer__bottom-copy a:hover { text-decoration: underline; }
+.re-footer__bottom-terms {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.re-footer__bottom-terms:hover { text-decoration: underline; color: #fff; }
 
-                            </ul>
-                        </div>
-                    </div>
+/* ===========================
+   MOBILE ACCORDION (≤ 767px)
+   =========================== */
+@media (max-width: 767px) {
+
+    .re-footer { padding: 36px 0 0; }
+
+    /* Hide the multi-column service + areas content */
+    .re-footer__services-grid,
+    .re-footer__areas-grid { display: none; }
+
+    /* Services and areas sections use accordion on mobile */
+    .re-footer__accordion-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        cursor: pointer;
+        padding: 14px 0;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    .re-footer__accordion-header .re-footer__section-title { margin: 0; }
+    .re-footer__accordion-chevron {
+        color: #cdd5e0;
+        font-size: 14px;
+        transition: transform 0.25s;
+    }
+    .re-footer__accordion.is-open .re-footer__accordion-chevron {
+        transform: rotate(180deg);
+    }
+    .re-footer__accordion-body {
+        display: none;
+        padding: 12px 0 4px;
+    }
+    .re-footer__accordion.is-open .re-footer__accordion-body {
+        display: block;
+    }
+
+    /* On mobile show services/areas as a single-column list */
+    .re-footer__services-grid.mob-list,
+    .re-footer__areas-grid.mob-list {
+        display: flex;
+        flex-direction: column;
+    }
+    .re-footer__services-grid.mob-list li,
+    .re-footer__areas-grid.mob-list li {
+        width: 100%;
+        padding-bottom: 8px;
+    }
+
+    /* Quick links — always visible on mobile (no accordion) */
+    .re-footer__quick-links-section .re-footer__accordion-header {
+        display: flex;
+    }
+    .re-footer__quick-links-section.is-open .re-footer__links { display: block; }
+    .re-footer__quick-links-section .re-footer__links { display: none; padding-top: 10px; }
+    .re-footer__quick-links-section.is-open .re-footer__accordion-chevron {
+        transform: rotate(180deg);
+    }
+
+    /* Bottom bar stacks on mobile */
+    .re-footer__bottom-inner {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+    }
+
+    .re-footer__divider { margin: 16px 0; }
+
+    /* Social icons bigger on mobile */
+    .re-footer__social { margin-top: 20px; margin-bottom: 6px; }
+}
+
+@media (min-width: 768px) {
+    /* Desktop: hide accordion controls */
+    .re-footer__accordion-header { cursor: default; }
+    .re-footer__accordion-chevron { display: none; }
+    .re-footer__accordion-body { display: block !important; }
+    /* Quick links section title not clickable */
+    .re-footer__quick-links-section .re-footer__accordion-header { display: block; }
+    .re-footer__quick-links-section .re-footer__links { display: block !important; }
+}
+
+/* Tablet: areas grid fewer per row */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .re-footer__areas-grid li { width: 20%; }
+    .re-footer__services-grid li { width: 50%; }
+    .re-footer__divider { display: none; }
+}
+</style>
+
+<footer class="re-footer">
+    <div class="container-fluid px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5">
+
+            <!-- ===== Column 1: About + Contact + Social ===== -->
+            <div class="col-lg-3 col-md-12 mb-4 mb-lg-0">
+                <div class="re-footer__logo">
+                    <a href="index.php">
+                        <img src="assets/images/resources/main-logo2.png" alt="Rest Easy Services Logo" loading="lazy">
+                    </a>
                 </div>
-                <!--End Footer Widget Single-->
-
-                <!--Start Footer Widget Single-->
-                <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.2s">
-                    <div class="footer-widget__single footer-widget__single-links footer-accordion">
-                        <div class="title footer-accordion__header">
-                            <h2>Quick Links</h2>
-                            <span class="footer-accordion__icon"><i class="fa fa-plus"></i></span>
-                        </div>
-                        <div class="footer-accordion__content">
-                            <ul class="footer-widget__single-links-list">
-                                <li><a href="index"> Home</a></li>
-                                <!-- <li><a href="#">Services</a></li> -->
-                                <li><a href="about-us"> About us</a></li>
-                                <li><a href="FAQ"> FAQ</a></li>
-                                <li><a href="contact">Contact</a></li>
-                                <li> Bookings</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!--End Footer Widget Single-->
-
-
-
-                <!--Start Footer Widget Single-->
-                <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.4s">
-                    <div class="footer-widget__single footer-widget__single-newsletter footer-accordion">
-                        <div class="title footer-accordion__header">
-                            <h2>Services</h2>
-                            <span class="footer-accordion__icon"><i class="fa fa-plus"></i></span>
-                        </div>
-                        <div class="footer-accordion__content">
-                            <ul class="footer-widget__single-links-list only-forcolor">
-                                <li><a href="house-cleaning">House Cleaning</a></li>
-                                <li><a href="vacate-cleaning">Vacate cleaning</a></li>
-                                <li><a href="airbnb-cleaning">Airbnb cleaning </a></li>
-                                <li><a href="window-cleaning">Window cleaning</a></li>
-                                <li><a href="linen-hire.php">Linen Hire</a></li>
-                                <li><a href="house-maintenance">House maintenance</a></li>
-                                <li><a href="garden-maintenance-services">Gardening</a></li>
-                                <li><a href="ndis-cleaning-services">NDIS Cleaning</a></li>
-                                <li><a href="locksmith-services">Locksmith</a></li>
-                                <li><a href="carpet-cleaning">Carpet cleaning</a></li>
-                                <li><a href="pressure-washing">Pressure Washing</a></li>
-                                <li><a href="car-park-cleaning">Car Park Cleaning</a></li>
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!--End Footer Widget Single-->
-                <!--Start Footer Widget Single-->
-                <div class="col-xl-2 col-lg-6 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.4s">
-                    <div class="footer-widget__single footer-widget__single-newsletter footer-accordion">
-                        <div class="title footer-accordion__header">
-                            <h2>Services Areas</h2>
-                            <span class="footer-accordion__icon"><i class="fa fa-plus"></i></span>
-                        </div>
-                        <div class="footer-accordion__content">
-                            <ul class="footer-widget__single-links-list only-forcolor">
-                                <li><a href="cleaning-services-rye">Rye</a></li>
-                                <li><a href="cleaning-services-rosebud">Rosebud</a></li>
-                                <li> <a href="cleaning-services-dromana">Dromana</a></li>
-                                <li>Mount Eliza</li>
-                                <li><a href="cleaning-services-mornington">Mornington</a></li>
-                                <li>Mount Martha</li>
-                                <li>Safety Beach</li>
-                                <li>Somerville</li>
-                                <li><a href="cleaning-services-carrum-downs"> Carrum Downs</a></li>
-                                <li><a href="cleaning-services-langwarrin"> Langwarrin</a></li>
-                                <li><a href="cleaning-services-brighton"> Brighton</a></li>
-                              
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!--End Footer Widget Single-->
-
-                <!--Start Footer Widget Single-->
-                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.3s">
-                    <div class="footer-widget__single footer-widget__single-blog footer-accordion">
-                       <div class="title footer-accordion__header">
-                            <h2>Services Areas</h2>
-                            <span class="footer-accordion__icon"><i class="fa fa-plus"></i></span>
-                        </div>
-                        <div class="footer-accordion__content">
-                            <ul class="footer-widget__single-links-list only-forcolor">
-                            
-                                <li><a href="cleaning-services-glen-waverley"> Glen waverley</a></li>
-                                <li><a href="cleaning-services-wheelers-hill"> Wheelers Hill</a></li>
-                                <li><a href="cleaning-services-frankston"> Frankston</a></li>
-                                <li><a href="cleaning-services-mt-waverley">MT Waverley</a></li>
-                                <li>Toorak</li>
-                                <li>Doncaster</li>
-                                <li>Donvale</li>
-                                <li>Boxhill</li>
-                                <li>Burwood</li>
-                                <li>Vermont</li>
-                                <li>Camberwell</li>
-                              
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!--End Footer Widget Single-->
-            </div>
-        </div>
-    </div>
-    <!--End Footer-->
-
-    <div class="footer-one__bottom">
-        <div class="container">
-            <div class="bottom-inner">
-                <div class="copyright">
-                    <p>Copyright © 2026 All Rights Reserved. Website Designed & Developed by <a
-                            href="https://www.webcooks.in/" style="color:#ccc">Webcooks</a></p>
-                </div>
-
-                <ul class="footer-one__bottom-menu">
-                    <li><a href="terms.php">Terms & Condition</a></li>
-
-
+                <p class="re-footer__about-text">
+                    Rest Easy Services provides reliable cleaning, linen, gardening, and maintenance services across
+                    Melbourne &amp; the Mornington Peninsula. With experience since 2012, our friendly and professional
+                    team delivers thorough service you can trust.
+                </p>
+                <div><strong>Locate Us</strong></div>
+                <ul class="re-footer__contact-list">
+                    <li>
+                        
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+                        <a href="https://www.google.com/maps/place/?q=place_id:ChIJ20vQ2H_K1WoROevGTy-Tj8Y" target="_blank" rel="noopener noreferrer">
+                            6/7 Suffolk St, Capel Sound VIC 3940
+                        </a>
+                    </li>
+                    <li>
+                        <i class="fas fa-phone-alt" aria-hidden="true"></i>
+                        <a href="tel:0429780896">0429 780 896</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:sales@resteasyservices.com.au">sales@resteasyservices.com.au</a>
+                    </li>
                 </ul>
+           
+            </div>
+
+            <!-- ===== Column 2: Quick Links ===== -->
+            <div class="col-lg-2 col-md-12 mb-4 mb-lg-0">
+                <div class="re-footer__quick-links-section re-footer__accordion" id="re-footer-quicklinks">
+                    <div class="re-footer__accordion-header" onclick="reFooterToggle('re-footer-quicklinks')">
+                        <p class="re-footer__section-title">Quick Links</p>
+                        <i class="re-footer__accordion-chevron fas fa-chevron-down"></i>
+                    </div>
+                    <div class="re-footer__accordion-body">
+                        <ul class="re-footer__links">
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about-us">About Us</a></li>
+                            <li><a href="reviews">Reviews</a></li>
+                            <li><a href="contact">Contact</a></li>
+                            <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Bookings</a></li>
+                             
+                        </ul>
+                             <ul class="re-footer__social">
+                    <li><a href="https://www.facebook.com/resteasyservicesau/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="https://www.instagram.com/resteasyservicesau/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/rest-easy-services-australia" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== Column 3+4: Services + Areas We Serve ===== -->
+            <div class="col-lg-7 col-md-12">
+
+                <!-- Services -->
+                <div class="re-footer__accordion" id="re-footer-services">
+                    <div class="re-footer__accordion-header" onclick="reFooterToggle('re-footer-services')">
+                        <p class="re-footer__section-title">Services</p>
+                        <i class="re-footer__accordion-chevron fas fa-chevron-down"></i>
+                    </div>
+                    <div class="re-footer__accordion-body">
+                        <!-- Desktop: 3-column grid -->
+                        <ul class="re-footer__services-grid d-none d-md-flex">
+                            <li><a href="house-cleaning">House Cleaning</a></li>
+                            <li><a href="carpet-cleaning">Carpet Cleaning</a></li>
+                            <li><a href="linen-hire">Linen Hire</a></li>
+                            <li><a href="vacate-cleaning">Vacate Cleaning</a></li>
+                            <li><a href="pressure-washing">Pressure Washing</a></li>
+                            <li><a href="window-cleaning">Window Cleaning</a></li>
+                            <li><a href="airbnb-cleaning">Airbnb Cleaning</a></li>
+                            <li><a href="car-park-cleaning">Car Park Cleaning</a></li>
+                            <li><a href="ndis-cleaning-services">NDIS Cleaning</a></li>
+                            <li><a href="house-maintenance">House Maintenance</a></li>
+                            <li><a href="locksmith-services">Locksmith</a></li>
+                            <li><a href="garden-maintenance-services">Gardening</a></li>
+                        </ul>
+                        <!-- Mobile: single column list -->
+                        <ul class="re-footer__services-grid mob-list d-flex d-md-none">
+                            <li><a href="house-cleaning">House Cleaning</a></li>
+                            <li><a href="vacate-cleaning">Vacate Cleaning</a></li>
+                            <li><a href="airbnb-cleaning">Airbnb Cleaning</a></li>
+                            <li><a href="carpet-cleaning">Carpet Cleaning</a></li>
+                            <li><a href="pressure-washing">Pressure Washing</a></li>
+                            <li><a href="car-park-cleaning">Car Park Cleaning</a></li>
+                            <li><a href="linen-hire">Linen Hire</a></li>
+                            <li><a href="window-cleaning">Window Cleaning</a></li>
+                            <li><a href="ndis-cleaning-services">NDIS Cleaning</a></li>
+                            <li><a href="house-maintenance">House Maintenance</a></li>
+                            <li><a href="locksmith-services">Locksmith</a></li>
+                            <li><a href="garden-maintenance-services">Gardening</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <hr class="re-footer__divider">
+
+                <!-- Areas We Serve -->
+                <div class="re-footer__accordion" id="re-footer-areas">
+                    <div class="re-footer__accordion-header" onclick="reFooterToggle('re-footer-areas')">
+                        <p class="re-footer__section-title">Areas We Serve</p>
+                        <i class="re-footer__accordion-chevron fas fa-chevron-down"></i>
+                    </div>
+                    <div class="re-footer__accordion-body">
+                        <!-- Desktop: 8-per-row grid -->
+                        <ul class="re-footer__areas-grid d-none d-md-flex">
+                            <li><a href="cleaning-services-rye">Rye</a></li>
+                            <li><a href="cleaning-services-rosebud">Rosebud</a></li>
+                            <li><a href="cleaning-services-dromana">Dromana</a></li>
+                            <li><a href="cleaning-services-mount-eliza">Mount Eliza</a></li>
+                            <li><a href="cleaning-services-mornington">Mornington</a></li>
+                            <li><span>Mount Martha</span></li>
+                            <li><span>Safety Beach</span></li>
+                            <li><a href="cleaning-services-somerville">Somerville</a></li>
+                            <li><a href="cleaning-services-carrum-downs">Carrum Downs</a></li>
+                            <li><a href="cleaning-services-langwarrin">Langwarrin</a></li>
+                            <li><a href="cleaning-services-brighton">Brighton</a></li>
+                            <li><a href="cleaning-services-patterson-lakes">Patterson Lakes</a></li>
+                            <li><a href="cleaning-services-skye">Skye</a></li>
+                            <li><a href="cleaning-services-glen-waverley">Glen Waverley</a></li>
+                            <li><a href="cleaning-services-wheelers-hill">Wheelers Hill</a></li>
+                            <li><a href="cleaning-services-frankston">Frankston</a></li>
+                            <li><a href="cleaning-services-mt-waverley">Mt Waverley</a></li>
+                            <li><a href="cleaning-services-toorak">Toorak</a></li>
+                            <li><a href="cleaning-services-doncaster">Doncaster</a></li>
+                            <li><a href="cleaning-services-donvale">Donvale</a></li>
+                            <li><a href="cleaning-services-boxhill">Boxhill</a></li>
+                            <li><a href="cleaning-services-burwood">Burwood</a></li>
+                            <li><a href="cleaning-services-vermont">Vermont</a></li>
+                            <li><a href="cleaning-services-camberwell">Camberwell</a></li>
+                            <li><a href="cleaning-services-chelsea-heights">Chelsea Heights</a></li>
+                        </ul>
+                        <!-- Mobile: single column list -->
+                        <ul class="re-footer__areas-grid mob-list d-flex d-md-none">
+                            <li><a href="cleaning-services-rye">Rye</a></li>
+                            <li><a href="cleaning-services-rosebud">Rosebud</a></li>
+                            <li><a href="cleaning-services-dromana">Dromana</a></li>
+                            <li><a href="cleaning-services-mount-eliza">Mount Eliza</a></li>
+                            <li><a href="cleaning-services-mornington">Mornington</a></li>
+                            <li><span>Mount Martha</span></li>
+                            <li><span>Safety Beach</span></li>
+                            <li><a href="cleaning-services-somerville">Somerville</a></li>
+                            <li><a href="cleaning-services-carrum-downs">Carrum Downs</a></li>
+                            <li><a href="cleaning-services-langwarrin">Langwarrin</a></li>
+                            <li><a href="cleaning-services-brighton">Brighton</a></li>
+                            <li><a href="cleaning-services-patterson-lakes">Patterson Lakes</a></li>
+                            <li><a href="cleaning-services-skye">Skye</a></li>
+                            <li><a href="cleaning-services-glen-waverley">Glen Waverley</a></li>
+                            <li><a href="cleaning-services-wheelers-hill">Wheelers Hill</a></li>
+                            <li><a href="cleaning-services-frankston">Frankston</a></li>
+                            <li><a href="cleaning-services-mt-waverley">Mt Waverley</a></li>
+                            <li><a href="cleaning-services-toorak">Toorak</a></li>
+                            <li><a href="cleaning-services-doncaster">Doncaster</a></li>
+                            <li><a href="cleaning-services-donvale">Donvale</a></li>
+                            <li><a href="cleaning-services-boxhill">Boxhill</a></li>
+                            <li><a href="cleaning-services-burwood">Burwood</a></li>
+                            <li><a href="cleaning-services-vermont">Vermont</a></li>
+                            <li><a href="cleaning-services-camberwell">Camberwell</a></li>
+                            <li><a href="cleaning-services-chelsea-heights">Chelsea Heights</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+            <!-- end col-7 -->
+
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+
+    <!-- ===== Bottom Bar ===== -->
+    <div class="re-footer__bottom">
+        <div class="container-fluid px-4 px-lg-5">
+            <div class="re-footer__bottom-inner">
+                <p class="re-footer__bottom-copy">
+                    Copyright &copy; 2026 All Rights Reserved. Website Designed &amp; Developed by <a href="https://www.webcooks.in/" target="_blank" rel="noopener noreferrer">Webcooks</a>
+                </p>
+                <a href="termsandcondition" class="re-footer__bottom-terms">Terms &amp; Conditions</a> | <a href="privacypolicy" class="re-footer__bottom-terms">Privacy Policy</a>
             </div>
         </div>
     </div>
 
 </footer>
 
+<script>
+/* Footer accordion — mobile only */
+function reFooterToggle(id) {
+    if (window.innerWidth >= 768) return;
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.classList.toggle('is-open');
+}
+
+/* On desktop always ensure bodies are visible; on resize reset */
+(function () {
+    function syncFooterAccordions() {
+        var sections = document.querySelectorAll('.re-footer__accordion');
+        if (window.innerWidth >= 768) {
+            sections.forEach(function (s) {
+                s.classList.remove('is-open');
+                var body = s.querySelector('.re-footer__accordion-body');
+                if (body) body.style.display = '';
+            });
+        }
+    }
+    document.addEventListener('DOMContentLoaded', syncFooterAccordions);
+    window.addEventListener('resize', function () {
+        clearTimeout(window._reFooterResize);
+        window._reFooterResize = setTimeout(syncFooterAccordions, 150);
+    });
+})();
+</script>
+
 <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
     <i class="icon-down-arrow"></i>
 </a>
+
+
 
 <!-- Mobile Nav Wrapper - Must be before scripts for proper initialization -->
 <div class="mobile-nav__wrapper">
@@ -381,40 +691,7 @@
         </div>
     </div>
 
-<script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
-<script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
-<script src="assets/vendors/bxslider/jquery.bxslider.min.js"></script>
-<script src="assets/vendors/circleType/jquery.circleType.js"></script>
-<script src="assets/vendors/circleType/jquery.lettering.min.js"></script>
-<script src="assets/vendors/isotope/isotope.js"></script>
-<script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-<script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-<script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-<script src="assets/vendors/jquery-migrate/jquery-migrate.min.js"></script>
-<script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-<script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-<script src="assets/vendors/nice-select/jquery.nice-select.min.js"></script>
-<script src="assets/vendors/nouislider/nouislider.min.js"></script>
-<script src="assets/vendors/odometer/odometer.min.js"></script>
-<script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
-<script src="assets/vendors/parallax/parallax.min.js"></script>
-<script src="assets/vendors/swiper/swiper.min.js"></script>
-<script src="assets/vendors/timepicker/timePicker.js"></script>
-<script src="assets/vendors/tiny-slider/tiny-slider.min.js"></script>
-<script src="assets/vendors/typed-2.0.11/typed-2.0.11.js"></script>
-<script src="assets/vendors/vegas/vegas.min.js"></script>
-<script src="assets/vendors/wnumb/wNumb.min.js"></script>
-<script src="assets/vendors/wow/wow.js"></script>
-<script src="assets/vendors/language-switcher/jquery.polyglot.language.switcher.js"></script>
-<script src="assets/vendors/jarallax/jarallax.min.js"></script>
-<script src="assets/vendors/slick-slider/slick.js"></script>
-<script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-<script src="assets/vendors/progress-bar/knob.js"></script>
-
-<!-- Template js -->
-<script src="assets/js/custom.js"></script>
-<script src="assets/js/google-form-enquiry.js"></script>
+<?php include __DIR__ . '/scripts.php'; ?>
 
 <!-- Newsletter Form Handler -->
 <script>

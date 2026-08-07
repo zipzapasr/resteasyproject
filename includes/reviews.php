@@ -57,9 +57,7 @@ if (is_array($googleLiveData)) {
                     </div>
                 </div>
 
-                <div class="row align-items-stretch g-4">
-                    <div class="col-xl-8 col-lg-7 d-flex">
-                        <div class="google-reviews-carousel-wrap w-100">
+                <div class="google-reviews-carousel-wrap">
                         <button type="button" class="google-reviews-carousel__nav google-reviews-carousel__nav--prev" aria-label="Previous review">
                             <span class="fa fa-angle-left"></span>
                         </button>
@@ -87,37 +85,42 @@ if (is_array($googleLiveData)) {
                                         $reviewClass = 'testimonial-three__single google-review-card' . ($reviewLink ? ' google-review-card--linked' : '');
                                         ?>
                             <<?php echo $reviewTag; ?> class="<?php echo $reviewClass; ?>"<?php echo $reviewAttrs; ?>>
-                                <div class="testimonial-three__single-top">
-                                    <div class="google-review-card__badge"><i class="fab fa-google"></i> Google</div>
-                                    <div class="rating-box">
-                                        <ul>
-                                            <?php for ($star = 0; $star < 5; $star++): ?>
-                                            <li><span class="icon-pointed-star"></span></li>
-                                            <?php endfor; ?>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="testimonial-three__single-text">
-                                    <p><?php echo htmlspecialchars($reviewText, ENT_QUOTES, 'UTF-8'); ?></p>
-                                </div>
-                                <div class="testimonial-three__single-bottom">
-                                    <div class="img-box">
-                                        <div class="round-one"></div>
-                                        <div class="round-two"></div>
-                                        <div class="inner">
+                                <div class="google-review-card__header">
+                                    <div class="google-review-card__author">
+                                        <div class="google-review-card__avatar">
                                             <img src="<?php echo htmlspecialchars($reviewPhoto, ENT_QUOTES, 'UTF-8'); ?>" alt="<?php echo htmlspecialchars($reviewName, ENT_QUOTES, 'UTF-8'); ?>" loading="lazy" referrerpolicy="no-referrer">
                                         </div>
+                                        <div class="google-review-card__meta">
+                                            <h4 class="google-review-card__name"><?php echo htmlspecialchars($reviewName, ENT_QUOTES, 'UTF-8'); ?></h4>
+                                            <?php if ($reviewTime): ?>
+                                            <span class="google-review-card__time"><?php echo htmlspecialchars($reviewTime, ENT_QUOTES, 'UTF-8'); ?></span>
+                                            <?php endif; ?>
+                                        </div>
                                     </div>
-                                    <div class="client-info">
-                                        <h4><?php echo htmlspecialchars($reviewName, ENT_QUOTES, 'UTF-8'); ?></h4>
-                                        
-                                        <?php if ($reviewLink): ?>
-                                <span class="google-review-card__view">View review on Google</span>
-                                <?php endif; ?>
-                                    </div>
-                                    
+                                    <span class="google-review-card__source" aria-hidden="true">
+                                        <svg class="google-review-card__g-logo" viewBox="0 0 24 24" width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+                                            <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+                                            <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+                                            <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+                                        </svg>
+                                    </span>
                                 </div>
-                            
+                                <div class="google-review-card__rating rating-box" aria-label="<?php echo (int) $reviewStars; ?> out of 5 stars">
+                                    <ul>
+                                        <?php for ($star = 1; $star <= 5; $star++): ?>
+                                        <li class="<?php echo $star <= $reviewStars ? 'is-filled' : 'is-empty'; ?>">
+                                            <span class="icon-pointed-star"></span>
+                                        </li>
+                                        <?php endfor; ?>
+                                    </ul>
+                                </div>
+                                <div class="google-review-card__body testimonial-three__single-text">
+                                    <p><?php echo htmlspecialchars($reviewText, ENT_QUOTES, 'UTF-8'); ?></p>
+                                </div>
+                                <?php if ($reviewLink): ?>
+                                <span class="google-review-card__view">View on Google</span>
+                                <?php endif; ?>
                             </<?php echo $reviewTag; ?>>
                                     <?php endforeach; ?>
                             <?php else: ?>
@@ -128,127 +131,6 @@ if (is_array($googleLiveData)) {
                             </div>
                             <?php endif; ?>
                         </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-5 d-flex">
-                        <div class="home-inline-contact contact-page__form">
-                            <div class="home-inline-contact__head">
-                          
-                                <h3 class="home-inline-contact__title">Send a message</h3>
-                                <p class="home-inline-contact__text">Request a quote or ask a question—we will get back to you shortly.</p>
-                            </div>
-                            <div id="form-messages-home"
-                                style="display: none; padding: 15px; margin-bottom: 20px; border-radius: 8px;"></div>
-                            <?php
-                            require_once __DIR__ . '/google-form-config.php';
-                            $googleFormHome = $resteasyGoogleForm;
-                            ?>
-                            <form id="contact-form-home"
-                                action="<?php echo htmlspecialchars($googleFormHome['action'], ENT_QUOTES, 'UTF-8'); ?>"
-                                method="POST" target="gform_hidden_iframe_home" class="comment-one__form"
-                                data-google-form="1"
-                                data-enquiry-email-url="<?php echo htmlspecialchars($resteasyEnquiryEmailUrl, ENT_QUOTES, 'UTF-8'); ?>"
-                                autocomplete="on">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Full name *"
-                                                name="<?php echo htmlspecialchars($googleFormHome['fields']['name'], ENT_QUOTES, 'UTF-8'); ?>"
-                                                data-enquiry-field="name" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Email address *"
-                                                name="<?php echo htmlspecialchars($googleFormHome['fields']['email'], ENT_QUOTES, 'UTF-8'); ?>"
-                                                data-enquiry-field="email" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="comment-form__input-box">
-                                            <input type="tel" placeholder="Phone *"
-                                                name="<?php echo htmlspecialchars($googleFormHome['fields']['phone'], ENT_QUOTES, 'UTF-8'); ?>"
-                                                data-enquiry-field="phone" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="comment-form__input-box">
-                                            <input type="text"
-                                                name="<?php echo htmlspecialchars($googleFormHome['fields']['suburb'], ENT_QUOTES, 'UTF-8'); ?>"
-                                                data-enquiry-field="suburb" placeholder="Suburb *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="comment-form__input-box">
-                                            <textarea
-                                                name="<?php echo htmlspecialchars($googleFormHome['fields']['message'], ENT_QUOTES, 'UTF-8'); ?>"
-                                                data-enquiry-field="message"
-                                                placeholder="Your message *" rows="3" style="min-height: 80px; height: 80px;"
-                                                required></textarea>
-                                        </div>
-                                        <input type="hidden" name="fvv" value="1">
-                                        <input type="hidden" name="fbzx"
-                                            value="<?php echo htmlspecialchars($googleFormHome['fbzx'], ENT_QUOTES, 'UTF-8'); ?>">
-                                        <input type="hidden" name="pageHistory" value="0">
-                                        <input type="hidden" name="submit" value="Submit">
-                                        <button class="thm-btn home-inline-contact__btn" type="submit" id="submit-btn-home">
-                                            <span class="txt">Send message +</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
-                            <iframe name="gform_hidden_iframe_home" id="gform_hidden_iframe_home"
-                                style="display:none;"></iframe>
-                            <script>
-                                (function () {
-                                    var form = document.getElementById('contact-form-home');
-                                    if (!form) return;
-                                    var action = (form.getAttribute('action') || '').toLowerCase();
-                                    var isGoogle = action.indexOf('docs.google.com/forms') !== -1 || action.indexOf('google.com/forms') !== -1;
-                                    if (!isGoogle) return;
-                                    var submitted = false;
-                                    var iframe = document.getElementById('gform_hidden_iframe_home');
-                                    var msg = document.getElementById('form-messages-home');
-                                    var btn = document.getElementById('submit-btn-home');
-                                    var btnTxt = btn ? btn.querySelector('.txt') : null;
-                                    var originalBtnText = btnTxt ? btnTxt.textContent : '';
-                                    function showMessage(ok, html) {
-                                        if (!msg) return;
-                                        msg.style.display = 'block';
-                                        msg.style.padding = '15px';
-                                        msg.style.marginBottom = '20px';
-                                        msg.style.borderRadius = '8px';
-                                        if (ok) {
-                                            msg.style.backgroundColor = '#d4edda';
-                                            msg.style.color = '#155724';
-                                            msg.style.border = '1px solid #c3e6cb';
-                                        } else {
-                                            msg.style.backgroundColor = '#f8d7da';
-                                            msg.style.color = '#721c24';
-                                            msg.style.border = '1px solid #f5c6cb';
-                                        }
-                                        msg.innerHTML = html;
-                                    }
-                                    form.addEventListener('submit', function () {
-                                        submitted = true;
-                                        if (btn) btn.disabled = true;
-                                        if (btnTxt) btnTxt.textContent = 'Sending...';
-                                        if (msg) msg.style.display = 'none';
-                                    });
-                                    if (iframe) {
-                                        iframe.addEventListener('load', function () {
-                                            if (!submitted) return;
-                                            submitted = false;
-                                            showMessage(true, '<strong>Success!</strong> Thank you for your enquiry! We have received your message and will get back to you as soon as possible.');
-                                            try { form.reset(); } catch (e) { }
-                                            if (btn) btn.disabled = false;
-                                            if (btnTxt) btnTxt.textContent = originalBtnText || 'Send message +';
-                                        });
-                                    }
-                                })();
-                            </script>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>

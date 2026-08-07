@@ -1,5 +1,8 @@
 RewriteEngine On
 
+# Custom 404 page
+ErrorDocument 404 /404.php
+
 # Force HTTPS and remove WWW
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\.resteasyservices\.com\.au$ [NC]

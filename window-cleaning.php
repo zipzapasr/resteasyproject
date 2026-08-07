@@ -19,7 +19,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://resteasyservices.com.au/window-cleaning" />
     <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
-    <meta property="og:site_name" content="Rest Easy Cleaning Services" />
+    <meta property="og:site_name" content="Rest Easy Services" />
     <meta property="og:locale" content="en_AU" />
 
     <!-- Twitter Card Meta Tags -->

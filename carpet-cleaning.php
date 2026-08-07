@@ -4,16 +4,16 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deep Carpet Cleaning Services in Mornington Peninsula Areas</title>
+    <title>Carpet Cleaning Mornington Peninsula | Expert Carpet Care</title>
     <meta name="description"
         content="Carpet cleaning services in Mornington Peninsula areas for households and offices, getting rid of dirt, stains, and bad odors to have fresh carpets." />
     <meta name="keywords"
-        content="Carpet Washing Services, Deep Carpet Cleaning, Carpet Sanitizing, Rug Cleaning" />
+        content="Carpet Washing Services, Deep Carpet Cleaning, Carpet Sanitizing, Rug Cleaning in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/carpet-cleaning" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Deep Carpet Cleaning Services in Mornington Peninsula Areas" />
+    <meta property="og:title" content="Carpet Cleaning Mornington Peninsula | Expert Carpet Care" />
     <meta property="og:description"
         content="Carpet cleaning services in Mornington Peninsula areas for households and offices, getting rid of dirt, stains, and bad odors to have fresh carpets." />
     <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Deep Carpet Cleaning Services in Mornington Peninsula Areas" />
+    <meta name="twitter:title" content="Carpet Cleaning Mornington Peninsula | Expert Carpet Care" />
     <meta name="twitter:description"
         content="Carpet cleaning services in Mornington Peninsula areas for households and offices, getting rid of dirt, stains, and bad odors to have fresh carpets." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -254,14 +254,14 @@
                     <div class="col-xl-6">
                         <div class="team-details__middle-content">
                             <div class="title">
-                                <h1>Carpet Cleaning Services in Mornington Peninsula</h1>
+                                <h1>Carpet Cleaning Mornington Peninsula | Expert Carpet Care</h1>
                             </div>
                             <div class="text-box">
                                 <p>Mornington Peninsula carpet cleaning services keep your carpets clean, fresh, and
                                     hygienic through effective services like steam cleaning, stain removal, odor
                                     elimination, deep cleaning, among others. There is always an option for you in
-                                    carpet cleaning services provided by expert cleaners in Mornington, Frankston, Mount
-                                    Eliza, Rosebud, Rye, Hastings, Dromana, and neighboring regions of Mornington
+                                    carpet cleaning services provided by expert cleaners in Mornington, <a href="cleaning-services-frankston"> Frankston</a>, Mount
+                                    Eliza, Rosebud, Rye, Hastings, <a href="cleaning-services-dromana">Dromana </a>, and neighboring regions of Mornington
                                     Peninsula.
                                 </p>
                             </div>
@@ -649,7 +649,7 @@
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Do you offer steam carpet cleaning?</h3>
+                                    <h3>Do you offer carpet steam cleaning in Mornington Peninsula?​</h3>
                                 </div>
                                 <div class="acc-content">
 

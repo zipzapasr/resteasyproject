@@ -7,7 +7,7 @@
     <title>Car Park Cleaning Services Mornington Peninsula</title>
     <meta name="description"
         content="Professional car park cleaning services in Mornington Peninsula. Cleaning of car parks through sweeping, pressure washing, stain cleaning to keep them neat & clean." />
-    <meta name="keywords" content="car park litter removal, car park debris removal,car park washing services" />
+    <meta name="keywords" content="car park litter removal, car park debris removal,car park washing services in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/car-park-cleaning" />
 
@@ -29,42 +29,143 @@
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
-    <script type="application/ld+json">
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Locksmith Services",
-        "description": "Professional locksmith services including emergency lockouts, lock repairs, key cutting, and security upgrades on the Mornington Peninsula.",
-        "url": "https://resteasyservices.com.au/car-park-cleaning",
-        "provider": {
-            "@type": "LocalBusiness",
-            "name": "Rest Easy Services",
-            "url": "https://resteasyservices.com.au/"
-        },
-        "areaServed": {
-            "@type": "Place",
-            "name": "Mornington Peninsula, Victoria, Australia"
-        },
-        "serviceType": ["Emergency Lockout", "Lock Repair", "Key Cutting", "Security Upgrades", "Lock Installation"],
-        "breadcrumb": {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://resteasyservices.com.au/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Locksmith Services",
-                    "item": "https://resteasyservices.com.au/car-park-cleaning"
-                }
-            ]
+      "@type": "Service",
+      "name": "Car Park Cleaning Mornington Peninsula",
+      "serviceType": "Car Park Cleaning Service",
+      "url": "https://resteasyservices.com.au/car-park-cleaning",
+      "description": "Professional car park cleaning services across the Mornington Peninsula for residential, commercial, and industrial properties. Services include sweeping, pressure washing, oil and grease stain removal, litter removal, surface cleaning, and ongoing maintenance to keep car parks clean, safe, and presentable.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Rest Easy Services",
+        "url": "https://resteasyservices.com.au",
+        "telephone": "+61 429 780 896",
+        "email": "sales@resteasyservices.com.au",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6/7 Suffolk Street",
+          "addressLocality": "Capel Sound",
+          "addressRegion": "VIC",
+          "postalCode": "3940",
+          "addressCountry": "AU"
         }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Mornington"
+        },
+        {
+          "@type": "City",
+          "name": "Mount Eliza"
+        },
+        {
+          "@type": "City",
+          "name": "Rosebud"
+        },
+        {
+          "@type": "City",
+          "name": "Dromana"
+        },
+        {
+          "@type": "City",
+          "name": "Frankston"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does car park cleaning include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Car park cleaning typically includes sweeping, high-pressure washing, litter removal, stain treatment, oil and grease removal, and general surface cleaning to maintain a clean and safe parking area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the frequency of professional car park cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The frequency depends on traffic levels and the type of property. Most commercial properties benefit from monthly or quarterly car park cleaning services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you remove oil and grease stains?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, specialised cleaning methods are used to remove or significantly reduce oil, grease, tyre marks, and other common surface stains from car park surfaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you clean underground car parks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, professional car park cleaning services are available for underground, basement, and multi-level car parks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is pressure washing safe for car park surfaces?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, professional pressure washing techniques are designed to thoroughly clean concrete and asphalt surfaces without causing damage when performed correctly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide one-off and regular cleaning services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both one-time car park cleaning and scheduled maintenance programs can be arranged to suit the property's cleaning requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What types of properties do you service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Car park cleaning services are available for commercial buildings, shopping centres, apartment complexes, office buildings, industrial facilities, and residential properties."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can cleaning help improve safety in a car park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, removing debris, spills, oil stains, and accumulated dirt helps reduce slip hazards and creates a cleaner and safer environment for vehicles and pedestrians."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you clean around parking bays and pedestrian areas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, cleaning services include parking bays, pedestrian walkways, ramps, entrances, exits, and other high-traffic areas within the car park."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you service all areas of Mornington Peninsula?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, professional car park cleaning services are available throughout Mornington Peninsula and surrounding suburbs."
+          }
+        }
+      ]
     }
-    </script>
+  ]
+}
+</script>
+
 
     <!-- Favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />

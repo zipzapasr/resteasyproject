@@ -27,117 +27,145 @@
     content="Cleaning Services Dromana offers professional home and business cleaning, including vacate, window, carpet, Airbnb, garden, and NDIS cleaning services." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
-  <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "LocalBusiness",
-          "@id": "https://resteasyservices.com.au/#business",
-          "name": "Rest Easy Services",
-          "url": "https://resteasyservices.com.au/",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "telephone": "+61 429 780 896",
-          "email": "sales@resteasyservices.com.au",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "6/7 Suffolk Street",
-            "addressLocality": "Capel Sound",
-            "addressRegion": "VIC",
-            "postalCode": "3940",
-            "addressCountry": "AU"
-          }
-        }, {
-          "@type": "Service",
-          "@id": "https://resteasyservices.com.au/langwarrin/#service",
-          "name": "Cleaning Services Langwarrin",
-          "url": "https://resteasyservices.com.au/cleaning-services-langwarrin/",
-          "description": "Professional cleaning services in Langwarrin for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure cleaning, NDIS cleaning and car park cleaning.",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "provider": {
-            "@id": "https://resteasyservices.com.au/#business"
-          },
-          "areaServed": {
-            "@type": "City",
-            "name": "Langwarrin"
-          },
-          "serviceType": ["House Cleaning", "Office Cleaning", "Vacate Cleaning", "Airbnb Cleaning", "Carpet Cleaning", "Window Cleaning", "Pressure Cleaning", "NDIS Cleaning", "Car Park Cleaning"]
-        }, {
-          "@type": "FAQPage",
-          "@id": "https://resteasyservices.com.au/langwarrin/#faq",
-          "mainEntity": [{
-            "@type": "Question",
-            "name": "Are the cleaning services provided for both residential and commercial premises?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning services are available for homes, offices, retail stores and other commercial premises in Langwarrin."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are there services for single cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. One-time cleaning services are available for inspections, seasonal cleaning, special occasions and other one-off requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are customized cleaning checklists provided?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning tasks can be customised based on the condition of your property and your specific cleaning requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are weekend cleaning services provided in Langwarrin?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Weekend cleaning appointments are available depending on scheduling and service availability."
-            }
-          }, {
-            "@type": "Question",
-            "name": "How long would the cleaning service take?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The time required depends on the size and condition of the property as well as the type of cleaning service selected."
-            }
-          }, {
-            "@type": "Question",
-            "name": "In which areas is more attention paid during cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Special attention is given to kitchens, bathrooms, floors, benchtops, door handles and other frequently touched areas to maintain a hygienic environment."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Can cleaning be scheduled regularly?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Regular cleaning services can be scheduled weekly, fortnightly or monthly to keep your property consistently clean."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Do you offer outdoor cleaning services?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Outdoor cleaning services include pressure cleaning, window cleaning, garden maintenance and car park cleaning."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Who is eligible for vacate cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Vacate cleaning is available for apartments, units, houses, townhouses and other rented residential properties."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Why should one choose a professional cleaning service?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Professional cleaning helps maintain a cleaner, healthier and more hygienic environment while saving time and ensuring consistent cleaning standards."
-            }
-          }]
-        }]
+ <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://resteasyservices.com.au/#business",
+      "name": "Rest Easy Services",
+      "url": "https://resteasyservices.com.au/",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "telephone": "+61 429 780 896",
+      "email": "sales@resteasyservices.com.au",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6/7 Suffolk Street",
+        "addressLocality": "Capel Sound",
+        "addressRegion": "VIC",
+        "postalCode": "3940",
+        "addressCountry": "AU"
       }
-    </script>
+    },
+    {
+      "@type": "Service",
+      "@id": "https://resteasyservices.com.au/cleaning-services-dromana/#service",
+      "name": "Cleaning Services Dromana",
+      "url": "https://resteasyservices.com.au/cleaning-services-dromana",
+      "description": "Professional cleaning services in Dromana for residential and commercial properties, including house cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance, locksmith services and more.",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "provider": {
+        "@id": "https://resteasyservices.com.au/#business"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Dromana"
+      },
+      "serviceType": [
+        "House Cleaning",
+        "Office Cleaning",
+        "Vacate Cleaning",
+        "Airbnb Cleaning",
+        "Carpet Cleaning",
+        "Window Cleaning",
+        "Pressure Washing",
+        "NDIS Cleaning",
+        "Garden Maintenance",
+        "House Maintenance",
+        "Locksmith Services"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://resteasyservices.com.au/cleaning-services-dromana/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you offer cleaning for both residential and commercial properties in Dromana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer cleaning services for homes, offices, retail shops, holiday houses, and commercial buildings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are the cleaning services offered tailored to meet individual needs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we tailor the services to fit your unique building depending on its size, condition, and cleaning needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer one-off cleaning services besides ongoing services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, you can book either one-off or ongoing cleaning sessions depending on your preference."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are weekend bookings for Airbnb cleaning services offered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer cleaning services even on the weekends as long as it is within our schedule."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide your own cleaning equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we have all the necessary cleaning equipment needed to carry out the required services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can pressure washing wash away mould and algae?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure washing does remove mould, algae, dirt, and other forms of grime that accumulate outdoors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get both house maintenance and garden maintenance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both types of maintenance can be provided together for your property."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How frequently should carpets be cleaned professionally?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Carpets should be cleaned about every 6 to 12 months, depending on how often they get used."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer locksmith services as well as emergency locking in Dromana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, locksmith services also include emergency locks, lock repairs, and replacement of locks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What other areas besides Dromana can be serviced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cleaning services are offered in Dromana and neighboring suburbs of the Mornington Peninsula region."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -252,7 +280,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-Langwarrin.png" alt="Cleaning Services"
+              <img src="assets\images\location\cleaning-services-dromana.png" alt="Cleaning Services"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -261,7 +289,8 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  --> 
+     <?php include "includes/all-location.php"; ?>
     <!-- Service Area end  -->
     <!--End Services Details -->
     <section class="blog-one">
@@ -285,7 +314,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\house-cleaning-in-dromana.png" alt="house-cleaning-in-dromana">
                 </div>
               </div>
               <!-- House Cleaning -->
@@ -294,7 +323,7 @@
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Professional house cleaning services in Dromana provide a clean, fresh, hygienic, and comfortable environment in every room of the house.</p>
+                <p>Professional house cleaning services in Dromana provide a clean, hygienic environment in every room.</p>
               </div>
             </div>
           </div>
@@ -305,7 +334,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\vacate-cleaning-dromana.png" alt="vacate-cleaning-dromana">
                 </div>
               </div>
               <!-- Linen Hire -->
@@ -326,7 +355,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\airbnb-cleaning-dromana.png" alt="airbnb-cleaning-dromana">
                 </div>
               </div>
               <!-- House Maintenance -->
@@ -346,7 +375,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\window-cleaning-dromana.png" alt="window-cleaning-dromana">
                 </div>
               </div>
               <!-- Garden Maintenance -->
@@ -372,7 +401,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-langwarrin.png" alt="#">
+                  <img src="assets\images\location\linen-rental-dromana.png" alt="linen-rental-dromana">
                 </div>
               </div>
               <!-- Car Park Cleaning -->
@@ -391,13 +420,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\house-maintenance-dromana.png" alt="house-maintenance-dromana">
                 </div>
               </div>
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="home-maintenance">Home Maintenance
+                  <a href="house-maintenance">Home Maintenance Services
                   </a>
                 </h3>
                 <br>
@@ -412,7 +441,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="#">
+                  <img src="assets\images\location\garden-maintenance-dromana.png" alt="garden-maintenance-dromana">
                 </div>
               </div>
               <!-- Airbnb Cleaning -->
@@ -431,7 +460,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\ndis-cleaning-dromana.png" alt="ndis-cleaning-dromana">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -440,7 +469,7 @@
                   <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>The NDIS cleaning services in Dromana assist in creating healthy and comfortable living spaces for the participants.</p>
+                <p>The NDIS cleaning services in Dromana assist in creating healthy, safe, and comfortable living spaces for the participants every day.</p>
               </div>
             </div>
           </div>
@@ -450,7 +479,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="#">
+                  <img src="assets/images/location/locksmith-dromana.png" alt="locksmith-dromana">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -459,7 +488,7 @@
                   <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Locksmith services in Dromana offer services including lock repairs, lock replacements, rekeying and lock emergencies.</p>
+                <p>Locksmith services in Dromana offer lock repairs, lock replacements, rekeying and emergencies.</p>
               </div>
             </div>
           </div>
@@ -469,14 +498,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\carpet-cleaning-dromana.png" alt="carpet-cleaning-dromana">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleaning</a>
                 </h3>
                 <br>
                 <p>Carpet cleaning in Dromana involves the removal of all the stains, dust, bacteria and allergens in carpets.</p>
@@ -489,13 +517,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\pressure-washing-dromana.png" alt="pressure-washing-dromana">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-cleaning">Pressure Washing</a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
                 <p>Pressure washing in Dromana restores outdoors through removing moulds, dirt, algae and grime.</p>
@@ -508,7 +536,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\car-park-cleaning-dromana.png" alt="car-park-cleaning-dromana">
                 </div>
               </div>
               <!-- Window Cleaning -->

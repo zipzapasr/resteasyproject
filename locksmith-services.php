@@ -30,42 +30,143 @@
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
-    <script type="application/ld+json">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Locksmith Services",
-        "description": "Professional locksmith services including emergency lockouts, lock repairs, key cutting, and security upgrades on the Mornington Peninsula.",
-        "url": "https://resteasyservices.com.au/locksmith-services",
-        "provider": {
-            "@type": "LocalBusiness",
-            "name": "Rest Easy Services",
-            "url": "https://resteasyservices.com.au/"
-        },
-        "areaServed": {
-            "@type": "Place",
-            "name": "Mornington Peninsula, Victoria, Australia"
-        },
-        "serviceType": ["Emergency Lockout", "Lock Repair", "Key Cutting", "Security Upgrades", "Lock Installation"],
-        "breadcrumb": {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://resteasyservices.com.au/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Locksmith Services",
-                    "item": "https://resteasyservices.com.au/locksmith-services"
-                }
-            ]
+      "@type": "Service",
+      "name": "Locksmith Services Mornington Peninsula",
+      "serviceType": "Locksmith Service",
+      "url": "https://resteasyservices.com.au/locksmith-services",
+      "description": "Professional locksmith services across the Mornington Peninsula for residential, commercial, and automotive needs. Services include lock installation, lock repairs, rekeying, key cutting, emergency lockout assistance, broken key extraction, smart lock installation, and security upgrades.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Rest Easy Services",
+        "url": "https://resteasyservices.com.au",
+        "telephone": "+61 429 780 896",
+        "email": "sales@resteasyservices.com.au",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6/7 Suffolk Street",
+          "addressLocality": "Capel Sound",
+          "addressRegion": "VIC",
+          "postalCode": "3940",
+          "addressCountry": "AU"
         }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Mornington"
+        },
+        {
+          "@type": "City",
+          "name": "Mount Eliza"
+        },
+        {
+          "@type": "City",
+          "name": "Rosebud"
+        },
+        {
+          "@type": "City",
+          "name": "Dromana"
+        },
+        {
+          "@type": "City",
+          "name": "Frankston"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What services do locksmiths provide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Locksmith services include lock installation, lock repairs, rekeying, key cutting, emergency lockout assistance, lock opening, broken key extraction, and security upgrades for residential, commercial, and automotive properties."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer emergency lockout services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, emergency locksmith services are available to help regain access to homes, businesses, and vehicles as quickly as possible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How fast can a locksmith arrive?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Response times depend on your location, but professional locksmiths aim to arrive promptly and provide efficient assistance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you replace lost house or car keys?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, replacement house keys, car keys, and transponder key programming services are available when required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you handle broken keys inside locks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, broken keys can be safely extracted from locks, and the lock can be repaired or replaced if necessary."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you damage locks while opening doors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, professional locksmiths use specialised tools and non-destructive techniques whenever possible to open locks without causing unnecessary damage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you upgrade my home security?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, locksmith services include installing high-security locks, smart locks, deadbolts, and other advanced locking systems to improve home security."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide commercial locksmith services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, commercial locksmith services include master key systems, office lock installation, access control systems, and business security solutions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much do locksmith services cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The cost of locksmith services varies depending on the type of service, lock, and level of work required. Pricing is competitive and based on the specific job."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which areas do you service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Locksmith services are available throughout the Mornington Peninsula and surrounding suburbs for residential, commercial, and automotive customers."
+          }
+        }
+      ]
     }
-    </script>
+  ]
+}
+</script>
+
 
     <!-- Favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />

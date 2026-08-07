@@ -8,7 +8,7 @@
     <meta name="description"
         content="Linen Hire Mornington Peninsula – Fresh & reliable linen for holiday homes, Airbnb & hotels. Serving Sorrento, Rosebud, Carrum Downs, Mornington & Hastings." />
     <meta name="keywords"
-        content="linen hire Mornington Peninsula, linen management services , linen rental services, linen hire company" />
+        content="linen hire Mornington Peninsula, linen management services , linen rental services, linen hire company in Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/linen-hire" />
 

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>High Pressure Cleaning Services Mornington Peninsula Wide</title>
+    <title>High Pressure Cleaning Mornington Peninsula Experts</title>
     <meta name="description"
         content="High pressure cleaning services in Mornington Peninsula for driveways, patios, walls, and outdoor areas, delivering clean, fresh, and spotless surfaces." />
     <meta name="keywords"
@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://resteasyservices.com.au/pressure-washing" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="High Pressure Cleaning Services Mornington Peninsula Wide" />
+    <meta property="og:title" content="High Pressure Cleaning Mornington Peninsula Experts" />
     <meta property="og:description"
         content="High pressure cleaning services in Mornington Peninsula for driveways, patios, walls, and outdoor areas, delivering clean, fresh, and spotless surfaces." />
     <meta property="og:type" content="website" />
@@ -24,12 +24,148 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="High Pressure Cleaning Services Mornington Peninsula Wide" />
+    <meta name="twitter:title" content="High Pressure Cleaning Mornington Peninsula Experts" />
     <meta name="twitter:description"
         content="High pressure cleaning services in Mornington Peninsula for driveways, patios, walls, and outdoor areas, delivering clean, fresh, and spotless surfaces." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "name": "Pressure Washing Mornington Peninsula",
+      "serviceType": "Pressure Washing Service",
+      "url": "https://resteasyservices.com.au/pressure-washing",
+      "description": "Professional pressure washing services across the Mornington Peninsula for residential and commercial properties. Services include cleaning driveways, pathways, walls, roofs, gutters, decks, fences, patios, car parks, and building exteriors to remove dirt, mould, algae, grease, stains, and grime.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Rest Easy Services",
+        "url": "https://resteasyservices.com.au",
+        "telephone": "+61 429 780 896",
+        "email": "sales@resteasyservices.com.au",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6/7 Suffolk Street",
+          "addressLocality": "Capel Sound",
+          "addressRegion": "VIC",
+          "postalCode": "3940",
+          "addressCountry": "AU"
+        }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Mornington"
+        },
+        {
+          "@type": "City",
+          "name": "Mount Eliza"
+        },
+        {
+          "@type": "City",
+          "name": "Rosebud"
+        },
+        {
+          "@type": "City",
+          "name": "Dromana"
+        },
+        {
+          "@type": "City",
+          "name": "Frankston"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is pressure washing used for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure washing uses high-pressure water to remove dirt, mould, algae, grease, stains, and grime from exterior surfaces such as driveways, walls, roofs, patios, and other outdoor areas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which surfaces can be pressure cleaned?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure washing can be used on driveways, pathways, house exteriors, roofs, gutters, decks, fences, patios, car parks, building exteriors, and many other outdoor hard surfaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is pressure washing safe for all surfaces?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, when performed using the correct pressure settings and professional techniques, pressure washing safely cleans a variety of surfaces without causing damage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should pressure washing be done?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most properties benefit from professional pressure washing once or twice a year, depending on weather conditions, dirt build-up, and the surrounding environment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can pressure washing remove tough stains?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, pressure washing effectively removes oil stains, tyre marks, moss, algae, grease, and deeply embedded dirt from concrete, paving, and other exterior surfaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you use chemicals in pressure washing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "High-pressure water is used for most cleaning tasks. Eco-friendly cleaning solutions may also be applied when needed to remove stubborn stains or heavy biological growth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does pressure washing take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The duration depends on the size and condition of the area being cleaned. Small residential jobs may take a few hours, while larger commercial projects require additional time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which areas are covered by pressure washing services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure washing services are available throughout the Mornington Peninsula, Frankston, Brighton, south-eastern Melbourne, Rye, Sorrento, Rosebud, Dromana, Mornington, Mount Eliza, St Kilda, Cheltenham, Donvale, Box Hill, Burwood, and surrounding suburbs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is professional pressure washing better than DIY cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Professional pressure washing uses commercial-grade equipment, controlled pressure settings, and proper cleaning techniques to achieve deeper cleaning results while helping prevent surface damage and reducing water waste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer both residential and commercial pressure washing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, pressure washing services are available for homes, apartments, offices, warehouses, retail stores, industrial facilities, and large commercial properties."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 
     <!-- Favicons Icons -->
@@ -121,7 +257,7 @@
                     <div class="col-xl-6">
                         <div class="team-details__middle-content">
                             <div class="title">
-                                <h1>High Pressure Cleaning Services Mornington Peninsula Wide</h1>
+                                <h1>High Pressure Cleaning Mornington Peninsula Experts</h1>
                             </div>
                             <div class="text-box">
                                 <p>We offer high-pressure cleaning for residential and commercial locations on the

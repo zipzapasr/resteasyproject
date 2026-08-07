@@ -27,7 +27,7 @@
     content="Trusted cleaning services Mount Waverley for homes, offices, and rentals. Vacate, carpet, window, Airbnb, and NDIS cleaning. Call 0429 780 896." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
-<script type="application/ld+json">
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -342,9 +342,8 @@
                   <a href="vacate-cleaning">Ending Lease Cleaning </a>
                 </h3>
                 <br>
-                <p>Comprehensive ending lease cleaning services are designed for landlords and property managers so they
-                  can inspect rented buildings. The vacate cleaning service includes cleaning of kitchens, bathrooms,
-                  floors, and other areas of the house.
+                <p>End of lease cleaning services are designed for landlords and property managers so they can inspect
+                  rented buildings. The vacate cleaning service includes kitchens, bathrooms, floors, and other areas.
                 </p>
               </div>
             </div>
@@ -366,7 +365,7 @@
                 </h3>
                 <br>
                 <p>Airbnb cleaning includes sanitising the area where the guests will stay, changing linen, and
-                  preparing bathrooms for the arrival of guests.
+                  preparing bathrooms for the arrival of guests with complete attention to hygiene and comfort.
                 </p>
               </div>
             </div>
@@ -413,7 +412,8 @@
                   <a href="linen-hire">Hire of Linen</a>
                 </h3>
                 <br>
-                <p>Fresh linen hire involves quality linens, sheets, pillowcases, and towels for short stay properties.
+                <p>Fresh linen hire involves quality linens, sheets, pillowcases, and towels for short stay properties,
+                  ensuring guests enjoy a clean and pleasant experience.
                 </p>
               </div>
             </div>
@@ -430,7 +430,7 @@
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="home-maintenance">Maintenance of house
+                  <a href="house-maintenance">Maintenance of house
                   </a>
                 </h3>
                 <br>
@@ -495,7 +495,8 @@
                   <a href="locksmith-services">Locksmithing</a>
                 </h3>
                 <br>
-                <p>Locksmith services are available for different types of locks in homes and businesses.</p>
+                <p>Locksmith services are available for different types of locks in homes and businesses, providing
+                  fast, reliable, and professional assistance whenever required.</p>
               </div>
             </div>
           </div>
@@ -531,7 +532,7 @@
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-cleaning">Power-washing</a>
+                  <a href="pressure-washing">Power-washing</a>
                 </h3>
                 <br>
                 <p>Pressure cleaning is a process of removing mold, algae, grease, dirt, and grime from driveways</p>
@@ -575,7 +576,7 @@
           <div class="col-xl-12">
             <div class="features-two__inner">
               <div class="features-two__img">
-                <img src="assets/images/Emergency-Locksmith-Service.webp" alt="#">
+                <img src="assets/images/cleaning-process-mt-waverley.png" alt="#">
               </div>
               <ul class="features-two__list">
                 <li class="wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"

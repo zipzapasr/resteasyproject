@@ -28,116 +28,143 @@
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "LocalBusiness",
-          "@id": "https://resteasyservices.com.au/#business",
-          "name": "Rest Easy Services",
-          "url": "https://resteasyservices.com.au/",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "telephone": "+61 429 780 896",
-          "email": "sales@resteasyservices.com.au",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "6/7 Suffolk Street",
-            "addressLocality": "Capel Sound",
-            "addressRegion": "VIC",
-            "postalCode": "3940",
-            "addressCountry": "AU"
-          }
-        }, {
-          "@type": "Service",
-          "@id": "https://resteasyservices.com.au/langwarrin/#service",
-          "name": "Cleaning Services Langwarrin",
-          "url": "https://resteasyservices.com.au/cleaning-services-langwarrin/",
-          "description": "Professional cleaning services in Langwarrin for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure cleaning, NDIS cleaning and car park cleaning.",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "provider": {
-            "@id": "https://resteasyservices.com.au/#business"
-          },
-          "areaServed": {
-            "@type": "City",
-            "name": "Langwarrin"
-          },
-          "serviceType": ["House Cleaning", "Office Cleaning", "Vacate Cleaning", "Airbnb Cleaning", "Carpet Cleaning", "Window Cleaning", "Pressure Cleaning", "NDIS Cleaning", "Car Park Cleaning"]
-        }, {
-          "@type": "FAQPage",
-          "@id": "https://resteasyservices.com.au/langwarrin/#faq",
-          "mainEntity": [{
-            "@type": "Question",
-            "name": "Are the cleaning services provided for both residential and commercial premises?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning services are available for homes, offices, retail stores and other commercial premises in Langwarrin."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are there services for single cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. One-time cleaning services are available for inspections, seasonal cleaning, special occasions and other one-off requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are customized cleaning checklists provided?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning tasks can be customised based on the condition of your property and your specific cleaning requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are weekend cleaning services provided in Langwarrin?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Weekend cleaning appointments are available depending on scheduling and service availability."
-            }
-          }, {
-            "@type": "Question",
-            "name": "How long would the cleaning service take?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The time required depends on the size and condition of the property as well as the type of cleaning service selected."
-            }
-          }, {
-            "@type": "Question",
-            "name": "In which areas is more attention paid during cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Special attention is given to kitchens, bathrooms, floors, benchtops, door handles and other frequently touched areas to maintain a hygienic environment."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Can cleaning be scheduled regularly?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Regular cleaning services can be scheduled weekly, fortnightly or monthly to keep your property consistently clean."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Do you offer outdoor cleaning services?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Outdoor cleaning services include pressure cleaning, window cleaning, garden maintenance and car park cleaning."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Who is eligible for vacate cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Vacate cleaning is available for apartments, units, houses, townhouses and other rented residential properties."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Why should one choose a professional cleaning service?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Professional cleaning helps maintain a cleaner, healthier and more hygienic environment while saving time and ensuring consistent cleaning standards."
-            }
-          }]
-        }]
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://resteasyservices.com.au/#business",
+      "name": "Rest Easy Services",
+      "url": "https://resteasyservices.com.au/",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "telephone": "+61 429 780 896",
+      "email": "sales@resteasyservices.com.au",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6/7 Suffolk Street",
+        "addressLocality": "Capel Sound",
+        "addressRegion": "VIC",
+        "postalCode": "3940",
+        "addressCountry": "AU"
       }
-    </script>
+    },
+    {
+      "@type": "Service",
+      "@id": "https://resteasyservices.com.au/cleaning-services-mornington/#service",
+      "name": "Cleaning Services Mornington",
+      "url": "https://resteasyservices.com.au/cleaning-services-mornington",
+      "description": "Professional cleaning services in Mornington for residential and commercial properties, including house cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure cleaning, NDIS cleaning, locksmith services, property maintenance and other cleaning support services.",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "provider": {
+        "@id": "https://resteasyservices.com.au/#business"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Mornington"
+      },
+      "serviceType": [
+        "House Cleaning",
+        "Airbnb Cleaning",
+        "Vacate Cleaning",
+        "Carpet Cleaning",
+        "Window Cleaning",
+        "Pressure Cleaning",
+        "NDIS Cleaning",
+        "Locksmith Services",
+        "Property Maintenance",
+        "Commercial Cleaning"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://resteasyservices.com.au/cleaning-services-mornington/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What services are offered for cleaning in Mornington?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "House cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning, and other cleaning support services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it possible to book cleaning services for holiday properties in Mornington?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, holiday homes and short-term rentals receive full cleaning services in-between guest stays."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it possible to book different cleaning services in one go?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, booking more than one cleaning service at a time is quite possible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are cleaning operations available for offices and commercial premises?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, cleaning services for offices, retail outlets and other commercial premises are available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often cleaning services can be availed for house cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The frequency of cleaning might be decided as per need, which can be weekly, monthly or one-off service."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide carpet cleaning for owners of pets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, in case of carpet cleaning, it is possible to get rid of pet hairs, stains and smell from carpets."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the area that can be serviced through pressure cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Driveways, pavement areas, pathways, walls, and other hard surfaces can be cleaned with commercial pressure cleaning services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are cleaning services suitable for NDIS clients?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, NDIS cleaning services help keep homes clean and hygienic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide locksmith services for emergencies?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In fact, emergency locksmith services focus on restoring access to properties, fixing defective locks, changing old locking devices, and making key changes when required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are regular services for maintenance of properties available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, property maintenance services are the best way of keeping homes and commercial properties in the best condition over the years."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -317,7 +344,7 @@
                 </h3>
                 <br>
                 <p>With vacate cleaning services in Mornington, residential properties are thoroughly cleaned before
-                  check-ins.
+                  check-ins, ensuring every room is fresh and inspection ready.
                 </p>
               </div>
             </div>
@@ -338,7 +365,8 @@
                   <a href="airbnb-cleaning">Airbnb Cleaning </a>
                 </h3>
                 <br>
-                <p>Reliant Airbnb cleaning ensures that rentals are clean and ready for guests.
+                <p>Airbnb cleaning ensures that rentals are clean and ready for guests, providing rooms, fresh linens,
+                  sanitised surfaces, and a welcoming environment for each stay.
                 </p>
               </div>
             </div>
@@ -358,7 +386,8 @@
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Get clean windows with professional cleaning eliminating dust, dirt, water stains and lines.
+                <p>Get clean windows with professional cleaning eliminating dust, dirt, water stains and lines, leaving
+                  every glass surface sparkling, clear, and streak free.
                 </p>
               </div>
             </div>
@@ -401,12 +430,12 @@
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="home-maintenance">Home Maintenance
+                  <a href="house-maintenance">Home Maintenance
                   </a>
                 </h3>
                 <br>
-                <p>Common home maintenance involves minor repairs and regular upkeep making the property safe,
-                  functional and taken care of.</p>
+                <p>Common home maintenance involves minor repairs and regular upkeep making the property safe and
+                  functional.</p>
               </div>
             </div>
           </div>
@@ -446,8 +475,8 @@
                   <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>NDIS cleaning service in Mornington provides reliable home cleaning services ensuring a clean, safe
-                  and comfortable living environment.</p>
+                <p> NDIS cleaning service in Mornington provides reliable cleaning services ensuring a safe and
+                  comfortable environment.</p>
               </div>
             </div>
           </div>
@@ -467,7 +496,7 @@
                 </h3>
                 <br>
                 <p>Professional locksmith services include lock repair, lock replacement, rekeying and emergency lockout
-                  assistance.</p>
+                  assistance for homes and businesses. </p>
               </div>
             </div>
           </div>
@@ -504,7 +533,7 @@
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-cleaning">Pressure Washing</a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
                 <p>Our pressure washing services in Mornington clean driveways, patios, walls ,and pathways from dirt,

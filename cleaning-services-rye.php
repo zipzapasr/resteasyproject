@@ -10,13 +10,13 @@
   <meta name="keywords"
     content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Rye" />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-keysborough" />
+  <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-rye" />
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="Expert Cleaning Services Rye for Every Property" />
   <meta property="og:description"
     content="Expert cleaning services in Rye for homes, offices, holiday rentals, and commercial properties. Reliable, affordable cleaning with exceptional results every time." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-keysborough" />
+  <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-rye" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <meta property="og:site_name" content="Rest Easy Services" />
   <meta property="og:locale" content="en_AU" />
@@ -27,117 +27,143 @@
     content="Expert cleaning services in Rye for homes, offices, holiday rentals, and commercial properties. Reliable, affordable cleaning with exceptional results every time." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
-  <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "LocalBusiness",
-          "@id": "https://resteasyservices.com.au/#business",
-          "name": "Rest Easy Services",
-          "url": "https://resteasyservices.com.au/",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "telephone": "+61 429 780 896",
-          "email": "sales@resteasyservices.com.au",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "6/7 Suffolk Street",
-            "addressLocality": "Capel Sound",
-            "addressRegion": "VIC",
-            "postalCode": "3940",
-            "addressCountry": "AU"
-          }
-        }, {
-          "@type": "Service",
-          "@id": "https://resteasyservices.com.au/langwarrin/#service",
-          "name": "Cleaning Services Langwarrin",
-          "url": "https://resteasyservices.com.au/cleaning-services-langwarrin/",
-          "description": "Professional cleaning services in Langwarrin for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure cleaning, NDIS cleaning and car park cleaning.",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "provider": {
-            "@id": "https://resteasyservices.com.au/#business"
-          },
-          "areaServed": {
-            "@type": "City",
-            "name": "Langwarrin"
-          },
-          "serviceType": ["House Cleaning", "Office Cleaning", "Vacate Cleaning", "Airbnb Cleaning", "Carpet Cleaning", "Window Cleaning", "Pressure Cleaning", "NDIS Cleaning", "Car Park Cleaning"]
-        }, {
-          "@type": "FAQPage",
-          "@id": "https://resteasyservices.com.au/langwarrin/#faq",
-          "mainEntity": [{
-            "@type": "Question",
-            "name": "Are the cleaning services provided for both residential and commercial premises?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning services are available for homes, offices, retail stores and other commercial premises in Langwarrin."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are there services for single cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. One-time cleaning services are available for inspections, seasonal cleaning, special occasions and other one-off requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are customized cleaning checklists provided?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning tasks can be customised based on the condition of your property and your specific cleaning requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are weekend cleaning services provided in Langwarrin?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Weekend cleaning appointments are available depending on scheduling and service availability."
-            }
-          }, {
-            "@type": "Question",
-            "name": "How long would the cleaning service take?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The time required depends on the size and condition of the property as well as the type of cleaning service selected."
-            }
-          }, {
-            "@type": "Question",
-            "name": "In which areas is more attention paid during cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Special attention is given to kitchens, bathrooms, floors, benchtops, door handles and other frequently touched areas to maintain a hygienic environment."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Can cleaning be scheduled regularly?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Regular cleaning services can be scheduled weekly, fortnightly or monthly to keep your property consistently clean."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Do you offer outdoor cleaning services?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Outdoor cleaning services include pressure cleaning, window cleaning, garden maintenance and car park cleaning."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Who is eligible for vacate cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Vacate cleaning is available for apartments, units, houses, townhouses and other rented residential properties."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Why should one choose a professional cleaning service?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Professional cleaning helps maintain a cleaner, healthier and more hygienic environment while saving time and ensuring consistent cleaning standards."
-            }
-          }]
-        }]
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://resteasyservices.com.au/#business",
+      "name": "Rest Easy Services",
+      "url": "https://resteasyservices.com.au/",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "telephone": "+61 429 780 896",
+      "email": "sales@resteasyservices.com.au",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6/7 Suffolk Street",
+        "addressLocality": "Capel Sound",
+        "addressRegion": "VIC",
+        "postalCode": "3940",
+        "addressCountry": "AU"
       }
-    </script>
+    },
+    {
+      "@type": "Service",
+      "@id": "https://resteasyservices.com.au/cleaning-services-rye/#service",
+      "name": "Cleaning Services Rye",
+      "url": "https://resteasyservices.com.au/cleaning-services-rye",
+      "description": "Professional cleaning services in Rye for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance and other residential and commercial cleaning needs.",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "provider": {
+        "@id": "https://resteasyservices.com.au/#business"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Rye"
+      },
+      "serviceType": [
+        "House Cleaning",
+        "Office Cleaning",
+        "Vacate Cleaning",
+        "Airbnb Cleaning",
+        "Carpet Cleaning",
+        "Window Cleaning",
+        "Pressure Washing",
+        "NDIS Cleaning",
+        "Garden Maintenance"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://resteasyservices.com.au/cleaning-services-rye/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What kind of cleaning services do you offer in Rye?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer services such as house cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure washing, gardens and many more."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer end of lease cleaning in Rye?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, vacate cleaning will assist your property to be in good shape during inspection and for incoming tenants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I arrange for regular house cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, you can arrange for your cleaning on a weekly, bi-weekly and monthly basis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer Airbnb cleaning services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer Airbnb cleaning which includes cleaning, sanitization, and preparation for incoming guests."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer carpet cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer services for cleaning your carpets."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide window cleaning services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, window cleaning both interior and exterior is offered."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does pressure washing include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pressure washing involves cleaning away dirt, mold, algae, grease, and other stains from outside areas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you have NDIS cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, NDIS cleaning helps keep participants' homes clean, safe, and hygienic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you have garden maintenance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, garden maintenance services such as mowing of lawns, hedge trimming, weeding and many more."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer same day cleaning services at Rye?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, same day services might be provided depending on schedule and nature of service required."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -252,7 +278,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-Langwarrin.png" alt="Cleaning Services"
+              <img src="assets\images\location\cleaning-services-rye.png" alt="Cleaning Services"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -285,7 +311,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\house-cleaning-in-rye.png" alt="house-cleaning-in-rye">
                 </div>
               </div>
               <!-- House Cleaning -->
@@ -306,7 +332,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\vacate-cleaning-in-rye.png" alt="vacate-cleaning-in-rye">
                 </div>
               </div>
               <!-- Linen Hire -->
@@ -327,7 +353,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\airbnb-cleaning-in-rye.png" alt="airbnb-cleaning-in-rye">
                 </div>
               </div>
               <!-- House Maintenance -->
@@ -348,13 +374,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\window-cleaning-rye.png" alt="window-cleaning-rye">
                 </div>
               </div>
               <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="window-cleaning">Window Cleaning</a>
+                  <a href="window-cleaning">Window Cleaning Services</a>
                 </h3>
                 <br>
                 <p>Professional window cleaning in Rye makes sure that all dirt and streaks on your windows are removed.
@@ -374,7 +400,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-langwarrin.png" alt="#">
+                  <img src="assets\images\location\linen-rental-rye.png" alt="linen-rental-rye">
                 </div>
               </div>
               <!-- Car Park Cleaning -->
@@ -394,14 +420,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\house-maintenance-rye.png" alt="house-maintenance-rye">
                 </div>
               </div>
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="home-maintenance">House Maintenance
-                  </a>
+                  <a href="house-maintenance">House Maintenance</a>
                 </h3>
                 <br>
                 <p>House maintenance in Rye covers general repair and maintenance of household buildings to ensure
@@ -416,7 +441,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="#">
+                  <img src="assets\images\location\garden-maintenance-rye.png" alt="garden-maintenance-rye">
                 </div>
               </div>
               <!-- Airbnb Cleaning -->
@@ -436,7 +461,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\ndis-cleaning-rye.png" alt="ndis-cleaning-rye">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -476,18 +501,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\carpet-cleaning-rye.png" alt="carpet-cleaning-rye">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleaning</a>
                 </h3>
                 <br>
-                <p>Carpet cleaning in Rye cleans and refreshes carpets of all types, removing stains, dirt, allergens,
-                  and unpleasant smells.</p>
+                <p>Carpet cleaning in Rye cleans carpets of all types, removing stains, dirt, allergens, and smells.</p>
               </div>
             </div>
           </div>
@@ -497,13 +520,13 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\pressure-washing-rye.png" alt="pressure-washing-rye">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-cleaning">Pressure Washing</a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
                 <p>Pressure washing in Rye helps in getting rid of the dirt, mold, and grime that accumulate on various
@@ -517,7 +540,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\car-park-cleaning-rye.png" alt="car-park-cleaning-rye">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -535,7 +558,7 @@
       </div>
     </section>
     <!--Start Our Cleaning Process -->
-   
+
     <!--Start CTA  -->
     <section class="cta-one">
       <div class="cta-one__bg"></div>
@@ -580,7 +603,8 @@
                   <h3>What kind of cleaning services do you offer in Rye?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>We offer services such as house cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure washing, gardens and many more.</p>
+                  <p>We offer services such as house cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning, window
+                    cleaning, pressure washing, gardens and many more.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -591,7 +615,8 @@
                   <h3>Do you offer end of lease cleaning in Rye?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, vacate cleaning will assist your property to be in good shape during inspection and for incoming tenants.
+                  <p>Yes, vacate cleaning will assist your property to be in good shape during inspection and for
+                    incoming tenants.
                   </p>
                 </div>
               </li>
@@ -615,7 +640,8 @@
                   <h3>Do you offer Airbnb cleaning services?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, we offer Airbnb cleaning which includes cleaning, sanitization, and preparation for incoming guests.</p>
+                  <p>Yes, we offer Airbnb cleaning which includes cleaning, sanitization, and preparation for incoming
+                    guests.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -654,7 +680,8 @@
                   <h3>What does pressure washing include?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Pressure washing involves cleaning away dirt, mold, algae, grease, and other stains from outside areas.</p>
+                  <p>Pressure washing involves cleaning away dirt, mold, algae, grease, and other stains from outside
+                    areas.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -676,7 +703,8 @@
                   <h3>Do you have garden maintenance?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, garden maintenance services such as mowing of lawns, hedge trimming, weeding and many more.</p>
+                  <p>Yes, garden maintenance services such as mowing of lawns, hedge trimming, weeding and many more.
+                  </p>
                 </div>
               </li>
               <li class="accordion block">
