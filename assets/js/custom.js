@@ -241,6 +241,84 @@
       }
     })();
 
+    // House cleaning offers: horizontal carousel on mobile only
+    (function initHcOffersMobileCarousel() {
+      var $wrap = $(".hc-offers__carousel-wrap");
+      var $list = $(".hc-offers__list");
+      if (!$wrap.length || !$list.length || !$.fn.owlCarousel) return;
+
+      var mobileMq = window.matchMedia("(max-width: 767px)");
+      var $carousel = null;
+
+      function buildCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) return;
+
+        var $cards = $();
+        $list.children(".hc-offer").each(function () {
+          var $card = $(this).clone(true);
+          if ($card.length) {
+            $cards = $cards.add($card);
+          }
+        });
+        if (!$cards.length) return;
+
+        $carousel = $('<div class="hc-offers__mobile-carousel owl-carousel owl-theme"></div>');
+        $cards.each(function () {
+          $carousel.append($('<div class="item"></div>').append(this));
+        });
+        $wrap.prepend($carousel);
+        $list.addClass("is-mobile-hidden");
+
+        $carousel.owlCarousel({
+          loop: true,
+          autoplay: true,
+          autoplayTimeout: 5500,
+          autoplayHoverPause: true,
+          margin: 14,
+          nav: false,
+          dots: true,
+          smartSpeed: 450,
+          items: 1,
+          stagePadding: 18
+        });
+
+        $wrap.find(".hc-offers__mobile-nav-btn--prev").off("click.hcOffers").on("click.hcOffers", function (e) {
+          e.preventDefault();
+          $carousel.trigger("prev.owl.carousel");
+        });
+        $wrap.find(".hc-offers__mobile-nav-btn--next").off("click.hcOffers").on("click.hcOffers", function (e) {
+          e.preventDefault();
+          $carousel.trigger("next.owl.carousel");
+        });
+        $wrap.find(".hc-offers__mobile-nav").attr("aria-hidden", "false");
+      }
+
+      function destroyCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) {
+          $carousel.trigger("destroy.owl.carousel");
+          $carousel.remove();
+          $carousel = null;
+        }
+        $list.removeClass("is-mobile-hidden");
+        $wrap.find(".hc-offers__mobile-nav").attr("aria-hidden", "true");
+      }
+
+      function syncMode() {
+        if (mobileMq.matches) {
+          buildCarousel();
+        } else {
+          destroyCarousel();
+        }
+      }
+
+      syncMode();
+      if (typeof mobileMq.addEventListener === "function") {
+        mobileMq.addEventListener("change", syncMode);
+      } else if (typeof mobileMq.addListener === "function") {
+        mobileMq.addListener(syncMode);
+      }
+    })();
+
   }
 
 

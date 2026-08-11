@@ -159,7 +159,7 @@
 
 /* --- Bottom bar --- */
 .re-footer__bottom {
-    background-color: #e07b2a;
+    background-color: #ff5e15;
     padding: 14px 0;
     margin-top: 40px;
 }

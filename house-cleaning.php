@@ -237,340 +237,277 @@
         <!--End Page Header-->
 
         <!--Start Services Details -->
-        <section style="background-color: #f1f3f2;" class="team-details__middle">
-
+        <section class="hc-intro">
             <div class="container">
-                <div class="row">
-                    <!--Start Team Details Middle Content-->
-                    <div class="col-xl-6">
-                        <div class="team-details__middle-content">
-                            <div class="title">
-                                <h1>House Cleaning Mornington Peninsula | Expert Cleaners</h1>
-                            </div>
-                            <div class="text-box">
-                                <p>House cleaning services ensure that your home is kept clean and fresh without needing
-                                    to put more time into your daily tasks. House and apartment cleaning services can be
-                                    provided either for regular cleaning or for intensive home cleaning based on the
-                                    needs of each household. Houses are professionally cleaned to ensure that their
-                                    interiors are always neat and hygienic across Mornington Peninsula such as <a href="cleaning-services-rosebud"> Rosebud</a>,
-                                    Dromana, Mount Eliza, Hastings, Mornington, Mount Martha, <a href="cleaning-services-somerville"> Somerville</a>, and
-                                    Blairgowrie.
-
-                                </p>
-                            </div>
-
-
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__content">
+                            <span class="hc-badge">House Cleaning</span>
+                            <h1>House Cleaning Mornington Peninsula | Expert Cleaners</h1>
+                            <p>House cleaning services ensure that your home is kept clean and fresh without needing
+                                to put more time into your daily tasks. House and apartment cleaning services can be
+                                provided either for regular cleaning or for intensive home cleaning based on the
+                                needs of each household. Houses are professionally cleaned to ensure that their
+                                interiors are always neat and hygienic across Mornington Peninsula such as
+                                <a href="cleaning-services-rosebud">Rosebud</a>,
+                                Dromana, Mount Eliza, Hastings, Mornington, Mount Martha,
+                                <a href="cleaning-services-somerville">Somerville</a>, and
+                                Blairgowrie.</p>
+                            <ul class="hc-chips">
+                                <li><a href="cleaning-services-rosebud">Rosebud</a></li>
+                                <li><a href="cleaning-services-dromana">Dromana</a></li>
+                                <li><a href="cleaning-services-mount-eliza">Mount Eliza</a></li>
+                                <li><span>Hastings</span></li>
+                                <li><a href="cleaning-services-mornington">Mornington</a></li>
+                                <li><span>Mount Martha</span></li>
+                                <li><a href="cleaning-services-somerville">Somerville</a></li>
+                                <li><span>Blairgowrie</span></li>
+                            </ul>
                         </div>
                     </div>
-                    <div class="col-xl-6">
-                        <div class="service-detail-img">
-                            <img src="assets\images\house-main.png" alt="Cleaning Services" class="img-fluid rounded" />
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__media">
+                            <img src="assets/images/house-main.png" alt="House cleaning services Mornington Peninsula">
                         </div>
                     </div>
-                    <!--End Team Details Middle Content-->
                 </div>
             </div>
         </section>
         <!--End Services Details -->
 
-        <!-- new section  -->
-        <section class="blog-one">
+        <!-- Service types -->
+        <section class="hc-offers">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
-                            <span>
-                                <h2>Trusted House Cleaning Services for Every Home Need</h2>
-                            </span>
+                            <span>Our Services</span>
                         </div>
                     </div>
-                    <p>Home cleaning services offered by professionals that ensure that your house remains clean, fresh,
+                    <h2>Trusted House Cleaning Services for Every Home Need</h2>
+                    <p class="hc-lead">Home cleaning services offered by professionals that ensure that your house remains clean, fresh,
                         and always in good condition. We offer solutions to any cleaning problem that you may have at
                         your disposal.</p>
                 </div>
-                <div class="row">
 
-
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInDown animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\deep-cleaning.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Deep Cleaning</h3>
-                                <br>
-                                <p>Deep Cleaning is a thorough and extensive cleaning solution that pays attention to
-                                    very specific areas in your house. It involves more than cleaning surfaces; you will
-                                    find cleanliness in all those places that do not usually get cleaned behind
-                                    furniture, inside cupboards ,,up the skirting board, between tiles, and other
-                                    difficult to reach places. Deep Cleaning is perfect if you have previously
-                                    accumulated dirt, dust, and bacteria to completely clean your home.</p>
-
-
-
-                            </div>
-                        </div>
+                <div class="hc-offers__carousel-wrap">
+                <div class="hc-offers__list">
+                <article class="hc-offer">
+                    <div class="hc-offer__img">
+                        <img src="assets/images/cleaning/deep-cleaning.png" alt="Deep Cleaning">
                     </div>
-                    <!--End Blog One Single-->
-
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\move-in-cleaning.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Move-In / Move-Out Cleaning</h3>
-                                <br>
-                                <p>Cleaning of the house before you move in or move out is known as Move-In/Move-Out
-                                    Cleaning Service. Process involved in Move-In/Move-Out cleaning service includes
-                                    thorough cleaning of all the parts of your house like Kitchen, Bathrooms, Floors,
-                                    Walls, and other difficult areas. It helps to get your house cleaned so that it
-                                    becomes prepared for new tenants or just in case you want to leave your house in a
-                                    tidy manner.</p>
-
-
-
-                            </div>
-                        </div>
+                    <div class="hc-offer__body">
+                        <span class="hc-offer__num">01</span>
+                        <h3>Deep Cleaning</h3>
+                        <p>Deep Cleaning is a thorough and extensive cleaning solution that pays attention to
+                            very specific areas in your house. It involves more than cleaning surfaces; you will
+                            find cleanliness in all those places that do not usually get cleaned behind
+                            furniture, inside cupboards ,,up the skirting board, between tiles, and other
+                            difficult to reach places. Deep Cleaning is perfect if you have previously
+                            accumulated dirt, dust, and bacteria to completely clean your home.</p>
                     </div>
-                    <!--End Blog One Single-->
+                </article>
 
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInDown animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\spring-cleaning.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Spring or Seasonal Cleaning</h3>
-                                <br>
-                                <p>Spring or seasonal cleaning refers to a thorough cleaning of your house, which is
-                                    carried out infrequently to clear out any dust, dirt, or accumulated items that may
-                                    have collected around the house. Every nook and cranny in the house will be tied up.
-                                    This is especially helpful during the change of seasons to refresh a home and help
-                                    make it feel cleaner, fresher ,and neater.</p>
-
-
-
-                            </div>
-                        </div>
+                <article class="hc-offer hc-offer--reverse">
+                    <div class="hc-offer__img">
+                        <img src="assets/images/cleaning/move-in-cleaning.png" alt="Move-In / Move-Out Cleaning">
                     </div>
-                    <!--End Blog One Single-->
+                    <div class="hc-offer__body">
+                        <span class="hc-offer__num">02</span>
+                        <h3>Move-In / Move-Out Cleaning</h3>
+                        <p>Cleaning of the house before you move in or move out is known as Move-In/Move-Out
+                            Cleaning Service. Process involved in Move-In/Move-Out cleaning service includes
+                            thorough cleaning of all the parts of your house like Kitchen, Bathrooms, Floors,
+                            Walls, and other difficult areas. It helps to get your house cleaned so that it
+                            becomes prepared for new tenants or just in case you want to leave your house in a
+                            tidy manner.</p>
+                    </div>
+                </article>
 
+                <article class="hc-offer">
+                    <div class="hc-offer__img">
+                        <img src="assets/images/cleaning/spring-cleaning.png" alt="Spring or Seasonal Cleaning">
+                    </div>
+                    <div class="hc-offer__body">
+                        <span class="hc-offer__num">03</span>
+                        <h3>Spring or Seasonal Cleaning</h3>
+                        <p>Spring or seasonal cleaning refers to a thorough cleaning of your house, which is
+                            carried out infrequently to clear out any dust, dirt, or accumulated items that may
+                            have collected around the house. Every nook and cranny in the house will be tied up.
+                            This is especially helpful during the change of seasons to refresh a home and help
+                            make it feel cleaner, fresher ,and neater.</p>
+                    </div>
+                </article>
+
+                <article class="hc-offer hc-offer--reverse">
+                    <div class="hc-offer__img">
+                        <img src="assets/images/cleaning/regular-cleaning.png" alt="Regular Home Cleaning">
+                    </div>
+                    <div class="hc-offer__body">
+                        <span class="hc-offer__num">04</span>
+                        <h3>Regular Home Cleaning</h3>
+                        <p>Regular home cleaning is a routine service designed to keep your house consistently
+                            clean and tidy. It includes dusting all surfaces, vacuuming carpets, mopping floors,
+                            kitchen cleaning ,and bathroom sanitization. This service is ideal for weekly or
+                            fortnightly maintenance to ensure your home always feels fresh, hygienic ,and
+                            comfortable for daily living.</p>
+                    </div>
+                </article>
+
+                <article class="hc-offer">
+                    <div class="hc-offer__img">
+                        <img src="assets/images/cleaning/custom-cleaning.png" alt="Custom Cleaning">
+                    </div>
+                    <div class="hc-offer__body">
+                        <span class="hc-offer__num">05</span>
+                        <h3>Custom Cleaning</h3>
+                        <p>Custom cleaning is a flexible service designed according to your specific needs and
+                            preferences. You can choose particular rooms, areas ,or tasks that require
+                            attention, such as kitchen deep clean, bathroom focus, or selective room cleaning.
+                            It’s a tailored solution that ensures your home gets exactly the care it needs
+                            without unnecessary services.</p>
+                    </div>
+                </article>
                 </div>
-                <div class="row">
-
-
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-6 col-lg-6 wow fadeInUp animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\regular-cleaning.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Regular Home Cleaning</h3>
-                                <br>
-                                <p>Regular home cleaning is a routine service designed to keep your house consistently
-                                    clean and tidy. It includes dusting all surfaces, vacuuming carpets, mopping floors,
-                                    kitchen cleaning ,and bathroom sanitization. This service is ideal for weekly or
-                                    fortnightly maintenance to ensure your home always feels fresh, hygienic ,and
-                                    comfortable for daily living.</p>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Blog One Single-->
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-6 col-lg-6 wow fadeInUp animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\custom-cleaning.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Custom Cleaning</h3>
-                                <br>
-                                <p>Custom cleaning is a flexible service designed according to your specific needs and
-                                    preferences. You can choose particular rooms, areas ,or tasks that require
-                                    attention, such as kitchen deep clean, bathroom focus, or selective room cleaning.
-                                    It’s a tailored solution that ensures your home gets exactly the care it needs
-                                    without unnecessary services.</p>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Blog One Single-->
-
-
-
-
-
+                <div class="hc-offers__mobile-nav" aria-hidden="true">
+                    <button type="button" class="hc-offers__mobile-nav-btn hc-offers__mobile-nav-btn--prev" aria-label="Previous service">
+                        <span class="fa fa-angle-left"></span>
+                    </button>
+                    <button type="button" class="hc-offers__mobile-nav-btn hc-offers__mobile-nav-btn--next" aria-label="Next service">
+                        <span class="fa fa-angle-right"></span>
+                    </button>
+                </div>
                 </div>
             </div>
         </section>
 
-        <!-- new section  -->
-
-        <!--Start Benefits Services Details -->
-        <section class="features-one features-one--about">
-            <div class="features-one__bg">
-            </div>
-            <div class="shape1 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
-            <div class="shape2 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
+        <!-- What Is Included -->
+        <section class="hc-included">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
-                            <span>
-                                <h2>Why Choose Our Residential Cleaning Services in Mornington Peninsula?</h2>
-                            </span>
+                            <span>What's Included</span>
                         </div>
                     </div>
-
-
+                    <h2>What Is Included in House Cleaning?</h2>
+                    <p class="hc-lead">House cleaning covers the main areas of your home to help keep them clean, comfortable and presentable. The exact tasks can vary depending on the type of cleaning and your home's requirements.</p>
                 </div>
 
-
-                <div class="row service-benefits-grid">
-                    <!--Start Features One Single-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.1s">
-                        <div class="features-one__single style2">
-                            <div class="icon-box">
-                                <span class="icon-house"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3 class="card-text-col">Reliable and Consistent Service</h3>
-                                <p>Our house cleaning services are always reliable and trustworthy. Our workers follow a
-                                    standard procedure when doing their jobs. They make sure that your house remains
-                                    clean and tidy without compromising the quality of the work.</p>
-                            </div>
+                <div class="hc-included__grid">
+                    <article class="hc-included__card">
+                        <div class="hc-included__icon">
+                            <span class="icon-clean"></span>
                         </div>
-                    </div>
-                    <!--End Features One Single-->
+                        <h3>Bathroom Cleaning</h3>
+                        <ul>
+                            <li>Shower, bathtub, and toilet cleaning.</li>
+                            <li>Surface cleaning of vanities, sinks, and taps.</li>
+                            <li>Mirror cleaning.</li>
+                            <li>Bathroom fixtures cleaning.</li>
+                            <li>Floor vacuuming and mopping.</li>
+                        </ul>
+                    </article>
 
-                    <!--Start Features One Single-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.2s">
-                        <div class="features-one__single">
-                            <div class="icon-box">
-                                <span class="icon-window-cleaning"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3>Experienced Cleaning Professionals</a></h3>
-                                <p>We have highly skilled and well-trained house cleaners who know how to clean various
-                                    types of houses and are ready to attend to all areas of your house ,whether regular
-                                    or deep cleaning is required.</p>
-                            </div>
+                    <article class="hc-included__card">
+                        <div class="hc-included__icon">
+                            <span class="icon-household"></span>
                         </div>
-                    </div>
-                    <!--End Features One Single-->
+                        <h3>Kitchen Cleaning</h3>
+                        <ul>
+                            <li>Bench tops and splash backs cleaning.</li>
+                            <li>Sinks, taps and around surfaces cleaning.</li>
+                            <li>Cupboard fronts and taps cleaning.</li>
+                            <li>Stove tops and surface appliances cleaning.</li>
+                            <li>Floor vacuuming and mopping.</li>
+                        </ul>
+                    </article>
 
-                    <!--Start Features One Single-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.3s">
-                        <div class="features-one__single style2">
-                            <div class="icon-box">
-                                <span class="icon-clean"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3 class="card-text-col">Complete Home Coverage</h3>
-                                <p>We will clean every corner of your place starting from the bedroom, kitchen, bathroom
-                                    ,and living room. Our cleaning service will ensure that we make all parts of your
-                                    place clean.</p>
-                            </div>
+                    <article class="hc-included__card">
+                        <div class="hc-included__icon">
+                            <span class="icon-house"></span>
                         </div>
-                    </div>
-                    <!--End Features One Single-->
-                </div>
+                        <h3>Living Spaces &amp; Bedrooms</h3>
+                        <ul>
+                            <li>Dusting furniture, shelves and other surfaces.</li>
+                            <li>Wiping doors, handles and light switches.</li>
+                            <li>Dusting fixtures and corners that can be reached.</li>
+                            <li>Vacuuming carpets, rugs and floors.</li>
+                            <li>Sweeping hard floors as appropriate.</li>
+                            <li>Tidying cleaned areas.</li>
+                        </ul>
+                    </article>
 
-                <div class="row service-benefits-grid">
-
-                    <!--Start Features One Single-->
-                    <div class="col-xl-6 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.2s">
-                        <div class="features-one__single">
-                            <div class="icon-box">
-                                <span class="icon-window-cleaning"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3>Flexible Scheduling Options</h3>
-                                <p>Cleaning services at times convenient for you – we provide both weekly, fortnightly
-                                    ,and even single cleaning sessions. We will help you keep your house always clean,
-                                    without interfering with your busy schedule.</p>
-                            </div>
+                    <article class="hc-included__card">
+                        <div class="hc-included__icon">
+                            <span class="icon-packaging"></span>
                         </div>
-                    </div>
-                    <!--End Features One Single-->
-                    <!--Start Features One Single-->
-                    <div class="col-xl-6 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.1s">
-                        <div class="features-one__single style2">
-                            <div class="icon-box">
-                                <span class="icon-house"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3 class="card-text-col">Hygienic and Detail-Focused Cleaning</h3>
-                                <p>We offer cleaning services on the times that are convenient for you, whether it’s
-                                    weekly ,bi-weekly, or just once. We can make sure your home remains clean all the
-                                    time, without having to disturb your schedule.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Features One Single-->
-
-
-
+                        <h3>General Cleaning</h3>
+                        <ul>
+                            <li>Removal of visible dust and cobwebs.</li>
+                            <li>Evacuating household waste containers.</li>
+                            <li>Cleaning surfaces that can be reached.</li>
+                            <li>Vacuuming and sweeping floors.</li>
+                            <li>Making commonly used spaces look fresh and tidy.</li>
+                        </ul>
+                    </article>
                 </div>
             </div>
         </section>
 
+        <!--Start Benefits Services Details -->
+        <section class="hc-why">
+            <div class="container">
+                <div class="hc-why__inner">
+                    <div class="sec-title text-center">
+                        <div class="sub-title">
+                            <div class="text">
+                                <span>Why Choose Us</span>
+                            </div>
+                        </div>
+                        <h2>What makes our residential cleaning services on Mornington Peninsula unique?</h2>
+                    </div>
+
+                    <p class="hc-why__lead">A professional cleaning service will help you to manage your household chores easily. Rather than spend your available time doing floor, bathroom, kitchen, and living area cleaning, a professional cleaning service will perform such chores.</p>
+
+                    <p class="hc-why__label">Professional cleaning may be helpful in:</p>
+
+                    <div class="hc-why-grid">
+                        <div class="hc-why-item">
+                            <span class="hc-why-item__icon"><span class="icon-working-time"></span></span>
+                            <p>Busy households with limited time</p>
+                        </div>
+                        <div class="hc-why-item">
+                            <span class="hc-why-item__icon"><span class="icon-house"></span></span>
+                            <p>Families who need regular cleaning support</p>
+                        </div>
+                        <div class="hc-why-item">
+                            <span class="hc-why-item__icon"><span class="icon-household"></span></span>
+                            <p>Homes that require ongoing maintenance</p>
+                        </div>
+                        <div class="hc-why-item">
+                            <span class="hc-why-item__icon"><span class="icon-clean"></span></span>
+                            <p>People preparing for guests or special occasions</p>
+                        </div>
+                        <div class="hc-why-item">
+                            <span class="hc-why-item__icon"><span class="icon-packaging"></span></span>
+                            <p>Properties that need a one-off clean</p>
+                        </div>
+                        <div class="hc-why-item">
+                            <span class="hc-why-item__icon"><span class="icon-window-cleaning"></span></span>
+                            <p>Homes requiring a more detailed deep clean</p>
+                        </div>
+                    </div>
+
+                    <p class="hc-why__note">Cleaning can be arranged on a regular or one-off basis depending on the requirements of the property.</p>
+                </div>
+            </div>
+        </section>
         <!--End Benefits Services Details -->
 
-
-
-
         <!--Start Our Cleaning Process -->
-        <section class="work-process-one">
+        <section class="hc-process">
             <div class="container">
-                <div class="shape1"><img src="assets/images/shapes/work-process-v1-shape1.png" alt="#"></div>
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
@@ -579,77 +516,34 @@
                     </div>
                     <h2>Our Home Cleaning Process</h2>
                 </div>
-                <div class="row filter-layout masonary-layout" style="position: relative; height: 450px;">
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInLeft animated" data-wow-delay="0ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInLeft; position: absolute; left: 0px; top: 0px;">
-                        <div class="work-process-one__single text-center">
-                            <div class="icon-box">
-                                <span class="icon-packaging"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Initial Home Assessment</h3>
-                                <p>Our process starts with an understanding of what you require for the cleaning of your
-                                    house. We look into how the cleaning is to be done and identify which parts of the
-                                    house need more attention.</p>
-                            </div>
-                        </div>
+                <div class="hc-steps">
+                    <div class="hc-step">
+                        <div class="hc-step__num">1</div>
+                        <h3>Initial Home Assessment</h3>
+                        <p>Our process starts with an understanding of what you require for the cleaning of your
+                            house. We look into how the cleaning is to be done and identify which parts of the
+                            house need more attention.</p>
                     </div>
-                    <!--End Work Process One Single-->
-
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInLeft animated" data-wow-delay="100ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft; position: absolute; left: 300px; top: 0px;">
-                        <div class="work-process-one__single mt-100 text-center">
-                            <div class="icon-box">
-                                <span class="icon-working-time"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3> Organised Cleaning Plan</h3>
-                                <p>Our team makes use of a cleaning list that helps us from missing anything while
-                                    cleaning. We break down the house into segments, cleaning one at a time.</p>
-                            </div>
-                        </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">2</div>
+                        <h3>Organised Cleaning Plan</h3>
+                        <p>Our team makes use of a cleaning list that helps us from missing anything while
+                            cleaning. We break down the house into segments, cleaning one at a time.</p>
                     </div>
-                    <!--End Work Process One Single-->
-
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInRight animated" data-wow-delay="0ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight; position: absolute; left: 600px; top: 0px;">
-                        <div class="work-process-one__single mt-50  text-center">
-                            <div class="icon-box">
-                                <span class="icon-wash-your-hands"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Detailed Cleaning Execution</h3>
-                                <p>Our cleaning services include dusting, vacuuming, mopping, and sanitizing every
-                                    important room in your house. We take extra care when it comes to your kitchen
-                                    ,bathroom and rooms that get a lot of use.</p>
-                            </div>
-                        </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">3</div>
+                        <h3>Detailed Cleaning Execution</h3>
+                        <p>Our cleaning services include dusting, vacuuming, mopping, and sanitizing every
+                            important room in your house. We take extra care when it comes to your kitchen
+                            ,bathroom and rooms that get a lot of use.</p>
                     </div>
-                    <!--End Work Process One Single-->
-
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInRight animated" data-wow-delay="100ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInRight; position: absolute; left: 900px; top: 0px;">
-                        <div class="work-process-one__single text-center">
-                            <div class="icon-box">
-                                <span class="icon-household"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Final Inspection and Finishing</h3>
-                                <p>Once the cleaning process is over ,we go through the whole place making sure that all
-                                    areas have been properly cleaned and arranged. The goal is to leave the house clean
-                                    and tidy for you to live comfortably in.</p>
-                            </div>
-                        </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">4</div>
+                        <h3>Final Inspection and Finishing</h3>
+                        <p>Once the cleaning process is over ,we go through the whole place making sure that all
+                            areas have been properly cleaned and arranged. The goal is to leave the house clean
+                            and tidy for you to live comfortably in.</p>
                     </div>
-                    <!--End Work Process One Single-->
                 </div>
             </div>
         </section>
@@ -684,24 +578,19 @@
         <!-- review section -->
 
 
-        <!--Start Residential & Rental -->
-
-        <section class="about-two">
-            <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
-                <div class="sub-title">
-
-                </div>
-                <h4 style="font-size: 30px;">FAQS</h4>
-            </div>
-
-
-            <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
-
+        <!--Start FAQs -->
+        <section class="hc-faq">
             <div class="container">
+                <div class="sec-title text-center">
+                    <div class="sub-title">
+                        <div class="text">
+                            <span>FAQs</span>
+                        </div>
+                    </div>
+                    <h2>Frequently Asked Questions</h2>
+                </div>
 
                 <div class="row">
-
-                    <!--Start About Two Img-->
                     <div class="col-xl-6 col-lg-6 col-md-12">
                         <ul class="accordion-box">
                             <li class="accordion block">
@@ -710,7 +599,6 @@
                                     <h3>What is included in home cleaning services?</h3>
                                 </div>
                                 <div class="acc-content">
-
                                     <p>Home cleaning normally entails such tasks as dusting, vacuuming, mopping of
                                         floors, cleaning of kitchens ,and bathrooms, along with general cleaning of all
                                         rooms within your house.</p>
@@ -722,7 +610,6 @@
                                     <h3>How often should I book home cleaning?</h3>
                                 </div>
                                 <div class="acc-content">
-
                                     <p>It largely depends on your preferences, however, most people tend to organize
                                         home cleaning once a week or once in two weeks.</p>
                                 </div>
@@ -733,7 +620,6 @@
                                     <h3>Do I need to be at home during the cleaning?</h3>
                                 </div>
                                 <div class="acc-content">
-
                                     <p>Certainly not, since you can leave, or give your cleaner an entry into your
                                         place. </p>
                                 </div>
@@ -744,7 +630,6 @@
                                     <h3>How long would it take to clean my house?</h3>
                                 </div>
                                 <div class="acc-content">
-
                                     <p>It all depends on how big your home is and what type of cleaning you want done.
                                         Regular cleaning will require some time ,but deep cleaning will take more time
                                         as it is more detailed.</p>
@@ -753,22 +638,16 @@
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3> How does the process of deep cleaning differ from the process of normal
+                                    <h3>How does the process of deep cleaning differ from the process of normal
                                         cleaning?</h3>
                                 </div>
                                 <div class="acc-content">
-
                                     <p>Normal cleaning includes maintenance work only, but deep cleaning requires
                                         thorough cleaning and inaccessible areas too.</p>
                                 </div>
                             </li>
                         </ul>
                     </div>
-                    <!--End About Two Img-->
-
-
-
-                    <!--Start About One Content-->
 
                     <div class="col-xl-6 col-lg-6 col-md-12">
                         <ul class="accordion-box">
@@ -778,18 +657,15 @@
                                     <h3>Do you bring the cleaning materials with you?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
                                     <p>Yes, but we can also do your cleaning using your choice of products.</p>
                                 </div>
                             </li>
-
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
                                     <h3>Am I able to tailor a plan for my house cleaning service?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
                                     <p>Yes, as we provide flexible services for any part of the house you choose.</p>
                                 </div>
                             </li>
@@ -799,7 +675,6 @@
                                     <h3>Do you clean apartments and big houses?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
                                     <p>Yes, we offer home cleaning services for all property including apartments,
                                         villas, and big houses.</p>
                                 </div>
@@ -810,7 +685,6 @@
                                     <h3>How do I make an appointment for my home cleaning service?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
                                     <p>Please contact us by phone or booking form to schedule your home cleaning service
                                         time slot.</p>
                                 </div>
@@ -822,19 +696,16 @@
                                         process?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
                                     <p>Yes, because our procedure is very safe and can be done in homes with children
                                         and pets.</p>
                                 </div>
                             </li>
                         </ul>
                     </div>
-                    <!--End About One Content-->
                 </div>
             </div>
         </section>
-
-        <!--End  Residential & Rental -->
+        <!--End FAQs -->
 
         <!--Start Footer One -->
         <?php include "includes/footer.php"; ?>

@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="swiper-wrapper">
 
                     <!--Start Main Slider Two-->
-                    <div class="swiper-slide">
+                    <div class="swiper-slide swiper-slide-active">
                         <div class="image-layer"
                             style="background-image:url(assets/images/slides/Cleaning-Services.webp)"
                             data-bg="assets/images/slides/Cleaning-Services.webp"
@@ -497,7 +497,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!--Start About Two-->
         <section class="about-two">
-            <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+            <div class="sec-title text-center" style="margin-bottom:20px; z-index: 999;">
                 <div class="sub-title">
 
                 </div>
@@ -588,11 +588,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     data-swiper-options="{&quot;spaceBetween&quot;: 100, &quot;slidesPerView&quot;: 5, &quot;autoplay&quot;: { &quot;delay&quot;: 5000 }, &quot;breakpoints&quot;: {
                                     &quot;0&quot;: {
                                         &quot;spaceBetween&quot;: 30,
-                                        &quot;slidesPerView&quot;: 1
+                                        &quot;slidesPerView&quot;: 3
                                     },
                                     &quot;375&quot;: {
                                         &quot;spaceBetween&quot;: 30,
-                                        &quot;slidesPerView&quot;: 1
+                                        &quot;slidesPerView&quot;: 3
                                     },
                                     &quot;575&quot;: {
                                         &quot;spaceBetween&quot;: 30,
@@ -1074,7 +1074,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!-- faq section  -->
         <section class="about-two">
-            <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+            <div class="sec-title text-center" style="margin-bottom:10px; z-index: 999;">
                 <div class="sub-title">
 
                 </div>

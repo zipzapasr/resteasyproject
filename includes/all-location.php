@@ -1,6 +1,6 @@
 <section class="aws-areas" id="areas-we-serve-home">
     <div class="container">
-        <div class="row align-items-start g-4 g-xl-5">
+        <div class="row align-items-stretch g-4 g-xl-5">
             <div class="col-xl-6 col-lg-6">
                 <div class="aws-areas__intro">
                     <span class="aws-areas__badge">Service Coverage</span>
@@ -51,7 +51,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6 aws-areas__map-col">
                 <div class="aws-areas__map-card">
                     <span class="aws-areas__badge aws-areas__badge--map">Coverage Map</span>
                     <div class="aws-areas__map">
