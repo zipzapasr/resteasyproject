@@ -1,7 +1,7 @@
 :root {
   --thm-font: "Poppins", sans-serif;
   --thm-font-2: "Open Sans", sans-serif;
-  --thm-gray: #878c8f;
+  --thm-gray: #000;
   --thm-gray-rgb: 135, 140, 143;
   --thm-base: #002359;
   --thm-base-rgb: 7, 95, 51;
@@ -282,7 +282,7 @@ li {
   bottom: 0;
   right: 0;
   height: 1px;
-  background: var(--thm-base);
+  /* background: var(--thm-base); */
   content: "";
 }
 
@@ -2097,7 +2097,7 @@ Main Header Two
 .main-header-two__middle {
   position: relative;
   display: block;
-  flex: 1 1 auto;
+  /* flex: 1 1 auto; */
   min-width: 0;
 }
 
@@ -5503,8 +5503,9 @@ Blog One
 .blog-one {
   position: relative;
   display: block;
-  background: #ffffff;
-  padding: 120px 0px 90px;
+  background: #f8f7ff;
+  padding: 40px 0px 40px;
+
 }
 
 .blog-one__single {
@@ -5584,8 +5585,8 @@ Blog One
   display: block;
   background: #ffffff;
   box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
-  padding: 60px 35px 29px;
-  padding-right: 20px;
+  padding: 15px;
+ 
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 }
@@ -8709,7 +8710,7 @@ Banefits One
   line-height: 20px;
   font-weight: 700;
   cursor: pointer;
-  transform: translateY(-50%) rotate(0deg);
+  transform: translateY(-50%) rotate(180deg);
   transition: all 500ms ease;
   z-index: 1;
 }
@@ -8725,11 +8726,9 @@ Banefits One
 
 .accordion-box .block .acc-btn.active .icon-outer i:before {
   position: relative;
-  font-size: 20px;
-  font-family: "icomoon" !important;
+  font-size: 18px;
   font-weight: 700;
   margin: 0px;
-  content: "\e92d";
 }
 
 .accordion-box .block .acc-content {
@@ -12999,8 +12998,8 @@ Blog Page
 .blog-page {
   position: relative;
   display: block;
-  background: #ffffff;
-  padding: 120px 0px 120px;
+  background: #f8f7ff;
+  padding: 40px 0px 40px;
   z-index: 1;
 }
 
@@ -13016,7 +13015,7 @@ Blog Page
 
 .blog-page__content .blog-one__single__content {
   box-shadow: none;
-  padding: 40px 0px 0px;
+  padding: 20px 0px 0px;
   padding-right: 0px;
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
@@ -15890,6 +15889,115 @@ h1 {
 
 .location-text {
   font-size: 22px;
+}
+
+/* Location services cards: equal height + compact read more (desktop) */
+@media (min-width: 768px) {
+  .location-services__grid > [class*="col-"] {
+    display: flex;
+    margin-bottom: 20px;
+    
+  }
+
+  .location-services__grid .blog-one__single {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 24px;
+    overflow: hidden;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+  }
+
+  .location-services__grid .blog-one__single-img {
+    flex: 0 0 auto;
+  }
+
+  .location-services__grid .blog-one__single-img .inner {
+    border-radius: 0;
+    overflow: hidden;
+  }
+
+  .location-services__grid .blog-one__single-img .inner::before {
+    display: none;
+  }
+
+  .location-services__grid .blog-one__single-img .inner img {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+    transform: none !important;
+  }
+
+  .location-services__grid .blog-one__single__content {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    padding: 16px 16px 0px;
+    box-shadow: none;
+    border-radius: 0;
+    background: transparent;
+  }
+
+  .location-services__grid .blog-one__single__content > br {
+    display: none;
+  }
+
+  .location-services__grid .location-text {
+    font-size: 17px;
+    line-height: 1.35;
+    min-height: calc(20px * 2);
+    margin: 0 0 0px;
+  }
+
+  .location-services__grid .location-text a {
+    color: var(--thm-base, #002359);
+    text-decoration: none;
+  }
+
+  .location-services__grid .location-services__desc {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.55;
+    color: #6b7280;
+    min-height: calc(1.55em * 4);
+  }
+
+  .location-services__grid .location-services__desc.is-expanded {
+    display: block;
+    -webkit-line-clamp: unset;
+    overflow: visible;
+    min-height: 0;
+  }
+}
+
+.location-services__read-more {
+  display: inline-block;
+  width: fit-content;
+  margin-top: 8px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--thm-primary, #ff5e15);
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.location-services__read-more:hover,
+.location-services__read-more:focus-visible {
+  color: var(--thm-base, #002359);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .top-bar {

@@ -5412,3 +5412,155 @@ body {
         display: block !important;
     }
 }
+
+@media only screen and (max-width: 767px) {
+    .location-services__grid.is-mobile-hidden {
+        display: none !important;
+    }
+
+    .location-services__mobile-carousel {
+        display: block;
+        width: 100%;
+    }
+
+    .location-services__mobile-carousel .owl-stage {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .location-services__mobile-carousel .owl-item {
+        display: flex;
+        height: auto;
+    }
+
+    .location-services__mobile-carousel .item {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    .location-services__mobile-carousel .blog-one__single {
+        width: 100%;
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .location-services__mobile-carousel .blog-one__single__content {
+        flex: 1 1 auto;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+
+    .location-services__mobile-carousel .location-text,
+    .location-services__mobile-carousel .location-text a,
+    .location-services__mobile-carousel .location-services__desc,
+    .location-services__mobile-carousel .location-services__read-more {
+        text-align: left;
+    }
+
+    .location-services__mobile-carousel .location-text {
+        margin-bottom: 8px;
+    }
+
+    .location-services__mobile-carousel .blog-one__single__content > br,
+    .location-services__grid .blog-one__single__content > br {
+        display: none;
+    }
+
+    .location-services__mobile-carousel .location-services__desc,
+    .location-services__grid .location-services__desc {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.55;
+        color: #6b7280;
+    }
+
+    .location-services__mobile-carousel .location-services__desc.is-expanded,
+    .location-services__grid .location-services__desc.is-expanded {
+        display: block;
+        -webkit-line-clamp: unset;
+        overflow: visible;
+    }
+
+    .location-services__mobile-carousel .location-services__read-more,
+    .location-services__grid .location-services__read-more {
+        display: inline-block;
+        margin-top: 8px;
+        align-self: flex-start;
+        text-align: left;
+    }
+
+    .location-services__mobile-carousel .owl-dots {
+        margin-top: 18px;
+        text-align: center;
+    }
+
+    .location-services__mobile-carousel .owl-dots .owl-dot span {
+        width: 8px;
+        height: 8px;
+        margin: 0 4px;
+        background: #c5cdd8;
+        border-radius: 50%;
+        display: block;
+        transition: background-color 0.2s ease, width 0.2s ease;
+    }
+
+    .location-services__mobile-carousel .owl-dots .owl-dot.active span {
+        width: 22px;
+        border-radius: 8px;
+        background: var(--thm-primary, #ff5e15);
+    }
+
+    .location-services__mobile-nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        margin-top: 16px;
+    }
+
+    .location-services__mobile-nav[aria-hidden="true"] {
+        display: none;
+    }
+
+    .location-services__mobile-nav-btn {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        background: #ffffff;
+        color: var(--thm-base, #002359);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        padding: 0;
+        cursor: pointer;
+    }
+
+    .location-services__mobile-nav-btn:hover,
+    .location-services__mobile-nav-btn:focus-visible {
+        background: var(--thm-base, #002359);
+        color: #ffffff;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .location-services__mobile-carousel,
+    .location-services__mobile-nav {
+        display: none !important;
+    }
+
+    .location-services__grid.is-mobile-hidden {
+        display: flex !important;
+    }
+}

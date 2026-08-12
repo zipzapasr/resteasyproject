@@ -8,7 +8,7 @@
     <meta name="description"
         content="Professional cleaning services in Frankston for homes, offices, and rental properties. Enjoy cleaner, healthier, and well-maintained living and working spaces." />
     <meta name="keywords"
-        content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in glen waverley" />
+        content="cleaning services frankston, vacate cleaning frankston, end of lease cleaning frankston, airbnb cleaning frankston, house cleaning frankston, window cleaning frankston, carpet cleaning frankston, pressure washing frankston" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-glen-waverley" />
 
@@ -87,82 +87,50 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Can cleaning services aid in preparing properties for special occasions?",
+          "name": "How much does end-of-lease cleaning cost in Frankston?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cleaning can be planned ahead of family occasions, parties, inspections, and corporate functions to make sure the property is well presented."
+            "text": "Cost depends on property size, condition, and how many rooms need attention. We provide a quote based on your specific property so you know the cost upfront before booking."
           }
         },
         {
           "@type": "Question",
-          "name": "Are there any services for cleaning up vacant properties?",
+          "name": "Do you offer same-day or fast turnaround cleaning for Airbnb properties between guests?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Properties that are empty including houses, office spaces, and rental properties can be cleaned up by removing dust and grime before being sold or rented out."
+            "text": "Yes. We work with hosts across Frankston and the Peninsula and can arrange cleaning and linen changeovers between check-out and the next check-in, including short-notice bookings."
           }
         },
         {
           "@type": "Question",
-          "name": "Do cleaning services aid property managers?",
+          "name": "Can you remove salt residue and grime from windows near the foreshore?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cleaning can be helpful to property managers in maintaining their properties, keeping the property in good condition between tenants."
+            "text": "Yes, our window cleaning service is perfect for bayside properties where salt spray and sea air creates quicker build-up than inland homes."
           }
         },
         {
           "@type": "Question",
-          "name": "Can cleaning schedules be adjusted as required?",
+          "name": "Do you work with real estate agents and property managers on vacate cleans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Requirements for cleaning vary, and cleaning schedules can be adjusted to meet any such seasonal requirements or the demands of the property."
+            "text": "Yes, we work with real estate agents and property managers for vacant Property cleaning. We regularly coordinate directly with them to make sure we meet inspection and re-letting deadlines."
           }
         },
         {
           "@type": "Question",
-          "name": "Why is window cleaning necessary professionally?",
+          "name": "Is carpet cleaning included with a vacate clean, or booked separately?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cleaning of windows increases light and improves appearance and makes the whole place looking cleaner from both interior and exterior sides."
+            "text": "Carpet cleaning can be included with a vacate clean or booked separately. Many tenants and landlords book it with their vacate clean to help get their bond back, but it's also a service we offer on its own."
           }
         },
         {
           "@type": "Question",
-          "name": "In what way pressure washing benefits the outdoors?",
+          "name": "Do you provide cleaning for units and apartments as well as houses?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pressure washing is an effective method to remove dirt, algae, mold and stains from hard surfaces and make the area look cleaned and well-maintained."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can you get cleaned after the completion of renovations of a property?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "After completing the renovation process of your property, post-renovation cleaning will help in removing the construction dirt and debris."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does cleaning increase the longevity of furniture?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cleaning regularly will help decrease the dirt accumulation in the carpeting, flooring, and furniture."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Would cleaning services be appropriate for owners of multiple properties?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is possible to have cleaning services at multiple properties whether residential or commercial properties."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What parts of the building need to be cleaned regularly?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Kitchens, bathrooms, entrances, living rooms, and office areas are some examples of high traffic areas that need regular cleaning services."
+            "text": "We clean houses, units, apartments, and townhouses in Frankston."
           }
         }
       ]
@@ -267,13 +235,7 @@
                                 <h1>Frankston Cleaning Services for Cleaner Living Spaces </h1>
                             </div>
                             <div class="text-box">
-                                <p>Maintaining your property’s cleanliness and hygiene will be much simpler with
-                                    professional cleaners at Frankston. A full range of cleaning services encompasses
-                                    kitchen areas, bathroom areas, living rooms, bedrooms, office spaces, windows,
-                                    carpets, and outdoor surfaces. Cleaning services enable you to have a cleaner place
-                                    free from dust, dirt, and germs, ensuring that your property is a much healthier
-                                    place. These services are best suited for your residential and commercial
-                                    properties.
+                                <p>Frankston's bayside location brings its own cleaning challenges — salt air and sea spray settle on windows and outdoor surfaces faster than in inland suburbs, and with a steady mix of rentals, holiday lets, and family homes across the area, cleaning needs here vary property to property. Our team delivers high-quality cleaning services in Frankston, ensures properties are clean, presentable and ready for homeowners, tenants, landlords and holiday-let operators, whether it’s a weekly home clean, a vacate clean for inspection, or same-day turnaround between Airbnb guests. We offer a service tailored to the real needs of your property in Frankston Beach and surrounding suburbs.
 
                                 </p>
                             </div>
@@ -322,35 +284,25 @@
                             </span>
                         </div>
                     </div>
-                    <p><br></p>
+                   
                 </div>
-                <div class="row">
-
-
+                <div class="location-services__carousel-wrap">
+                <div class="row location-services__grid">
 
                     <!--Start Blog One Single-->
-
                     <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\house-cleaning-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/house-cleaning-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="house-cleaning"> House Cleaning for a Clean
-                                        Environment</a></h3>
-                                <br>
-                                <p>The process of cleaning your house regularly allows you to ensure that the living
-                                    space is clean and comfortable. The cleaning process can involve dusting, vacuuming,
-                                    mopping, cleaning of kitchen, bathrooms and maintaining other rooms in order.</p>
-
-
-
+                                <h3 class="location-text"><a href="house-cleaning"> House Cleaning </a></h3>
+                              
+                                <p>Not every clean needs to be a big job. If you need reliable house cleaning in Frankston, we offer weekly, fortnightly, or one-off cleans covering kitchens, bathrooms, living areas, and bedrooms, on a schedule that suits your household.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -362,20 +314,14 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\linen-hire frankston.png" alt="#">
+                                    <img src="assets/images/frankston/vacate-cleaning-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="linen-hire"> Linen Hire Service</a></h3>
-                                <br>
-                                <p>This service is related to hiring clean and fresh linens such as bed sheets, towels, etc., which are ready-to-use. This service would be useful for holiday homes, ensuring guests enjoy comfort, convenience, hygiene, quality, and a pleasant stay every time they visit without any hassle.</p>
-
-
-
-                            </div>
+                                <h3 class="location-text"><a href="vacate-cleaning"> Vacate / End of Lease Cleaning</a></h3>
+                               
+                                <p>Return your bond with a clean pass inspection. Our specialist vacate cleaning in Frankston  cover kitchens, bathrooms, windows, and floors to the standard real estate agents check for, and coordinate directly with local property managers to ensure those tight turn around dates are met.
+                                </p> </div>
                         </div>
                     </div>
                     <!--End Blog One Single-->
@@ -386,78 +332,52 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\house-maintenance-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/airbnb-cleaning-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="house-maintenance">House Maintenance Services
+                                <h3 class="location-text"><a href="Airbnb-cleaning">Airbnb Cleaning 
                             </a>
                                 </h3>
-                                <br>
-                                <p>House maintenance will ensure that your property is well-maintained through small
-                                    repairs, inspection, fixing of fittings and other maintenance services. Consistent
-                                    maintenance will help in ensuring comfort, safety and presentation of your property.
+                               
+                                <p>If you are the host, you need fast and reliable handoffs. We provide full Airbnb turnover cleaning service throughout Frankston, Mt Eliza, Mornington and Rosebud ensuring your property is spotless and guest ready without any rush between checkout and next arrival.
                                 </p>
-
-
-
                             </div>
                         </div>
                     </div>
                     <!--End Blog One Single-->
+
                     <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\gardening-maintenance-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/Linen-hire-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="garden-maintenance-services">Gardening Maintenance
-                                        Services</a></h3>
-                                <br>
-                                <p>Good looking gardens add to the look of any property. Some of the gardening services offered will include lawn cutting, pruning, weed removal and general garden cleaning, ensuring healthy plants and a neat outdoor environment year-round.</p>
-
-
-
+                                <h3 class="location-text"><a href="Linen-hire">Linen Hire</a></h3>
+                      
+                                <p>Just need linen hire? No problem. Whether you use us for cleaning or not, we provide fresh, professionally laundered sheets and towels for your property, a stand alone service for hosts who already have their cleaning covered but need their linen handled separately, or those who just want one less thing to manage between guest changes.</p>
                             </div>
                         </div>
                     </div>
 
-                </div>
-                <div class="row">
-
-
                     <!--Start Blog One Single-->
-
                     <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\ndis-cleaners-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/window-cleaning-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="ndis-cleaning-services">NDIS Cleaners to Suit You</a>
+                                <h3 class="location-text"><a href="window-cleaning">Window Cleaning</a>
                                 </h3>
-                                <br>
-                                <p>NDIS cleaners help NDIS participants to ensure their living space is clean and
-                                    organized. These services are offered based on personal needs and help in providing
-                                    a hygienic and comfortable home environment.</p>
-
-
-
+                                
+                                <p>Salt Spray builds up on glass more quickly near the foreshore, giving windows streaked appearance even after a quick wipe. We clean inside and out to properly cut through it, restoring clear views for waterside homes and apartments.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -469,22 +389,14 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\locksmith-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/pressure-washing-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="locksmith-services">Locksmith Services for Safety and
-                                        Convenience</a></h3>
-                                <br>
-                                <p>Locksmith services help residents and commercial establishments to have locks
-                                    installed, replacement of keys, lock repair services, and even lock out assistance
-                                    in emergencies.</p>
-
-
-
+                                <h3 class="location-text"><a href="Pressure-washing">Pressure Washing</a></h3>
+                               
+                                <p>Coastal air and humidity accelerate mold and algae growth  on driveways, paths, decks, and outdoor areas. Pressure washing lifts the build-up and helps protect surfaces from long-term staining.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -496,166 +408,124 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\carpet-cleaning-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/carpet-cleaning-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="carpet-cleaning">Carpet Cleaning Services
+                                <h3 class="location-text"><a href="carpet-cleaning">Carpet Cleaning
                                 </a></h3>
-                                <br>
-                                <p>Using professional carpet cleaning service will help remove dirt, stains, dust, and
-                                    even any allergens that are stuck in carpet fibres. This cleaning service can help
-                                    improve the air quality inside your home.</p>
-
-
-
+                               
+                                <p>Carpets are one of the first things checked at a bond inspection, and a vacuum alone is rarely sufficient. We lift embedded dirt, stains, and allergens often booked together with a vacate clean.
+                                </p>
                             </div>
                         </div>
                     </div>
                     <!--End Blog One Single-->
+
                     <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
                         style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="assets\images\location\car-park-cleaning-frankston.png" alt="#">
+                                    <img src="assets/images/frankston/house-maintenance-frankston.png" alt="#">
                                 </div>
-
                             </div>
-
                             <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="#">Car Park Cleaning Services for Cleaner
-                                        Premises</a></h3>
-                                <br>
-                                <p>Car park cleaning aids in getting rid of litter, leaves, dust, oil spots and other
-                                    forms of debris in parking places. Maintenance is improved through cleanliness and
-                                    safety is promoted.
+                                <h3 class="location-text"><a href="house-maintenance">House Maintenance Services
+                                </a></h3>
+                               
+                                <p>These services cover general upkeep and small repairs around the house. Taking care of minor issues before they turn into major problems. This is handy for landlords who need to keep their rental properties in good shape, and for homeowners who don't want to call different specialists for every little fix. 
                                 </p>
-
-
-
                             </div>
                         </div>
                     </div>
 
+                    <!--Start Blog One Single-->
+                    <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="inner">
+                                    <img src="assets/images/frankston/garden-maintenance-frankston.png" alt="#">
+                                </div>
+                            </div>
+                            <div class="blog-one__single__content">
+                                <h3 class="location-text"><a href="Garden-maintenance">Garden Maintenance Services
+                                </a></h3>
+                                
+                                <p>This involves regular tasks like mowing the lawn, trimming hedges, and general tidying up to keep your garden looking neat.  Suited to rental properties before inspections, homes preparing for sale, or anyone who wants a well-kept garden but prefers not to do the work themselves.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Blog One Single-->
 
+                    <!--Start Blog One Single-->
+                    <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="inner">
+                                    <img src="assets/images/frankston/Car-park-cleaning-frankston.png" alt="#">
+                                </div>
+                            </div>
+                            <div class="blog-one__single__content">
+                                <h3 class="location-text"><a href="car-park-cleaning">Car Park Cleaning
 
+                                    </a></h3>
+                            
+                                <p>These services focus on cleaning car parks, especially for commercial buildings or apartment complexes. It includes sweeping, pressure washing to get rid of dirt and stains. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Blog One Single-->
 
+                    <!--Start Blog One Single-->
+                    <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="inner">
+                                    <img src="assets/images/frankston/Locksmith-services-frankston.png" alt="#">
+                                </div>
+                            </div>
+                            <div class="blog-one__single__content">
+                                <h3 class="location-text"> <a href="airbnb-cleaning">Locksmith services</a></h3>
+                                
+                                <p>Need a lock changed, property security checked or locked out? Everyday we help Frankston homeowners and tenants find peace of mind with locksmith services including emergency lockouts, lock repairs and replacements, and general security maintenance.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Blog One Single-->
 
+                    <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
+                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
+                        <div class="blog-one__single">
+                            <div class="blog-one__single-img">
+                                <div class="inner">
+                                    <img src="assets/images/frankston/NDIS-cleaning-frankston.png" alt="#">
+                                </div>
+                            </div>
+                            <div class="blog-one__single__content">
+                                <h3 class="location-text"><a href="window-cleaning">NDIS Cleaning
+                                </a> </h3>
+                                
+                                <p>Reliable, respectful cleaning support for NDIS participants in Frankston, tailored to individual needs and routines. We work around your schedule and support requirements, so cleaning is one less thing to coordinate as part of your care.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
-                <div class="row">
-
-
-                    <!--Start Blog One Single-->
-
-                    <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\location\pressure-washing-frankston.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="pressure-washing">Pressure Washing Services for
-                                        Outdoor Surfaces</a></h3>
-                                <br>
-                                <p>The process of pressure washing will clean the outdoor surface effectively. It cleans
-                                    all kinds of debris, mold, dirt, and stains from your outdoor surfaces.</p>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Blog One Single-->
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\location\vacate-cleaning-frankston.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="vacate-cleaning">Vacate Cleaning Services
-                                    </a></h3>
-                                <br>
-                                <p>The purpose of vacate cleaning is to make the property ready for inspection and new
-                                    occupants. This kind of cleaning will include kitchen, bathroom, floors, windows,
-                                    and living areas.</p>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Blog One Single-->
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\location\airbnb-cleaning-frankston.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3 class="location-text"> <a href="airbnb-cleaning">Cleaning Services by Airbnb to
-                                        Prepare the Place for Guests</a></h3>
-                                <br>
-                                <p>The cleaning services offered by Airbnb mainly involve the upkeep of high standards
-                                    of presentation between the time when one guest checks out and the next guest checks
-                                    in.</p>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Blog One Single-->
-                    <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\location\window-cleaning-frankston.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3 class="location-text"><a href="window-cleaning">Window Cleaning Services for Clearer
-                                        Views</a> </h3>
-                                <br>
-                                <p>The process of window cleaning involves eliminating dirt, smudges, dust and watermarks from the interior and exterior glass surfaces efficiently and thoroughly.
-                                </p>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-
-
+                <div class="location-services__mobile-nav" aria-hidden="true">
+                    <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+                        <span class="fa fa-angle-left"></span>
+                    </button>
+                    <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+                        <span class="fa fa-angle-right"></span>
+                    </button>
+                </div>
                 </div>
             </div>
         </section>
@@ -672,13 +542,13 @@
             <div class="auto-container">
                 <div class="cta-one__inner">
                     <div class="text-box">
-                        <h2>Book Professional Cleaning Today</h2><br>
+                        <h2>Book Professional Cleaning Today</h2>
                         <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with
                             reliable professional cleaning services.<br> Contact our team today to schedule your
                             cleaning service or request a customized quote.</p>
                     </div>
 
-                    <div class="btn-box">
+                    <div class="btn-box mt-3">
                         <a class="thm-btn" href="contact.php">
                             <span class="txt">Contact Us +</span>
                         </a>
@@ -698,7 +568,7 @@
         <!--Start Residential & Rental -->
 
         <section class="about-two">
-            <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+            <div class="sec-title text-center" style=" z-index: 999;">
                 <div class="sub-title">
 
                 </div>
@@ -718,57 +588,29 @@
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Can cleaning services aid in preparing properties for special occasions?</h3>
+                                    <h3>How much does end-of-lease cleaning cost in Frankston?</h3>
                                 </div>
                                 <div class="acc-content">
-
-                                    <p>Cleaning can be planned ahead of family occasions, parties, inspections, and
-                                        corporate functions to make sure the property is well presented.</p>
+                                    <p>Cost depends on property size, condition, and how many rooms need attention. We provide a quote based on your specific property so you know the cost upfront before booking.</p>
                                 </div>
                             </li>
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Are there any services for cleaning up vacant properties?</h3>
+                                    <h3>Do you offer same-day or fast turnaround cleaning for Airbnb properties between guests?</h3>
                                 </div>
                                 <div class="acc-content">
-
-                                    <p>Properties that are empty including houses, office spaces, and rental properties
-                                        can be cleaned up by removing dust and grime before being sold or rented out.
-                                    </p>
+                                    <p>Yes. We work wi
+                                        th hosts across Frankston and the Peninsula and can arrange cleaning and linen changeovers between check-out and the next check-in, including short-notice bookings.</p>
                                 </div>
                             </li>
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Do cleaning services aid property managers?</h3>
+                                    <h3>Can you remove salt residue and grime from windows near the foreshore?</h3>
                                 </div>
                                 <div class="acc-content">
-
-                                    <p>Cleaning can be helpful to property managers in maintaining their properties,
-                                        keeping the property in good condition between tenants.</p>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">
-                                    <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Can cleaning schedules be adjusted as required?</h3>
-                                </div>
-                                <div class="acc-content">
-
-                                    <p>Requirements for cleaning vary, and cleaning schedules can be adjusted to meet
-                                        any such seasonal requirements or the demands of the property.</p>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">
-                                    <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Why is window cleaning necessary professionally?</h3>
-                                </div>
-                                <div class="acc-content">
-
-                                    <p>Cleaning of windows increases light and improves appearance and makes the whole
-                                        place looking cleaner from both interior and exterior sides.</p>
+                                    <p>Yes, our window cleaning service is perfect for bayside properties where salt spray and sea air creates quicker build-up than inland homes.</p>
                                 </div>
                             </li>
                         </ul>
@@ -784,57 +626,29 @@
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>In what way pressure washing benefits the outdoors?</h3>
+                                    <h3>Do you work with real estate agents and property managers on vacate cleans?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
-                                    <p>Pressure washing is an effective method to remove dirt, algae, mold and stains
-                                        from hard surfaces and make the area look cleaned and well-maintained.</p>
+                                    <p>Yes, we work with real estate agents and property managers for vacant Property cleaning. We regularly coordinate directly with them to make sure we meet inspection and re-letting deadlines.</p>
                                 </div>
                             </li>
 
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Can you get cleaned after the completion of renovations of a property?</h3>
+                                    <h3>Is carpet cleaning included with a vacate clean, or booked separately?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
-                                    <p>After completing the renovation process of your property, post-renovation
-                                        cleaning will help in removing the construction dirt and debris.</p>
+                                    <p>Carpet cleaning can be included with a vacate clean or booked separately. Many tenants and landlords book it with their vacate clean to help get their bond back, but it's also a service we offer on its own.</p>
                                 </div>
                             </li>
                             <li class="accordion block">
                                 <div class="acc-btn">
                                     <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Does cleaning increase the longevity of furniture?</h3>
+                                    <h3>Do you provide cleaning for units and apartments as well as houses?</h3>
                                 </div>
                                 <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
-                                    <p>Cleaning regularly will help decrease the dirt accumulation in the carpeting,
-                                        flooring, and furniture.</p>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">
-                                    <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3>Would cleaning services be appropriate for owners of multiple properties?</h3>
-                                </div>
-                                <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
-                                    <p>It is possible to have cleaning services at multiple properties whether
-                                        residential or commercial properties.</p>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">
-                                    <div class="icon-outer"><i class="icon-up-arrow"></i></div>
-                                    <h3> What parts of the building need to be cleaned regularly?</h3>
-                                </div>
-                                <div class="acc-content">
-                                    <!-- <p>We concentrate on high quality cleaning, either residential, vacate cleaning, Air BnB holiday houses, builders cleaning or commercial properties. After all, it is what we do best.</p> -->
-                                    <p>Kitchens, bathrooms, entrances, living rooms, and office areas are some examples
-                                        of high traffic areas that need regular cleaning services.</p>
+                                    <p>We clean houses, units, apartments, and townhouses in Frankston.</p>
                                 </div>
                             </li>
                         </ul>

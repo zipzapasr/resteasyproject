@@ -448,7 +448,7 @@
                             <li>Evacuating household waste containers.</li>
                             <li>Cleaning surfaces that can be reached.</li>
                             <li>Vacuuming and sweeping floors.</li>
-                            <li>Making commonly used spaces look fresh and tidy.</li>
+                            <li>Making commonly used spaces look fresh and tid</li>
                         </ul>
                     </article>
                 </div>
