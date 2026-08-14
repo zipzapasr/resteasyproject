@@ -319,6 +319,118 @@
       }
     })();
 
+    // What's included cards: horizontal carousel on mobile only
+    (function initHcIncludedMobileCarousel() {
+      var $wrap = $(".hc-included__carousel-wrap");
+      var $list = $(".hc-included__carousel-wrap .hc-included__grid");
+      if (!$wrap.length || !$list.length || !$.fn.owlCarousel) return;
+
+      var mobileMq = window.matchMedia("(max-width: 767px)");
+      var $carousel = null;
+
+      function buildCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) return;
+
+        var $cards = $();
+        $list.children(".hc-included__card").each(function () {
+          var $card = $(this).clone(false);
+          if ($card.length) {
+            $cards = $cards.add($card);
+          }
+        });
+        if (!$cards.length) return;
+
+        $carousel = $('<div class="hc-included__mobile-carousel owl-carousel owl-theme"></div>');
+        $cards.each(function () {
+          $carousel.append($('<div class="item"></div>').append(this));
+        });
+        $wrap.prepend($carousel);
+        $list.addClass("is-mobile-hidden");
+
+        $carousel.owlCarousel({
+          loop: true,
+          autoplay: true,
+          autoplayTimeout: 5500,
+          autoplayHoverPause: true,
+          margin: 14,
+          nav: false,
+          dots: true,
+          smartSpeed: 450,
+          items: 1,
+          stagePadding: 18
+        });
+
+        $wrap.find(".hc-included__mobile-nav-btn--prev").off("click.hcIncluded").on("click.hcIncluded", function (e) {
+          e.preventDefault();
+          $carousel.trigger("prev.owl.carousel");
+        });
+        $wrap.find(".hc-included__mobile-nav-btn--next").off("click.hcIncluded").on("click.hcIncluded", function (e) {
+          e.preventDefault();
+          $carousel.trigger("next.owl.carousel");
+        });
+        $wrap.find(".hc-included__mobile-nav").attr("aria-hidden", "false");
+      }
+
+      function destroyCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) {
+          $carousel.trigger("destroy.owl.carousel");
+          $carousel.remove();
+          $carousel = null;
+        }
+        $list.removeClass("is-mobile-hidden");
+        $wrap.find(".hc-included__mobile-nav").attr("aria-hidden", "true");
+      }
+
+      function syncMode() {
+        if (mobileMq.matches) {
+          buildCarousel();
+        } else {
+          destroyCarousel();
+        }
+      }
+
+      syncMode();
+      if (typeof mobileMq.addEventListener === "function") {
+        mobileMq.addEventListener("change", syncMode);
+      } else if (typeof mobileMq.addListener === "function") {
+        mobileMq.addListener(syncMode);
+      }
+    })();
+
+    // Why choose us: carousel on desktop and mobile
+    if ($(".hc-why-carousel").length && $.fn.owlCarousel) {
+      $(".hc-why-carousel").each(function () {
+        var elm = $(this);
+        var $wrap = elm.closest(".hc-why-carousel-wrap");
+        if (elm.data("owl.carousel")) return;
+        elm.owlCarousel({
+          loop: true,
+          autoplay: true,
+          autoplayTimeout: 5000,
+          autoplayHoverPause: true,
+          margin: 16,
+          nav: false,
+          dots: true,
+          dotsContainer: $wrap.find(".hc-why-carousel__dots"),
+          smartSpeed: 450,
+          items: 1,
+          responsive: {
+            0: { items: 1 },
+            768: { items: 2 }
+          }
+        });
+
+        $wrap.find(".hc-why-carousel__nav--prev").on("click", function (e) {
+          e.preventDefault();
+          elm.trigger("prev.owl.carousel");
+        });
+        $wrap.find(".hc-why-carousel__nav--next").on("click", function (e) {
+          e.preventDefault();
+          elm.trigger("next.owl.carousel");
+        });
+      });
+    }
+
     // Location page service cards: read more + mobile carousel
     (function initLocationServicesSection() {
       var $wrap = $(".location-services__carousel-wrap");
