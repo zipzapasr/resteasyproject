@@ -250,40 +250,62 @@
         <!--End Page Header-->
 
         <!--Start Services Details -->
-        <section style="background-color: #f1f3f2;" class="team-details__middle">
-
+        <section class="hc-intro">
             <div class="container">
-                <div class="row">
-                    <!--Start Team Details Middle Content-->
-                    <div class="col-xl-6">
-                        <div class="team-details__middle-content">
-                            <div class="title">
-                                <h1>End of Lease Cleaning Mornington Peninsula You Trust</h1>
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__content">
+                            <span class="hc-badge">End of Lease Cleaning</span>
+                            <h1>End of Lease Cleaning Mornington Peninsula You Trust</h1>
+                            <p>Preparing the rental property for the final inspection which involves more than regular household cleaning. End of lease cleaning in the Mornington Peninsula helps tenants to prepare their homes for handover whether the property is in <a href="cleaning-services-rye">Rye</a>, <a href="cleaning-services-rosebud">Rosebud</a>, <a href="cleaning-services-dromana">Dromana</a>, Mount Eliza, McCrae, Tootgarook or Safety Beach. The service covers the main areas of the house and these are kitchens, bathrooms, bedrooms, living spaces, floors, windows, cupboards and fixtures which help to remove dust, dirt, grease and everyday build-up. A thorough clean helps keep the property neat and presentable which makes it ready for the final inspection and handover.</p>
+                            <ul class="hc-chips">
+                                <li><a href="cleaning-services-rye">Rye</a></li>
+                                <li><a href="cleaning-services-rosebud">Rosebud</a></li>
+                                <li><a href="cleaning-services-dromana">Dromana</a></li>
+                                <li><span>Mount Eliza</span></li>
+                                <li><span>McCrae</span></li>
+                                <li><span>Tootgarook</span></li>
+                                <li><span>Safety Beach</span></li>
+                            </ul>
+                            <div class="hc-quote-btn">
+                                <a class="thm-btn" href="contact.php">
+                                    <span class="txt">Get a Quote / Book a Cleaning</span>
+                                </a>
                             </div>
-                            <div class="text-box">
-                                <p>Preparing the rental property for the final inspection which involves more than regular household cleaning. End of lease cleaning in the Mornington Peninsula helps tenants to prepare their homes for handover whether the property is in Rye, Rosebud, Dromana, Mount Eliza, McCrae, Tootgarook or Safety Beach. The service covers the main areas of the house and these are kitchens, bathrooms, bedrooms, living spaces, floors, windows, cupboards and fixtures which help to remove dust, dirt, grease and everyday build-up. A thorough clean helps keep the property neat and presentable which makes it ready for the final inspection and handover.
-
-                                </p>
-                            </div>
-
-
-                        </div>
-                        <div class="hc-quote-btn">
-                        <a class="thm-btn" href="contact.php">
-                            <span class="txt">Get a Quote / Book a Cleaning</span>
-                        </a>
-                    </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="service-detail-img">
-                            <img src="assets\images\vacate-cleaning.png" alt="End of lease cleaning in Mornington Peninsula for rental property handover" class="img-fluid rounded" />
                         </div>
                     </div>
-                    <!--End Team Details Middle Content-->
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__media">
+                            <img src="assets/images/vacate-cleaning.png" alt="End of lease cleaning in Mornington Peninsula for rental property handover">
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
         <!--End Services Details -->
+
+        <section class="vc-trust">
+            <div class="container">
+                <div class="vc-trust__grid">
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-clean"></span></span>
+                        <p>100% Bond Back Guarantee</p>
+                    </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-house"></span></span>
+                        <p>Police-Checked Staff</p>
+                    </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-working-time"></span></span>
+                        <p>Flexible Booking Times</p>
+                    </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-window-cleaning"></span></span>
+                        <p>Eco-Certified Products</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- What Is Included -->
         <section class="hc-included">
@@ -302,6 +324,7 @@
                 <div class="hc-included__carousel-wrap">
                 <div class="hc-included__grid hc-included__grid--3">
                     <article class="hc-included__card">
+                        <span class="hc-included__num">01</span>
                         <div class="hc-included__icon">
                             <span class="icon-household"></span>
                         </div>
@@ -310,6 +333,7 @@
                     </article>
 
                     <article class="hc-included__card">
+                        <span class="hc-included__num">02</span>
                         <div class="hc-included__icon">
                             <span class="icon-clean"></span>
                         </div>
@@ -318,6 +342,7 @@
                     </article>
 
                     <article class="hc-included__card">
+                        <span class="hc-included__num">03</span>
                         <div class="hc-included__icon">
                             <span class="icon-house"></span>
                         </div>
@@ -326,6 +351,7 @@
                     </article>
 
                     <article class="hc-included__card">
+                        <span class="hc-included__num">04</span>
                         <div class="hc-included__icon">
                             <span class="icon-packaging"></span>
                         </div>
@@ -334,6 +360,7 @@
                     </article>
 
                     <article class="hc-included__card">
+                        <span class="hc-included__num">05</span>
                         <div class="hc-included__icon">
                             <span class="icon-wash-your-hands"></span>
                         </div>
@@ -342,6 +369,7 @@
                     </article>
 
                     <article class="hc-included__card">
+                        <span class="hc-included__num">06</span>
                         <div class="hc-included__icon">
                             <span class="icon-window-cleaning"></span>
                         </div>
@@ -434,7 +462,7 @@
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
-                            <span>Our Some Work</span>
+                            <span>How It Works</span>
                         </div>
                     </div>
                     <h2>Our End of Lease Cleaning Process</h2>
@@ -478,42 +506,52 @@
                 </div>
                 <div class="hc-prep__grid">
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">01</span>
                         <h3>Remove personal belongings</h3>
                         <p>Take furniture, clothing, boxes and personal items out of rooms, cupboards and wardrobes where cleaning is required.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">02</span>
                         <h3>Clear surfaces and floors</h3>
                         <p>Remove items from benchtops, tables, bathroom vanities and floors so these areas are accessible.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">03</span>
                         <h3>Empty cupboards and wardrobes</h3>
                         <p>If internal cleaning is included, remove all belongings from cupboards, drawers and built-in storage.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">04</span>
                         <h3>Empty and defrost the fridge/freezer</h3>
                         <p>Remove food and allow sufficient time for the freezer to defrost if internal appliance cleaning is required.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">05</span>
                         <h3>Remove household rubbish</h3>
                         <p>Dispose of rubbish and unwanted items before the cleaning appointment.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">06</span>
                         <h3>Keep water and electricity connected</h3>
                         <p>Cleaning equipment and tasks such as vacuuming, mopping and bathroom cleaning require working utilities.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">07</span>
                         <h3>Arrange property access</h3>
                         <p>Make sure the cleaners can enter the property at the agreed appointment time.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">08</span>
                         <h3>No pre-cleaning is required</h3>
                         <p>There is no need to clean the property beforehand; the cleaning team will handle the agreed cleaning tasks.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">09</span>
                         <h3>Provide any agent checklist</h3>
                         <p>Share specific cleaning instructions from the landlord or property manager before the appointment.</p>
                     </article>
                     <article class="hc-prep__item">
+                        <span class="hc-prep__num">10</span>
                         <h3>Mention additional requirements</h3>
                         <p>Advise when booking if the property requires extra services or areas outside the standard cleaning scope.</p>
                     </article>
@@ -522,7 +560,7 @@
         </section>
 
         <!-- Additional services -->
-        <section class="hc-included hc-extras">
+        <section class="hc-extras">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
@@ -532,27 +570,36 @@
                     </div>
                     <h2>Additional End of Lease Cleaning Services in Mornington Peninsula</h2>
                 </div>
-                <div class="hc-included__grid hc-included__grid--3">
-                    <article class="hc-included__card">
-                        <div class="hc-included__icon">
-                            <span class="icon-clean"></span>
+                <div class="vc-extra__grid">
+                    <article class="vc-extra">
+                        <div class="vc-extra__img">
+                            <img src="assets/images/frankston/carpet-cleaning-frankston.png" alt="Carpet cleaning for end of lease handover">
                         </div>
-                        <h3>Carpet Cleaning</h3>
-                        <p>Professional carpet cleaning helps to remove the accumulated dirt, stains, dust and odours from the carpets which helps in leaving them cleaner and fresher for the final property inspection.</p>
+                        <div class="vc-extra__body">
+                            <h3>Carpet Cleaning</h3>
+                            <p>Professional carpet cleaning helps to remove the accumulated dirt, stains, dust and odours from the carpets which helps in leaving them cleaner and fresher for the final property inspection.</p>
+                            <a href="carpet-cleaning">View service <span class="icon-right"></span></a>
+                        </div>
                     </article>
-                    <article class="hc-included__card">
-                        <div class="hc-included__icon">
-                            <span class="icon-window-cleaning"></span>
+                    <article class="vc-extra">
+                        <div class="vc-extra__img">
+                            <img src="assets/images/frankston/pressure-washing-frankston.png" alt="Pressure washing for outdoor handover areas">
                         </div>
-                        <h3>Pressure Washing</h3>
-                        <p>Pressure washing is available for the outdoor areas such as driveways, pathways, patios and other hard surfaces which helps to remove the built-up dirt, grime and surface marks.</p>
+                        <div class="vc-extra__body">
+                            <h3>Pressure Washing</h3>
+                            <p>Pressure washing is available for the outdoor areas such as driveways, pathways, patios and other hard surfaces which helps to remove the built-up dirt, grime and surface marks.</p>
+                            <a href="pressure-washing">View service <span class="icon-right"></span></a>
+                        </div>
                     </article>
-                    <article class="hc-included__card">
-                        <div class="hc-included__icon">
-                            <span class="icon-house"></span>
+                    <article class="vc-extra">
+                        <div class="vc-extra__img">
+                            <img src="assets/images/vacate-cleaning.png" alt="Garage cleaning for rental property handover">
                         </div>
-                        <h3>Garage Cleaning</h3>
-                        <p>Garage cleaning covers the removal of dust, dirt, cobwebs and general debris from the garage area which helps to leave the space clean and ready for handover.</p>
+                        <div class="vc-extra__body">
+                            <h3>Garage Cleaning</h3>
+                            <p>Garage cleaning covers the removal of dust, dirt, cobwebs and general debris from the garage area which helps to leave the space clean and ready for handover.</p>
+                            <a href="contact.php">Get a quote <span class="icon-right"></span></a>
+                        </div>
                     </article>
                 </div>
             </div>
@@ -564,10 +611,8 @@
             <div class="auto-container">
                 <div class="cta-one__inner">
                     <div class="text-box">
-                        <h2>Book Professional Cleaning Today</h2><br>
-                        <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with
-                            reliable professional cleaning services.<br> Contact our team today to schedule your
-                            cleaning service or request a customized quote.</p>
+                        <h2>Book Your Bond Clean Today</h2><br>
+                        <p style="color:white">Leave the property inspection-ready with professional end of lease cleaning across the Mornington Peninsula.<br> Contact our team today to schedule your clean or request a quote.</p>
                     </div>
 
                     <div class="btn-box">

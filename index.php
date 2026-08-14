@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Local Cleaners for All Cleaning Services In Mornington Peninsula</title>
+    <title>Cleaning Services Mornington Peninsula - Professional Cleaners</title>
     <meta name="description"
         content="Reliable cleaning services in Mornington Peninsula, Frankston & Southeast Melbourne. Residential, NDIS, gardening & house maintenance according to your needs." />
     <meta name="keywords"
@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://resteasyservices.com.au/" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Local Cleaners for All Cleaning Services In Mornington Peninsula" />
+    <meta property="og:title" content="Cleaning Services Mornington Peninsula - Professional Cleaners" />
     <meta property="og:description"
         content="Rest Easy provides professional cleaning services across Mornington Peninsula. Residential, NDIS cleaning, gardening, maintenance & more." />
     <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Local Cleaners for All Cleaning Services In Mornington Peninsula" />
+    <meta name="twitter:title" content="Cleaning Services Mornington Peninsula - Professional Cleaners" />
     <meta name="twitter:description"
         content="Rest Easy provides professional cleaning services across Mornington Peninsula. Reliable, detailed and dependable." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -501,7 +501,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="sub-title">
 
                 </div>
-                <h1 style="font-size: 30px;">Local Cleaners for All Cleaning Services In Mornington Peninsula
+                <h1 style="font-size: 30px;margin-bottom:20px;">Cleaning Services Mornington Peninsula - Professional Cleaners
                 </h1>
             </div>
 
@@ -662,7 +662,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <span>SERVICES</span>
                         </div>
                     </div>
-                    <h2>What We Offer – Complete Cleaning & Property Care Solutions
+                    <h2>Residential & Commercial Cleaning with Reliable Property Care
                     </h2>
                 </div>
 

@@ -232,7 +232,7 @@
                     <div class="col-xl-6">
                         <div class="team-details__middle-content">
                             <div class="title">
-                                <h1>Frankston Cleaning Services for Cleaner Living Spaces </h1>
+                                <h1>Expert Cleaning Services in Frankston </h1>
                             </div>
                             <div class="text-box">
                                 <p>Frankston's bayside location brings its own cleaning challenges — salt air and sea spray settle on windows and outdoor surfaces faster than in inland suburbs, and with a steady mix of rentals, holiday lets, and family homes across the area, cleaning needs here vary property to property. Our team delivers high-quality cleaning services in Frankston, ensures properties are clean, presentable and ready for homeowners, tenants, landlords and holiday-let operators, whether it’s a weekly home clean, a vacate clean for inspection, or same-day turnaround between Airbnb guests. We offer a service tailored to the real needs of your property in Frankston Beach and surrounding suburbs.
@@ -255,7 +255,7 @@
                         </div>
 
                     </div>
-                    <div class="col-xl-6">
+                    <div class="col-xl-6 location-intro-img">
                         <div class="service-detail-img">
                             <img src="assets\images\location.jpeg" alt="Cleaning Services" class="img-fluid rounded" />
                         </div>
@@ -266,9 +266,6 @@
         </section>
         <!--End Services Details -->
 
-        <!-- Service Area  -->
-     <?php include "includes/all-location.php"; ?>
-        <!-- Service Area end  -->
 
 
         <!--End Services Details -->
@@ -659,6 +656,25 @@
         </section>
 
         <!--End  Residential & Rental -->
+
+        <section class="nearby-areas">
+            <div class="container">
+                <div class="nearby-areas__inner">
+                    <span class="nearby-areas__badge">Nearby Areas</span>
+                    <h2>Nearby Areas We Service</h2>
+                    <p>If you are located just outside of Frankston, our teams are still nearby! Explore our tailored cleaning services in neighboring bayside and peninsula suburbs:</p>
+                    <div class="nearby-areas__tags">
+                        <a class="nearby-areas__tag" href="cleaning-services-carrum-downs">Carrum Downs</a>
+                        <a class="nearby-areas__tag" href="cleaning-services-chelsea-heights">Chelsea Heights</a>
+                        <a class="nearby-areas__tag" href="cleaning-services-patterson-lakes">Patterson Lakes</a>
+                        <a class="nearby-areas__tag" href="cleaning-services-skye">Skye</a>
+                        <a class="nearby-areas__tag" href="cleaning-services-langwarrin">Langwarrin</a>
+                        <span class="nearby-areas__tag nearby-areas__tag--static">Seaford</span>
+                        <span class="nearby-areas__tag nearby-areas__tag--static">Aspendale</span>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!--Start Footer One -->
         <?php include "includes/footer.php"; ?>

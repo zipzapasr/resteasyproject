@@ -5082,6 +5082,16 @@ body {
     .service-detail-img img {
         border-radius: 8px;
     }
+
+    .location-intro-img {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .location-intro-img {
+        display: none !important;
+    }
 }
 
 /* Extra Small Mobile (max-width: 400px) */
@@ -5260,8 +5270,22 @@ body {
     .hc-why,
     .hc-process,
     .hc-prep,
+    .hc-extras,
     .hc-faq {
         padding: 30px 0;
+    }
+
+    .nearby-areas {
+        padding: 50px 0;
+    }
+
+    .nearby-areas__inner h2 {
+        font-size: 26px;
+    }
+
+    .vc-trust__grid,
+    .vc-extra__grid {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .hc-included__grid {
@@ -5303,7 +5327,9 @@ body {
     .hc-why-grid,
     .hc-steps,
     .hc-prep__grid,
-    .hc-included__grid--3 {
+    .hc-included__grid--3,
+    .vc-trust__grid,
+    .vc-extra__grid {
         grid-template-columns: 1fr;
     }
 
