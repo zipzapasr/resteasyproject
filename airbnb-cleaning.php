@@ -4,18 +4,18 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Airbnb Cleaning Mornington Peninsula | Reliable Turnover Cleaning for Hosts</title>
+    <title>Airbnb Cleaning Mornington Peninsula Ready for Guests</title>
     <meta name="description"
-        content="Professional Airbnb cleaning on the Mornington Peninsula. Fast guest turnovers with linen changes, kitchen, bathroom and property reset. Book host cleaning today." />
+        content="Professional Airbnb cleaning in Mornington Peninsula. Book now for spotless, reliable, guest-ready service with fast turnovers and 5-star stays every time." />
     <meta name="keywords"
         content="airbnb cleaners Mornington Peninsula, short term rental cleaning Mornington Peninsula, vacation rental cleaning Mornington Peninsula, holiday rental cleaning Mornington Peninsula" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/airbnb-cleaning" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Airbnb Cleaning Mornington Peninsula | Reliable Turnover Cleaning for Hosts" />
+    <meta property="og:title" content="Airbnb Cleaning Mornington Peninsula Ready for Guests" />
     <meta property="og:description"
-        content="Professional Airbnb cleaning on the Mornington Peninsula. Fast guest turnovers with linen changes, kitchen, bathroom and property reset. Book host cleaning today." />
+        content="Professional Airbnb cleaning in Mornington Peninsula. Book now for spotless, reliable, guest-ready service with fast turnovers and 5-star stays every time." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://resteasyservices.com.au/airbnb-cleaning" />
     <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -24,9 +24,9 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Airbnb Cleaning Mornington Peninsula | Reliable Turnover Cleaning for Hosts" />
+    <meta name="twitter:title" content="Airbnb Cleaning Mornington Peninsula Ready for Guests" />
     <meta name="twitter:description"
-        content="Professional Airbnb cleaning on the Mornington Peninsula. Fast guest turnovers with linen changes, kitchen, bathroom and property reset. Book host cleaning today." />
+        content="Professional Airbnb cleaning in Mornington Peninsula. Book now for spotless, reliable, guest-ready service with fast turnovers and 5-star stays every time." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
