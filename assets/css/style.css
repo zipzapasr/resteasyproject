@@ -17016,6 +17016,14 @@ House Cleaning Page
   color: #5b6b7c;
 }
 
+.hc-offer__cta {
+  margin-top: 22px;
+}
+
+.hc-offer__cta .thm-btn {
+  min-width: 150px;
+}
+
 .hc-included {
   padding: 90px 0 80px;
   background: #fff;

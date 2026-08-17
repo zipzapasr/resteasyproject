@@ -49,18 +49,6 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
         exit;
     }
     
-    if (empty($suburb)) {
-        $response['message'] = 'Please enter your suburb.';
-        if ($wantsJson) { echo json_encode($response); }
-        exit;
-    }
-
-    if (empty($message)) {
-        $response['message'] = 'Please enter your message.';
-        if ($wantsJson) { echo json_encode($response); }
-        exit;
-    }
-    
     // Set default subject if empty
     if (empty($subject)) {
         $subject = 'New Enquiry from Website';
@@ -118,7 +106,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
                 </div>
                 <div class='field'>
                     <div class='label'>Suburb:</div>
-                    <div class='value'>" . htmlspecialchars($suburb) . "</div>
+                    <div class='value'>" . htmlspecialchars($suburb ?: 'Not provided') . "</div>
                 </div>
                 <div class='field'>
                     <div class='label'>Subject:</div>
@@ -126,7 +114,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
                 </div>
                 <div class='field'>
                     <div class='label'>Message:</div>
-                    <div class='value'>" . nl2br(htmlspecialchars($message)) . "</div>
+                    <div class='value'>" . nl2br(htmlspecialchars($message ?: 'Not provided')) . "</div>
                 </div>
             </div>
             <div class='footer'>

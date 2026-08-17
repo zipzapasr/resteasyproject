@@ -13,7 +13,7 @@
     }
 
     function sendEnquiryEmail(form, data) {
-        if (!data.name || !data.email || !data.message) return;
+        if (!data.name || !data.email) return;
 
         var url = form.getAttribute('data-enquiry-email-url') || 'assets/inc/sendemail.php';
         var body = new URLSearchParams(data);

@@ -253,17 +253,12 @@
                                 Dromana, Mount Eliza, Hastings, Mornington, Mount Martha,
                                 <a href="cleaning-services-somerville">Somerville</a>, and
                                 Blairgowrie.</p>
-                            <ul class="hc-chips">
-                                <li><a href="cleaning-services-rosebud">Rosebud</a></li>
-                                <li><a href="cleaning-services-dromana">Dromana</a></li>
-                                <li><a href="cleaning-services-mount-eliza">Mount Eliza</a></li>
-                                <li><span>Hastings</span></li>
-                                <li><a href="cleaning-services-mornington">Mornington</a></li>
-                                <li><span>Mount Martha</span></li>
-                                <li><a href="cleaning-services-somerville">Somerville</a></li>
-                                <li><span>Blairgowrie</span></li>
-                            </ul>
-                        </div>
+                                <div class="btn-box">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
+                                <span class="txt">Book now</span></a>
+                                <a style="margin-left:5px" class="thm-btn" href="tel:0429 780 896"><span class="txt">Call Us</span></a>
+                                </div>
+                                </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="hc-intro__media">
@@ -305,6 +300,11 @@
                             furniture, inside cupboards ,,up the skirting board, between tiles, and other
                             difficult to reach places. Deep Cleaning is perfect if you have previously
                             accumulated dirt, dust, and bacteria to completely clean your home.</p>
+                        <div class="hc-offer__cta">
+                            <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                <span class="txt">Book Now</span>
+                            </a>
+                        </div>
                     </div>
                 </article>
 
@@ -321,6 +321,11 @@
                             Walls, and other difficult areas. It helps to get your house cleaned so that it
                             becomes prepared for new tenants or just in case you want to leave your house in a
                             tidy manner.</p>
+                        <div class="hc-offer__cta">
+                            <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                <span class="txt">Book Now</span>
+                            </a>
+                        </div>
                     </div>
                 </article>
 
@@ -336,6 +341,11 @@
                             have collected around the house. Every nook and cranny in the house will be tied up.
                             This is especially helpful during the change of seasons to refresh a home and help
                             make it feel cleaner, fresher ,and neater.</p>
+                        <div class="hc-offer__cta">
+                            <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                <span class="txt">Book Now</span>
+                            </a>
+                        </div>
                     </div>
                 </article>
 
@@ -351,6 +361,11 @@
                             kitchen cleaning ,and bathroom sanitization. This service is ideal for weekly or
                             fortnightly maintenance to ensure your home always feels fresh, hygienic ,and
                             comfortable for daily living.</p>
+                        <div class="hc-offer__cta">
+                            <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                <span class="txt">Book Now</span>
+                            </a>
+                        </div>
                     </div>
                 </article>
 
@@ -366,6 +381,11 @@
                             attention, such as kitchen deep clean, bathroom focus, or selective room cleaning.
                             It’s a tailored solution that ensures your home gets exactly the care it needs
                             without unnecessary services.</p>
+                        <div class="hc-offer__cta">
+                            <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                <span class="txt">Book Now</span>
+                            </a>
+                        </div>
                     </div>
                 </article>
                 </div>
@@ -448,7 +468,7 @@
                             <li>Evacuating household waste containers.</li>
                             <li>Cleaning surfaces that can be reached.</li>
                             <li>Vacuuming and sweeping floors.</li>
-                            <li>Making commonly used spaces look fresh and tid</li>
+                            <li>Making commonly used spaces look fresh and tidy.</li>
                         </ul>
                     </article>
                 </div>

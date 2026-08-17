@@ -10,14 +10,14 @@
     <meta name="keywords"
         content="cleaning services frankston, vacate cleaning frankston, end of lease cleaning frankston, airbnb cleaning frankston, house cleaning frankston, window cleaning frankston, carpet cleaning frankston, pressure washing frankston" />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-glen-waverley" />
+    <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-frankston" />
 
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Frankston Cleaning Services for Cleaner Living Spaces " />
     <meta property="og:description"
         content="Professional cleaning services in Frankston for homes, offices, and rental properties. Enjoy cleaner, healthier, and well-maintained living and working spaces." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-glen-waverley" />
+    <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-frankston" />
     <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
     <meta property="og:site_name" content="Rest Easy Cleaning Services" />
     <meta property="og:locale" content="en_AU" />
