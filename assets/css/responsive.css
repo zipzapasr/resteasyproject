@@ -5288,6 +5288,14 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .abnb-fullclean__list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .hc-steps--3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
     .hc-included__grid {
         grid-template-columns: 1fr;
     }
@@ -5329,7 +5337,9 @@ body {
     .hc-prep__grid,
     .hc-included__grid--3,
     .vc-trust__grid,
-    .vc-extra__grid {
+    .vc-extra__grid,
+    .abnb-fullclean__list,
+    .hc-steps--3 {
         grid-template-columns: 1fr;
     }
 

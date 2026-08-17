@@ -16883,6 +16883,16 @@ House Cleaning Page
   text-decoration: underline;
 }
 
+.hc-intro__content .btn-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.hc-intro__content .btn-box .thm-btn {
+  margin-left: 0 !important;
+}
+
 .hc-chips {
   display: flex;
   flex-wrap: wrap;
@@ -17727,4 +17737,79 @@ a.nearby-areas__tag:focus-visible::before {
 .nearby-areas__tag--static {
   cursor: default;
   background: rgba(255, 255, 255, 0.94);
+}
+
+.abnb-fullclean {
+  margin-top: 40px;
+  padding: 28px 30px 24px;
+  background: #f4f7fb;
+  border: 1px solid #e4ebf3;
+  border-radius: 18px;
+}
+
+.abnb-fullclean h3 {
+  margin: 0 0 16px;
+  color: var(--thm-black);
+  font-size: 22px;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.abnb-fullclean__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.abnb-fullclean__list li {
+  position: relative;
+  padding-left: 22px;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--thm-black);
+}
+
+.abnb-fullclean__list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--thm-primary);
+}
+
+.abnb-ready {
+  margin-top: 36px;
+  padding: 28px 30px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #002359 0%, #0a3a7a 100%);
+  text-align: center;
+}
+
+.abnb-ready h3 {
+  margin: 0 0 8px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.abnb-ready p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.hc-steps--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.hc-steps--3 .hc-step:nth-child(3n)::after {
+  display: none;
 }

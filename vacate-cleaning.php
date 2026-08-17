@@ -267,9 +267,12 @@
                                 <li><span>Tootgarook</span></li>
                                 <li><span>Safety Beach</span></li>
                             </ul>
-                            <div class="hc-quote-btn">
-                                <a class="thm-btn" href="contact.php">
-                                    <span class="txt">Get a Quote / Book a Cleaning</span>
+                            <div class="btn-box">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
+                                    <span class="txt">Book now</span>
+                                </a>
+                                <a style="margin-left:5px" class="thm-btn" href="tel:0429 780 896">
+                                    <span class="txt">Call Us</span>
                                 </a>
                             </div>
                         </div>
