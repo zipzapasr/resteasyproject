@@ -17813,3 +17813,69 @@ a.nearby-areas__tag:focus-visible::before {
 .hc-steps--3 .hc-step:nth-child(3n)::after {
   display: none;
 }
+
+.rye-diff .hc-included__grid--3 {
+  align-items: stretch;
+}
+
+.rye-diff .hc-included__card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.rye-diff .hc-included__card h3 {
+  min-height: 2.7em;
+}
+
+.rye-diff .hc-included__card p {
+  flex: 1 1 auto;
+}
+
+.rye-page .team-details__middle,
+.rye-page .blog-one,
+.rye-page .hc-included,
+.rye-page .rye-footprint,
+.rye-page .cta-one,
+.rye-page .testimonial-three,
+.rye-page .about-two {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.rye-page .about-two .sec-title {
+  margin-bottom: 0;
+}
+
+.rye-footprint {
+  background: #f4f7fb;
+}
+
+.rye-footprint__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 40px;
+  align-items: stretch;
+}
+
+.rye-footprint__card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #fff;
+  border: 1px solid #e4ebf3;
+  border-radius: 18px;
+  padding: 28px 24px;
+  box-shadow: 0 10px 30px rgba(0, 35, 89, 0.05);
+}
+
+.rye-footprint__card h3 {
+  margin: 0 0 18px;
+  color: var(--thm-black);
+  font-size: 22px;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.page-header__inner h1{color:#fff !important; font-size: 30px !important;}
