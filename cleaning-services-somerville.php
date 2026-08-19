@@ -4,9 +4,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Somerville | Professional Cleaners</title>
+  <title>Cleaning Services in Somerville | Rest Easy Services</title>
   <meta name="description"
-    content="Cleaning Services Somerville for homes, offices, and holiday rentals. House cleaning, vacate cleaning, carpet, window, pressure cleaning, and more." />
+    content="Local house, vacate & carpet cleaning in Somerville. Insured, police-checked cleaners for family homes, big blocks and hobby farms. Regular or one-off. Free quotes." />
   <meta name="keywords"
     content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Somerville" />
   <meta name="robots" content="index, follow" />
@@ -201,7 +201,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -235,7 +235,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Somerville</h2>
+          <h1> Cleaning Services in Somerville</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -243,7 +243,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Somerville</li>
+            <li> Cleaning Services in Somerville</li>
           </ul>
         </div>
       </div>
@@ -257,17 +257,11 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Somerville | Professional Cleaners</h1>
+                <h1>Cleaning Services in Somerville</h1>
               </div>
               <div class="text-box">
-                <p>Cleaning services Somerville offers all kinds of cleaning and maintenance services to houses,
-                  offices, and holiday rental units. All your needs for cleaning your place, whether it be daily house
-                  cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure cleaning, and
-                  gardening services will be taken care of with top-quality efficiency. Other services such as linen
-                  hiring, house maintenance, locksmith services, car park cleaning, and NDIS cleaning make your property
-                  clean and safe all year long.</p>
+                <p>Somerville is a semi-rural township toward the top of the Mornington Peninsula, old orchard country that's grown into a family suburb of bigger blocks, hobby farms and newer estates. If you need a thorough, reliable cleaner near you, Rest Easy Services covers the range in Somerville: house cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Somerville clean and well kept.</p>
               </div>
-              <br>
               <div class="btn-box">
                 <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
                   <span class="txt">Book now</span>
@@ -289,31 +283,132 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Our Bayside &amp; South-East Footprint</h2>
+          <p class="hc-lead">We look after Somerville and the Mornington Peninsula, along with Frankston, Bayside and Melbourne's south-eastern suburbs.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
     <!--End Services Details -->
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What's Cleaning Like in a Semi-Rural Suburb Like Somerville?</h2>
+          <p class="hc-lead">Somerville sits away from the coast, so the sand-and-salt story you get down the bay doesn't really apply here. It's family homes, big blocks and a bit of the country coming indoors.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>Bigger blocks and more of the outdoors</h3>
+            <p>A lot of Somerville homes sit on generous blocks, some with hobby farms, sheds or a few animals. That means more mud, dust and grass tracked inside, more floor to cover, and gardens that take real work to keep tidy. It's a different job to a compact townhouse.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>A settled, own-your-home community</h3>
+            <p>Most people here own their place and stay for the long haul, so the demand is for steady, ongoing cleaning rather than constant holiday turnovers. A reliable weekly or fortnightly clean with the same cleaner is what we get asked for most.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Orchard-country gardens and rural dust</h3>
+            <p>This was a fruit-growing country, and the leafy, established gardens show it. Blocks carry more leaf litter and lawn than a standard suburban lot, and homes off the quieter roads pick up more dust through the drier months. Both are things we plan to clean around.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Expert Cleaners & Property Management in Somerville</h2>
+              <span style="letter-spacing: normal;">
+                <h2>What Professional Cleaning Solutions Do We Offer in Somerville?</h2>
               </span>
+              <p>From a weekly family clean to a full bond clean, handled by one local team, so you're not chasing a different company for each job.</p>
             </div>
           </div>
           <p>
             <br>
           </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\house-cleaning-somerville.png" alt="house-cleaning-somerville">
                 </div>
               </div>
               <!-- House Cleaning -->
@@ -322,8 +417,7 @@
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Professional house cleaning services make it easy for busy homes to have all the cleaning done
-                  according to their changing cleaning needs.</p>
+                <p>Regular or one-off house cleaning in Somerville, built around a busy family week. Bigger homes and bigger blocks are our bread and butter here.</p>
               </div>
             </div>
           </div>
@@ -334,19 +428,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\vacate-cleaning-somerville.png" alt="vacate-cleaning-somerville">
                 </div>
               </div>
               <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Vacate Cleaning
-                  </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>Vacate cleaning offers a thorough cleaning service to prepare a property for inspection and incoming
-                  tenants in Somerville.
-                </p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, so the bond comes back and the next tenants move into a clean place.</p>
               </div>
             </div>
           </div>
@@ -357,7 +448,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\airbnb-cleaning-somerville.png" alt="airbnb-cleaning-somerville">
                 </div>
               </div>
               <!-- House Maintenance -->
@@ -366,9 +457,7 @@
                   <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Those who own property for holiday rentals should rely on cleaning services from Airbnb to keep their
-                  rental properties clean at all times.
-                </p>
+                <p>For the holiday and short-stay rentals dotted around the area, we handle the turnover between guests and can bring fresh linen along, ready for the next arrival.</p>
               </div>
             </div>
           </div>
@@ -378,206 +467,212 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\window-cleaning-somerville.png" alt="window-cleaning-somerville">
                 </div>
               </div>
               <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="window-cleaning">Window Cleaning
-                  </a>
+                  <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Cleaning services for windows remove all filthy accumulations accumulated over time ensuring houses
-                  and offices remain at their best.</p>
+                <p>Inside and out, tracks included. Homes off the quieter roads pick up more dust on the glass, and we clear it properly rather than smearing it around.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-somerville.png" alt="#">
+                  <img src="assets\images\location\linen-hire-somerville.png" alt="linen-hire-somerville">
                 </div>
               </div>
               <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Hire</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Linen hire services keep holiday rentals in Somerville clean, fresh, and guest-ready with quality
-                  linen for every stay. for all guests!!!!</p>
+                <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather not do washing between guests.</p>
               </div>
             </div>
           </div>
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-somerville.png" alt="#">
+                  <img src="assets\images\location\home-maintenance-somerville.png" alt="home-maintenance-somerville">
                 </div>
               </div>
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">Home Maintenance
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>Home maintenance can guarantee that slight problems will not lead to expensive repairs and that the
-                  house is maintained well.
-                </p>
+                <p>Minor repairs and general upkeep alongside the cleaning, which suits older homes and bigger properties where small jobs mount up.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\garden-management-somerville.png" alt="#">
+                  <img src="assets\images\location\garden-management-somerville.png" alt="garden-management-somerville">
                 </div>
               </div>
               <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="garden-maintenance-services">Garden Management</a>
+                  <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Professional gardening service includes mowing the lawn, trimming hedges, pruning tree branches, weed
-                  removal and seasonal gardening care.
-                </p>
+                <p>Blocks in Somerville run bigger than the suburban average, with real lawns, hedges and established trees. We keep on top of the mowing, trimming and green-waste year-round.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\ndis-cleaning-somerville.png" alt="ndis-cleaning-somerville">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">NDIS Cleaning
-                  </a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>The NDIS cleaning service aims to assist individuals find a clean, hygienic, and comfortable living
-                  environment all over Somerville.
-                </p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/location/locksmith-somerville.png" alt="#">
+                  <img src="assets/images/location/locksmith-somerville.png" alt="locksmith-somerville">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="locksmith-services">Locksmith Offerings
-                  </a>
+                  <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Locksmith services comprise a variety of services such as lock repair, keys creation, installation of
-                  locks, re-keying and help in lockouts situations.
-
-                </p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and sheds around the area.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\carpet-cleaning-somerville.png" alt="carpet-cleaning-somerville">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleanup
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Specialized cleaning helps in bringing back the health of carpets by eliminating the dirt and
-                  removing the stains, dust, allergens and bad smell.
-
-                </p>
+                <p>Steam cleaning in Somerville that gets mud, dust and ground-in dirt out of the fibres, not just off the top, plus stains and pet odours from the family dog.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\pressure-cleaning-somerville.png" alt="pressure-cleaning-somerville">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-washing">Pressure Cleaning
-                  </a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Pressure cleaning is a method of cleaning where surfaces like patios, motorways, pavements, and roads
-                  are cleaned of dirt and stains. </p>
+                <p>Driveways, paths, sheds and outdoor areas washed back to clear the mud, moss and grime that build up on a bigger rural-style block.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-somerville.png" alt="#">
+                  <img src="assets\images\location\car-park-cleaning-somerville.png" alt="car-park-cleaning-somerville">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="car-park-cleaning">Car Park Cleaning Services
-
-                  </a>
+                  <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Cleaning services in car parks help to keep the car park free from dirt, leaves, litter, oil stains,
-                  and many other kinds of waste.</p>
+                <p>For the shopping plazas and business car parks around Somerville. Swept and washed so they stay tidy and presentable.</p>
               </div>
             </div>
           </div>
         </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
+        </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
+    <!--Start Residential & Rental -->
+
+    <section class="job-one">
+      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
+      <div class="container">
+        <div class="row">
+          <!--Start Job One Content-->
+          <div class="col-xl-6">
+            <div class="job-one__content">
+              <div class="title">
+                <h2>Where We Operate</h2>
+              </div>
+
+              <div class="text-box">
+                <p>We look after Somerville and the surrounding township, along with the wider Mornington Peninsula, Frankston, Brighton and Melbourne's south-east.</p>
+
+                <div class="services-details-text2">
+                  <ul>
+                    <li>
+                      <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
+                    </li>
+                    <li>
+                      <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
+                    </li>
+                    <li>
+                      <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <!--End Job One Content-->
+        </div>
+      </div>
+    </section>
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -604,9 +699,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -619,11 +714,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What kind of properties do you service in Somerville?</h3>
+                  <h3>What local cleaning services can I book near me in Somerville?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Cleaning services are provided for houses, flats, offices, retail shops, vacation rentals, and
-                    businesses.</p>
+                  <p>House cleaning, vacate and end-of-lease cleans, carpet and window cleaning, pressure washing, garden and house maintenance, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -631,11 +725,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I book cleaning on a regular basis?</h3>
+                  <h3>Do you clean larger family homes and bigger blocks?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Definitely regular cleaning can take place on a weekly, bi-weekly, monthly basis or according to
-                    what you want.</p>
+                  <p>That's most of what we do in Somerville. We bring the right size team and enough time for a bigger home rather than rushing a quick once-over.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -643,10 +736,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you perform move-in cleaning services?</h3>
+                  <h3>Can you do a regular weekly or fortnightly clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Of course, move-in cleaning is used to acquire a clean place before entering your new house.</p>
+                  <p>Yes, and it's our most common booking here. Somerville is a settled, family suburb, so ongoing regular cleaning suits far more people than one-off turnovers.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -654,10 +747,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you provide Airbnb cleaning in short notice?</h3>
+                  <h3>Can carpet cleaning get out mud and dirt from a big block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, this service can be scheduled flexibly to get ready houses for guests and entrees.</p>
+                  <p>Steam cleaning lifts ground-in mud, dust and grime out of the fibres, along with stains and pet odours. Handy when there's a garden, a shed or a dog in the mix.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -665,10 +758,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What do you have in the house maintenance service?</h3>
+                  <h3>Do you handle the gardens on a bigger property?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>House maintenance involves all necessary repairs and minor improvement of the property.</p>
+                  <p>We do. Mowing, hedge trimming, weeding and green-waste removal, suited to the larger, established blocks common around Somerville.</p>
                 </div>
               </li>
             </ul>
@@ -682,10 +775,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you provide window cleaning for businesses?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Somerville?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, window cleaning is practiced for both houses and businesses.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -693,11 +786,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are concrete drives suitable for pressure washing?</h3>
+                  <h3>Do you clean sheds, garages and outdoor areas?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, this cleaning procedure is quite effective in washing mud, moss, mould, stains from all kinds
-                    of concrete and paved surfaces.</p>
+                  <p>We can, and pressure washing is often the go for driveways, paths and shed surrounds on a rural-style block.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -705,10 +797,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are cleaning services available for NDIS participants?</h3>
+                  <h3>Is NDIS cleaning available in Somerville?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Certainly! NDIS cleaning services can help you in keeping your home neat, safe, and hygienic.</p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -716,11 +808,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I book more than one service on a single day?</h3>
+                  <h3>Do you also cover nearby areas like Tyabb or Baxter?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Definitely! You can book several different cleaning and maintenance services on the same day with
-                    ease.</p>
+                  <p>We cover Somerville and the surrounding Peninsula. If you're just outside the township, get in touch and we'll confirm we can reach you.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -728,11 +819,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What are the benefits of hiring professional cleaners?</h3>
+                  <h3>Do you offer same-day cleaning in Somerville?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>The use of professional cleaning services allows for considerable time saving, hygiene maintenance,
-                    preventing the damage to your property, and better home environment.</p>
+                  <p>Sometimes, depending on the day and the job. It's always worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
