@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Skye | Professional Cleaners Team</title>
+  <title>Cleaning Services in Skye | Rest Easy Services</title>
   <meta name="description"
-    content="Professional cleaning services in Skye for homes, rentals, and businesses. House cleaning, end of lease, Airbnb, carpet, window, and garden maintenance." />
+    content="Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Skye" />
+    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Skye" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-skye" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Skye | Professional Cleaners Team" />
+  <meta property="og:title" content="Cleaning Services in Skye | Rest Easy Services" />
   <meta property="og:description"
-    content="Professional cleaning services in Skye for homes, rentals, and businesses. House cleaning, end of lease, Airbnb, carpet, window, and garden maintenance." />
+    content="Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-skye" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Skye | Professional Cleaners Team" />
+  <meta name="twitter:title" content="Cleaning Services in Skye | Rest Easy Services" />
   <meta name="twitter:description"
-    content="Professional cleaning services in Skye for homes, rentals, and businesses. House cleaning, end of lease, Airbnb, carpet, window, and garden maintenance." />
+    content="Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
    
@@ -52,9 +52,9 @@
     {
       "@type": "Service",
       "@id": "https://resteasyservices.com.au/cleaning-services-skye/#service",
-      "name": "Cleaning Services Skye",
+      "name": "Cleaning Services in Skye",
       "url": "https://resteasyservices.com.au/cleaning-services-skye",
-      "description": "Professional cleaning services in Skye for homes, offices, Airbnb properties, end of lease cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance, home maintenance, linen hire, locksmith services and car park cleaning.",
+      "description": "Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes.",
       "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
         "@id": "https://resteasyservices.com.au/#business"
@@ -85,82 +85,82 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What cleaning services are available in Skye?",
+          "name": "What local cleaning services can I book near me in Skye?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sure, so in Skye there are a bunch of cleaning services like standard house cleaning, end of lease cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance and even home maintenance. On top of that there are options like linen hire, NDIS cleaning, locksmith services and yes car park cleaning as well."
+            "text": "House cleaning, carpet and window cleaning, pressure washing, garden and house maintenance, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning."
           }
         },
         {
           "@type": "Question",
-          "name": "How much does house cleaning cost in Skye?",
+          "name": "Do you do a first clean on a brand-new build?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "About the price for house cleaning in Skye it depends on how big the place is, what kind of cleaning requirements you have and the type of service you are after. Most of the time you will get a quote based on your individual needs so there is not one fixed number."
+            "text": "We do. New homes come with construction dust and residue on floors, windows and surfaces, and we clear all of that so you move into a genuinely clean place."
           }
         },
         {
           "@type": "Question",
-          "name": "Is end of lease cleaning worth it though?",
+          "name": "Do you clean larger family homes on big blocks?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In most cases yes. A professional end of lease clean can help the property look really good, like excellent condition for the final inspection. It’s basically one of those tidy everything up before you hand it over moments."
+            "text": "That's most of what we do in Skye. We bring the right size team and enough time for a bigger home rather than rushing it."
           }
         },
         {
           "@type": "Question",
-          "name": "How often should they be professionally carpet cleaned?",
+          "name": "Can you do a regular weekly or fortnightly clean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most of the carpets do best with professional cleaning every 6 to 12 months. It depends for example on foot traffic and also whether you have pets or any household messes going on."
+            "text": "Yes, and it's our most common booking here. Skye is a busy family suburb, so ongoing regular cleaning suits most households, with the same cleaner where we can manage it."
           }
         },
         {
           "@type": "Question",
-          "name": "Can Airbnb cleaning be scheduled between guest bookings?",
+          "name": "Do you handle the garden on a big block?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Airbnb cleaning can be arranged between stays so the place stays clean, guest-ready, and not in that \"we’ll deal with it later\" situation."
+            "text": "We do. Mowing, hedge trimming, weeding and green-waste removal, suited to the larger estate gardens common around Skye."
           }
         },
         {
           "@type": "Question",
-          "name": "What all gets included in professional window cleaning?",
+          "name": "Can carpet cleaning get rid of everyday dirt and pet odours?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Generally window cleaning covers cleaning the interior and exterior glass, plus the frames and sills, if they are reachable. Sometimes they also tackle stubborn smears and fingerprints, depending on the situation."
+            "text": "Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for family homes with kids and dogs."
           }
         },
         {
           "@type": "Question",
-          "name": "Does pressure washing remove mould and algae?",
+          "name": "Do you offer end-of-lease cleaning in Skye?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, Pressure washing usually removes mould, algae, dirt and grime from a lot of outdoor surfaces and it is pretty effective on those messy areas."
+            "text": "Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond."
           }
         },
         {
           "@type": "Question",
-          "name": "Who might benefit from NDIS cleaning services?",
+          "name": "Do you clean homes on the semi-rural fringes near the reserve?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "NDIS participants who need help to keep their place clean and hygienic can often benefit from professional cleaning support especially when day to day tasks feel a bit too much."
+            "text": "We do. Bigger blocks with a bit of the country around them are no problem, and pressure washing and garden work often go alongside the house clean there."
           }
         },
         {
           "@type": "Question",
-          "name": "Can I book more than one cleaning service at once?",
+          "name": "Is NDIS cleaning available in Skye?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes you can. A lot of customers like to combine house cleaning with the carpet cleaning, window cleaning and even garden maintenance during the same appointment so everything gets handled together."
+            "text": "It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable."
           }
         },
         {
           "@type": "Question",
-          "name": "Why choose professional cleaners in Skye?",
+          "name": "Do you offer same-day cleaning in Skye?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Because professional cleaners help you to save time, boost hygiene and keep homes or commercial properties in excellent condition. They also aim for steady and consistent results but not just a quick once over."
+            "text": "Sometimes, depending on the day and the job. It's worth calling early if your timing's tight."
           }
         }
       ]
@@ -208,7 +208,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -242,7 +242,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2>Skye</h2>
+          <h1> Cleaning Services in Skye</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -250,7 +250,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li>Skye</li>
+            <li> Cleaning Services in Skye</li>
           </ul>
         </div>
       </div>
@@ -264,15 +264,10 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Skye | Professional Cleaners Team</h1>
+                <h1>Cleaning Services in Skye</h1>
               </div>
               <div class="text-box">
-                <p>Maintain your property in perfect condition with cleaning services Skye. Professional cleaners offer
-                  reliable cleaning and property maintenance services to homes, offices, and rentals. Cleaning services
-                  include home cleaning, end of lease cleaning, Airbnb cleaning, window cleaning, carpet cleaning,
-                  pressure washing, garden cleaning, home maintenance, linen hiring, NDIS cleaning, locksmiths, and car
-                  parking cleaning. All these services help maintain cleanliness, hygiene, organization, and an inviting
-                  environment in Skye.</p>
+                <p>Skye is a quiet, growing family suburb in Melbourne's south-east, known for its newer estates, big blocks and an edge-of-country feel where you can still catch a rural view from the back window. If you're searching for a meticulous cleaner near you, Rest Easy Services covers the range in Skye: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Skye clean and well kept.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -287,7 +282,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-skye.png" alt="Cleaning Services"
+              <img src="assets/images/location/cleaning-services-skye.png" alt="Cleaning Services in Skye"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -296,31 +291,129 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Our Bayside &amp; South-East Footprint</h2>
+          <p class="hc-lead">We look after Skye, from the residential streets through to the surrounding suburbs and the wider south-east corridor.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3 class="rye-footprint__card-title">Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3 class="rye-footprint__card-title">Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-skye"><span class="aws-areas__dot"></span>Skye</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3 class="rye-footprint__card-title">Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What Kind of Cleaning Suits a Growing Suburb Like Skye?</h2>
+          <p class="hc-lead">Skye has a lot of newer homes on big blocks, with the green wedge and bushland reserve never far away. That mix shapes the kind of cleaning people here tend to need.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>New estates and big family blocks</h3>
+            <p>Much of Skye is recent estate housing on generous blocks with manicured gardens. That means bigger homes to clean, more lawn and garden to keep tidy, and, for brand-new builds, a first clean to clear the dust and residue that comes with a fresh house.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>Busy young families</h3>
+            <p>Skye skews young and family-heavy, with plenty of double-income households short on time. That's exactly who books a steady weekly or fortnightly clean, plus carpet cleaning to keep on top of what kids and pets bring through the door.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>An edge-of-country feel</h3>
+            <p>With the green wedge and Skye's bushland reserve close by, homes on the fringes pick up more leaf litter, dust and garden debris than a tight inner block. Bigger outdoor areas come with that, which is where the garden work and pressure washing earn their keep.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Trusted Cleaners for Homes & Businesses in Skye</h2>
+              <span style="letter-spacing: normal;">
+                <h2>What Range of Cleaning Services Do We Provide in Skye?</h2>
               </span>
+              <p>From a weekly family clean to a full bond clean or a first clean on a new build, it's all handled by one local team.</p>
             </div>
           </div>
-          <p>
-            <br>
-          </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-Skye.png" alt="house-cleaning-Skye">
+                  <img src="assets/images/location/house-cleaning-Skye.png" alt="house-cleaning-Skye">
                 </div>
               </div>
               <!-- House Cleaning -->
@@ -341,7 +434,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\end-of-lease-cleaning-Skye.png" alt="end-of-lease-cleaning-Skye">
+                  <img src="assets/images/location/end-of-lease-cleaning-Skye.png" alt="end-of-lease-cleaning-Skye">
                 </div>
               </div>
               <!-- Linen Hire -->
@@ -362,7 +455,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\air-bnb-cleaning-Skye.png" alt="air-bnb-cleaning-Skye">
+                  <img src="assets/images/location/air-bnb-cleaning-Skye.png" alt="air-bnb-cleaning-Skye">
                 </div>
               </div>
               <!-- House Maintenance -->
@@ -382,7 +475,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-Skye.png" alt="window-cleaning-Skye">
+                  <img src="assets/images/location/window-cleaning-Skye.png" alt="window-cleaning-Skye">
                 </div>
               </div>
               <!-- Garden Maintenance -->
@@ -396,19 +489,12 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-Skye.png" alt="linen-hire-Skye">
+                  <img src="assets/images/location/linen-hire-Skye.png" alt="linen-hire-Skye">
                 </div>
               </div>
               <!-- Car Park Cleaning -->
@@ -428,7 +514,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-Skye.png" alt="home-maintenance-Skye">
+                  <img src="assets/images/location/home-maintenance-Skye.png" alt="home-maintenance-Skye">
                 </div>
               </div>
               <!-- Pressure Washing -->
@@ -449,7 +535,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\garden-maintenance-Skye.png"
+                  <img src="assets/images/location/garden-maintenance-Skye.png"
                     alt="garden-maintenance-Skye">
                 </div>
               </div>
@@ -469,7 +555,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-Sky.png" alt="ndis-cleaning-Sky">
+                  <img src="assets/images/location/ndis-cleaning-Sky.png" alt="ndis-cleaning-Sky">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -509,7 +595,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-Skye.png" alt="carpet-cleaning-Skye">
+                  <img src="assets/images/location/carpet-cleaning-Skye.png" alt="carpet-cleaning-Skye">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -529,7 +615,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-washing-Skye.png" alt="pressure-washing-Skye">
+                  <img src="assets/images/location/pressure-washing-Skye.png" alt="pressure-washing-Skye">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -548,7 +634,7 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-Skye.png" alt="car-park-cleaning-Skye">
+                  <img src="assets/images/location/car-park-cleaning-Skye.png" alt="car-park-cleaning-Skye">
                 </div>
               </div>
               <!-- Window Cleaning -->
@@ -563,11 +649,54 @@
             </div>
           </div>
         </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
+        </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
 
+    <!--Start Residential & Rental -->
+    <section class="job-one">
+      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
+      <div class="container">
+        <div class="row">
+          <!--Start Job One Content-->
+          <div class="col-xl-6">
+            <div class="job-one__content">
+              <div class="title">
+                <h2>Neighbouring Suburbs We Look After</h2>
+              </div>
 
+              <div class="text-box">
+                <p>We look after Skye and the surrounding estates, along with the wider Frankston area, the Mornington Peninsula, Brighton and Melbourne's south-east.</p>
+
+                <div class="services-details-text2">
+                  <ul>
+                    <li>
+                      <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
+                    </li>
+                    <li>
+                      <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
+                    </li>
+                    <li>
+                      <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <!--End Job One Content-->
+        </div>
+      </div>
+    </section>
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -594,9 +723,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -609,13 +738,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What cleaning services are available in Skye?</h3>
+                  <h3>What local cleaning services can I book near me in Skye?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Sure, so in Skye there are a bunch of cleaning services like standard house cleaning, end of lease
-                    cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance
-                    and even home maintenance . On top of that there are options like linen hire, NDIS cleaning,
-                    locksmith services and yes car park cleaning as well.</p>
+                  <p>House cleaning, carpet and window cleaning, pressure washing, garden and house maintenance, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -623,12 +749,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How much does house cleaning cost in Skye?</h3>
+                  <h3>Do you do a first clean on a brand-new build?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>About the price for house cleaning in Skye it depends on how big the place is, what kind of
-                    cleaning requirements you have and the type of service you are after. Most of the time you will get
-                    a quote based on your individual needs so there is not one fixed number</p>
+                  <p>We do. New homes come with construction dust and residue on floors, windows and surfaces, and we clear all of that so you move into a genuinely clean place.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -636,12 +760,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is end of lease cleaning worth it though?</h3>
+                  <h3>Do you clean larger family homes on big blocks?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>In most cases yes. A professional end of lease clean can help the property look really good, like
-                    excellent condition for the final inspection. It’s basically one of those tidy everything up before
-                    you hand it over moments.</p>
+                  <p>That's most of what we do in Skye. We bring the right size team and enough time for a bigger home rather than rushing it.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -649,11 +771,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How often should they be professionally carpet cleaned?</h3>
+                  <h3>Can you do a regular weekly or fortnightly clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Most of the carpets do best with professional cleaning every 6 to 12 months. It depends for example
-                    on foot traffic and also whether you have pets or any household messes going on</p>
+                  <p>Yes, and it's our most common booking here. Skye is a busy family suburb, so ongoing regular cleaning suits most households, with the same cleaner where we can manage it.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -661,11 +782,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> Can Airbnb cleaning be scheduled between guest bookings? </h3>
+                  <h3>Do you handle the garden on a big block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes. Airbnb cleaning can be arranged between stays so the place stays clean, guest-ready, and not
-                    in that “we’ll deal with it later” situation</p>
+                  <p>We do. Mowing, hedge trimming, weeding and green-waste removal, suited to the larger estate gardens common around Skye.</p>
                 </div>
               </li>
             </ul>
@@ -679,12 +799,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What all gets included in professional window cleaning?</h3>
+                  <h3>Can carpet cleaning get rid of everyday dirt and pet odours?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Generally window cleaning covers cleaning the interior and exterior glass, plus the frames and
-                    sills, if they are reachable. Sometimes they also tackle stubborn smears and fingerprints, depending
-                    on the situation.</p>
+                  <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for family homes with kids and dogs.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -692,11 +810,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Does pressure washing remove mould and algae?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Skye?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, Pressure washing usually removes mould, algae, dirt and grime from a lot of outdoor surfaces
-                    and it is pretty effective on those messy areas.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -704,12 +821,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Who might benefit from NDIS cleaning services?</h3>
+                  <h3>Do you clean homes on the semi-rural fringes near the reserve?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>NDIS participants who need help to keep their place clean and hygienic can often benefit from
-                    professional cleaning support especially when day to day tasks feel a bit too much.
-                  </p>
+                  <p>We do. Bigger blocks with a bit of the country around them are no problem, and pressure washing and garden work often go alongside the house clean there.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -717,12 +832,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I book more than one cleaning service at once?</h3>
+                  <h3>Is NDIS cleaning available in Skye?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes you can. A lot of customers like to combine house cleaning with the carpet cleaning, window
-                    cleaning and even garden maintenance during the same appointment so everything gets handled
-                    together.</p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -730,12 +843,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Why choose professional cleaners in Skye?</h3>
+                  <h3>Do you offer same-day cleaning in Skye?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Because professional cleaners help you to save time, boost hygiene and keep homes or commercial
-                    properties in excellent condition. They also aim for steady and consistent results but not just a
-                    quick once over.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
