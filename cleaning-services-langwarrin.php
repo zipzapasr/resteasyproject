@@ -264,7 +264,8 @@
               <span style="letter-spacing: normal;">Service Coverage</span>
             </div>
           </div>
-          <h2>Areas We Serve</h2>
+          <h2>Our Service Coverage Around Langwarrin</h2>
+          <p class="hc-lead">We look after Langwarrin and the surrounding streets, along with the wider Frankston area, the Mornington Peninsula, Brighton and Melbourne's south-east.</p>
         </div>
 
         <div class="rye-footprint__grid">
@@ -683,43 +684,6 @@
     </section>
 
     <!--End Benefits Services Details -->
-    <!--Start Residential & Rental -->
-
-    <section class="job-one">
-      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
-      <div class="container">
-        <div class="row">
-          <!--Start Job One Content-->
-          <div class="col-xl-6">
-            <div class="job-one__content">
-              <div class="title">
-                <h2>Our Service Coverage Around Langwarrin</h2>
-              </div>
-
-              <div class="text-box">
-                <p>We look after Langwarrin and the surrounding streets, along with the wider Frankston area, the Mornington Peninsula, Brighton and Melbourne's south-east.</p>
-
-                <div class="services-details-text2">
-                  <ul>
-                    <li>
-                      <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
-                    </li>
-                    <li>
-                      <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
-                    </li>
-                    <li>
-                      <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <!--End Job One Content-->
-        </div>
-      </div>
-    </section>
 
     <!--Start CTA  -->
     <section class="cta-one">

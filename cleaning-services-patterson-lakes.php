@@ -300,7 +300,7 @@
             </div>
           </div>
           <h2>Our Bayside &amp; South-East Footprint</h2>
-          <p class="hc-lead">We look after Patterson Lakes, from the marina and canal properties through to the surrounding bayside and south-east corridor.</p>
+          <p class="hc-lead">We look after Patterson Lakes, from the canal courts to the marina precinct, along with the wider south-east, Frankston, the Mornington Peninsula and Melbourne's bayside.</p>
         </div>
 
         <div class="rye-footprint__grid">
@@ -644,43 +644,6 @@
             <span class="fa fa-angle-right"></span>
           </button>
         </div>
-        </div>
-      </div>
-    </section>
-
-    <!--Start Residential & Rental -->
-    <section class="job-one">
-      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
-      <div class="container">
-        <div class="row">
-          <!--Start Job One Content-->
-          <div class="col-xl-6">
-            <div class="job-one__content">
-              <div class="title">
-                <h2>Our Bayside &amp; South-East Footprint</h2>
-              </div>
-
-              <div class="text-box">
-                <p>We look after Patterson Lakes, from the canal courts to the marina precinct, along with the wider south-east, Frankston, the Mornington Peninsula and Melbourne's bayside.</p>
-
-                <div class="services-details-text2">
-                  <ul>
-                    <li>
-                      <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
-                    </li>
-                    <li>
-                      <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
-                    </li>
-                    <li>
-                      <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <!--End Job One Content-->
         </div>
       </div>
     </section>

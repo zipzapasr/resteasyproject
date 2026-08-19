@@ -298,8 +298,8 @@
               <span style="letter-spacing: normal;">Service Coverage</span>
             </div>
           </div>
-          <h2>Our Bayside &amp; South-East Footprint</h2>
-          <p class="hc-lead">We look after Chelsea Heights, from the residential streets near the foreshore through to Chelsea, Bonbeach and the wider south-east corridor.</p>
+          <h2>Where We Operate</h2>
+          <p class="hc-lead">We look after Chelsea Heights and the surrounding streets, along with the wider south-east, Frankston, the Mornington Peninsula and Melbourne's bayside.</p>
         </div>
 
         <div class="rye-footprint__grid">
@@ -628,46 +628,6 @@
         </div>
       </div>
     </section>
-
-    <!--Start Residential & Rental -->
-
-    <section class="job-one">
-      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
-      <div class="container">
-        <div class="row">
-          <!--Start Job One Content-->
-          <div class="col-xl-6">
-            <div class="job-one__content">
-              <div class="title">
-                <h2>Where We Operate</h2>
-              </div>
-
-              <div class="text-box">
-                <p>We look after Chelsea Heights and the surrounding streets, along with the wider south-east, Frankston, the Mornington Peninsula and Melbourne's bayside.</p>
-
-                <div class="services-details-text2">
-                  <ul>
-                    <li>
-                      <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
-                    </li>
-                    <li>
-                      <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
-                    </li>
-                    <li>
-                      <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <!--End Job One Content-->
-        </div>
-      </div>
-    </section>
-
-
 
     <!--Start CTA  -->
 
