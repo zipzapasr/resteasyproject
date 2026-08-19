@@ -450,7 +450,7 @@
               <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
+                  <a href="linen-hire">Linen Hire for Vacation Rental</a>
                 </h3>
                 <br>
                 <p>Laundered sheets and towels delivered ready to go, so hosts aren't running washing between one guest leaving and the next arriving.</p>

@@ -5668,6 +5668,7 @@ body {
         font-size: 14px;
         line-height: 1.55;
         color: #6b7280;
+        min-height: 0;
     }
 
     .location-services__mobile-carousel .location-services__desc.is-expanded,
@@ -5680,7 +5681,7 @@ body {
     .location-services__mobile-carousel .location-services__read-more,
     .location-services__grid .location-services__read-more {
         display: inline-block;
-        margin-top: 8px;
+        margin-top: 2px;
         align-self: flex-start;
         text-align: left;
     }
