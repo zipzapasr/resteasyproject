@@ -4,9 +4,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Expert Cleaning Services in Langwarrin for Spotless Spaces </title>
-  <meta name="description" content="Get expert cleaning services in Langwarrin for homes, offices, and rental properties. Enjoy spotless spaces with reliable, thorough, and professional cleaning solutions. 
-" />
+  <title>Cleaning Services in Langwarrin | Rest Easy Services</title>
+  <meta name="description" content="Local house, carpet & window cleaning in Langwarrin. Insured, police-checked cleaners for big family homes, leafy blocks and bushland-edge gardens. Free quotes." />
   <meta name="keywords"
     content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Langwarrin" />
   <meta name="robots" content="index, follow" />
@@ -174,7 +173,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -208,7 +207,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Langwarrin</h2>
+          <h1> Cleaning Services in Langwarrin</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -216,7 +215,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Langwarrin</li>
+            <li> Cleaning Services in Langwarrin</li>
           </ul>
         </div>
       </div>
@@ -230,14 +229,11 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Expert Cleaning Services in Langwarrin for Spotless Spaces </h1>
+                <h1>Cleaning Services in Langwarrin</h1>
               </div>
               <div class="text-box">
-                <p>Professional cleaning services at Langwarrin for your house and business. Services include: house
-                  cleaning, end-of-lease cleaning, office cleaning, carpet cleaning, window cleaning, and more.
-                  Professional, reliable, and cheap cleaning services available for all properties at Langwarrin. </p>
+                <p>Langwarrin is a leafy garden-and-park suburb inland from Frankston, known for its big family blocks, the Flora and Fauna Reserve on its western edge and the heritage gardens at Cruden Farm. When you need an experienced cleaner near you, Rest Easy Services covers the range in Langwarrin: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Langwarrin clean and well kept.</p>
               </div>
-              <br>
               <div class="btn-box">
                 <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
                   <span class="txt">Book now</span>
@@ -259,41 +255,141 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Areas We Serve</h2>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3 class="rye-footprint__card-title">Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-martha"><span class="aws-areas__dot"></span>Mount Martha</a>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3 class="rye-footprint__card-title">Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <a class="aws-areas__tag" href="cleaning-services-sandringham"><span class="aws-areas__dot"></span>Sandringham</a>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3 class="rye-footprint__card-title">Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-waverley"><span class="aws-areas__dot"></span>Mount Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
     <!--End Services Details -->
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What's Different About Cleaning a Home in Langwarrin?</h2>
+          <p class="hc-lead">Langwarrin is greener and more spread out than most suburbs, its distance from the city, and that shapes the kind of cleaning it needs.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>A garden-and-park suburb</h3>
+            <p>This is a suburb built around its gardens and green space, from Cruden Farm to the big reserve on the western side. Blocks tend to be larger and more heavily planted than average, which means more leaf litter, more pollen through spring, and gardens that take real upkeep to keep looking sharp.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>Big, established family homes</h3>
+            <p>A lot of Langwarrin homes are generous family houses on generous land, owned by people who've been here a while. That points to steady, ongoing cleaning rather than quick turnovers, and to bigger jobs that need the right time set aside rather than a rushed once-over.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Bushland edges and acreage in the south</h3>
+            <p>Homes near the Flora and Fauna Reserve, and the acreage properties down in Langwarrin South, back onto real bush. That brings more leaf litter in the gutters, more native garden debris, and a bit more dust through the drier months, all of which we plan the clean and the garden work around.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Cleaning Services in Langwarrin | Trusted Local Experts </h2>
+              <span style="letter-spacing: normal;">
+                <h2>How Can Our Langwarrin Cleaners Assist You Today?</h2>
               </span>
+              <p>From a weekly clean to a full garden and property tidy-up, it's all handled by one local team, so you're not chasing a different company for each job.</p>
             </div>
           </div>
           <p>
             <br>
           </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="house-cleaning-services-in-langwarrin">
                 </div>
               </div>
               <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-cleaning">House Cleaning Service</a>
+                  <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Keep your home fresh and spotless with professional house cleaning services in Langwarrin. We clean
-                  kitchens, bathrooms, bedrooms, and living areas to standards.</p>
+                <p>Regular or one-off house cleaning in Langwarrin, built around your week. Bigger family homes are our bread and butter here, whether it's a weekly visit or a single deep clean.</p>
               </div>
             </div>
           </div>
@@ -304,19 +400,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="vacate-cleaning-services-langwarrin">
                 </div>
               </div>
               <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Vacate Cleaning Services
-                  </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>Vacate cleaning services in Langwarrin for rental properties that need cleaning and dusting to keep
-                  things clean during the inspection.
-                </p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
@@ -327,18 +420,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="airbnb-cleaning-services-langwarrin">
                 </div>
               </div>
               <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning Services</a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Airbnb cleaning services in Langwarrin will consist of a full house cleaning, bathroom sanitization,
-                  linen changes, and guest preparation.
-                </p>
+                <p>For the short-stay and holiday rentals around the area, we handle the turnover between guests and can bring fresh linen along, ready for the next arrival.</p>
               </div>
             </div>
           </div>
@@ -348,44 +439,34 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\window-cleaning-langwarrin.png" alt="window-cleaning-langwarrin">
                 </div>
               </div>
               <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="window-cleaning">Window Cleaning
-                  </a>
+                  <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Window cleaning in Langwarrin for dust, dirt, smears, and watermarks removal from both interior and
-                  exterior windows, ensuring clear, sparkling, and spotless glass surfaces. </p>
+                <p>Inside and out, tracks included. Leafy, treed blocks throw more dust and pollen onto the glass, and we clear it properly rather than smearing it around.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-langwarrin.png" alt="#">
+                  <img src="assets\images\location\linen-hire-langwarrin.png" alt="linen-hire-langwarrin">
                 </div>
               </div>
               <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Hire</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Linen hire services in Langwarrin for providing you with fresh sheets, pillowcases, towels, and
-                  beddings in your houses or holiday homes.</p>
+                <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather skip the washing between guests.</p>
               </div>
             </div>
           </div>
@@ -395,19 +476,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="#">
+                  <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="home-maintenance-in-langwarrin">
                 </div>
               </div>
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">Home Maintenance
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>Home maintenance in Langwarrin involves home repairs, property maintenance, and general maintenance
-                  of homes to ensure safety and condition of houses.
-                </p>
+                <p>Minor repairs and general upkeep alongside the cleaning, which suits bigger, established homes where small jobs mount up over time.</p>
               </div>
             </div>
           </div>
@@ -418,19 +496,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="#">
+                  <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="maintenance-of-garden-langwarrin">
                 </div>
               </div>
               <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="garden-maintenance-services">Maintenance of Garden
-                  </a>
+                  <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Maintenance of the garden in Langwarrin is grass cutting, hedge cutting, weeding, pruning and
-                  gardening.
-                </p>
+                <p>This is a big one in Langwarrin. Larger blocks, established trees and fast-growing hedges mean real garden work, so we keep on top of the mowing, trimming, weeding and green-waste year-round.</p>
               </div>
             </div>
           </div>
@@ -440,19 +515,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="ndis-cleaning-langwarrin">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">NDIS Cleaning
-                  </a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>NDIS cleaning in Langwarrin involves assistance with house cleaning including the kitchen, bathroom,
-                  bedroom, and living room.
-                </p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
@@ -462,20 +534,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="#">
+                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="locksmith-langwarrin">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="locksmith-services">Locksmith
-                  </a>
+                  <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Locksmith services in Langwarrin involve key cutting, lock replacement, lock repair, and re-keying of
-                  locks.
-
-                </p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and sheds around the area.</p>
               </div>
             </div>
           </div>
@@ -485,21 +553,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="carpet-cleaning-langwarrin">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Cleaning of Carpet
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Carpet cleaning in Langwarrin consists of removal of dirt and stains from the carpet in order to make
-                  it clean.
-
-
-                </p>
+                <p>Steam cleaning in Langwarrin that lifts ground-in dirt, dust and stains out of the fibres, plus pet odours. A common one for busy family homes.</p>
               </div>
             </div>
           </div>
@@ -509,20 +572,16 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="pressure-cleaning-langwarrin">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-washing">Pressure Cleaning
-                  </a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>
-                  Pressure cleaning in Langwarrin consists of removal of dirt, mold, stains, and spots from driveways,
-                  patios, pathways and walls.
-                </p>
+                <p>Driveways, paths and outdoor areas washed back to clear the moss, mould and leaf stain that build up on shaded, tree-lined blocks.</p>
               </div>
             </div>
           </div>
@@ -532,26 +591,28 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="#">
+                  <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="car-park-cleaning-langwarrin">
                 </div>
               </div>
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="car-park-cleaning">Car Park Cleaning
-
-                  </a>
+                  <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>
-                  Car park cleaning in Langwarrin involves removal of oil stains, dirt, and tire marks from parking
-                  areas.
-
-
-                </p>
+                <p>For the shopping centres and business car parks around Langwarrin. Swept and washed so they stay tidy and presentable.</p>
               </div>
             </div>
           </div>
+        </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
         </div>
       </div>
     </section>
@@ -622,6 +683,44 @@
     </section>
 
     <!--End Benefits Services Details -->
+    <!--Start Residential & Rental -->
+
+    <section class="job-one">
+      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
+      <div class="container">
+        <div class="row">
+          <!--Start Job One Content-->
+          <div class="col-xl-6">
+            <div class="job-one__content">
+              <div class="title">
+                <h2>Our Service Coverage Around Langwarrin</h2>
+              </div>
+
+              <div class="text-box">
+                <p>We look after Langwarrin and the surrounding streets, along with the wider Frankston area, the Mornington Peninsula, Brighton and Melbourne's south-east.</p>
+
+                <div class="services-details-text2">
+                  <ul>
+                    <li>
+                      <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
+                    </li>
+                    <li>
+                      <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
+                    </li>
+                    <li>
+                      <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <!--End Job One Content-->
+        </div>
+      </div>
+    </section>
+
     <!--Start CTA  -->
     <section class="cta-one">
       <div class="cta-one__bg"></div>
@@ -647,9 +746,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -662,10 +761,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are the cleaning services provided for both residential and commercial premises?</h3>
+                  <h3>What local cleaning services can I book near me in Langwarrin?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning services are offered to homes, offices, shops, and other commercial premises.</p>
+                  <p>House cleaning, carpet and window cleaning, pressure washing, garden and house maintenance, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -673,11 +772,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are there services for single cleaning?</h3>
+                  <h3>Do you clean larger family homes on big blocks?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning can be done once on particular occasions like inspection or during seasonal cleaning.
-                  </p>
+                  <p>That's most of what we do in Langwarrin. We bring the right size team and enough time for a bigger home rather than rushing it.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -685,11 +783,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are customized cleaning checklists provided?</h3>
+                  <h3>Do you handle the extra garden work on a leafy block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning activities can be organized according to the state of the premise and cleaning needs.
-                  </p>
+                  <p>We do, and it's a big part of the job here. Mowing, hedge trimming, weeding and green-waste removal, suited to Langwarrin's larger, established gardens.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -697,10 +794,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are weekend cleaning services provided in Langwarrin?</h3>
+                  <h3>Do you clean homes that back onto the Flora and Fauna Reserve?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Cleaning services during the weekends can be scheduled based on availability and scheduling.</p>
+                  <p>We do. Those homes tend to collect more leaf litter in the gutters and more dust off the bush, so gutters and outdoor areas often get extra attention.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -708,11 +805,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How long would the cleaning service take?</h3>
+                  <h3>Can I set up a regular weekly or fortnightly clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>It varies based on the size of the premises and their condition, along with the type of cleaning
-                    service you need.</p>
+                  <p>Yes, and it's our most common booking here. Langwarrin is a settled family suburb, so ongoing regular cleaning suits most people.</p>
                 </div>
               </li>
             </ul>
@@ -726,10 +822,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>In which areas more attention is paid during cleaning?</h3>
+                  <h3>Can carpet cleaning get out everyday dirt and pet odours?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Kitchen, bathroom, floor, bench top, door handles, and other such high-touch areas.</p>
+                  <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes with kids and dogs.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -737,11 +833,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can cleaning be scheduled regularly?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Langwarrin?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Cleaning can be arranged regularly either once a week, twice a week, or even once a month to ensure
-                    your premises remain clean.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -749,11 +844,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you offer outdoor cleaning service?</h3>
+                  <h3>Do you clean the acreage properties in Langwarrin South?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>We do offer outdoor cleaning which includes pressure cleaning, window cleaning, garden cleaning,
-                    and parking lot cleaning.</p>
+                  <p>We do. Bigger, semi-rural blocks are no problem, and pressure washing and garden work often go alongside the house clean there.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -761,11 +855,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Who is eligible for vacate cleaning?</h3>
+                  <h3>Is NDIS cleaning available in Langwarrin?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Vacate cleaning can be done in apartments, units, houses, townhouses, and all kinds of rented
-                    residential premises.</p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -773,15 +866,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Why should one choose a professional cleaning service?</h3>
+                  <h3>Do you offer same-day cleaning in Langwarrin?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Professional cleaning ensures that your premises become healthier.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

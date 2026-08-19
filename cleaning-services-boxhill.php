@@ -202,7 +202,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2>Boxhill</h2>
+          <h1> Cleaning Services in Box Hill</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -244,7 +244,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li>Boxhill</li>
+            <li> Cleaning Services in Box Hill</li>
           </ul>
         </div>
       </div>
@@ -290,7 +290,62 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Our Bayside &amp; South-East Footprint</h2>
+          <p class="hc-lead">We look after Box Hill and the surrounding eastern suburbs, along with Bayside, Frankston and the Mornington Peninsula.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
     <!--End Services Details -->
     <section class="blog-one">
@@ -298,7 +353,7 @@
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
+              <span style="letter-spacing: normal;">
                 <h2>Cleaning Services Boxhill | Professional Cleaners for All Needs</h2>
               </span>
             </div>
@@ -307,7 +362,8 @@
             <br>
           </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -390,13 +446,6 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -416,7 +465,6 @@
               </div>
             </div>
           </div>
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
@@ -438,8 +486,6 @@
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -459,7 +505,6 @@
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -479,7 +524,6 @@
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -499,7 +543,6 @@
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -518,7 +561,6 @@
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -538,7 +580,6 @@
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -558,6 +599,15 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
         </div>
       </div>
     </section>
@@ -590,9 +640,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">

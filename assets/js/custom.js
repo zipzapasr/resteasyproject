@@ -431,52 +431,15 @@
       });
     }
 
-    // Location page service cards: read more + mobile carousel
+    // Location page service cards: mobile carousel
     (function initLocationServicesSection() {
       var $wraps = $(".location-services__carousel-wrap");
       if (!$wraps.length) return;
-
-      function setupLocationServicesReadMoreDom($scope) {
-        $scope.find(".blog-one__single__content").each(function () {
-          var $content = $(this);
-          if ($content.find(".location-services__read-more").length) return;
-
-          var $p = $content.children("p").first();
-          if (!$p.length) return;
-
-          $p.addClass("location-services__desc");
-          var $btn = $(
-            '<button type="button" class="location-services__read-more" aria-expanded="false">Read more</button>'
-          );
-          $btn.insertAfter($p);
-
-          if ($p[0].scrollHeight <= $p[0].clientHeight + 1) {
-            $btn.hide();
-          }
-        });
-      }
 
       $wraps.each(function () {
         var $wrap = $(this);
         var $grid = $wrap.find(".location-services__grid").first();
         if (!$grid.length) return;
-
-        setupLocationServicesReadMoreDom($grid);
-
-        $wrap.off("click.locReadMore", ".location-services__read-more").on("click.locReadMore", ".location-services__read-more", function (e) {
-          e.preventDefault();
-          e.stopPropagation();
-          var $btn = $(this);
-          var $p = $btn.prev(".location-services__desc");
-          var expanded = $p.toggleClass("is-expanded").hasClass("is-expanded");
-          $btn.text(expanded ? "Read less" : "Read more");
-          $btn.attr("aria-expanded", expanded ? "true" : "false");
-          if (!expanded && $p[0].scrollHeight <= $p[0].clientHeight + 1) {
-            $btn.hide();
-          } else {
-            $btn.show();
-          }
-        });
 
         if (!$.fn.owlCarousel) return;
 
@@ -524,7 +487,6 @@
             $carousel.trigger("next.owl.carousel");
           });
           $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "false");
-          setupLocationServicesReadMoreDom($carousel);
         }
 
         function destroyCarousel() {

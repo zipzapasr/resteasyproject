@@ -15891,12 +15891,11 @@ h1 {
   font-size: 22px;
 }
 
-/* Location services cards: equal height + compact read more (desktop) */
+/* Location services cards: equal height */
 @media (min-width: 768px) {
   .location-services__grid > [class*="col-"] {
     display: flex;
-    margin-bottom: 20px;
-    
+    margin-bottom: 24px;
   }
 
   .location-services__grid .blog-one__single {
@@ -15904,11 +15903,17 @@ h1 {
     flex-direction: column;
     width: 100%;
     height: 100%;
-    margin-bottom: 4px;
+    margin-bottom: 0;
     overflow: hidden;
     border-radius: 10px;
     background: #ffffff;
     box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .location-services__grid .blog-one__single:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
   }
 
   .location-services__grid .blog-one__single-img {
@@ -15935,7 +15940,7 @@ h1 {
     display: flex;
     flex-direction: column;
     flex: 1 1 auto;
-    padding: 16px 16px 0px;
+    padding: 20px 20px 24px;
     box-shadow: none;
     border-radius: 0;
     background: transparent;
@@ -15958,47 +15963,18 @@ h1 {
 
   .location-services__grid .blog-one__single__content > p,
   .location-services__grid .location-services__desc {
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    flex: 0 0 auto;
+    display: block;
+    overflow: visible;
+    flex: 1 1 auto;
     margin: 0;
     font-size: 14px;
     line-height: 1.55;
     color: #6b7280;
-    min-height: 0;
-  }
-
-  .location-services__grid .location-services__desc.is-expanded {
-    display: block;
-    -webkit-line-clamp: unset;
-    overflow: visible;
-    min-height: 0;
   }
 }
 
 .location-services__read-more {
-  display: inline-block;
-  width: fit-content;
-  margin-top: 2px;
-  padding: 0;
-  border: 0;
-  background: none;
-  color: var(--thm-primary, #ff5e15);
-  font-size: 13px;
-  font-weight: 600;
-  line-height: 1.4;
-  cursor: pointer;
-  text-decoration: none;
-}
-
-.location-services__read-more:hover,
-.location-services__read-more:focus-visible {
-  color: var(--thm-base, #002359);
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  display: none !important;
 }
 
 .top-bar {

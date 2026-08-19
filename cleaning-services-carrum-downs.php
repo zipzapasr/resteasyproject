@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Reliable Cleaning Services Carrum Downs for Homes & Offices </title>
-    <meta name="description" content="Choose reliable cleaning services in Carrum Downs for homes and offices. Enjoy spotless spaces with professional cleaning solutions for every property and schedule" />
+    <title>Cleaning Services in Carrum Downs | Rest Easy Services</title>
+    <meta name="description" content="Local house, vacate & carpet cleaning in Carrum Downs. Insured, police-checked cleaners for family homes, rentals, townhouses and business estates. Free quotes." />
     <meta name="keywords" content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Carrum Downs" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-carrum-downs" />
@@ -194,7 +194,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <link rel="stylesheet" href="assets/css/color-1.css" />
   </head>
-  <body>
+  <body class="location-page">
     <div class="page-wrapper">
       <!--Start Main Header One--> <?php include "includes/header.php"; ?>
       <!--End Main Header One-->
@@ -228,7 +228,7 @@
         </div>
         <div class="container">
           <div class="page-header__inner">
-            <h2>Carrum Downs</h2>
+            <h1> Cleaning Services in Carrum Downs</h1>
             <ul class="thm-breadcrumb">
               <li>
                 <a href="index.php">Home</a>
@@ -236,7 +236,7 @@
               <li>
                 <span class="icon-right"></span>
               </li>
-              <li>Carrum Downs</li>
+              <li> Cleaning Services in Carrum Downs</li>
             </ul>
           </div>
         </div>
@@ -250,12 +250,11 @@
             <div class="col-xl-6">
               <div class="team-details__middle-content">
                 <div class="title">
-                  <h1>Reliable Cleaning Services Carrum Downs for Homes & Offices </h1>
+                  <h1>Cleaning Services in Carrum Downs</h1>
                 </div>
                 <div class="text-box">
-                  <p>Make your house or office always clean and fresh through professional cleaning services in Carrum Downs. Be it regular home cleaning, office cleaning, end of lease cleaning, deep cleaning, or commercial cleaning; each and every service has been offered by keeping in mind the needs of the customers. Our professional cleaners offer efficient cleaning techniques and high-quality cleaning products to provide you the best service. </p>
+                  <p>Carrum Downs is a big, established family suburb inland from Frankston, with residential streets and newer townhouses on one side and a large industrial and shopping estate on the other. For residents looking for a trusted cleaner near you, Rest Easy Services covers all of it in Carrum Downs: house cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, car park cleaning, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round out the range, keeping local homes and businesses across Carrum Downs clean and running.</p>
                 </div>
-                <br>
                 <div class="btn-box">
                   <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
                     <span class="txt">Book now</span>
@@ -276,30 +275,131 @@
         </div>
       </section>
       <!--End Services Details -->
-      <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+      <!-- Service Area  -->
+      <section class="rye-footprint">
+        <div class="container">
+          <div class="sec-title text-center">
+            <div class="sub-title">
+              <div class="text">
+                <span style="letter-spacing: normal;">Service Coverage</span>
+              </div>
+            </div>
+            <h2>Areas We Serve</h2>
+          </div>
+
+          <div class="rye-footprint__grid">
+            <article class="rye-footprint__card">
+              <h3 class="rye-footprint__card-title">Mornington Peninsula</h3>
+              <div class="aws-areas__tags">
+                <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+                <a class="aws-areas__tag" href="cleaning-services-mount-martha"><span class="aws-areas__dot"></span>Mount Martha</a>
+                <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+                <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+                <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+                <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+                <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+              </div>
+            </article>
+
+            <article class="rye-footprint__card">
+              <h3 class="rye-footprint__card-title">Bayside &amp; Frankston</h3>
+              <div class="aws-areas__tags">
+                <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+                <a class="aws-areas__tag" href="cleaning-services-sandringham"><span class="aws-areas__dot"></span>Sandringham</a>
+                <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+                <a class="aws-areas__tag is-active" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+                <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+                <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              </div>
+            </article>
+
+            <article class="rye-footprint__card">
+              <h3 class="rye-footprint__card-title">Eastern &amp; South-East</h3>
+              <div class="aws-areas__tags">
+                <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+                <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+                <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+                <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+                <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+                <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+                <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+                <a class="aws-areas__tag" href="cleaning-services-mount-waverley"><span class="aws-areas__dot"></span>Mount Waverley</a>
+                <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+                <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+                <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
       <!-- Service Area end  -->
       <!--End Services Details -->
+      <section class="hc-included location-insight">
+        <div class="container">
+          <div class="sec-title text-center">
+            <div class="sub-title">
+              <div class="text">
+                <span style="letter-spacing: normal;">Local Insight</span>
+              </div>
+            </div>
+            <h2>What Kind of Cleaning Does Carrum Downs Need?</h2>
+            <p class="hc-lead">Carrum Downs is a suburb of two halves, a large residential area and a busy commercial and industrial zone, so there's a real spread of work here.</p>
+          </div>
+
+          <div class="hc-included__grid hc-included__grid--3">
+            <article class="hc-included__card">
+              <span class="hc-included__num">01</span>
+              <div class="hc-included__icon">
+                <span class="icon-house"></span>
+              </div>
+              <h3>A big residential suburb with plenty of rentals</h3>
+              <p>With more than twenty thousand residents and a strong mix of owner-occupiers, first-home buyers and renters, Carrum Downs keeps us busy with both regular home cleans and end-of-lease cleans as tenants move in and out. Townhouses and medium-density developments add to that.</p>
+            </article>
+
+            <article class="hc-included__card">
+              <span class="hc-included__num">02</span>
+              <div class="hc-included__icon">
+                <span class="icon-working-time"></span>
+              </div>
+              <h3>A commercial and industrial side</h3>
+              <p>The industrial estate on the western side and the shopping precincts across the suburb mean plenty of offices, shopfronts, warehouses and body corporate car parks that need regular upkeep, on top of the homes.</p>
+            </article>
+
+            <article class="hc-included__card">
+              <span class="hc-included__num">03</span>
+              <div class="hc-included__icon">
+                <span class="icon-clean"></span>
+              </div>
+              <h3>The Sandhurst estate and newer builds</h3>
+              <p>The gated Sandhurst golf estate and the newer townhouse developments bring their own kind of work, from premium homes to shared body corporate common areas. Different again to a standard family block.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
       <section class="blog-one">
         <div class="container">
           <div class="sec-title text-center">
             <div class="sub-title">
               <div class="text">
-                <span>
-                  <h2>Cleaning & Property Maintenance in Carrum Downs </h2>
+                <span style="letter-spacing: normal;">
+                  <h2>Need a Particular Type of Clean in Carrum Downs?</h2>
                 </span>
+                <p>From a weekly home clean to a full bond clean or a commercial space, it's all handled by one local team.</p>
               </div>
             </div>
             <p>
               <br>
             </p>
           </div>
-          <div class="row">
+          <div class="location-services__carousel-wrap">
+          <div class="row location-services__grid">
             <!--Start Blog One Single-->
             <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\house-cleaning-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\house-cleaning-carrum-downs.png" alt="house-cleaning-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
@@ -307,7 +407,7 @@
                     <a href="house-cleaning">House Cleaning</a>
                   </h3>
                   <br>
-                  <p>Maintain a pristine and fresh household with house cleaning services for your kitchen, bathroom, bedroom, and living room. </p>
+                  <p>Regular or one-off house cleaning in Carrum Downs, built around a busy family week. Weekly, fortnightly or a single deep clean, whatever suits.</p>
                 </div>
               </div>
             </div>
@@ -317,15 +417,15 @@
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\vacate-cleaning-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\vacate-cleaning-carrum-downs.png" alt="vacate-cleaning-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="vacate-cleaning"> Vacate Cleaning </a>
+                    <a href="vacate-cleaning">Vacate Cleaning</a>
                   </h3>
                   <br>
-                  <p>Make sure your place is clean and tidy using professional vacate cleaning to smoothly assist in transitioning your property.</p>
+                  <p>With a lot of rentals in Carrum Downs, bond cleans are one of our most common jobs. We clean to the standard agents check at the final inspection, so you get the best shot at your full bond back.</p>
                 </div>
               </div>
             </div>
@@ -335,15 +435,15 @@
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\airbnb-cleaning-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\airbnb-cleaning-carrum-downs.png" alt="airbnb-cleaning-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="airbnb-cleaning"> Airbnb Cleaning</a>
+                    <a href="airbnb-cleaning">Airbnb Clean Up</a>
                   </h3>
                   <br>
-                  <p>Make sure every one of your guests enjoys staying in a clean place using our professional Airbnb cleaning service. </p>
+                  <p>For the short-stay rentals in the area, we handle the turnover between guests and can bring fresh linen along, ready for the next check-in.</p>
                 </div>
               </div>
             </div>
@@ -352,34 +452,32 @@
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\window-cleaning-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\window-cleaning-carrum-downs.png" alt="window-cleaning-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="window-cleaning">Window Cleaning Services</a>
+                    <a href="window-cleaning">Window Cleaning</a>
                   </h3>
                   <br>
-                  <p>Enjoy windows free of any streaks from inside and outside using our professional window cleaning service. </p>
+                  <p>Inside and out, tracks included, for homes and shopfronts alike. We clear the dust and grime properly rather than just moving it around.</p>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row">
             <!--Start Blog One Single-->
             <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\linen-hire-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\linen-hire-carrum-downs.png" alt="linen-hire-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="linen-hire">Linen Hire</a>
+                    <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                   </h3>
                   <br>
-                  <p>Experience quality linens through professional linen hire services available to you for every occasion. </p>
+                  <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather skip the washing between guests.</p>
                 </div>
               </div>
             </div>
@@ -389,15 +487,15 @@
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\house-cleaning-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\house-cleaning-carrum-downs.png" alt="home-maintenance-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="house-maintenance">House Maintenance </a>
+                    <a href="house-maintenance">Home Maintenance</a>
                   </h3>
                   <br>
-                  <p>Make sure that your property is always in great condition by using our professional house maintenance services. </p>
+                  <p>Minor repairs and general upkeep alongside the cleaning, so small jobs get handled before they grow into bigger ones.</p>
                 </div>
               </div>
             </div>
@@ -407,15 +505,15 @@
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\garden-maintenance-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\garden-maintenance-carrum-downs.png" alt="garden-maintenance-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="garden-maintenance-services"> Garden Maintenance </a>
+                    <a href="garden-maintenance-services">Garden Maintenance</a>
                   </h3>
                   <br>
-                  <p>We will help you keep your gardens looking good by doing mowing, pruning, weeding, and garden maintenance services.</p>
+                  <p>Lawns, hedges and general tidy-ups across Carrum Downs, from compact townhouse courtyards to the bigger blocks around the estates.</p>
                 </div>
               </div>
             </div>
@@ -424,79 +522,24 @@
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\ndis-cleaning-carrum-downs.png" alt="#">
+                    <img src="assets\images\location\ndis-cleaning-carrum-downs.png" alt="ndis-cleaning-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
                   <h3 class="location-text">
-                    <a href="ndis-cleaning-services"> NDIS Cleaning Service</a>
+                    <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                   </h3>
                   <br>
-                  <p>Ensure independent living by using our professional NDIS cleaning services for everyday comfort.</p>
+                  <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="row">
-            <!--Start Blog One Single-->
             <!--Start Blog One Single-->
             <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
               <div class="blog-one__single">
                 <div class="blog-one__single-img">
                   <div class="inner">
-                    <img src="assets\images\location\carpet-cleaning-carrum-downs.png" alt="#">
-                  </div>
-                </div>
-                <div class="blog-one__single__content">
-                  <h3 class="location-text">
-                    <a href="carpet-cleaning"> Carpet Cleaning </a>
-                  </h3>
-                  <br>
-                  <p>Keep your carpets fresh and extend their life by getting your carpets professionally cleaned to remove dirt, marks, and dust. </p>
-                </div>
-              </div>
-            </div>
-            <!--End Blog One Single-->
-            <!--Start Blog One Single-->
-            <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-              <div class="blog-one__single">
-                <div class="blog-one__single-img">
-                  <div class="inner">
-                    <img src="assets\images\location\car-park-cleaning-carrum-downs.png" alt="#">
-                  </div>
-                </div>
-                <div class="blog-one__single__content">
-                  <h3 class="location-text">
-                    <a href="car-park-cleaning"> Car Park Cleaning</a>
-                  </h3>
-                  <br>
-                  <p>Maintain car parks clean and safe through thorough sweeping and cleaning of all surfaces. </p>
-                </div>
-              </div>
-            </div>
-            <!--End Blog One Single-->
-            <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-              <div class="blog-one__single">
-                <div class="blog-one__single-img">
-                  <div class="inner">
-                    <img src="assets\images\location\pressure-washing-carrum-downs.png" alt="#">
-                  </div>
-                </div>
-                <div class="blog-one__single__content">
-                  <h3 class="location-text">
-                    <a href="pressure-washing">Pressure Washing</a>
-                  </h3>
-                  <br>
-                  <p>Clean away dirt and mold from driveways, walls, patios, and paths using pressure washing services. </p>
-                </div>
-              </div>
-            </div>
-         <!--End Blog One Single-->
-            <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-              <div class="blog-one__single">
-                <div class="blog-one__single-img">
-                  <div class="inner">
-                    <img src="assets/images/cleaning/locksmith-services-5.png" alt="#">
+                    <img src="assets/images/cleaning/locksmith-services-5.png" alt="locksmith-carrum-downs">
                   </div>
                 </div>
                 <div class="blog-one__single__content">
@@ -504,14 +547,112 @@
                     <a href="locksmith-services">Locksmith Services</a>
                   </h3>
                   <br>
-                  <p>Protect your property by hiring locksmith services such as lock repairs, replacements, and emergency service.</p>
+                  <p>Lockouts, lock changes and rekeying, sorted quickly for homes and businesses. Handy for rentals that change hands often.</p>
+                </div>
+              </div>
+            </div>
+            <!--End Blog One Single-->
+            <!--Start Blog One Single-->
+            <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
+              <div class="blog-one__single">
+                <div class="blog-one__single-img">
+                  <div class="inner">
+                    <img src="assets\images\location\carpet-cleaning-carrum-downs.png" alt="carpet-cleaning-carrum-downs">
+                  </div>
+                </div>
+                <div class="blog-one__single__content">
+                  <h3 class="location-text">
+                    <a href="carpet-cleaning">Carpet Cleanup</a>
+                  </h3>
+                  <br>
+                  <p>Steam cleaning in Carrum Downs that lifts ground-in dirt, dust and stains out of the fibres, along with pet odours. A common one before or after a tenancy.</p>
+                </div>
+              </div>
+            </div>
+            <!--End Blog One Single-->
+            <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
+              <div class="blog-one__single">
+                <div class="blog-one__single-img">
+                  <div class="inner">
+                    <img src="assets\images\location\pressure-washing-carrum-downs.png" alt="pressure-washing-carrum-downs">
+                  </div>
+                </div>
+                <div class="blog-one__single__content">
+                  <h3 class="location-text">
+                    <a href="pressure-washing">Pressure Washing</a>
+                  </h3>
+                  <br>
+                  <p>Driveways, paths and outdoor areas washed back to clear the mould, moss and grime that build up over time, at home or on a commercial site.</p>
+                </div>
+              </div>
+            </div>
+            <!--End Blog One Single-->
+            <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
+              <div class="blog-one__single">
+                <div class="blog-one__single-img">
+                  <div class="inner">
+                    <img src="assets\images\location\car-park-cleaning-carrum-downs.png" alt="car-park-cleaning-carrum-downs">
+                  </div>
+                </div>
+                <div class="blog-one__single__content">
+                  <h3 class="location-text">
+                    <a href="car-park-cleaning">Car Park Cleaning</a>
+                  </h3>
+                  <br>
+                  <p>For the shopping centres, industrial units and body corporate car parks around Carrum Downs. Swept and washed so they stay clean and presentable.</p>
                 </div>
               </div>
             </div>
           </div>
+          <div class="location-services__mobile-nav">
+            <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+              <span class="fa fa-angle-left"></span>
+            </button>
+            <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+              <span class="fa fa-angle-right"></span>
+            </button>
+          </div>
+          </div>
         </div>
       </section>
-      <!--Start Our Cleaning Process -->
+      <!--Start Residential & Rental -->
+
+      <section class="job-one">
+        <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
+        <div class="container">
+          <div class="row">
+            <!--Start Job One Content-->
+            <div class="col-xl-6">
+              <div class="job-one__content">
+                <div class="title">
+                  <h2>Our Service Coverage Around Carrum Downs</h2>
+                </div>
+
+                <div class="text-box">
+                  <p>We look after Carrum Downs, from the residential streets to the industrial and shopping estates, along with the wider Frankston area, the Mornington Peninsula, Brighton and Melbourne's south-east.</p>
+
+                  <div class="services-details-text2">
+                    <ul>
+                      <li>
+                        <p><strong>Mornington Peninsula:</strong> Mornington, Mount Martha, Rosebud, Dromana, Mount Eliza, Rye</p>
+                      </li>
+                      <li>
+                        <p><strong>Bayside &amp; Frankston:</strong> Brighton, Sandringham, Frankston, Carrum Downs, Langwarrin</p>
+                      </li>
+                      <li>
+                        <p><strong>Eastern &amp; South-East:</strong> Toorak, Doncaster, Donvale, Camberwell, Vermont, Wheelers Hill, Glen Waverley, Mt Waverley, Burwood, Keysborough</p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <!--End Job One Content-->
+          </div>
+        </div>
+      </section>
+
       <!--Start CTA  -->
       <section class="cta-one">
         <div class="cta-one__bg"></div>
@@ -535,9 +676,9 @@
       <!-- review section -->
       <!--Start Residential & Rental -->
       <section class="about-two">
-        <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+        <div class="sec-title text-center">
           <div class="sub-title"></div>
-          <h4 style="font-size: 30px;">FAQS</h4>
+          <h4 style="font-size: 30px;">FAQs</h4>
         </div>
         <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
         <div class="container">
@@ -550,10 +691,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>How do I book a cleaning service in Carrum Downs?</h3>
+                    <h3>What local cleaning services can I book near me in Carrum Downs?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>We will make all the arrangements for you to book a cleaning service in Carrum Downs through any mode of contact - either via phone, email, or by filling out an online enquiry form.</p>
+                    <p>House cleaning, vacate and end-of-lease cleans, carpet and window cleaning, pressure washing, car park cleaning, garden and house maintenance, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -561,10 +702,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>Can I get a personalised cleaning plan?</h3>
+                    <h3>Do you do end-of-lease cleaning for rentals in Carrum Downs?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>Yes. We have the provision to design a cleaning schedule according to the size of your house and your preference for cleaning.</p>
+                    <p>Often. There are a lot of rentals here, so bond cleans are one of our regular jobs. We clean what agents inspect against, giving you the best shot at your full bond.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -572,10 +713,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>How much time is needed for one cleaning session?</h3>
+                    <h3>Do you clean offices, warehouses and shopfronts?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>Time required may vary from case to case.</p>
+                    <p>We do. Carrum Downs has a big commercial and industrial side, so alongside homes we handle offices, shopfronts, warehouses and their car parks.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -583,10 +724,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>Is my presence necessary during the cleaning service?</h3>
+                    <h3>Can you clean a townhouse or a body corporate block?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>No. If the entry has been arranged beforehand, then we can do the cleaning without your presence there.</p>
+                    <p>Yes, including shared common areas. Let us know whether it's just your place or the whole block you need sorted.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -594,10 +735,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>Is it possible to use several services at once?</h3>
+                    <h3>Do you do regular family house cleaning?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>Yes, you have the opportunity to use house cleaning, window cleaning, carpet cleaning, pressure washing, garden cleaning, and many others in one appointment.</p>
+                    <p>That's a big part of what we do here. Weekly or fortnightly cleaning built around a busy household, with the same cleaner where we can manage it.</p>
                   </div>
                 </li>
               </ul>
@@ -611,10 +752,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>Do you provide cleaning services for newly constructed or renovated buildings?</h3>
+                    <h3>Can carpet cleaning get rid of everyday dirt and pet odours?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>Yes, post-construction and post-renovation cleaning is carried out in order to remove dust and other remnants from the construction process.</p>
+                    <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Common before a new tenant moves in or after one moves out.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -622,10 +763,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>How often should I order professional cleaning services?</h3>
+                    <h3>Do you clean homes in the Sandhurst estate?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>It is determined by your lifestyle or business needs. Many customers prefer weekly, fortnightly or monthly cleaning of their property.</p>
+                    <p>We do, including the gated streets and body corporate common areas. Just mention it's a Sandhurst property when you book.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -633,10 +774,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>Do you provide services on weekends and holidays?</h3>
+                    <h3>Is NDIS cleaning available in Carrum Downs?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>Appointments for weekend cleaning are usually possible. Availability of cleaning during holidays varies.</p>
+                    <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -644,10 +785,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>What kind of buildings do you provide cleaning services for?</h3>
+                    <h3>Do you handle pressure washing on driveways and paths?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>We provide cleaning services for houses, apartments, offices, retail stores, Airbnb apartments, commercial buildings and others.</p>
+                    <p>We do, at home and on commercial sites. It clears the mould, moss and grime that build up on hard surfaces over time.</p>
                   </div>
                 </li>
                 <li class="accordion block">
@@ -655,10 +796,10 @@
                     <div class="icon-outer">
                       <i class="icon-up-arrow"></i>
                     </div>
-                    <h3>Why should one opt for professional cleaning services in Carrum Downs?</h3>
+                    <h3>Do you offer same-day cleaning in Carrum Downs?</h3>
                   </div>
                   <div class="acc-content">
-                    <p>Professional cleaning allows one to keep their environment cleaner, healthy, and well-organised while saving valuable time.</p>
+                    <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                   </div>
                 </li>
               </ul>
