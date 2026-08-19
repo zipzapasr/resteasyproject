@@ -576,7 +576,7 @@
                 <div class="vc-extra__grid">
                     <article class="vc-extra">
                         <div class="vc-extra__img">
-                            <img src="assets/images/frankston/carpet-cleaning-frankston.png" alt="Carpet cleaning for end of lease handover">
+                            <img src="assets/images/cleaning/Carpet-Cleaning-with-End-of-Lease-Cleaning.png" alt="Carpet cleaning for end of lease handover">
                         </div>
                         <div class="vc-extra__body">
                             <h3>Carpet Cleaning</h3>
@@ -586,7 +586,7 @@
                     </article>
                     <article class="vc-extra">
                         <div class="vc-extra__img">
-                            <img src="assets/images/frankston/pressure-washing-frankston.png" alt="Pressure washing for outdoor handover areas">
+                            <img src="assets/images/cleaning/Pressure-Washing-for-End-of-Lease -Cleaning.png" alt="Pressure washing for outdoor handover areas">
                         </div>
                         <div class="vc-extra__body">
                             <h3>Pressure Washing</h3>
@@ -596,7 +596,7 @@
                     </article>
                     <article class="vc-extra">
                         <div class="vc-extra__img">
-                            <img src="assets/images/vacate-cleaning.png" alt="Garage cleaning for rental property handover">
+                            <img src="assets/images/cleaning/Garage-Cleaning-with-End-of-Lease-Cleaning.png" alt="Garage cleaning for rental property handover">
                         </div>
                         <div class="vc-extra__body">
                             <h3>Garage Cleaning</h3>

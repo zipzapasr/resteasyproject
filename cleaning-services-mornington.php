@@ -201,7 +201,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -235,7 +235,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Mornington</h2>
+          <h1> Cleaning Services in Mornington</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -243,7 +243,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Mornington</li>
+            <li> Cleaning Services in Mornington</li>
           </ul>
         </div>
       </div>
@@ -260,14 +260,9 @@
                 <h1>Cleaning Services Mornington for Homes & Businesses</h1>
               </div>
               <div class="text-box">
-                <p>At Cleaning Services Mornington, we offer professional cleaning and property maintenance solutions
-                  for residences, vacation properties, business premises, and commercial properties. Whether it is basic
-                  house cleaning, move-out cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure
-                  washing, or gardening, each of our services is carried out with extreme caution and precision. Other
-                  services that we also offer include linen hire, locksmithing, general maintenance, cleaning of garage
-                  and NDIS services.</p>
+                <p>Mornington is the biggest coastal town on the Peninsula, with a boutique Main Street, the marina at Schnapper Point and a real year-round population rather than only a summer one. When searching for top-rated cleaners near you, Rest Easy Services covers all of it in Mornington: house cleaning, Airbnb turnover cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire round out the range, keeping local homes, holiday rentals and businesses across Mornington clean and running.</p>
               </div>
-              <br>
+              
               <div class="btn-box">
                 <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
                   <span class="txt">Book now</span>
@@ -289,7 +284,60 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span>Service Coverage</span>
+            </div>
+          </div>
+          <h2>Our Bayside &amp; South-East Footprint</h2>
+          <p class="hc-lead">We look after Mornington, from Main Street to the foreshore and the streets above the bluffs, along with the wider Mornington Peninsula, Frankston, Brighton and Melbourne's south-east.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag is-active" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
     <!--End Services Details -->
     <section class="blog-one">
@@ -298,15 +346,17 @@
           <div class="sub-title">
             <div class="text">
               <span>
-                <h2>Cleaning & Property Maintenance Services in Mornington</h2>
+                <h2>Looking for a Specific Type of Cleaning in Mornington?</h2>
               </span>
+              <p>From a weekly home clean to a shopfront or a full bond clean, it's all handled by one local team, so you're not juggling different companies for different jobs.</p>
             </div>
           </div>
           <p>
             <br>
           </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -316,19 +366,16 @@
                   <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Professional house cleaning ensures that all rooms are fresh, hygienic, and comfortable with flexible
-                  cleaning times to fit into your routine.</p>
+                <p>Regular or one-off house cleaning in Mornington, built around your week. A lot of local families book fortnightly, with a bigger clean before guests or the holidays.</p>
               </div>
             </div>
           </div>
           <!--End Blog One Single-->
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
@@ -337,20 +384,16 @@
                   <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Vacate Cleaning </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>With vacate cleaning services in Mornington, residential properties are thoroughly cleaned before
-                  check-ins, ensuring every room is fresh and inspection ready.
-                </p>
+                <p>End-of-lease cleans done to the standard agents inspect against, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
           <!--End Blog One Single-->
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -359,15 +402,12 @@
                   <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning </a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Airbnb cleaning ensures that rentals are clean and ready for guests, providing rooms, fresh linens,
-                  sanitised surfaces, and a welcoming environment for each stay.
-                </p>
+                <p>Mornington pulls a steady flow of weekend visitors, so short-stay turnovers are a regular job. We clean between guests and can bring the linen along, ready for the next check-in.</p>
               </div>
             </div>
           </div>
@@ -380,25 +420,15 @@
                   <img src="assets\images\location\window-cleaning-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Get clean windows with professional cleaning eliminating dust, dirt, water stains and lines, leaving
-                  every glass surface sparkling, clear, and streak free.
-                </p>
+                <p>Salt off the bay leaves a film on glass that a quick wipe won't clear. We do the tracks too, where most of the grit collects, on homes and shopfronts alike.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -407,18 +437,15 @@
                   <img src="assets\images\location\linen-hire-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Rental</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Linen rentals for Mornington holiday cottages and Airbnb provide suitable sheets, towels and
-                  beddings.</p>
+                <p>Laundered sheets and towels delivered ready to go, so hosts aren't stuck doing washing between one guest leaving and the next arriving.</p>
               </div>
             </div>
           </div>
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
@@ -427,20 +454,15 @@
                   <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">Home Maintenance
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>Common home maintenance involves minor repairs and regular upkeep making the property safe and
-                  functional.</p>
+                <p>Minor repairs and general upkeep alongside the cleaning, so small jobs get sorted before they turn into bigger ones.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
-          <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -449,18 +471,15 @@
                   <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Keep your outer space neat and clean with lawn mowing, pruning, hedge cutting and regular garden
-                  maintenance.</p>
+                <p>Lawns, hedges and general tidy-ups across Mornington, from compact village courtyards to the bigger blocks up above the coast.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -469,18 +488,15 @@
                   <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p> NDIS cleaning service in Mornington provides reliable cleaning services ensuring a safe and
-                  comfortable environment.</p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -489,18 +505,15 @@
                   <img src="assets/images/cleaning/locksmith-services-2.png" alt="#">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Professional locksmith services include lock repair, lock replacement, rekeying and emergency lockout
-                  assistance for homes and businesses. </p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and businesses around town.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -509,19 +522,15 @@
                   <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Deep cleaning carpets in Mornington helps eliminate stains, allergens, dust ,and smells making
-                  carpets hygienic and clean.</p>
+                <p>Steam cleaning in Mornington that lifts sand, grit and stains out of the fibres rather than off the top, plus pet odours while we're there.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -530,18 +539,15 @@
                   <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Our pressure washing services in Mornington clean driveways, patios, walls ,and pathways from dirt,
-                  germs, and grime that has accumulated.</p>
+                <p>Driveways, paths and outdoor areas were washed back to clear the mould, lichen and salt that build up on shaded, damp surfaces near the water.</p>
               </div>
             </div>
           </div>
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
@@ -550,22 +556,70 @@
                   <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="#">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Expert car park cleaning eliminates debris, dirt ,leaves, and oil stains from the car park for a
-                  tidier and safer environment.
-                </p>
+                <p>For the shopfronts, offices and body corporate car parks around Mornington's Main Street and marina. Swept and washed so they stay presentable.</p>
               </div>
             </div>
           </div>
         </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
+        </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span>Local Insight</span>
+            </div>
+          </div>
+          <h2>What Does Cleaning Look Like in a Town Like Mornington?</h2>
+          <p class="hc-lead">Mornington isn't only a holiday spot. It's a proper town with a working Main Street and a lot of people living here full-time, so the cleaning covers more ground than a quieter beachside suburb.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>A year-round town, not just a summer one</h3>
+            <p>Being at the Melbourne end of the Peninsula, Mornington has a big commuter and family population that's here all year. That drives steady demand for the regular kind of clean, weekly or fortnightly, rather than the empty-all-winter, packed-all-summer pattern you get further down the coast.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>A busy Main Street and marina</h3>
+            <p>With hundreds of shops, cafes and restaurants along Main Street and the boats and apartments around Schnapper Point, there's plenty of commercial work here too. Shopfronts, offices and body corporate common areas all need regular upkeep, on top of the homes.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Coastal homes below the bluffs</h3>
+            <p>Down near Mills Beach, Fishermans Beach and the red bluffs, it's the usual coastal mix: salt film on the windows and sand tracked in off the sand. The bathing boxes and foreshore are part of the appeal, and the homes nearby wear the sea air like everywhere on the bay.</p>
+          </article>
+        </div>
+      </div>
+    </section>
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -593,9 +647,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -608,11 +662,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> What services are offered for cleaning in Mornington?</h3>
+                  <h3>What local cleaning services can I book near me in Mornington?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>House cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning ,and other cleaning support
-                    services.</p>
+                  <p>House cleaning, vacate and end-of-lease cleans, Airbnb turnovers, carpet and window cleaning, pressure washing, garden and house maintenance, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -620,11 +673,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is it possible to book cleaning services for holiday properties in Mornington?</h3>
+                  <h3>Do you clean shopfronts and offices along Main Street?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes ,holiday homes and short-term rentals receive full cleaning services in-between guest stays.
-                  </p>
+                  <p>We do. Mornington has a lot more commercial property than most Peninsula towns, so alongside local homes we handle shopfronts, offices and body corporate common areas.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -632,11 +684,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> Is it possible to book different cleaning services in one go?</h3>
+                  <h3>Can you do a regular weekly or fortnightly house clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes ,booking more than one cleaning service at a time is quite possible.
-                  </p>
+                  <p>That's the bulk of what we do here. Mornington has a big year-round population, so ongoing regular cleaning is our most common booking, not just one-offs.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -644,10 +695,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are cleaning operations available for offices and commercial premises?</h3>
+                  <h3>Do you clean apartments and body corporate blocks near the marina?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning services for offices, retail outlets and other commercial premises are available.</p>
+                  <p>We do, including the shared common areas. Just let us know whether it's your own unit or the whole block you're asking about.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -655,11 +706,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How often cleaning services can be availed for house cleaning?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Mornington?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>The frequency of cleaning might be decided as per need, which can be weekly, monthly or one-off
-                    service.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
             </ul>
@@ -673,12 +723,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you provide carpet cleaning for owners of pets?</h3>
+                  <h3>Does the salt air off the bay affect the windows?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, in case of carpet cleaning, it is possible to get rid of pet hairs, stains and smell from
-                    carpets.
-                  </p>
+                  <p>It does, especially closer to the foreshore. Our window cleaning clears the salt haze inside and out, tracks included.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -686,11 +734,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What is the area that can be serviced through pressure cleaning?</h3>
+                  <h3>Can carpet cleaning get sand and everyday grime out of the fibres?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Driveways, pavement areas, pathways, walls, and other hard surfaces can be cleaned with commercial
-                    pressure cleaning services.</p>
+                  <p>Steam cleaning lifts embedded sand out along with dirt, stains and pet odours. Handy for homes a short walk from Mills or Fishermans Beach.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -698,10 +745,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are cleaning services suitable for NDIS clients?</h3>
+                  <h3>Can you turn a holiday rental around between guests?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, NDIS cleaning services help keep homes clean and hygienic.</p>
+                  <p>We can, linen included if you want the beds made up ready. Weekend turnarounds are common here.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -709,12 +756,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you provide locksmith services for emergencies?</h3>
+                  <h3>Is NDIS cleaning available in Mornington?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>In fact, emergency locksmith services focus on restoring access to properties, fixing defective
-                    locks, changing old locking devices ,and making key changes when required.
-                  </p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -722,16 +767,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are regular services for maintenance of properties available?</h3>
+                  <h3>Do you offer same-day cleaning in Mornington?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, property maintenance services are the best way of keeping homes and commercial properties in
-                    the best condition over the years.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight, especially over summer.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

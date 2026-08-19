@@ -433,9 +433,8 @@
 
     // Location page service cards: read more + mobile carousel
     (function initLocationServicesSection() {
-      var $wrap = $(".location-services__carousel-wrap");
-      var $grid = $(".location-services__grid");
-      if (!$wrap.length || !$grid.length) return;
+      var $wraps = $(".location-services__carousel-wrap");
+      if (!$wraps.length) return;
 
       function setupLocationServicesReadMoreDom($scope) {
         $scope.find(".blog-one__single__content").each(function () {
@@ -452,91 +451,97 @@
         });
       }
 
-      setupLocationServicesReadMoreDom($grid);
+      $wraps.each(function () {
+        var $wrap = $(this);
+        var $grid = $wrap.find(".location-services__grid").first();
+        if (!$grid.length) return;
 
-      $wrap.off("click.locReadMore", ".location-services__read-more").on("click.locReadMore", ".location-services__read-more", function (e) {
-        e.preventDefault();
-        e.stopPropagation();
-        var $btn = $(this);
-        var $p = $btn.prev(".location-services__desc");
-        var expanded = $p.toggleClass("is-expanded").hasClass("is-expanded");
-        $btn.text(expanded ? "Read less" : "Read more");
-        $btn.attr("aria-expanded", expanded ? "true" : "false");
-      });
+        setupLocationServicesReadMoreDom($grid);
 
-      if (!$.fn.owlCarousel) return;
+        $wrap.off("click.locReadMore", ".location-services__read-more").on("click.locReadMore", ".location-services__read-more", function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          var $btn = $(this);
+          var $p = $btn.prev(".location-services__desc");
+          var expanded = $p.toggleClass("is-expanded").hasClass("is-expanded");
+          $btn.text(expanded ? "Read less" : "Read more");
+          $btn.attr("aria-expanded", expanded ? "true" : "false");
+        });
 
-      var mobileMq = window.matchMedia("(max-width: 767px)");
-      var $carousel = null;
+        if (!$.fn.owlCarousel) return;
 
-      function buildCarousel() {
-        if ($carousel && $carousel.data("owl.carousel")) return;
+        var mobileMq = window.matchMedia("(max-width: 767px)");
+        var $carousel = null;
 
-        var $cards = $();
-        $grid.children('[class*="col-"]').each(function () {
-          var $card = $(this).children(".blog-one__single").first().clone(false);
-          if ($card.length) {
-            $cards = $cards.add($card);
+        function buildCarousel() {
+          if ($carousel && $carousel.data("owl.carousel")) return;
+
+          var $cards = $();
+          $grid.children('[class*="col-"]').each(function () {
+            var $card = $(this).children(".blog-one__single").first().clone(false);
+            if ($card.length) {
+              $cards = $cards.add($card);
+            }
+          });
+          if (!$cards.length) return;
+
+          $carousel = $('<div class="location-services__mobile-carousel owl-carousel owl-theme"></div>');
+          $cards.each(function () {
+            $carousel.append($('<div class="item"></div>').append(this));
+          });
+          $wrap.prepend($carousel);
+          $grid.addClass("is-mobile-hidden");
+
+          $carousel.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            margin: 14,
+            nav: false,
+            dots: true,
+            smartSpeed: 450,
+            items: 1,
+            stagePadding: 28
+          });
+
+          $wrap.find(".location-services__mobile-nav-btn--prev").off("click.locSvc").on("click.locSvc", function (e) {
+            e.preventDefault();
+            $carousel.trigger("prev.owl.carousel");
+          });
+          $wrap.find(".location-services__mobile-nav-btn--next").off("click.locSvc").on("click.locSvc", function (e) {
+            e.preventDefault();
+            $carousel.trigger("next.owl.carousel");
+          });
+          $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "false");
+          setupLocationServicesReadMoreDom($carousel);
+        }
+
+        function destroyCarousel() {
+          if ($carousel && $carousel.data("owl.carousel")) {
+            $carousel.trigger("destroy.owl.carousel");
+            $carousel.remove();
+            $carousel = null;
           }
-        });
-        if (!$cards.length) return;
-
-        $carousel = $('<div class="location-services__mobile-carousel owl-carousel owl-theme"></div>');
-        $cards.each(function () {
-          $carousel.append($('<div class="item"></div>').append(this));
-        });
-        $wrap.prepend($carousel);
-        $grid.addClass("is-mobile-hidden");
-
-        $carousel.owlCarousel({
-          loop: true,
-          autoplay: true,
-          autoplayTimeout: 5000,
-          autoplayHoverPause: true,
-          margin: 14,
-          nav: false,
-          dots: true,
-          smartSpeed: 450,
-          items: 1,
-          stagePadding: 28
-        });
-
-        $wrap.find(".location-services__mobile-nav-btn--prev").off("click.locSvc").on("click.locSvc", function (e) {
-          e.preventDefault();
-          $carousel.trigger("prev.owl.carousel");
-        });
-        $wrap.find(".location-services__mobile-nav-btn--next").off("click.locSvc").on("click.locSvc", function (e) {
-          e.preventDefault();
-          $carousel.trigger("next.owl.carousel");
-        });
-        $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "false");
-        setupLocationServicesReadMoreDom($carousel);
-      }
-
-      function destroyCarousel() {
-        if ($carousel && $carousel.data("owl.carousel")) {
-          $carousel.trigger("destroy.owl.carousel");
-          $carousel.remove();
-          $carousel = null;
+          $grid.removeClass("is-mobile-hidden");
+          $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "true");
         }
-        $grid.removeClass("is-mobile-hidden");
-        $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "true");
-      }
 
-      function syncMode() {
-        if (mobileMq.matches) {
-          buildCarousel();
-        } else {
-          destroyCarousel();
+        function syncMode() {
+          if (mobileMq.matches) {
+            buildCarousel();
+          } else {
+            destroyCarousel();
+          }
         }
-      }
 
-      syncMode();
-      if (typeof mobileMq.addEventListener === "function") {
-        mobileMq.addEventListener("change", syncMode);
-      } else if (typeof mobileMq.addListener === "function") {
-        mobileMq.addListener(syncMode);
-      }
+        syncMode();
+        if (typeof mobileMq.addEventListener === "function") {
+          mobileMq.addEventListener("change", syncMode);
+        } else if (typeof mobileMq.addListener === "function") {
+          mobileMq.addListener(syncMode);
+        }
+      });
     })();
 
   }

@@ -15948,8 +15948,7 @@ h1 {
   .location-services__grid .location-text {
     font-size: 17px;
     line-height: 1.35;
-    min-height: calc(20px * 2);
-    margin: 0 0 0px;
+    margin: 0 0 10px;
   }
 
   .location-services__grid .location-text a {
@@ -15957,17 +15956,19 @@ h1 {
     text-decoration: none;
   }
 
+  .location-services__grid .blog-one__single__content > p,
   .location-services__grid .location-services__desc {
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 5;
     overflow: hidden;
     text-overflow: ellipsis;
+    flex: 1 1 auto;
     margin: 0;
     font-size: 14px;
     line-height: 1.55;
     color: #6b7280;
-    min-height: calc(1.55em * 4);
+    min-height: calc(1.55em * 5);
   }
 
   .location-services__grid .location-services__desc.is-expanded {
@@ -17814,24 +17815,36 @@ a.nearby-areas__tag:focus-visible::before {
   display: none;
 }
 
-.rye-diff .hc-included__grid--3 {
+.rye-diff .hc-included__grid--3,
+.location-insight .hc-included__grid--3 {
   align-items: stretch;
 }
 
-.rye-diff .hc-included__card {
+.rye-diff .hc-included__card,
+.location-insight .hc-included__card {
   display: flex;
   flex-direction: column;
   height: 100%;
 }
 
-.rye-diff .hc-included__card h3 {
+.rye-diff .hc-included__card h3,
+.location-insight .hc-included__card h3 {
   min-height: 2.7em;
 }
 
-.rye-diff .hc-included__card p {
+.rye-diff .hc-included__card p,
+.location-insight .hc-included__card p {
   flex: 1 1 auto;
 }
 
+.location-page .team-details__middle,
+.location-page .aws-areas,
+.location-page .blog-one,
+.location-page .hc-included,
+.location-page .rye-footprint,
+.location-page .cta-one,
+.location-page .testimonial-three,
+.location-page .about-two,
 .rye-page .team-details__middle,
 .rye-page .blog-one,
 .rye-page .hc-included,
@@ -17843,6 +17856,7 @@ a.nearby-areas__tag:focus-visible::before {
   padding-bottom: 80px;
 }
 
+.location-page .about-two .sec-title,
 .rye-page .about-two .sec-title {
   margin-bottom: 0;
 }
@@ -17853,7 +17867,7 @@ a.nearby-areas__tag:focus-visible::before {
 
 .rye-footprint__grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 22px;
   margin-top: 40px;
   align-items: stretch;
@@ -17873,9 +17887,36 @@ a.nearby-areas__tag:focus-visible::before {
 .rye-footprint__card h3 {
   margin: 0 0 18px;
   color: var(--thm-black);
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.35;
   font-weight: 700;
+}
+
+.rye-footprint__card .aws-areas__tags {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  align-content: start;
+  flex: 1 1 auto;
+}
+
+.rye-footprint__card .aws-areas__tag {
+  width: 100%;
+  min-height: 42px;
+  justify-content: flex-start;
+  padding: 9px 12px;
+  font-size: 13px;
+  border-radius: 10px;
+}
+
+.location-page .team-details__middle-content .btn-box,
+.rye-page .team-details__middle-content .btn-box {
+  margin-top: 28px;
+}
+
+.location-page .cta-one__inner .btn-box,
+.rye-page .cta-one__inner .btn-box {
+  margin-top: 24px;
 }
 
 .page-header__inner h1{color:#fff !important; font-size: 30px !important;}

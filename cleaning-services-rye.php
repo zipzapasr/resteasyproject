@@ -200,7 +200,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body class="rye-page">
+<body class="location-page rye-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -300,6 +300,7 @@
             <br>
           </p>
         </div>
+        <div class="location-services__carousel-wrap">
         <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
@@ -379,11 +380,6 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
@@ -538,6 +534,15 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="location-services__mobile-nav" aria-hidden="true">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
         </div>
       </div>
     </section>
