@@ -263,7 +263,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services in Patterson Lakes</h1>
+                <h2>How Do Professional Cleaning Services in Patterson Lakes Care for Waterfront Homes?</h2>
               </div>
               <div class="text-box">
                 <p>Patterson Lakes is a waterfront suburb built on an extensive canal network, where a lot of homes sit right on the water with their own jetties and direct boat access to Port Phillip Bay. When looking for a specialist cleaner near you, Rest Easy Services covers the range in Patterson Lakes: house cleaning, window cleaning, Airbnb turnover cleaning, carpet cleaning, pressure washing, vacate cleaning, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire round it out, keeping local waterfront homes, rentals and businesses across Patterson Lakes clean and looking sharp.</p>

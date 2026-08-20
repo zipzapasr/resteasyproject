@@ -250,7 +250,7 @@
             <div class="col-xl-6">
               <div class="team-details__middle-content">
                 <div class="title">
-                  <h1>Cleaning Services in Carrum Downs</h1>
+                  <h2>What Can Professional Cleaning Services in Carrum Downs Do for Your Property?</h2>
                 </div>
                 <div class="text-box">
                   <p>Carrum Downs is a big, established family suburb inland from Frankston, with residential streets and newer townhouses on one side and a large industrial and shopping estate on the other. For residents looking for a trusted cleaner near you, Rest Easy Services covers all of it in Carrum Downs: house cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, car park cleaning, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round out the range, keeping local homes and businesses across Carrum Downs clean and running.</p>

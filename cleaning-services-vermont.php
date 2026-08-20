@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Vermont | Professional Cleaners in Vermont</title>
+  <title>Cleaning Services in Vermont | Rest Easy Services</title>
   <meta name="description"
-    content="Professional cleaning services in Vermont for homes, rentals, and businesses. Reliable, affordable cleaners delivering spotless results with flexible scheduling." />
+    content="Local house, carpet & window cleaning in Vermont. Insured, police-checked cleaners for spacious family blocks, mature gardens & renovated homes. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Vermont" />
+    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Vermont" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-vermont" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Vermont | Professional Cleaners in Vermont" />
+  <meta property="og:title" content="Cleaning Services in Vermont | Rest Easy Services" />
   <meta property="og:description"
-    content="Professional cleaning services in Vermont for homes, rentals, and businesses. Reliable, affordable cleaners delivering spotless results with flexible scheduling." />
+    content="Local house, carpet & window cleaning in Vermont. Insured, police-checked cleaners for spacious family blocks, mature gardens & renovated homes. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-vermont" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Vermont | Professional Cleaners in Vermont" />
+  <meta name="twitter:title" content="Cleaning Services in Vermont | Rest Easy Services" />
   <meta name="twitter:description"
-    content="Professional cleaning services in Vermont for homes, rentals, and businesses. Reliable, affordable cleaners delivering spotless results with flexible scheduling." />
+    content="Local house, carpet & window cleaning in Vermont. Insured, police-checked cleaners for spacious family blocks, mature gardens & renovated homes. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -51,9 +51,9 @@
     {
       "@type": "Service",
       "@id": "https://resteasyservices.com.au/cleaning-services-vermont/#service",
-      "name": "Cleaning Services Vermont",
+      "name": "Cleaning Services in Vermont",
       "url": "https://resteasyservices.com.au/cleaning-services-vermont",
-      "description": "Professional cleaning services in Vermont for homes, apartments, offices, Airbnb properties, end of lease cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance, home maintenance, linen hire, locksmith services and car park cleaning.",
+      "description": "Local house, carpet & window cleaning in Vermont. Insured, police-checked cleaners for spacious family blocks, mature gardens & renovated homes. Free quotes.",
       "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
         "@id": "https://resteasyservices.com.au/#business"
@@ -64,19 +64,16 @@
       },
       "serviceType": [
         "House Cleaning",
-        "Apartment Cleaning",
-        "Office Cleaning",
-        "Commercial Cleaning",
-        "End of Lease Cleaning",
+        "Vacate Cleaning",
         "Airbnb Cleaning",
-        "Carpet Cleaning",
         "Window Cleaning",
-        "Pressure Washing",
-        "Garden Maintenance",
-        "Home Maintenance",
         "Linen Hire",
+        "Home Maintenance",
+        "Garden Maintenance",
         "NDIS Cleaning",
         "Locksmith Services",
+        "Carpet Cleaning",
+        "Pressure Washing",
         "Car Park Cleaning"
       ]
     },
@@ -86,93 +83,89 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Why should I opt for professional cleaners in Vermont?",
+          "name": "What local cleaning services can I book near me in Vermont?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Professional cleaners provide effective cleaning services with the use of the right equipment and methodology."
+            "text": "House cleaning, carpet and window cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning."
           }
         },
         {
           "@type": "Question",
-          "name": "Is it possible to get customised cleaning services in Vermont?",
+          "name": "Do you do a clean after a renovation?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, it is possible to arrange the cleaning service as per your property type and requirements."
+            "text": "We do, and it's common in Vermont with so many homes being updated. We clear the fine dust and residue off floors, windows, surfaces and fittings so the finished job actually feels finished."
           }
         },
         {
           "@type": "Question",
-          "name": "Is there any service available for a new property?",
+          "name": "Do you clean larger family homes on big blocks?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, the professional cleaning services help prepare your new property for you by removing the dirt and dust."
+            "text": "That's most of what we do in Vermont. We bring the right size team and enough time for a bigger home rather than rushing it."
           }
         },
         {
           "@type": "Question",
-          "name": "Can cleaning services be availed for the rented property?",
+          "name": "Do you handle the garden on a big, leafy block?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Indeed, the cleaning service will be done prior to and post-tenancy to prepare the property."
+            "text": "We do. Mowing, hedging, weeding and green-waste removal, suited to Vermont's larger, mature gardens, plus the autumn leaf load on tree-lined streets."
           }
         },
         {
           "@type": "Question",
-          "name": "How long does the cleaning service take?",
+          "name": "Can I set up a regular weekly or fortnightly clean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It is dependent upon the size of the property as well as the kind of cleaning that needs to be done."
+            "text": "Yes, and it's our most common booking here. Vermont is a settled family suburb, so ongoing regular cleaning suits most households."
           }
         },
         {
           "@type": "Question",
-          "name": "Are the cleaners offering office cleaning services in Vermont?",
+          "name": "Can carpet cleaning get out everyday dirt and pet odours?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, commercial cleaning solutions are available for office, workplace, and business properties."
+            "text": "Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes and after building work."
           }
         },
         {
           "@type": "Question",
-          "name": "Are one-time cleaning services possible for special events?",
+          "name": "Do you offer end-of-lease cleaning in Vermont?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, one-time cleaning services will enable you to prepare your property for any event or guests."
+            "text": "Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond."
           }
         },
         {
           "@type": "Question",
-          "name": "Are the cleaning products included?",
+          "name": "Do you clean gutters and outdoor areas on leafy blocks?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Professional cleaners normally use proper cleaning equipment and products that are needed in order to perform the task."
+            "text": "We do. Between the pressure washing, garden work and general upkeep, we help keep the outside of the home in order, not just the inside."
           }
         },
         {
           "@type": "Question",
-          "name": "Do the cleaners clean outdoors also?",
+          "name": "Is NDIS cleaning available in Vermont?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Indeed, there are cleaning services available for the outdoors such as pressure washing and garden clean-up services."
+            "text": "It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable."
           }
         },
         {
           "@type": "Question",
-          "name": "How can I arrange for my cleaning service in Vermont?",
+          "name": "Do you offer same-day cleaning in Vermont?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can call upon a professional cleaner and book an appointment accordingly."
+            "text": "Sometimes, depending on the day and the job. It's worth calling early if your timing's tight."
           }
         }
       ]
     }
   ]
 }
-</script>
-
-
-
-
+  </script>
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -209,7 +202,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -243,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2>Vermont</h2>
+          <h1>Cleaning Services in Vermont</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -251,7 +244,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li>Vermont</li>
+            <li>Cleaning Services in Vermont</li>
           </ul>
         </div>
       </div>
@@ -265,15 +258,10 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Vermont | Professional Cleaners in Vermont</h1>
+                <h2>How do professional cleaning services in Vermont care for your property?</h2>
               </div>
               <div class="text-box">
-                <p>Are you searching for trustworthy Cleaning Services in Vermont? You can get your home, office, rental
-                  properties, and commercial places cleaned by professional cleaners who have everything covered in
-                  their range of services. These services include house cleaning, vacate cleaning, Airbnb cleaning,
-                  carpet cleaning, window cleaning, pressure washing, gardens cleaning and much more. Skilled cleaners
-                  will use proper cleaning methods along with quality tools in order to keep your surroundings fresh,
-                  hygienic and organized.</p>
+                <p>They deliver comprehensive upkeep for a quiet, leafy family suburb in Melbourne's outer east, managing spacious blocks, mature gardens and tree-lined streets. For residents wanting a reliable cleaner near you, Rest Easy Services covers the range in Vermont: house cleaning, carpet cleaning, window cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Vermont clean and well kept.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -288,7 +276,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-vermont.png" alt="Cleaning Services"
+              <img src="assets/images/location/cleaning-services-vermont.png" alt="Cleaning Services in Vermont"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -297,41 +285,141 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Neighbouring Suburbs We Look After</h2>
+          <p class="hc-lead">We look after Vermont and the surrounding streets, along with the wider eastern and south-eastern suburbs, and out to the Mornington Peninsula.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+              <a class="aws-areas__tag" href="cleaning-services-skye"><span class="aws-areas__dot"></span>Skye</a>
+              <a class="aws-areas__tag" href="cleaning-services-patterson-lakes"><span class="aws-areas__dot"></span>Patterson Lakes</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What's Cleaning Like in a Quiet, Leafy Suburb Like Vermont?</h2>
+          <p class="hc-lead">Vermont is one of the greener, more low-key suburbs this far east, with big blocks and established gardens, and that shapes what the cleaning tends to involve.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>Mature gardens and big established blocks</h3>
+            <p>A lot of Vermont sits on generous blocks with mature trees and settled gardens on quiet, low-traffic streets. That means real garden upkeep and a fair bit of leaf litter through autumn, in the gutters, on the paths and tracked toward the door.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>Post-war homes, steadily being renovated</h3>
+            <p>Much of the housing here is solid post-war brick that's been updated over the years, with plenty still being renovated. That brings older-home cleaning and after-works cleans into the mix, clearing the dust and residue a renovation leaves behind.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Settled family owner-occupiers</h3>
+            <p>Vermont is a suburb of families who buy and stay, drawn by the schools and the quiet. That points to steady, ongoing cleaning rather than constant turnovers, along with regular home help for those who want it.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Trusted Cleaners in Vermont | Complete Cleaning Solutions</h2>
+              <span style="letter-spacing: normal;">
+                <h2>How Can Our Vermont Cleaners Assist You Today?</h2>
               </span>
+              <p>From a weekly family clean to a post-renovation clean or a full bond clean, it's all handled by one local team.</p>
             </div>
           </div>
-          <p>
-            <br>
-          </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-Vermont.png" alt="house-cleaning-Vermont">
+                  <img src="assets/images/location/house-cleaning-Vermont.png" alt="house-cleaning-vermont">
                 </div>
               </div>
-              <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Enjoy a clean house through residential cleaning in Vermont. Cleaners do all the work including
-                  kitchens, bathrooms, bedrooms, and communal areas.</p>
+                <p>Regular or one-off house cleaning in Vermont, built around a busy family week. Bigger established homes are our bread and butter here, whether it's a weekly visit or a single deep clean.</p>
               </div>
             </div>
           </div>
@@ -342,18 +430,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\end-of-lease-Vermont.png"
-                    alt="end-of-lease-Vermont">
+                  <img src="assets/images/location/end-of-lease-Vermont.png" alt="vacate-cleaning-vermont">
                 </div>
               </div>
-              <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">End of Lease Cleaning</a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>Let go of your rental property without any difficulty with vacate cleaning in Vermont. Proper
-                  cleaning ensures that properties are prepared for inspections.</p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
@@ -364,17 +449,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-Vermont.png" alt="airbnb-cleaning-Vermont">
+                  <img src="assets/images/location/airbnb-cleaning-Vermont.png" alt="airbnb-cleaning-vermont">
                 </div>
               </div>
-              <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning</a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Make sure that your vacation rental is kept in top condition with Airbnb property cleaning in
-                  Vermont. Professional cleaners ensure that the properties are clean for every visitor.</p>
+                <p>For the short-stays around the area, we handle the turnover between guests and can bring fresh linen along, ready for the next check-in.</p>
               </div>
             </div>
           </div>
@@ -384,43 +467,32 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-Vermont.png" alt="window-cleaning-Vermont">
+                  <img src="assets/images/location/window-cleaning-Vermont.png" alt="window-cleaning-vermont">
                 </div>
               </div>
-              <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Enhance the exterior look of your property through window cleaning in Vermont. Professional cleaning
-                  service providers will get rid of any mark or spot from the windows.</p>
+                <p>Inside and out, tracks included. Leafy, tree-lined blocks throw more dust and pollen onto the glass, and we clear it properly rather than smearing it around.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-Vermont.png" alt="linen-hire-Vermont">
+                  <img src="assets/images/location/linen-hire-Vermont.png" alt="linen-hire-vermont">
                 </div>
               </div>
-              <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Hire</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Get access to new linen rental services in Vermont for residences, vacation homes, and commercial
-                  spaces looking for bed linen services.</p>
+                <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather skip the washing between guests.</p>
               </div>
             </div>
           </div>
@@ -430,18 +502,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-maintenance-Vermont.png" alt="house-maintenance-Vermont">
+                  <img src="assets/images/location/house-maintenance-Vermont.png" alt="house-maintenance-vermont">
                 </div>
               </div>
-              <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">House Maintenance
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>Maintain security at your home with professional home maintenance in Vermont. Help is available in
-                  regular maintenance of the property. </p>
+                <p>Minor repairs and general upkeep alongside the cleaning, which suits older brick homes where small jobs mount up over the years.</p>
               </div>
             </div>
           </div>
@@ -452,17 +521,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\garden-maintenance-Vermont.png" alt="garden-maintenance-Vermont">
+                  <img src="assets/images/location/garden-maintenance-Vermont.png" alt="garden-maintenance-vermont">
                 </div>
               </div>
-              <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Keep your outdoor areas clean through garden maintenance services in Vermont. This ensures that lawns
-                  and gardens are properly maintained.</p>
+                <p>Big blocks and mature gardens take real upkeep. We keep on top of the mowing, hedging, weeding and green-waste across Vermont, autumn leaf load included.</p>
               </div>
             </div>
           </div>
@@ -472,17 +539,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-Vermont.png" alt="ndis-cleaning-Vermont">
+                  <img src="assets/images/location/ndis-cleaning-Vermont.png" alt="ndis-cleaning-vermont">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">NDIS Cleaning</a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>Avail yourself of reliable NDIS home cleaning in Vermont. Services ensure that you live in hygienic
-                  surroundings.</p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
@@ -492,17 +557,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/location/locksmith-boxhill.png" alt="locksmith-boxhill">
+                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="locksmith-vermont">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Enhance the security of your property with professional locksmith services in Vermont. Locks can be
-                  maintained and fixed by professionals.</p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and sheds around the area.</p>
               </div>
             </div>
           </div>
@@ -512,17 +575,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-Vermont.png" alt="carpet-cleaning-Vermont">
+                  <img src="assets/images/location/carpet-cleaning-Vermont.png" alt="carpet-cleaning-vermont">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning</a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Increase the comfort of your home through carpet cleaning in Vermont. With modern cleaning methods,
-                  it will be easy to get rid of the dirt and allergens.</p>
+                <p>Steam cleaning in Vermont that lifts ground-in dirt, dust and stains out of the fibres, plus pet odours. A regular one for busy family homes and after a renovation.</p>
               </div>
             </div>
           </div>
@@ -532,17 +593,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-washing-Vermont.png" alt="pressure-washing-Vermont">
+                  <img src="assets/images/location/pressure-washing-Vermont.png" alt="pressure-washing-vermont">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Restore outdoor spaces using exterior pressure cleaning in Vermont. Driveways, paths, and other
-                  surfaces are cleaned effectively.</p>
+                <p>Driveways, paths and outdoor areas washed back to clear the moss, mould and leaf stain that build up on shaded, established blocks.</p>
               </div>
             </div>
           </div>
@@ -552,26 +611,30 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-Vermont.png" alt="car-park-cleaning-Vermont">
+                  <img src="assets/images/location/car-park-cleaning-Vermont.png" alt="car-park-cleaning-vermont">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Ensure cleanliness of parking areas with professional car park cleaning in Vermont. Specialists help
-                  eliminate dirt and grime from your surfaces.</p>
+                <p>For the shopping strips and body corporate car parks around Vermont. Swept and washed so they stay tidy and presentable.</p>
               </div>
             </div>
           </div>
         </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
+        </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
-
-
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -581,9 +644,7 @@
           <div class="text-box">
             <h2>Book Professional Cleaning Today</h2>
             <br>
-            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable
-              professional cleaning services. <br> Contact our team today to schedule your cleaning service or request a
-              customized quote. </p>
+            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable professional cleaning services. Contact our team today to schedule your cleaning service or request a customised quote.</p>
           </div>
           <div class="btn-box">
             <a class="thm-btn" href="contact.php">
@@ -594,13 +655,14 @@
       </div>
     </section>
     <!--End  CTA  -->
-    <!-- review section --> <?php include "includes/reviews.php"; ?>
+    <!-- review section -->
+    <?php include "includes/reviews.php"; ?>
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -613,11 +675,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Why should I opt for professional cleaners in Vermont?</h3>
+                  <h3>What local cleaning services can I book near me in Vermont?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Professional cleaners provide effective cleaning services with the use of the right equipment and
-                    methodology.</p>
+                  <p>House cleaning, carpet and window cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -625,10 +686,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is it possible to get customised cleaning services in Vermont?</h3>
+                  <h3>Do you do a clean after a renovation?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, it is possible to arrange the cleaning service as per your property type and requirements.</p>
+                  <p>We do, and it's common in Vermont with so many homes being updated. We clear the fine dust and residue off floors, windows, surfaces and fittings so the finished job actually feels finished.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -636,11 +697,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is there any service available for a new property?</h3>
+                  <h3>Do you clean larger family homes on big blocks?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, the professional cleaning services help prepare your new property for you by removing the dirt
-                    and dust.</p>
+                  <p>That's most of what we do in Vermont. We bring the right size team and enough time for a bigger home rather than rushing it.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -648,10 +708,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> Can cleaning services be availed for the rented property?</h3>
+                  <h3>Do you handle the garden on a big, leafy block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Indeed, the cleaning service will be done prior to and post-tenancy to prepare the property.</p>
+                  <p>We do. Mowing, hedging, weeding and green-waste removal, suited to Vermont's larger, mature gardens, plus the autumn leaf load on tree-lined streets.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -659,11 +719,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How long does the cleaning service take?</h3>
+                  <h3>Can I set up a regular weekly or fortnightly clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>It is dependent upon the size of the property as well as the kind of cleaning that needs to be
-                    done.</p>
+                  <p>Yes, and it's our most common booking here. Vermont is a settled family suburb, so ongoing regular cleaning suits most households.</p>
                 </div>
               </li>
             </ul>
@@ -677,11 +736,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are the cleaners offering office cleaning services in Vermont?</h3>
+                  <h3>Can carpet cleaning get out everyday dirt and pet odours?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, commercial cleaning solutions are available for office, workplace, and business properties.
-                  </p>
+                  <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes and after building work.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -689,11 +747,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are one-time cleaning services possible for special events?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Vermont?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, one-time cleaning services will enable you to prepare your property for any event or guests.
-                  </p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -701,11 +758,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are the cleaning products included?</h3>
+                  <h3>Do you clean gutters and outdoor areas on leafy blocks?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Professional cleaners normally use proper cleaning equipment and products that are needed in order
-                    to perform the task.</p>
+                  <p>We do. Between the pressure washing, garden work and general upkeep, we help keep the outside of the home in order, not just the inside.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -713,11 +769,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do the cleaners clean outdoors also?</h3>
+                  <h3>Is NDIS cleaning available in Vermont?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Indeed, there are cleaning services available for the outdoors such as pressure washing and garden
-                    clean-up services.</p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -725,15 +780,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How can I arrange for my cleaning service in Vermont?</h3>
+                  <h3>Do you offer same-day cleaning in Vermont?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>You can call upon a professional cleaner and book an appointment accordingly.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

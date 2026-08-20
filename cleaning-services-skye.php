@@ -264,7 +264,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services in Skye</h1>
+                <h2>What Can Professional Cleaning Services in Skye Offer Your Family Home?</h2>
               </div>
               <div class="text-box">
                 <p>Skye is a quiet, growing family suburb in Melbourne's south-east, known for its newer estates, big blocks and an edge-of-country feel where you can still catch a rural view from the back window. If you're searching for a meticulous cleaner near you, Rest Easy Services covers the range in Skye: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Skye clean and well kept.</p>

@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Toorak by Professional Cleaners</title>
+  <title>Cleaning Services in Toorak | Rest Easy Services</title>
   <meta name="description"
-    content="Get reliable cleaning services in Toorak by professional cleaners. Enjoy spotless homes, offices, and rental properties with quality cleaning solutions for every need." />
+    content="Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Toorak" />
+    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Toorak" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-toorak" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Toorak by Professional Cleaners" />
+  <meta property="og:title" content="Cleaning Services in Toorak | Rest Easy Services" />
   <meta property="og:description"
-    content="Get reliable cleaning services in Toorak by professional cleaners. Enjoy spotless homes, offices, and rental properties with quality cleaning solutions for every need." />
+    content="Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-toorak" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Toorak by Professional Cleaners" />
+  <meta name="twitter:title" content="Cleaning Services in Toorak | Rest Easy Services" />
   <meta name="twitter:description"
-    content="Get reliable cleaning services in Toorak by professional cleaners. Enjoy spotless homes, offices, and rental properties with quality cleaning solutions for every need." />
+    content="Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -51,9 +51,9 @@
     {
       "@type": "Service",
       "@id": "https://resteasyservices.com.au/cleaning-services-toorak/#service",
-      "name": "Cleaning Services Toorak",
+      "name": "Cleaning Services in Toorak",
       "url": "https://resteasyservices.com.au/cleaning-services-toorak",
-      "description": "Professional cleaning services in Toorak for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance and other residential and commercial cleaning needs.",
+      "description": "Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes.",
       "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
         "@id": "https://resteasyservices.com.au/#business"
@@ -64,14 +64,17 @@
       },
       "serviceType": [
         "House Cleaning",
-        "Office Cleaning",
         "Vacate Cleaning",
         "Airbnb Cleaning",
-        "Carpet Cleaning",
         "Window Cleaning",
-        "Pressure Washing",
+        "Linen Hire",
+        "Home Maintenance",
+        "Garden Maintenance",
         "NDIS Cleaning",
-        "Garden Maintenance"
+        "Locksmith Services",
+        "Carpet Cleaning",
+        "Pressure Washing",
+        "Car Park Cleaning"
       ]
     },
     {
@@ -80,92 +83,89 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What cleaning services are offered in Toorak?",
+          "name": "What local cleaning services can I book near me in Toorak?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "House cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, NDIS cleaning, etc."
+            "text": "House cleaning, window and carpet cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you have same-day cleaning services in Toorak?",
+          "name": "Do you take care with period features and heritage finishes?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, same-day cleaning services may be possible, but it depends on the number of bookings."
+            "text": "We do, and it matters here. Original timber, stone and delicate detail get the right method and products for each surface, not a one-size-fits-all scrub."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you provide all the cleaning supplies?",
+          "name": "Can you clean a larger home properly, not just a quick once-over?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, the cleaners usually come with good quality cleaning equipment and supplies specific to the task."
+            "text": "Yes. Bigger, detailed homes are what we're set up for, with the right size team and enough time to do them justice."
           }
         },
         {
           "@type": "Question",
-          "name": "Can I hire for occasional house cleaning?",
+          "name": "Do you clean high-end apartments and their common areas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, you can hire for house cleaning on a weekly, fortnightly, or monthly basis."
+            "text": "We do, including shared body corporate areas. Just let us know whether it's your own residence or the whole building."
           }
         },
         {
           "@type": "Question",
-          "name": "Would you be cleaning accommodation between guests on Airbnb?",
+          "name": "Do you look after formal gardens as well as the house?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. The cleaning process in Airbnb includes cleaning the house, changing the cloth, and preparing the house for the next guests."
+            "text": "We do. Mowing, hedging, weeding and green-waste, kept to the standard the grounds are used to."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you have vacate cleaning for rental?",
+          "name": "Is your team reliable and discreet?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, vacate cleaning helps prepare a rental unit for inspection."
+            "text": "Yes. We turn up when we say we will, with the same cleaner where we can manage it, which is exactly what most clients here are after."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you clean commercial places in Toorak?",
+          "name": "Do you offer end-of-lease cleaning in Toorak?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, businesses and offices can be cleaned as they ask for it."
+            "text": "Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond."
           }
         },
         {
           "@type": "Question",
-          "name": "Are your cleaning solutions safe?",
+          "name": "Can carpet cleaning care for quality carpets and rugs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, quality cleaning solutions are used which ensure effective cleaning of the place."
+            "text": "Steam cleaning lifts dirt and stains out of the fibres gently, suited to good carpets and rugs, along with everyday grime and pet odours."
           }
         },
         {
           "@type": "Question",
-          "name": "Can I combine multiple services in one booking?",
+          "name": "Is NDIS cleaning available in Toorak?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, you can book multiple services such as carpet cleaning, window cleaning, and pressure washing together."
+            "text": "It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable."
           }
         },
         {
           "@type": "Question",
-          "name": "How do I book a cleaning service in Toorak?",
+          "name": "Do you offer same-day cleaning in Toorak?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Simply contact our team to discuss your requirements to arrange a suitable date and time for your cleaning service."
+            "text": "Sometimes, depending on the day and the job. It's worth calling early if your timing's tight."
           }
         }
       ]
     }
   ]
 }
-</script>
-
-
-
+  </script>
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -202,7 +202,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Toorak</h2>
+          <h1>Cleaning Services in Toorak</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -244,7 +244,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Toorak</li>
+            <li>Cleaning Services in Toorak</li>
           </ul>
         </div>
       </div>
@@ -258,15 +258,10 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Toorak by Professional Cleaners</h1>
+                <h2>How do professional cleaning services in Toorak maintain prestige homes?</h2>
               </div>
               <div class="text-box">
-                <p>With Cleaning Services Toorak at your disposal, you can maintain your home or workplace in a tidy and
-                  comfortable state. There are dependable services to clean everything from a residential building,
-                  including houses and flats and business premises, such as office buildings and rented properties. Our
-                  services include regular house cleaning, end-of-lease cleaning, cleaning for Airbnb and holiday
-                  rentals, carpet cleaning, window cleaning, pressure cleaning, and office cleaning. You can trust that
-                  our reliable services will help you in keeping your living or working place clean and safe.</p>
+                <p>They offer discreet, high-end care for Melbourne's most prestigious suburb, preserving period mansions, leafy streets, formal gardens and luxury apartments. When searching for a meticulous cleaner near you, Rest Easy Services covers the range in Toorak: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Toorak clean and beautifully kept.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -281,7 +276,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-Langwarrin.png" alt="Cleaning Services"
+              <img src="assets/images/location.jpeg" alt="Cleaning Services in Toorak"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -290,41 +285,141 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Suburbs We Clean Near Toorak</h2>
+          <p class="hc-lead">We look after Toorak and the surrounding streets, along with the wider eastern and south-eastern suburbs, and out to the Mornington Peninsula.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+              <a class="aws-areas__tag" href="cleaning-services-skye"><span class="aws-areas__dot"></span>Skye</a>
+              <a class="aws-areas__tag" href="cleaning-services-patterson-lakes"><span class="aws-areas__dot"></span>Patterson Lakes</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag is-active" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What Does Cleaning a Toorak Home Involve?</h2>
+          <p class="hc-lead">Toorak isn't a standard suburban clean. The homes are grander, older and more detailed than most, and that calls for a bit more care.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>Period and heritage homes</h3>
+            <p>Many Toorak homes are Victorian and Italianate-era mansions with original detail, ornate cornices, timber, stone and delicate finishes that shouldn't be scrubbed with whatever's under the sink. We match the method and the product to the surface, so nothing gets damaged in the name of getting it clean.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>Large homes and formal gardens</h3>
+            <p>These are generous homes on generous land, often with established, formal gardens. That means bigger footprints to clean and real garden work to keep the grounds looking as considered as the house. It's a different scale to a three-bedroom on a standard block.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Luxury apartments and prestige finishes</h3>
+            <p>Alongside the mansions, Toorak has a lot of high-end apartments, some with Yarra River views. Stone, marble, quality joinery and big glass all want careful, consistent cleaning, and clients here expect the same reliable, discreet service every visit.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Cleaners in Toorak for Cleaning & Maintenance Services</h2>
+              <span style="letter-spacing: normal;">
+                <h2>What Cleaning Services Do We Offer in Toorak?</h2>
               </span>
+              <p>From a regular home clean to full property upkeep, it's all handled by one local team who take the care a Toorak home deserves.</p>
             </div>
           </div>
-          <p>
-            <br>
-          </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-toorak.png" alt="#">
+                  <img src="assets/images/location/house-cleaning-toorak.png" alt="house-cleaning-toorak">
                 </div>
               </div>
-              <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Clean and organised house ensures that home remains easy to maintain with professional house cleaning
-                  in Mount Eliza that is designed to suit your schedule.</p>
+                <p>Regular or one-off house cleaning in Toorak, built around your home and routine. Larger, detailed homes are exactly what we're set up for, whether it's a weekly service or a deep clean.</p>
               </div>
             </div>
           </div>
@@ -335,18 +430,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-toorak.png" alt="vacate-cleaning-toorak">
+                  <img src="assets/images/location/vacate-cleaning-toorak.png" alt="vacate-cleaning-toorak">
                 </div>
               </div>
-              <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Vacate Cleaning
-                  </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>The process of vacate cleaning in Toorak ensures a complete cleanliness that allows tenants to get
-                  ready for the final evaluation of the property.</p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, for the apartments and rental homes across the suburb.</p>
               </div>
             </div>
           </div>
@@ -357,17 +449,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-toorak.png" alt="#">
+                  <img src="assets/images/location/airbnb-cleaning-toorak.png" alt="airbnb-cleaning-toorak">
                 </div>
               </div>
-              <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning</a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>We provide Airbnb cleaning in Toorak to meet your cleaning needs as well as changing linens and
-                  ensuring that the property looks superbly clean from one customer to another.</p>
+                <p>For the high-end short-stays here, we handle the turnover between guests and can bring fresh linen along, so the property presents perfectly for the next arrival.</p>
               </div>
             </div>
           </div>
@@ -377,43 +467,32 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-toorak.png" alt="window-cleaning-toorak">
+                  <img src="assets/images/location/window-cleaning-toorak.png" alt="window-cleaning-toorak">
                 </div>
               </div>
-              <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Our window cleaning services in Toorak are of premium quality, and we ensure that the glass is free
-                  of streaks and dirt, leaving windows sparkling, crystal-clear, spotless, bright, polished, refreshed,
-                  attractive, throughout, year-round.</p>
+                <p>Inside and out, tracks included. Large period windows and river-view apartment glass both come up beautifully, and we clear the film properly rather than leaving streaks.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-renting-service-toorak.png" alt="linen-renting-service-toorak">
+                  <img src="assets/images/location/linen-renting-service-toorak.png" alt="linen-hire-toorak">
                 </div>
               </div>
-              <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Renting Service</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Linen renting specializes in the provision of fresh sheets, towels, and beddings to homes, Airbnb properties, and rentals in Toorak</p>
+                <p>Hotel-quality sheets and towels laundered and delivered ready to go, for anyone letting out a property who wants it guest-ready.</p>
               </div>
             </div>
           </div>
@@ -423,18 +502,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-maintenance-services-toorak.png"
-                    alt="house-maintenance-services-toorak">
+                  <img src="assets/images/location/house-maintenance-services-toorak.png" alt="house-maintenance-toorak">
                 </div>
               </div>
-              <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">House Maintenance Services
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>House maintenance services you can count on in Toorak for repairs and regular upkeep of homes.</p>
+                <p>Minor repairs and general upkeep alongside the cleaning, which suits older, detailed homes where small jobs are best handled before they grow.</p>
               </div>
             </div>
           </div>
@@ -445,17 +521,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\garden-maintenance-toorak.png" alt="garden-maintenance-toorak">
+                  <img src="assets/images/location/garden-maintenance-toorak.png" alt="garden-maintenance-toorak">
                 </div>
               </div>
-              <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="garden-maintenance-services">Landscaping Services</a>
+                  <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Landscaping services in Toorak, including mowing lawns, trimming hedges, weeding and seasonal care of
-                  gardens.</p>
+                <p>Formal, established gardens take real upkeep. We keep on top of the mowing, hedging, weeding and green-waste so the grounds match the home.</p>
               </div>
             </div>
           </div>
@@ -465,18 +539,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-toorak.png" alt="ndis-cleaning-toorak">
+                  <img src="assets/images/location/ndis-cleaning-toorak.png" alt="ndis-cleaning-toorak">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">NDIS Cleaning Services
-                  </a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>NDIS cleaning service that is reliable and safe in Toorak to provide cleaning support to eligible
-                  persons.</p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
@@ -486,17 +557,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/location/locksmith-toorak.png" alt="locksmith-toorak.png">
+                  <img src="assets/images/location/locksmith-toorak.png" alt="locksmith-toorak">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="locksmith-services">Reliable Locksmith Services</a>
+                  <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Locksmith services in Toorak that are fast and dependable to fix locks, replace locks, and to provide
-                  solutions for Emergency lockouts, and locks.</p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly and discreetly for homes and apartments.</p>
               </div>
             </div>
           </div>
@@ -506,16 +575,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-toorak.png" alt="carpet-cleaning-toorak">
+                  <img src="assets/images/location/carpet-cleaning-toorak.png" alt="carpet-cleaning-toorak">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning Services</a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Carpet cleaning which take away stains, dirt, allergens, and odors to leave carpets clean and safe in Toorak.</p>
+                <p>Steam cleaning in Toorak that lifts dirt and stains out of the fibres with care, suited to quality carpets and rugs, along with everyday grime and pet odours.</p>
               </div>
             </div>
           </div>
@@ -525,17 +593,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-toorak.png" alt="pressure-cleaning-toorak">
+                  <img src="assets/images/location/pressure-cleaning-toorak.png" alt="pressure-cleaning-toorak">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-washing">Cleaning using Water Pressure</a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Water pressure cleaning services in Toorak for driveways, pathways, patios, walls, and the outdoor
-                  areas.</p>
+                <p>Driveways, paths, courtyards and outdoor areas washed back to clear the moss, mould and grime that gather on shaded, established blocks.</p>
               </div>
             </div>
           </div>
@@ -545,89 +611,30 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-toorak.png" alt="car-park-cleaning-toorak">
+                  <img src="assets/images/location/car-park-cleaning-toorak.png" alt="car-park-cleaning-toorak">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="car-park-cleaning">Parking Lot Cleaning Services</a>
+                  <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Parking lot cleaning services in Toorak with tools and equipment used to remove stains and dirt from parking lots. </p>
+                <p>For the apartment and body corporate car parks around the suburb. Swept and washed so they stay clean and presentable.</p>
               </div>
             </div>
           </div>
+        </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
         </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
-
-    <!--Start Benefits Services Details -->
-    <section class="features-two service-features-section" style="background-color:#f1f3f2">
-      <div class="container">
-        <div class="sec-title text-center">
-
-          <h2>Cleaning Process in Toorak
-          </h2>
-        </div>
-        <div class="row">
-          <div class="col-xl-12">
-            <div class="features-two__inner">
-              <div class="features-two__img">
-                <img src="assets/images/cleaning-process-langwarrin.png" alt="#">
-              </div>
-              <ul class="features-two__list">
-                <li class="wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                  <div class="count-box counted"><span>1</span></div>
-                  <div class="inner">
-                    <h2 style="font-size: 21px;">Property Assessment</h2>
-                    <p>We assess your cleaning requirements and review the need for cleaning the property.</p>
-                  </div>
-                </li>
-
-                <li class="style2 style3 wow fadeInRight animated animated" data-wow-delay="0ms"
-                  data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                  <div class="count-box counted"><span>2</span></div>
-                  <div class="inner">
-                    <h2><span class="box-blue">Planning the Cleaning Timeline</span></h2>
-                    <p>We determine the most suitable time for carrying out the work with minimal disruption.</p>
-                  </div>
-                </li>
-              </ul>
-
-              <ul class="features-two__list">
-                <li class="style3 wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                  <div class="count-box counted"><span>3</span></div>
-                  <div class="inner">
-                    <h2><span class="box-blue">Cleaning Process</span></h2>
-                    <p>Our cleaners work efficiently and with the help of good tools in order to deliver maximum
-                      results.</p>
-                  </div>
-                </li>
-
-                <li class="style2  wow fadeInRight animated animated" data-wow-delay="0ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                  <div class="count-box counted"><span>4</span></div>
-                  <div class="inner">
-                    <h2>Final Check of the Work</h2>
-                    <p>All offered services are performed paying much attention to cleanliness, hygiene, and customer
-                      satisfaction.
-
-                    </p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!--End Benefits Services Details -->
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -637,9 +644,7 @@
           <div class="text-box">
             <h2>Book Professional Cleaning Today</h2>
             <br>
-            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable
-              professional cleaning services. <br> Contact our team today to schedule your cleaning service or request a
-              customized quote. </p>
+            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable professional cleaning services. Contact our team today to schedule your cleaning service or request a customised quote.</p>
           </div>
           <div class="btn-box">
             <a class="thm-btn" href="contact.php">
@@ -650,13 +655,14 @@
       </div>
     </section>
     <!--End  CTA  -->
-    <!-- review section --> <?php include "includes/reviews.php"; ?>
+    <!-- review section -->
+    <?php include "includes/reviews.php"; ?>
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -669,11 +675,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What cleaning services are offered in Toorak?</h3>
+                  <h3>What local cleaning services can I book near me in Toorak?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>House cleaning ,vacate cleaning, Airbnb cleaning, carpet cleaning, window cleaning, pressure
-                    washing, garden maintenance, NDIS cleaning, etc.</p>
+                  <p>House cleaning, window and carpet cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -681,10 +686,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you have same-day cleaning services in Toorak?</h3>
+                  <h3>Do you take care with period features and heritage finishes?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, same-day cleaning services may be possible ,but it depends on the number of bookings.</p>
+                  <p>We do, and it matters here. Original timber, stone and delicate detail get the right method and products for each surface, not a one-size-fits-all scrub.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -692,11 +697,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you provide all the cleaning supplies?</h3>
+                  <h3>Can you clean a larger home properly, not just a quick once-over?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, the cleaners usually come with good quality cleaning equipment and supplies specific to the
-                    task.</p>
+                  <p>Yes. Bigger, detailed homes are what we're set up for, with the right size team and enough time to do them justice.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -704,10 +708,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I hire for occasional house cleaning?</h3>
+                  <h3>Do you clean high-end apartments and their common areas?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, you can hire for house cleaning on a weekly, fortnightly ,or monthly basis.</p>
+                  <p>We do, including shared body corporate areas. Just let us know whether it's your own residence or the whole building.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -715,11 +719,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Would you be cleaning accommodation between guests on Airbnb?</h3>
+                  <h3>Do you look after formal gardens as well as the house?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes. The cleaning process in Airbnb includes cleaning the house, changing the cloth ,and preparing
-                    the house for the next guests.</p>
+                  <p>We do. Mowing, hedging, weeding and green-waste, kept to the standard the grounds are used to.</p>
                 </div>
               </li>
             </ul>
@@ -733,10 +736,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you have vacate cleaning for rental?</h3>
+                  <h3>Is your team reliable and discreet?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, vacate cleaning helps prepare a rental unit for inspection.</p>
+                  <p>Yes. We turn up when we say we will, with the same cleaner where we can manage it, which is exactly what most clients here are after.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -744,10 +747,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you clean commercial places in Toorak?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Toorak?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, businesses and offices can be cleaned as they ask for it.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -755,10 +758,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are your cleaning solutions safe?</h3>
+                  <h3>Can carpet cleaning care for quality carpets and rugs?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, quality cleaning solutions are used which ensure effective cleaning of the place.</p>
+                  <p>Steam cleaning lifts dirt and stains out of the fibres gently, suited to good carpets and rugs, along with everyday grime and pet odours.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -766,11 +769,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I combine multiple services in one booking?</h3>
+                  <h3>Is NDIS cleaning available in Toorak?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes ,you can book multiple services such as carpet cleaning, window cleaning, and pressure washing
-                    together.</p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -778,16 +780,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How do I book a cleaning service in Toorak?</h3>
+                  <h3>Do you offer same-day cleaning in Toorak?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Simply contact our team to discuss your requirements to arrange a suitable date and time for your
-                    cleaning service.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

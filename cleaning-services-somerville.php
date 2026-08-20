@@ -257,7 +257,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services in Somerville</h1>
+                <h2>Why Choose Professional Cleaning Services in Somerville for Your Property?</h2>
               </div>
               <div class="text-box">
                 <p>Somerville is a semi-rural township toward the top of the Mornington Peninsula, old orchard country that's grown into a family suburb of bigger blocks, hobby farms and newer estates. If you need a thorough, reliable cleaner near you, Rest Easy Services covers the range in Somerville: house cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Somerville clean and well kept.</p>

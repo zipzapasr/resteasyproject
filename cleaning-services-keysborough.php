@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Trusted Cleaning Services in Keysborough for Every Property</title>
+  <title>Cleaning Services in Keysborough | Rest Easy Services</title>
   <meta name="description"
-    content="Trusted cleaning services in Keysborough for homes and businesses. House, vacate, Airbnb, carpet, window, pressure cleaning, linen hire and more. " />
+    content="Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Keysborough" />
+    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Keysborough" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-keysborough" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Trusted Cleaning Services in Keysborough for Every Property" />
+  <meta property="og:title" content="Cleaning Services in Keysborough | Rest Easy Services" />
   <meta property="og:description"
-    content="Trusted cleaning services in Keysborough for homes and businesses. House, vacate, Airbnb, carpet, window, pressure cleaning, linen hire and more. " />
+    content="Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-keysborough" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,122 +22,150 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Trusted Cleaning Services in Keysborough for Every Property" />
+  <meta name="twitter:title" content="Cleaning Services in Keysborough | Rest Easy Services" />
   <meta name="twitter:description"
-    content="Trusted cleaning services in Keysborough for homes and businesses. House, vacate, Airbnb, carpet, window, pressure cleaning, linen hire and more. " />
+    content="Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "LocalBusiness",
-          "@id": "https://resteasyservices.com.au/#business",
-          "name": "Rest Easy Services",
-          "url": "https://resteasyservices.com.au/",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "telephone": "+61 429 780 896",
-          "email": "sales@resteasyservices.com.au",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "6/7 Suffolk Street",
-            "addressLocality": "Capel Sound",
-            "addressRegion": "VIC",
-            "postalCode": "3940",
-            "addressCountry": "AU"
-          }
-        }, {
-          "@type": "Service",
-          "@id": "https://resteasyservices.com.au/langwarrin/#service",
-          "name": "Cleaning Services Langwarrin",
-          "url": "https://resteasyservices.com.au/cleaning-services-langwarrin/",
-          "description": "Professional cleaning services in Langwarrin for homes, offices, Airbnb properties, vacate cleaning, carpet cleaning, window cleaning, pressure cleaning, NDIS cleaning and car park cleaning.",
-          "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
-          "provider": {
-            "@id": "https://resteasyservices.com.au/#business"
-          },
-          "areaServed": {
-            "@type": "City",
-            "name": "Langwarrin"
-          },
-          "serviceType": ["House Cleaning", "Office Cleaning", "Vacate Cleaning", "Airbnb Cleaning", "Carpet Cleaning", "Window Cleaning", "Pressure Cleaning", "NDIS Cleaning", "Car Park Cleaning"]
-        }, {
-          "@type": "FAQPage",
-          "@id": "https://resteasyservices.com.au/langwarrin/#faq",
-          "mainEntity": [{
-            "@type": "Question",
-            "name": "Are the cleaning services provided for both residential and commercial premises?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning services are available for homes, offices, retail stores and other commercial premises in Langwarrin."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are there services for single cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. One-time cleaning services are available for inspections, seasonal cleaning, special occasions and other one-off requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are customized cleaning checklists provided?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Cleaning tasks can be customised based on the condition of your property and your specific cleaning requirements."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Are weekend cleaning services provided in Langwarrin?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Weekend cleaning appointments are available depending on scheduling and service availability."
-            }
-          }, {
-            "@type": "Question",
-            "name": "How long would the cleaning service take?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The time required depends on the size and condition of the property as well as the type of cleaning service selected."
-            }
-          }, {
-            "@type": "Question",
-            "name": "In which areas is more attention paid during cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Special attention is given to kitchens, bathrooms, floors, benchtops, door handles and other frequently touched areas to maintain a hygienic environment."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Can cleaning be scheduled regularly?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Regular cleaning services can be scheduled weekly, fortnightly or monthly to keep your property consistently clean."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Do you offer outdoor cleaning services?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Outdoor cleaning services include pressure cleaning, window cleaning, garden maintenance and car park cleaning."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Who is eligible for vacate cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Vacate cleaning is available for apartments, units, houses, townhouses and other rented residential properties."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Why should one choose a professional cleaning service?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Professional cleaning helps maintain a cleaner, healthier and more hygienic environment while saving time and ensuring consistent cleaning standards."
-            }
-          }]
-        }]
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://resteasyservices.com.au/#business",
+      "name": "Rest Easy Services",
+      "url": "https://resteasyservices.com.au/",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "telephone": "+61 429 780 896",
+      "email": "sales@resteasyservices.com.au",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "6/7 Suffolk Street",
+        "addressLocality": "Capel Sound",
+        "addressRegion": "VIC",
+        "postalCode": "3940",
+        "addressCountry": "AU"
       }
-    </script>
+    },
+    {
+      "@type": "Service",
+      "@id": "https://resteasyservices.com.au/cleaning-services-keysborough/#service",
+      "name": "Cleaning Services in Keysborough",
+      "url": "https://resteasyservices.com.au/cleaning-services-keysborough",
+      "description": "Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes.",
+      "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
+      "provider": {
+        "@id": "https://resteasyservices.com.au/#business"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Keysborough"
+      },
+      "serviceType": [
+        "House Cleaning",
+        "Vacate Cleaning",
+        "Airbnb Cleaning",
+        "Window Cleaning",
+        "Linen Hire",
+        "Home Maintenance",
+        "Garden Maintenance",
+        "NDIS Cleaning",
+        "Locksmith Services",
+        "Carpet Cleaning",
+        "Pressure Washing",
+        "Car Park Cleaning"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://resteasyservices.com.au/cleaning-services-keysborough/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What local cleaning services can I book near me in Keysborough?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "House cleaning, vacate and end-of-lease cleans, carpet and window cleaning, car park cleaning, garden and house maintenance, pressure washing, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you do a first clean on a new estate home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We do, and it's common in the southern estates. New homes come with construction dust and residue on floors, windows and surfaces, and we clear all of it so you move into a genuinely clean place."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you clean offices, warehouses and shopfronts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We do. Keysborough has a big industrial and commercial side, so alongside homes we handle offices, shopfronts, warehouses and their car parks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you do a clean after a renovation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We do, which suits the older homes in the north being updated. We clear the fine dust and residue so the finished job actually feels finished."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you do regular family house cleaning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "That's a big part of what we do in the estates and established streets. Weekly or fortnightly cleaning with the same cleaner where we can manage it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer end-of-lease cleaning in Keysborough?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can carpet cleaning get out everyday dirt and pet odours?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes and after building work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you handle the garden on a bigger or semi-rural block?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We do. Mowing, hedging, weeding and green-waste removal, from estate gardens to the larger blocks on the fringe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is NDIS cleaning available in Keysborough?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer same-day cleaning in Keysborough?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sometimes, depending on the day and the job. It's worth calling early if your timing's tight."
+          }
+        }
+      ]
+    }
+  ]
+}
+  </script>
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -174,7 +202,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -208,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Keysborough</h2>
+          <h1>Cleaning Services in Keysborough</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -216,7 +244,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Keysborough</li>
+            <li>Cleaning Services in Keysborough</li>
           </ul>
         </div>
       </div>
@@ -230,13 +258,10 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Trusted Cleaning Services in Keysborough for Every Property</h1>
+                <h2>What can professional cleaning services in Keysborough offer your property?</h2>
               </div>
               <div class="text-box">
-                <p>Professional cleaning services Keysborough provide assistance for homes and businesses to stay clean,
-                  fresh and hygienic. These services include cleaning of houses, offices, carpets, windows, Airbnb rooms
-                  and end of lease cleaning. Flexible cleaning options can help maintain all properties at a very high
-                  standard with professional results.</p>
+                <p>They deliver complete upkeep for one of Melbourne's largest suburbs by area, spanning new master-planned estates, established family homes and a working industrial belt. When you need a reliable cleaner near you, Rest Easy Services covers the range in Keysborough: house cleaning, vacate cleaning, carpet cleaning, window cleaning, car park cleaning, garden maintenance, house maintenance, pressure washing, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Keysborough clean and running.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -251,7 +276,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-Langwarrin.png" alt="Cleaning Services"
+              <img src="assets/images/location/cleaning-services-keyborough.png" alt="Cleaning Services in Keysborough"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -260,41 +285,141 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Our Local Coverage Network</h2>
+          <p class="hc-lead">We look after Keysborough and the surrounding streets, along with the wider south-east, Frankston, the Mornington Peninsula and Melbourne's bayside.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+              <a class="aws-areas__tag" href="cleaning-services-skye"><span class="aws-areas__dot"></span>Skye</a>
+              <a class="aws-areas__tag" href="cleaning-services-patterson-lakes"><span class="aws-areas__dot"></span>Patterson Lakes</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What Kind of Cleaning Does a Suburb as Varied as Keysborough Need?</h2>
+          <p class="hc-lead">Keysborough isn't one thing. It runs from brand-new estates to older family streets to industrial land, and the cleaning changes with each.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>New master-planned estates</h3>
+            <p>The southern estates like Somerfield are full of newer homes on manicured blocks, owned by young families and professionals. That brings first cleans on brand-new builds, regular family cleaning and garden upkeep to keep those estate gardens looking sharp.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>An industrial and commercial belt</h3>
+            <p>The middle of Keysborough carries a lot of industrial and business development, plus shopping centres like Parkmore. That means office, shopfront, warehouse and car park cleaning here, on top of the homes.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Established homes and semi-rural pockets</h3>
+            <p>The northern streets are largely 1960s-to-90s family homes, many now being renovated, while the southern fringe still holds market gardens and semi-rural blocks. Both call for regular cleaning, with post-renovation cleans a common one on the older stock.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Complete Cleaning Services for Keysborough Homes & Businesses</h2>
+              <span style="letter-spacing: normal;">
+                <h2>Which Cleaning Jobs Can We Tackle in Keysborough?</h2>
               </span>
+              <p>From a new-build first clean to a family home, a warehouse or a full bond clean, it's all handled by one local team.</p>
             </div>
           </div>
-          <p>
-            <br>
-          </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/house-cleaning-keysborough.png" alt="house-cleaning-keysborough">
                 </div>
               </div>
-              <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-cleaning">General House Cleaning</a>
+                  <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Professional house cleaning services to clean the kitchen, bathroom, bedroom, and living areas
-                  ensuring that your homes are clean and hygienic.</p>
+                <p>Regular or one-off house cleaning in Keysborough, for new estate homes and established houses alike. Weekly, fortnightly or a single deep clean, whatever suits.</p>
               </div>
             </div>
           </div>
@@ -305,19 +430,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/vacate-cleaning-keysborough.png" alt="vacate-cleaning-keysborough">
                 </div>
               </div>
-              <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Vacate House Cleaning keyborough
-                  </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>Thorough vacate house cleaning service that assists in making your rental properties ready for
-                  inspection with clean rooms and surfaces.
-                </p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
@@ -328,18 +449,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/airbnb-cleaning-keysborough.png" alt="airbnb-cleaning-keysborough">
                 </div>
               </div>
-              <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning Services</a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Quick and efficient Airbnb cleaning that includes changing linens and preparing your home or business
-                  for your next guest.
-                </p>
+                <p>For the short-stays around the area, we handle the turnover between guests and can bring fresh linen along, ready for the next arrival.</p>
               </div>
             </div>
           </div>
@@ -349,44 +467,32 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/window-cleaning-keysborough.png" alt="window-cleaning-keysborough">
                 </div>
               </div>
-              <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="window-cleaning">Window Cleaning
-                  </a>
+                  <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Streak free window cleaning service for all types of houses and businesses to allow more natural
-                  lighting in the property year-round efficiently.</p>
+                <p>Inside and out, tracks included. New builds carry construction dust on the glass and older homes carry years of grime, and we clear both properly.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-keysborough.png" alt="#">
+                  <img src="assets/images/location/linen-hire-keysborough.png" alt="linen-hire-keysborough">
                 </div>
               </div>
-              <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Hire</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Professional linen hire complete with fresh towels, sheets, and other beddings to holiday
-                  accommodation, Airbnbs, and short term rental properties.</p>
+                <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather skip the washing between guests.</p>
               </div>
             </div>
           </div>
@@ -396,19 +502,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-keysborough.png" alt="#">
+                  <img src="assets/images/location/home-maintenance-keysborough.png" alt="home-maintenance-keysborough">
                 </div>
               </div>
-              <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">Home Maintenance
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>Comprehensive home maintenance services encompassing repair and maintenance activities designed to
-                  keep your homes in great condition.
-                </p>
+                <p>Minor repairs and general upkeep alongside the cleaning, which suits the older homes where small jobs mount up over the years.</p>
               </div>
             </div>
           </div>
@@ -419,19 +521,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\garden-maintenance-keysborough.png" alt="#">
+                  <img src="assets/images/location/garden-maintenance-keysborough.png" alt="garden-maintenance-keysborough">
                 </div>
               </div>
-              <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="garden-maintenance-services">Garden Maintenance
-                  </a>
+                  <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Garden maintenance is inclusive of grass mowing, plant trimming, and weed removal in addition to
-                  other comprehensive outdoor care services.
-                </p>
+                <p>From manicured estate gardens to bigger established or semi-rural blocks, we keep the mowing, hedging, weeding and green-waste in order across Keysborough.</p>
               </div>
             </div>
           </div>
@@ -441,19 +539,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\NDIS-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/NDIS-cleaning-keysborough.png" alt="NDIS-cleaning-keysborough">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">NDIS Cleaning
-                  </a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>Professional NDIS cleaning services offer effective and customized cleaning services to promote
-                  independence, safety, comfortable, and stress-free living every day.
-                </p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
@@ -463,20 +557,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="#">
+                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="locksmith-services-keysborough">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="locksmith-services">Locksmith
-                  </a>
+                  <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Professional locksmiths provide services such as repair, replacement, re-keying, and emergency help
-                  with locks for both domestic and commercial premises.
-
-                </p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and businesses around the area.</p>
               </div>
             </div>
           </div>
@@ -486,18 +575,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/carpet-cleaning-keysborough.png" alt="carpet-cleaning-keysborough">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>The process of deep cleaning the carpets gets rid of dust, stains, allergens, and odors, leaving
-                  surfaces fresh, hygienic, sanitized, spotless, healthier, cleaner, and inviting.</p>
+                <p>Steam cleaning in Keysborough that lifts ground-in dirt, dust and stains out of the fibres, plus pet odours. A common one for family homes and after building work.</p>
               </div>
             </div>
           </div>
@@ -507,20 +593,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/pressure-cleaning-keysborough.png" alt="pressure-cleaning-keysborough">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-washing">Pressure Cleaning
-                  </a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>
-                  The process of pressure cleaning helps in removing mold, dirt, grime, and stains from driveways,
-                  pathways, walls, decks, and exterior surfaces.
-                </p>
+                <p>Driveways, paths and outdoor areas washed back to clear the mould, moss and grime that build up over time, at home or on a commercial site.</p>
               </div>
             </div>
           </div>
@@ -530,98 +611,31 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-keysborough.png" alt="#">
+                  <img src="assets/images/location/car-park-cleaning-keysborough.png" alt="car-park-cleaning-keysborough">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="car-park-cleaning">Car Park Cleaning
-
-                  </a>
+                  <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>
-                  Professional cleaning of car parks ensures that the car parks are free from any litter and other
-                  debris, creating safer, cleaner, more attractive, welcoming, hygienic, organized, and well-maintained
-                  environments.</p>
+                <p>For the shopping centres, industrial units and body corporate car parks around Keysborough. Swept and washed so they stay clean and presentable.</p>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-    <!--Start Our Cleaning Process -->
-    <!--Start Benefits Services Details -->
-    <section class="features-two service-features-section" style="background-color:#f1f3f2">
-      <div class="container">
-        <div class="sec-title text-center">
-
-          <h2>Why Should You Consider Our Cleaners in Keysborough?
-          </h2>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
         </div>
-        <div class="row">
-          <div class="col-xl-12">
-            <div class="features-two__inner">
-              <div class="features-two__img">
-                <img src="assets/images/cleaning-process-langwarrin.png" alt="#">
-              </div>
-              <ul class="features-two__list">
-                <li class="wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                  <div class="count-box counted"><span>1</span></div>
-                  <div class="inner">
-                    <h2 style="font-size: 21px;">Professional Cleaning Staff
-                    </h2>
-                    <p>All cleaning work is done by professionals who know how to perform tasks and use tools. Being
-                      attentive to details makes it possible to provide clean, fresh, and well-maintained properties.
-                    </p>
-                  </div>
-                </li>
-
-                <li class="style2 style3 wow fadeInRight animated animated" data-wow-delay="0ms"
-                  data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                  <div class="count-box counted"><span>2</span></div>
-                  <div class="inner">
-                    <h2><span class="box-blue">Various Cleaning Options</span></h2>
-                    <p>Cleaning can be provided either once or regularly – on a weekly, bi-weekly, and monthly basis. It
-                      becomes easier for customers to select services that suit their property and needs.
-                    </p>
-                  </div>
-                </li>
-              </ul>
-
-              <ul class="features-two__list">
-                <li class="style3 wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                  <div class="count-box counted"><span>3</span></div>
-                  <div class="inner">
-                    <h2><span class="box-blue">Diverse Services Offered</span></h2>
-                    <p>Among other things, there are services related to house cleaning, vacate cleaning, Airbnb
-                      cleaning, carpet cleaning, window cleaning, pressure cleaning, linen hire, gardening, etc.</p>
-                  </div>
-                </li>
-
-                <li class="style2  wow fadeInRight animated animated" data-wow-delay="0ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                  <div class="count-box counted"><span>4</span></div>
-                  <div class="inner">
-                    <h2>High-Quality Cleaning</h2>
-                    <p>All offered services are performed paying much attention to cleanliness, hygiene, and customer
-                      satisfaction.
-
-                    </p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
         </div>
       </div>
     </section>
 
-    <!--End Benefits Services Details -->
     <!--Start CTA  -->
     <section class="cta-one">
       <div class="cta-one__bg"></div>
@@ -630,9 +644,7 @@
           <div class="text-box">
             <h2>Book Professional Cleaning Today</h2>
             <br>
-            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable
-              professional cleaning services. <br> Contact our team today to schedule your cleaning service or request a
-              customized quote. </p>
+            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable professional cleaning services. Contact our team today to schedule your cleaning service or request a customised quote.</p>
           </div>
           <div class="btn-box">
             <a class="thm-btn" href="contact.php">
@@ -648,9 +660,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -663,11 +675,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do cleaning services include dusting and vacuuming?</h3>
+                  <h3>What local cleaning services can I book near me in Keysborough?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning involves dusting the furniture, vacuuming the carpets and rugs, sweeping the floor
-                    and cleaning the surfaces.</p>
+                  <p>House cleaning, vacate and end-of-lease cleans, carpet and window cleaning, car park cleaning, garden and house maintenance, pressure washing, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -675,12 +686,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can you arrange for one-time cleaning services?</h3>
+                  <h3>Do you do a first clean on a new estate home?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, you can always book one-off cleaning services on special occasions, seasonal cleaning, before
-                    inspections or any other occasion when you need additional cleaning.
-                  </p>
+                  <p>We do, and it's common in the southern estates. New homes come with construction dust and residue on floors, windows and surfaces, and we clear all of it so you move into a genuinely clean place.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -688,12 +697,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are cleaning services appropriate for rental properties?</h3>
+                  <h3>Do you clean offices, warehouses and shopfronts?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning services are perfect for the rental home, apartment or investment properties where
-                    you need consistent maintenance or vacate cleaning.
-                  </p>
+                  <p>We do. Keysborough has a big industrial and commercial side, so alongside homes we handle offices, shopfronts, warehouses and their car parks.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -701,11 +708,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Does window cleaning services include interior and exterior windows?</h3>
+                  <h3>Do you do a clean after a renovation?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, window cleaning services include internal and external windows, including frames and sills.
-                  </p>
+                  <p>We do, which suits the older homes in the north being updated. We clear the fine dust and residue so the finished job actually feels finished.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -713,11 +719,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are linen services available for short term accommodations?</h3>
+                  <h3>Do you do regular family house cleaning?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, you can arrange linen services which include the supply of fresh sheets, pillow cases and
-                    towels for your Airbnb properties and other short term stays.</p>
+                  <p>That's a big part of what we do in the estates and established streets. Weekly or fortnightly cleaning with the same cleaner where we can manage it.</p>
                 </div>
               </li>
             </ul>
@@ -731,11 +736,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can several cleaning services be scheduled together at one time?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Keysborough?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, various services including house cleaning, carpet cleaning, window cleaning, and pressure
-                    cleaning can all be scheduled together.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -743,11 +747,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is NDIS cleaning service offered for eligible participants?</h3>
+                  <h3>Can carpet cleaning get out everyday dirt and pet odours?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, the NDIS cleaning service is available for assisting participants who qualify with keeping
-                    their homes clean, safe, and comfortable.</p>
+                  <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes and after building work.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -755,11 +758,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What type of properties are ideal for pressure cleaning?</h3>
+                  <h3>Do you handle the garden on a bigger or semi-rural block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Properties such as driveways, footpaths, patios, decks, fences, retaining walls, garages, and
-                    commercial exterior areas can all be pressure cleaned.</p>
+                  <p>We do. Mowing, hedging, weeding and green-waste removal, from estate gardens to the larger blocks on the fringe.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -767,10 +769,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What is the advantage of regular cleaning on a property?</h3>
+                  <h3>Is NDIS cleaning available in Keysborough?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>It reduces the amount of dust and other allergens and keeps the property hygienic and clean.</p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -778,15 +780,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are cleaning services useful for selling or inspecting a property?</h3>
+                  <h3>Do you offer same-day cleaning in Keysborough?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, the cleaning services are helpful for improving the look of the property.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

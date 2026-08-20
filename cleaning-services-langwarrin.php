@@ -229,7 +229,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services in Langwarrin</h1>
+                <h2>Why Choose Professional Cleaning Services in Langwarrin for Your Property?</h2>
               </div>
               <div class="text-box">
                 <p>Langwarrin is a leafy garden-and-park suburb inland from Frankston, known for its big family blocks, the Flora and Fauna Reserve on its western edge and the heritage gardens at Cruden Farm. When you need an experienced cleaner near you, Rest Easy Services covers the range in Langwarrin: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Langwarrin clean and well kept.</p>

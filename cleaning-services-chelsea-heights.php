@@ -263,7 +263,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services in Chelsea Heights</h1>
+                <h2>How Can Professional Cleaning Services in Chelsea Heights Support Your Home?</h2>
               </div>
               <div class="text-box">
                 <p>Chelsea Heights is a quiet, green family suburb in the City of Kingston, tucked beside the Edithvale-Seaford Wetlands and only minutes from the Chelsea and Edithvale beaches. For those wanting a dependable cleaner near you, Rest Easy Services covers the range in Chelsea Heights: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Chelsea Heights clean and comfortable.</p>
