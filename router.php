@@ -1,13 +1,19 @@
 <?php
 /**
  * Local router for PHP built-in server.
+<<<<<<< HEAD
  * - Clean URL mapping (same as .htaccess)
  * - Cache-Control headers for static assets (fixes Lighthouse "efficient cache lifetimes")
+=======
+ * Maps clean URLs (e.g. /cleaning-services-frankston) to .php files
+ * the same way .htaccess does on Apache/production.
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
  *
  * Start with: php -S localhost:8000 router.php
  */
 
 $uri = urldecode(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
+<<<<<<< HEAD
 $file = __DIR__ . $uri;
 
 // Serve static files with long cache headers (CSS/JS/images/fonts)
@@ -73,17 +79,26 @@ if ($uri !== '/' && is_file($file)) {
     }
 
     // Unknown static type — let built-in server handle it
+=======
+
+// Serve existing files/directories as-is (assets, images, etc.)
+if ($uri !== '/' && file_exists(__DIR__ . $uri)) {
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     return false;
 }
 
 // Map /page or /page/ → page.php
 $path = trim($uri, '/');
 if ($path === '') {
+<<<<<<< HEAD
     header('Cache-Control: no-cache, must-revalidate');
+=======
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     require __DIR__ . '/index.php';
     return true;
 }
 
+<<<<<<< HEAD
 if (preg_match('~^blog/admin/(login|logout|post-edit|categories)/?$~', $path, $matches)) {
     header('Cache-Control: no-cache, must-revalidate');
     require __DIR__ . '/admin/' . $matches[1] . '.php';
@@ -106,12 +121,21 @@ if (preg_match('~^blog/([a-z0-9-]+)/?$~i', $path, $matches)) {
 $phpFile = __DIR__ . '/' . $path . '.php';
 if (is_file($phpFile)) {
     header('Cache-Control: no-cache, must-revalidate');
+=======
+$phpFile = __DIR__ . '/' . $path . '.php';
+if (is_file($phpFile)) {
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     require $phpFile;
     return true;
 }
 
+<<<<<<< HEAD
 http_response_code(404);
 header('Cache-Control: no-cache');
+=======
+// Fallback 404
+http_response_code(404);
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
 if (is_file(__DIR__ . '/404.php')) {
     require __DIR__ . '/404.php';
 } else {

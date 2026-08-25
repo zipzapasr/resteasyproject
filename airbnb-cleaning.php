@@ -241,7 +241,11 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-6">
                         <div class="hc-intro__content">
+<<<<<<< HEAD
                             <span class="hc-badge">Airbnb Cleaning</span>
+=======
+                            <span class="hc-badge">Fast Turnovers, Five-Star Results</span>
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                             <h1>Airbnb Cleaning Mornington Peninsula | Reliable Turnover Cleaning for Hosts</h1>
                             <p>Airbnb cleaning ensures holiday rental properties remain spotless, comfortable, and ready for the next guests. Professional services include kitchen, bathroom, bedroom, and lounge cleaning, along with floor and surface cleaning, linen changes, and restocking where required. Flexible cleaning schedules can be arranged around guest arrivals and departures, making turnovers easier to manage. Our team provides thorough Airbnb cleaning services across the Mornington Peninsula, including <a href="cleaning-services-rosebud">Rosebud</a>, <a href="cleaning-services-dromana">Dromana</a>, <a href="cleaning-services-mornington">Mornington</a>, <a href="cleaning-services-mount-eliza">Mount Eliza</a>, Hastings, Mount Martha, <a href="cleaning-services-somerville">Somerville</a> and surrounding areas.</p>
                  

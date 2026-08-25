@@ -281,6 +281,281 @@
       }
     })();
 
+    // House cleaning offers: horizontal carousel on mobile only
+    (function initHcOffersMobileCarousel() {
+      var $wrap = $(".hc-offers__carousel-wrap");
+      var $list = $(".hc-offers__list");
+      if (!$wrap.length || !$list.length || !$.fn.owlCarousel) return;
+
+      var mobileMq = window.matchMedia("(max-width: 767px)");
+      var $carousel = null;
+
+      function buildCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) return;
+
+        var $cards = $();
+        $list.children(".hc-offer").each(function () {
+          var $card = $(this).clone(true);
+          if ($card.length) {
+            $cards = $cards.add($card);
+          }
+        });
+        if (!$cards.length) return;
+
+        $carousel = $('<div class="hc-offers__mobile-carousel owl-carousel owl-theme"></div>');
+        $cards.each(function () {
+          $carousel.append($('<div class="item"></div>').append(this));
+        });
+        $wrap.prepend($carousel);
+        $list.addClass("is-mobile-hidden");
+
+        $carousel.owlCarousel({
+          loop: true,
+          autoplay: true,
+          autoplayTimeout: 5500,
+          autoplayHoverPause: true,
+          margin: 14,
+          nav: false,
+          dots: true,
+          smartSpeed: 450,
+          items: 1,
+          stagePadding: 18
+        });
+
+        $wrap.find(".hc-offers__mobile-nav-btn--prev").off("click.hcOffers").on("click.hcOffers", function (e) {
+          e.preventDefault();
+          $carousel.trigger("prev.owl.carousel");
+        });
+        $wrap.find(".hc-offers__mobile-nav-btn--next").off("click.hcOffers").on("click.hcOffers", function (e) {
+          e.preventDefault();
+          $carousel.trigger("next.owl.carousel");
+        });
+        $wrap.find(".hc-offers__mobile-nav").attr("aria-hidden", "false");
+      }
+
+      function destroyCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) {
+          $carousel.trigger("destroy.owl.carousel");
+          $carousel.remove();
+          $carousel = null;
+        }
+        $list.removeClass("is-mobile-hidden");
+        $wrap.find(".hc-offers__mobile-nav").attr("aria-hidden", "true");
+      }
+
+      function syncMode() {
+        if (mobileMq.matches) {
+          buildCarousel();
+        } else {
+          destroyCarousel();
+        }
+      }
+
+      syncMode();
+      if (typeof mobileMq.addEventListener === "function") {
+        mobileMq.addEventListener("change", syncMode);
+      } else if (typeof mobileMq.addListener === "function") {
+        mobileMq.addListener(syncMode);
+      }
+    })();
+
+    // What's included cards: horizontal carousel on mobile only
+    (function initHcIncludedMobileCarousel() {
+      var $wrap = $(".hc-included__carousel-wrap");
+      var $list = $(".hc-included__carousel-wrap .hc-included__grid");
+      if (!$wrap.length || !$list.length || !$.fn.owlCarousel) return;
+
+      var mobileMq = window.matchMedia("(max-width: 767px)");
+      var $carousel = null;
+
+      function buildCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) return;
+
+        var $cards = $();
+        $list.children(".hc-included__card").each(function () {
+          var $card = $(this).clone(false);
+          if ($card.length) {
+            $cards = $cards.add($card);
+          }
+        });
+        if (!$cards.length) return;
+
+        $carousel = $('<div class="hc-included__mobile-carousel owl-carousel owl-theme"></div>');
+        $cards.each(function () {
+          $carousel.append($('<div class="item"></div>').append(this));
+        });
+        $wrap.prepend($carousel);
+        $list.addClass("is-mobile-hidden");
+
+        $carousel.owlCarousel({
+          loop: true,
+          autoplay: true,
+          autoplayTimeout: 5500,
+          autoplayHoverPause: true,
+          margin: 14,
+          nav: false,
+          dots: true,
+          smartSpeed: 450,
+          items: 1,
+          stagePadding: 18
+        });
+
+        $wrap.find(".hc-included__mobile-nav-btn--prev").off("click.hcIncluded").on("click.hcIncluded", function (e) {
+          e.preventDefault();
+          $carousel.trigger("prev.owl.carousel");
+        });
+        $wrap.find(".hc-included__mobile-nav-btn--next").off("click.hcIncluded").on("click.hcIncluded", function (e) {
+          e.preventDefault();
+          $carousel.trigger("next.owl.carousel");
+        });
+        $wrap.find(".hc-included__mobile-nav").attr("aria-hidden", "false");
+      }
+
+      function destroyCarousel() {
+        if ($carousel && $carousel.data("owl.carousel")) {
+          $carousel.trigger("destroy.owl.carousel");
+          $carousel.remove();
+          $carousel = null;
+        }
+        $list.removeClass("is-mobile-hidden");
+        $wrap.find(".hc-included__mobile-nav").attr("aria-hidden", "true");
+      }
+
+      function syncMode() {
+        if (mobileMq.matches) {
+          buildCarousel();
+        } else {
+          destroyCarousel();
+        }
+      }
+
+      syncMode();
+      if (typeof mobileMq.addEventListener === "function") {
+        mobileMq.addEventListener("change", syncMode);
+      } else if (typeof mobileMq.addListener === "function") {
+        mobileMq.addListener(syncMode);
+      }
+    })();
+
+    // Why choose us: carousel on desktop and mobile
+    if ($(".hc-why-carousel").length && $.fn.owlCarousel) {
+      $(".hc-why-carousel").each(function () {
+        var elm = $(this);
+        var $wrap = elm.closest(".hc-why-carousel-wrap");
+        if (elm.data("owl.carousel")) return;
+        elm.owlCarousel({
+          loop: true,
+          autoplay: true,
+          autoplayTimeout: 5000,
+          autoplayHoverPause: true,
+          margin: 16,
+          nav: false,
+          dots: true,
+          dotsContainer: $wrap.find(".hc-why-carousel__dots"),
+          smartSpeed: 450,
+          items: 1,
+          responsive: {
+            0: { items: 1 },
+            768: { items: 2 }
+          }
+        });
+
+        $wrap.find(".hc-why-carousel__nav--prev").on("click", function (e) {
+          e.preventDefault();
+          elm.trigger("prev.owl.carousel");
+        });
+        $wrap.find(".hc-why-carousel__nav--next").on("click", function (e) {
+          e.preventDefault();
+          elm.trigger("next.owl.carousel");
+        });
+      });
+    }
+
+    // Location page service cards: mobile carousel
+    (function initLocationServicesSection() {
+      var $wraps = $(".location-services__carousel-wrap");
+      if (!$wraps.length) return;
+
+      $wraps.each(function () {
+        var $wrap = $(this);
+        var $grid = $wrap.find(".location-services__grid").first();
+        if (!$grid.length) return;
+
+        if (!$.fn.owlCarousel) return;
+
+        var mobileMq = window.matchMedia("(max-width: 767px)");
+        var $carousel = null;
+
+        function buildCarousel() {
+          if ($carousel && $carousel.data("owl.carousel")) return;
+
+          var $cards = $();
+          $grid.children('[class*="col-"]').each(function () {
+            var $card = $(this).children(".blog-one__single").first().clone(false);
+            if ($card.length) {
+              $cards = $cards.add($card);
+            }
+          });
+          if (!$cards.length) return;
+
+          $carousel = $('<div class="location-services__mobile-carousel owl-carousel owl-theme"></div>');
+          $cards.each(function () {
+            $carousel.append($('<div class="item"></div>').append(this));
+          });
+          $wrap.prepend($carousel);
+          $grid.addClass("is-mobile-hidden");
+
+          $carousel.owlCarousel({
+            loop: true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            margin: 14,
+            nav: false,
+            dots: true,
+            smartSpeed: 450,
+            items: 1,
+            stagePadding: 28
+          });
+
+          $wrap.find(".location-services__mobile-nav-btn--prev").off("click.locSvc").on("click.locSvc", function (e) {
+            e.preventDefault();
+            $carousel.trigger("prev.owl.carousel");
+          });
+          $wrap.find(".location-services__mobile-nav-btn--next").off("click.locSvc").on("click.locSvc", function (e) {
+            e.preventDefault();
+            $carousel.trigger("next.owl.carousel");
+          });
+          $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "false");
+        }
+
+        function destroyCarousel() {
+          if ($carousel && $carousel.data("owl.carousel")) {
+            $carousel.trigger("destroy.owl.carousel");
+            $carousel.remove();
+            $carousel = null;
+          }
+          $grid.removeClass("is-mobile-hidden");
+          $wrap.find(".location-services__mobile-nav").attr("aria-hidden", "true");
+        }
+
+        function syncMode() {
+          if (mobileMq.matches) {
+            buildCarousel();
+          } else {
+            destroyCarousel();
+          }
+        }
+
+        syncMode();
+        if (typeof mobileMq.addEventListener === "function") {
+          mobileMq.addEventListener("change", syncMode);
+        } else if (typeof mobileMq.addListener === "function") {
+          mobileMq.addListener(syncMode);
+        }
+      });
+    })();
+
   }
 
 
@@ -933,6 +1208,7 @@
   };
 
 
+<<<<<<< HEAD
   //Accordion Box — toggle open/close; one open per column
   if ($(".accordion-box").length) {
     $(document).off("click.resteasyAccordion", ".accordion-box .acc-btn");
@@ -959,6 +1235,34 @@
       $btn.addClass("active");
       $target.addClass("active-block");
       $content.slideDown(300);
+=======
+  //Accordion Box
+  if ($('.accordion-box').length) {
+    $(".accordion-box").off('click.accToggle').on('click.accToggle', '.acc-btn', function (e) {
+      e.preventDefault();
+
+      var $btn = $(this);
+      var $outerBox = $btn.closest('.accordion-box');
+      var $target = $btn.closest('.accordion');
+      var $content = $btn.next('.acc-content');
+
+      // Clicking an open item closes it
+      if ($btn.hasClass('active')) {
+        $btn.removeClass('active');
+        $target.removeClass('active-block');
+        $content.stop(true, true).slideUp(300);
+        return;
+      }
+
+      // Open this item and close others in the same column
+      $outerBox.find('.accordion .acc-btn').removeClass('active');
+      $outerBox.find('.accordion').removeClass('active-block');
+      $outerBox.find('.accordion > .acc-content').stop(true, true).slideUp(300);
+
+      $btn.addClass('active');
+      $target.addClass('active-block');
+      $content.stop(true, true).slideDown(300);
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     });
   }
 

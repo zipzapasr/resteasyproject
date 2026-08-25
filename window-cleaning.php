@@ -275,6 +275,40 @@
                                     <span class="txt">Call Us</span>
                                 </a>
                             </div>
+<<<<<<< HEAD
+=======
+                            <div class="text-box">
+                                <p>Professional window cleaning services in Mornington Peninsula deliver streak-free
+                                    windows which provide complete visual clarity for residential and commercial spaces.
+                                    The cleaning process uses advanced equipment which combines with purified water
+                                    systems and approved cleaning methods to successfully eliminate dirt grime and water
+                                    stains from glass surfaces. The company handles all window cleaning needs for
+                                    single-storey homes and multi-level buildings by using careful methods which deliver
+                                    better visibility and aesthetic results. Coastal cleaning methods in Rye, Sorrento,
+                                    Rosebud, Dromana, Mornington and Mount Eliza provide specialized solutions which
+                                    handle the harsh weather conditions found in these areas.<br><br>
+
+                                    Our complete service package provides customers with interior and exterior window
+                                    cleaning services along with frame and sill cleaning and screen washing services
+                                    which enable access to all window areas. Window maintenance through regular cleaning
+                                    brings benefits which include increased natural light and improved curb appeal and
+                                    prolonged window lifespan. The service provides customers with affordable cleaning
+                                    solutions which enable them to schedule either one-time or routine cleaning services
+                                    while achieving a complete professional finish for their properties.
+
+
+                                </p>
+                            </div>
+                            <br>
+                            <div class="btn-box">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
+                                    <span class="txt">Book now</span>
+                                </a>
+                                <a style="margin-left:5px" class="thm-btn" href="tel:0429 780 896">
+                                    <span class="txt">Call Us</span>
+                                </a>
+                            </div>
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">

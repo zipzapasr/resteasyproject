@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Local Cleaners for All Cleaning Services In Mornington Peninsula</title>
+    <title>Cleaning Services Mornington Peninsula - Professional Cleaners</title>
     <meta name="description"
         content="Reliable cleaning services in Mornington Peninsula, Frankston & Southeast Melbourne. Residential, NDIS, gardening & house maintenance according to your needs." />
     <meta name="keywords"
@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://resteasyservices.com.au/" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Local Cleaners for All Cleaning Services In Mornington Peninsula" />
+    <meta property="og:title" content="Cleaning Services Mornington Peninsula - Professional Cleaners" />
     <meta property="og:description"
         content="Rest Easy provides professional cleaning services across Mornington Peninsula. Residential, NDIS cleaning, gardening, maintenance & more." />
     <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Local Cleaners for All Cleaning Services In Mornington Peninsula" />
+    <meta name="twitter:title" content="Cleaning Services Mornington Peninsula - Professional Cleaners" />
     <meta name="twitter:description"
         content="Rest Easy provides professional cleaning services across Mornington Peninsula. Reliable, detailed and dependable." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -198,7 +198,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="swiper-wrapper">
 
                     <!--Start Main Slider Two-->
-                    <div class="swiper-slide">
+                    <div class="swiper-slide swiper-slide-active">
                         <div class="image-layer"
                             style="background-image:url(assets/images/slides/Cleaning-Services.webp)"
                             data-bg="assets/images/slides/Cleaning-Services.webp"
@@ -497,11 +497,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!--Start About Two-->
         <section class="about-two">
-            <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+            <div class="sec-title text-center" style="margin-bottom:20px; z-index: 999;">
                 <div class="sub-title">
 
                 </div>
-                <h1 style="font-size: 30px;">Local Cleaners for All Cleaning Services In Mornington Peninsula
+                <h1 style="font-size: 30px;margin-bottom:20px;">Cleaning Services Mornington Peninsula - Professional Cleaners
                 </h1>
             </div>
 
@@ -588,11 +588,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     data-swiper-options="{&quot;spaceBetween&quot;: 100, &quot;slidesPerView&quot;: 5, &quot;autoplay&quot;: { &quot;delay&quot;: 5000 }, &quot;breakpoints&quot;: {
                                     &quot;0&quot;: {
                                         &quot;spaceBetween&quot;: 30,
-                                        &quot;slidesPerView&quot;: 1
+                                        &quot;slidesPerView&quot;: 3
                                     },
                                     &quot;375&quot;: {
                                         &quot;spaceBetween&quot;: 30,
-                                        &quot;slidesPerView&quot;: 1
+                                        &quot;slidesPerView&quot;: 3
                                     },
                                     &quot;575&quot;: {
                                         &quot;spaceBetween&quot;: 30,
@@ -662,7 +662,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <span>SERVICES</span>
                         </div>
                     </div>
-                    <h2>What We Offer – Complete Cleaning & Property Care Solutions
+                    <h2>Residential & Commercial Cleaning with Reliable Property Care
                     </h2>
                 </div>
 
@@ -1074,7 +1074,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <!-- faq section  -->
         <section class="about-two">
-            <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+            <div class="sec-title text-center" style="margin-bottom:10px; z-index: 999;">
                 <div class="sub-title">
 
                 </div>

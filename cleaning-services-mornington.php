@@ -439,7 +439,11 @@
               </div>
               <div class="blog-one__single__content">
                 <h3 class="location-text">
+<<<<<<< HEAD
                   <a href="linen-hire">Linen Hire for Vacation Rental</a>
+=======
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
+>>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                 </h3>
                 <br>
                 <p>Laundered sheets and towels delivered ready to go, so hosts aren't stuck doing washing between one guest leaving and the next arriving.</p>
