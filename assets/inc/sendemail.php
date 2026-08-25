@@ -49,40 +49,16 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
         exit;
     }
     
-    if (empty($suburb)) {
-        $response['message'] = 'Please enter your suburb.';
-        if ($wantsJson) { echo json_encode($response); }
-        exit;
-    }
-
-    if (empty($message)) {
-        $response['message'] = 'Please enter your message.';
-        if ($wantsJson) { echo json_encode($response); }
-        exit;
-    }
-    
     // Set default subject if empty
     if (empty($subject)) {
         $subject = 'New Enquiry from Website';
     }
     
-    // Recipient - Rest Easy Services email
-    $toEmail = 'sales@resteasyservices.com.au';
+    require_once __DIR__ . '/../../includes/google-form-config.php';
 
-    // Use a domain-based From to avoid DMARC/SMTP rejections.
-    $serverName = $_SERVER['SERVER_NAME'] ?? 'resteasyservices.com.au';
-    $serverName = preg_replace('/[^a-z0-9\.\-]/i', '', $serverName);
-    if ($serverName === '') {
-        $serverName = 'resteasyservices.com.au';
-    }
-    $fromEmail = 'noreply@' . $serverName;
-    
-    // Build email headers
-    $headers = "MIME-Version: 1.0\r\n";
-    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
-    $headers .= "From: Rest Easy Services <" . $fromEmail . ">\r\n";
-    $headers .= "Reply-To: " . $email . "\r\n";
-    
+    // Recipient - Rest Easy Services email
+    $toEmail = $resteasyFormRecipientEmail ?? 'sales@zipzap.in';
+
     // Build email body
     $emailBody = "
     <html>
@@ -118,7 +94,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
                 </div>
                 <div class='field'>
                     <div class='label'>Suburb:</div>
-                    <div class='value'>" . htmlspecialchars($suburb) . "</div>
+                    <div class='value'>" . htmlspecialchars($suburb ?: 'Not provided') . "</div>
                 </div>
                 <div class='field'>
                     <div class='label'>Subject:</div>
@@ -126,7 +102,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
                 </div>
                 <div class='field'>
                     <div class='label'>Message:</div>
-                    <div class='value'>" . nl2br(htmlspecialchars($message)) . "</div>
+                    <div class='value'>" . nl2br(htmlspecialchars($message ?: 'Not provided')) . "</div>
                 </div>
             </div>
             <div class='footer'>
@@ -155,17 +131,36 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     )) . "\n";
     $saved = @file_put_contents($submissionsFile, $entry, FILE_APPEND | LOCK_EX);
 
-    // Send email using PHP mail()
-    $mailSent = @mail($toEmail, $subject, $emailBody, $headers);
-    
-    if ($mailSent || $saved !== false) {
+    // Send email via SMTP (PHP mail() is unreliable on most hosts)
+    require_once __DIR__ . '/phpmailer/class.phpmailer.php';
+    require_once __DIR__ . '/phpmailer/class.smtp.php';
+
+    $mail = new PHPMailer();
+    $mail->isSMTP();
+    $mail->Host = 'smtp.hostinger.com';
+    $mail->SMTPAuth = true;
+    $mail->Username = 'info@resteasyservices.com.au';
+    $mail->Password = 'DDs!^1&#@^!@!%%';
+    $mail->SMTPSecure = 'ssl';
+    $mail->Port = 465;
+    $mail->CharSet = 'UTF-8';
+    $mail->SetFrom('info@resteasyservices.com.au', 'Rest Easy Services');
+    $mail->AddReplyTo($email, $name);
+    $mail->AddAddress($toEmail, 'Rest Easy Services');
+    $mail->Subject = $subject;
+    $mail->MsgHTML($emailBody);
+    $mail->IsHTML(true);
+
+    $mailSent = $mail->Send();
+
+    if ($mailSent) {
         $response['success'] = true;
         $response['message'] = 'Thank you for your enquiry! We have received your message and will get back to you as soon as possible.';
     } else {
         if ($wantsJson) {
             http_response_code(500);
         }
-        $response['message'] = 'Sorry, there was a problem sending your message. Please try again or contact us directly at sales@resteasyservices.com.au';
+        $response['message'] = 'Sorry, there was a problem sending your message. Please try again or contact us directly at sales@zipzap.in';
     }
     
 } else {

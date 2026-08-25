@@ -385,7 +385,7 @@
                         },
                         error: function() {
                             setBoxStyle($messages, false);
-                            $messages.html('<strong>Error:</strong> There was a problem submitting your enquiry. Please try again or contact us directly at <a href="mailto:info@resteasyservices.com.au">info@resteasyservices.com.au</a>').fadeIn();
+                            $messages.html('<strong>Error:</strong> There was a problem submitting your enquiry. Please try again or contact us directly at <a href="mailto:bookings@resteasyservices.com.au">bookings@resteasyservices.com.au</a>').fadeIn();
                         },
                         complete: function() {
                             $btn.prop('disabled', false);

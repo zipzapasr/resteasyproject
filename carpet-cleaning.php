@@ -247,266 +247,262 @@
         <!--End Page Header-->
 
         <!--Start Services Details -->
-        <section style="background-color: #f1f3f2;" class="team-details__middle">
+        <section class="hc-intro">
             <div class="container">
-                <div class="row">
-                    <!--Start Team Details Middle Content-->
-                    <div class="col-xl-6">
-                        <div class="team-details__middle-content">
-                            <div class="title">
-                                <h1>Carpet Cleaning Mornington Peninsula | Expert Carpet Care</h1>
-                            </div>
-                            <div class="text-box">
-                                <p>Mornington Peninsula carpet cleaning services keep your carpets clean, fresh, and
-                                    hygienic through effective services like steam cleaning, stain removal, odor
-                                    elimination, deep cleaning, among others. There is always an option for you in
-                                    carpet cleaning services provided by expert cleaners in Mornington, <a href="cleaning-services-frankston"> Frankston</a>, Mount
-                                    Eliza, Rosebud, Rye, Hastings, <a href="cleaning-services-dromana">Dromana </a>, and neighboring regions of Mornington
-                                    Peninsula.
-                                </p>
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__content">
+                            <span class="hc-badge">Carpet Cleaning</span>
+                            <h1>Carpet Cleaning Mornington Peninsula | Expert Carpet Care</h1>
+                            <p>Mornington Peninsula carpet cleaning services keep your carpets clean, fresh, and hygienic through effective services like steam cleaning, stain removal, odour elimination and deep cleaning. Expert cleaners provide carpet cleaning across <a href="cleaning-services-mornington">Mornington</a>, <a href="cleaning-services-frankston">Frankston</a>, Mount Eliza, <a href="cleaning-services-rosebud">Rosebud</a>, <a href="cleaning-services-rye">Rye</a>, Hastings, <a href="cleaning-services-dromana">Dromana</a>, and neighbouring regions of the Mornington Peninsula.</p>
+                            <ul class="hc-chips">
+                                <li><a href="cleaning-services-mornington">Mornington</a></li>
+                                <li><a href="cleaning-services-frankston">Frankston</a></li>
+                                <li><span>Mount Eliza</span></li>
+                                <li><a href="cleaning-services-rosebud">Rosebud</a></li>
+                                <li><a href="cleaning-services-rye">Rye</a></li>
+                                <li><a href="cleaning-services-dromana">Dromana</a></li>
+                            </ul>
+                            <div class="btn-box">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
+                                    <span class="txt">Book now</span>
+                                </a>
+                                <a style="margin-left:5px" class="thm-btn" href="tel:0429 780 896">
+                                    <span class="txt">Call Us</span>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6">
-                        <div class="service-detail-img">
-                            <img src="assets/images/cleaning/carpet-main.png" alt="NDIS Cleaning Services"
-                                class="img-fluid rounded" />
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__media">
+                            <img src="assets/images/cleaning/carpet-main.png" alt="Professional carpet cleaning across the Mornington Peninsula">
                         </div>
                     </div>
-                    <!--End Team Details Middle Content-->
                 </div>
             </div>
         </section>
         <!--End Services Details -->
 
+        <section class="vc-trust">
+            <div class="container">
+                <div class="vc-trust__grid">
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-clean"></span></span>
+                        <p>Deep Steam Cleaning</p>
+                    </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-household"></span></span>
+                        <p>Stain &amp; Odour Removal</p>
+                    </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-house"></span></span>
+                        <p>Residential &amp; Commercial</p>
+                    </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-working-time"></span></span>
+                        <p>Flexible Booking Times</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-        <section class="blog-one">
+        <!-- Our Services -->
+        <section class="hc-offers">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
-                            <span>
-                                <h2>Advanced Carpet Cleaning Services for Households and Businesses</h2>
-                            </span>
+                            <span>Our Services</span>
                         </div>
                     </div>
-                    <p><br></p>
+                    <h2>Advanced Carpet Cleaning Services for Households and Businesses</h2>
+                    <p class="hc-lead">From everyday dirt and allergens to tough stains and end-of-lease presentations, our carpet cleaning options are designed for homes, offices and rental properties across the Mornington Peninsula.</p>
                 </div>
-                <div class="row">
 
-
-
-                    <!--Start Blog One Single-->
-
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\carpet-cleaning-1.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Residential Carpet Cleaning Services</h3>
-                                <br>
-                                <p>Residential carpet cleaning is intended to ensure that your carpets are always kept
-                                    clean and hygienic through removal of dirt, dust, stains, allergens, and bacteria
-                                    that are stuck in the carpets' fibers which will ensure hygiene.</p>
-
-
-
+                <div class="hc-offers__list">
+                    <article class="hc-offer">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/carpet-cleaning-1.png" alt="Residential carpet cleaning services">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">01</span>
+                            <h3>Residential Carpet Cleaning Services</h3>
+                            <p>Residential carpet cleaning is intended to ensure that your carpets are always kept clean and hygienic through removal of dirt, dust, stains, allergens, and bacteria that are stuck in the carpets' fibres.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
-                    <!--End Blog One Single-->
+                    </article>
 
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\carpet-cleaning-2.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Commercial Carpet Cleaning Services</h3>
-                                <br>
-                                <p>The commercial carpet cleaning service caters for those carpets used in commercial
-                                    spaces like offices and retail shops. The above cleaning process will make sure that all the dirt, stains, and
-                                    other impurities present in the carpets are removed. </p>
-
-
-
+                    <article class="hc-offer hc-offer--reverse">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/carpet-cleaning-2.png" alt="Commercial carpet cleaning services">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">02</span>
+                            <h3>Commercial Carpet Cleaning Services</h3>
+                            <p>Commercial carpet cleaning caters for carpets used in offices, retail shops and other business spaces. The cleaning process removes dirt, stains and other impurities so premises stay presentable and hygienic.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
-                    <!--End Blog One Single-->
+                    </article>
 
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInDown animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\carpet-cleaning-3.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Deep Steam Carpet Cleaning Services</h3>
-                                <br>
-                                <p>The hot water extraction method is adopted to provide deep steam carpet cleaning
-                                    which helps to eliminate embedded dirt, germs, bacteria, stains and other allergens
-                                    from the carpet. This is a necessary step towards achieving clean carpeting.</p>
-
-
-
+                    <article class="hc-offer">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/carpet-cleaning-3.png" alt="Deep steam carpet cleaning">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">03</span>
+                            <h3>Deep Steam Carpet Cleaning Services</h3>
+                            <p>Hot water extraction provides deep steam carpet cleaning that helps eliminate embedded dirt, germs, bacteria, stains and other allergens from the carpet — an important step toward cleaner, fresher flooring.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
-                    <!--End Blog One Single-->
+                    </article>
 
-                </div>
-                <div class="row">
-
-
-
-                    <!--Start Blog One Single-->
-
-                    <div class="col-xl-6 col-lg-6 wow fadeInDown animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\carpet-cleaning-4.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>End of Lease Carpet Cleaning Services</h3>
-                                <br>
-                                <p>End of lease carpet cleaning services aim to ensure that you leave your rented
-                                    premises in good condition during the inspection by the management or any relevant
-                                    authority. Deep cleaning, stain treatment and elimination of odors will help achieve
-                                    this objective.</p>
-
-
-
+                    <article class="hc-offer hc-offer--reverse">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/carpet-cleaning-4.png" alt="End of lease carpet cleaning">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">04</span>
+                            <h3>End of Lease Carpet Cleaning Services</h3>
+                            <p>End of lease carpet cleaning helps leave rented premises in good condition for inspection. Deep cleaning, stain treatment and odour elimination support a cleaner presentation at handover. Pair it with our <a href="vacate-cleaning">vacate cleaning</a> service when you need a full property clean.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!--End Blog One Single-->
-
-                    <!--Start Blog One Single-->
-
-                    <div class="col-xl-6 col-lg-6 wow fadeInUp animated animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\carpet-cleaning-5.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Stain and Odour Carpet Cleaning Services</h3>
-                                <br>
-                                <p>Stain and odor carpet cleaning services entail the use of techniques in
-                                    removing stains and other types of odors on the carpet. It involves
-                                    removal of tough stains, beverage spills and pet odors among others.</p>
-
+                    <article class="hc-offer">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/carpet-cleaning-5.png" alt="Stain and odour carpet cleaning">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">05</span>
+                            <h3>Stain and Odour Carpet Cleaning Services</h3>
+                            <p>Stain and odour carpet cleaning uses targeted techniques to treat tough stains, beverage spills, pet odours and other marks that everyday vacuuming leaves behind.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
-
-
-
-                    <!--End Blog One Single-->
-
-
+                    </article>
                 </div>
             </div>
         </section>
 
-        <!--Start Our Cleaning Process -->
-        <section class="features-two">
+        <!-- Process -->
+        <section class="hc-process">
             <div class="container">
                 <div class="sec-title text-center">
-
-                    <h2>Our Carpet Cleaning Services Process</h2>
-                    <br>
-                </div>
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="features-two__inner">
-                            <div class="features-two__img">
-                                <img src="assets/images/carpet-big-back.png" alt="#">
-                            </div>
-                            <ul class="features-two__list">
-                                <li class="wow fadeInLeft animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                                    <div class="count-box counted"><span>1</span></div>
-                                    <div class="inner">
-                                        <h2>Carpet Assessment for Cleaning Needs
-                                                Review.</h2>
-                                        <p>Carpet Inspection and Assessment for Cleaning Needs Review.</p>
-                                    </div>
-                                </li>
-
-                                <li class="style2 style3 wow fadeInRight animated" data-wow-delay="0ms"
-                                    data-wow-duration="1000ms"
-                                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                                    <div class="count-box counted"><span>2</span></div>
-                                    <div class="inner">
-                                        <h2 style="color:#fff">Stain and Pre-Treatment for Cleaning
-                                                Effectiveness</h2>
-                                        <p> Pre-Treatment and Stain Removal for Better Carpet Results</p>
-                                    </div>
-                                </li>
-                            </ul>
-
-                            <ul class="features-two__list">
-                                <li class="style3 wow fadeInLeft animated" data-wow-delay="100ms"
-                                    data-wow-duration="1000ms"
-                                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                                    <div class="count-box counted"><span>3</span></div>
-                                    <div class="inner">
-                                        <h2 style="color:#fff">Deep Carpet Cleaning Service</h2>
-                                        <p>Deep Carpet Cleaning Process for Fresh and Hygienic Carpets</p>
-                                    </div>
-                                </li>
-
-                                <li class="style2  wow fadeInRight animated" data-wow-delay="0ms"
-                                    data-wow-duration="1000ms"
-                                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                                    <div class="count-box counted"><span>4</span></div>
-                                    <div class="inner">
-                                        <h2>Drying and Final Inspection</h2>
-                                        <p>Final Drying and Quality Check for Clean Carpet Finish.
-                                        </p>
-                                    </div>
-                                </li>
-                            </ul>
+                    <div class="sub-title">
+                        <div class="text">
+                            <span>How It Works</span>
                         </div>
+                    </div>
+                    <h2>Our Carpet Cleaning Services Process</h2>
+                </div>
+                <div class="hc-steps">
+                    <div class="hc-step">
+                        <div class="hc-step__num">1</div>
+                        <h3>Carpet Assessment</h3>
+                        <p>Carpet inspection and assessment to review cleaning needs before work begins.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">2</div>
+                        <h3>Stain &amp; Pre-Treatment</h3>
+                        <p>Pre-treatment and stain removal to improve cleaning effectiveness across the carpet.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">3</div>
+                        <h3>Deep Carpet Cleaning</h3>
+                        <p>Deep cleaning process for fresher, more hygienic carpets throughout the property.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">4</div>
+                        <h3>Drying &amp; Final Inspection</h3>
+                        <p>Final drying and quality check for a clean carpet finish before we leave.</p>
                     </div>
                 </div>
             </div>
         </section>
-        <!--End Our Cleaning Process -->
+
+        <!-- Why Choose Us -->
+        <section class="hc-why">
+            <div class="container">
+                <div class="hc-why__inner">
+                    <div class="sec-title text-center">
+                        <div class="sub-title">
+                            <div class="text">
+                                <span>Why Choose Us</span>
+                            </div>
+                        </div>
+                        <h2>Why Choose Our Carpet Cleaning Services in Mornington Peninsula?</h2>
+                    </div>
+
+                    <p class="hc-why__lead">Selecting professional carpet cleaning goes a long way in keeping homes and workplaces clean and healthy. Professional cleaners improve the appearance of carpets while removing stains, dirt and odours so your property stays fresher for longer.</p>
+
+                    <div class="hc-why-grid">
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-house"></span></span>
+                            <div>
+                                <h3>Experienced Specialists</h3>
+                                <p>Experienced and professional carpet cleaning specialists who understand different carpet types and property needs.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-working-time"></span></span>
+                            <div>
+                                <h3>Flexible Booking</h3>
+                                <p>Flexible booking and cleaning schedule options to suit busy households and commercial premises.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-packaging"></span></span>
+                            <div>
+                                <h3>Advanced Methods</h3>
+                                <p>Advanced carpet cleaning equipment and methods for thorough, consistent results.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-clean"></span></span>
+                            <div>
+                                <h3>High Standards</h3>
+                                <p>High standards of cleanliness and carpet care on every job we complete.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-household"></span></span>
+                            <div>
+                                <h3>Stain &amp; Odour Solutions</h3>
+                                <p>Deep stain, dirt and odour removal solutions for everyday messes and tougher build-up.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-window-cleaning"></span></span>
+                            <div>
+                                <h3>Reliable Service</h3>
+                                <p>Reliable and consistent carpet cleaning services for homes and businesses across the Peninsula.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p class="hc-why__note">Dependable carpet cleaning to help improve the look and hygiene of your house or business premises on the Mornington Peninsula.</p>
+                </div>
+            </div>
+        </section>
 
         <!--Start CTA  -->
         <section class="cta-one">
@@ -514,10 +510,8 @@
             <div class="auto-container">
                 <div class="cta-one__inner">
                     <div class="text-box">
-                        <h2>Book Professional Cleaning Today</h2><br>
-                        <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with
-                            reliable professional cleaning services.<br> Contact our team today to schedule your
-                            cleaning service or request a customized quote.</p>
+                        <h2>Book Professional Carpet Cleaning Today</h2><br>
+                        <p style="color:white">Keep your carpets clean, fresh and hygienic with reliable professional carpet cleaning across the Mornington Peninsula.<br> Contact our team today to schedule your service or request a free quote.</p>
                     </div>
 
                     <div class="btn-box">
@@ -535,75 +529,6 @@
         <?php include "includes/reviews.php"; ?>
         <!-- review section -->
 
-
-        <!--Start Residential & Rental -->
-
-        <section class="job-one">
-            <div class="job-one__bg" style="background-image: url(assets/images/carpet-back.png);"></div>
-            <div class="container">
-                <div class="row">
-                    <!--Start Job One Content-->
-                    <div class="col-xl-6">
-                        <div class="job-one__content">
-                            <div class="title">
-                                <h2>Why Choose Our Carpet Cleaning Services in Mornington Peninsula?</h2>
-                            </div>
-
-                            <div class="text-box">
-
-                                <div class="services-details-text2">
-                                    <p class="only-p">Selecting professional carpet cleaning companies goes a long way
-                                        in keeping homes clean and healthy. This is because professional carpet cleaners
-                                        are supposed to improve the appearance of carpets as well as clean away stains
-                                        and dirt.
-                                    </p>
-                                    <ul>
-                                        <li>
-                                            <p>Experienced and professional carpet cleaning specialists</p>
-                                        </li>
-
-                                        <li>
-                                            <p>Flexible booking and cleaning schedule options
-                                            </p>
-                                        </li>
-
-                                        <li>
-                                            <p>Advanced carpet cleaning equipment and methods
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <p>High standards of cleanliness and carpet care
-
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <p>Deep stain, dirt, and odour removal solutions
-
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <p>Reliable and consistent carpet cleaning services
-                                            </p>
-                                        </li>
-
-                                    </ul>
-                                    <p class="only-p">Dependable carpet cleaning services<br>
-                                        The purpose is to give you clean, fresh, and healthy carpet cleaning that will
-                                        help improve the look and hygiene inside your house and business premises on the
-                                        Mornington Peninsula.
-
-                                    </p>
-
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <!--End Job One Content-->
-                </div>
-            </div>
-        </section>
 
         <section class="about-two">
             <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">

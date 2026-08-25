@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Professional Window Cleaning Mornington Peninsula</title>
     <meta name="description"
-        content="Professional window cleaning in Mornington Peninsula for homes and businesses. Streak-free glass services in Safety Beach, Rosebud, Dromana & more." />
+        content="Professional window cleaning across the Mornington Peninsula for homes and businesses. Streak-free glass, frames, sills, tracks and screens in Mornington, Dromana, Rosebud, Rye and surrounds." />
     <meta name="keywords"
         content="Window cleaning Mornington Peninsula, house window cleaning, apartment window cleaning, commercial window cleaning" />
     <meta name="robots" content="index, follow" />
@@ -15,7 +15,7 @@
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Professional Window Cleaning Mornington Peninsula" />
     <meta property="og:description"
-        content="Professional window cleaning in Mornington Peninsula for homes and businesses. Streak-free glass services in Safety Beach, Rosebud, Dromana & more." />
+        content="Professional window cleaning across the Mornington Peninsula for homes and businesses. Streak-free glass, frames, sills, tracks and screens." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://resteasyservices.com.au/window-cleaning" />
     <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -252,453 +252,330 @@
         <!--End Page Header-->
 
         <!--Start Services Details -->
-        <section style="background-color: #f1f3f2;" class="team-details__middle">
-
+        <section class="hc-intro">
             <div class="container">
-                <div class="row">
-                    <!--Start Team Details Middle Content-->
-                    <div class="col-xl-6">
-                        <div class="team-details__middle-content">
-                            <div class="title">
-                                <h1>Professional Window Cleaning Mornington Peninsula</h1>
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__content">
+                            <span class="hc-badge">Window Cleaning</span>
+                            <h1>Professional Window Cleaning Mornington Peninsula</h1>
+                            <p>Windows across the Mornington Peninsula face coastal salt, sea spray, moisture, wind-blown dust, pollen, leaves, cobwebs and water marks that can leave glass dull and reduce clear views and natural sunlight. Regular professional cleaning helps homes, offices, shops and other properties maintain cleaner glass and a well-kept appearance. We clean windows and accessible frames, sills, tracks and screens across Mornington, Mount Martha, Dromana, Rosebud and Rye.</p>
+                            <ul class="hc-chips">
+                                <li><a href="cleaning-services-mornington">Mornington</a></li>
+                                <li><span>Mount Martha</span></li>
+                                <li><a href="cleaning-services-dromana">Dromana</a></li>
+                                <li><a href="cleaning-services-rosebud">Rosebud</a></li>
+                                <li><a href="cleaning-services-rye">Rye</a></li>
+                            </ul>
+                            <div class="btn-box">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="">
+                                    <span class="txt">Book now</span>
+                                </a>
+                                <a style="margin-left:5px" class="thm-btn" href="tel:0429 780 896">
+                                    <span class="txt">Call Us</span>
+                                </a>
                             </div>
-                            <div class="text-box">
-                                <p>Professional window cleaning services in Mornington Peninsula deliver streak-free
-                                    windows which provide complete visual clarity for residential and commercial spaces.
-                                    The cleaning process uses advanced equipment which combines with purified water
-                                    systems and approved cleaning methods to successfully eliminate dirt grime and water
-                                    stains from glass surfaces. The company handles all window cleaning needs for
-                                    single-storey homes and multi-level buildings by using careful methods which deliver
-                                    better visibility and aesthetic results. Coastal cleaning methods in Rye, Sorrento,
-                                    Rosebud, Dromana, Mornington and Mount Eliza provide specialized solutions which
-                                    handle the harsh weather conditions found in these areas.<br><br>
-
-                                    Our complete service package provides customers with interior and exterior window
-                                    cleaning services along with frame and sill cleaning and screen washing services
-                                    which enable access to all window areas. Window maintenance through regular cleaning
-                                    brings benefits which include increased natural light and improved curb appeal and
-                                    prolonged window lifespan. The service provides customers with affordable cleaning
-                                    solutions which enable them to schedule either one-time or routine cleaning services
-                                    while achieving a complete professional finish for their properties.
-
-
-                                </p>
-                            </div>
-
-
                         </div>
                     </div>
-                    <div class="col-xl-6">
-                        <div class="service-detail-img">
-                            <img src="assets\images\cleaning\window-main.png" alt="Cleaning Services" class="img-fluid rounded" />
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="hc-intro__media">
+                            <img src="assets/images/cleaning/window-main.png" alt="Professional window cleaning across the Mornington Peninsula">
                         </div>
                     </div>
-                    <!--End Team Details Middle Content-->
                 </div>
             </div>
         </section>
         <!--End Services Details -->
 
-        <!-- new section  -->
-        <section class="blog-one">
+        <section class="vc-trust">
             <div class="container">
-                <div class="sec-title text-center">
-                    <div class="sub-title">
-                        <div class="text">
-                            <span>
-                                <h2>Reliable Window Cleaning Services for Clear and Spotless Glass Results</h2>
-                            </span>
-                        </div>
+                <div class="vc-trust__grid">
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-window-cleaning"></span></span>
+                        <p>Streak-Free Windows</p>
                     </div>
-                    <p><br></p>
-                </div>
-                <div class="row">
-
-
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\window-1.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Professional Residential Window Cleaning</h3>
-                                <br>
-                                <p>Residential window cleaning services keep focus on home windows spotless and
-                                    streak-free. The service provides interior and exterior glass cleaning which
-                                    includes dust and smudge and water stain removal together with frame and track and
-                                    sill wiping. The solution increases natural light penetration which leads to better
-                                    visibility and enhanced aesthetic appeal and comfort of residential areas.</p>
-
-                            </div>
-                        </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-clean"></span></span>
+                        <p>Glass, Frames &amp; Screens Cleaned</p>
                     </div>
-
-                    <!--End Blog One Single-->
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\window-2.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Expert Commercial Window Cleaning</h3>
-                                <br>
-                                <p>Offices and shops together with business properties should use commercial window
-                                    cleaning services to achieve their necessary professional appearance. The process
-                                    involves removal of dirt and fingerprints and environmental buildup from
-                                    all window and glass surfaces. Businesses use regular cleaning to sustain their
-                                    brand image which helps them attract customers and build a friendly atmosphere for
-                                    their visitors.</p>
-
-
-
-                            </div>
-                        </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-house"></span></span>
+                        <p>Hard-to-Reach Windows, Handled Safely</p>
                     </div>
-                    <!--End Blog One Single-->
-
-                    <!--Start Blog One Single-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInDown animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\window-3.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Complete Interior & Exterior Window Cleaning</h3>
-                                <br>
-                                <p>The window cleaning services for both interior and exterior spaces deliver complete
-                                    window maintenance solutions which result in clean glass surfaces. The interior
-                                    cleaning process eliminates dust and marks, while the exterior cleaning
-                                    process removes dirt and weather-related stains. The combined service
-                                    provides visibility and better visual appeal and a complete professional
-                                    look which appears to be well-maintained.</p>
-
-
-
-                            </div>
-                        </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-working-time"></span></span>
+                        <p>One-Off or Regular Cleans</p>
                     </div>
-                    <!--End Blog One Single-->
-
-                </div>
-                <div class="row">
-
-
-
-                    <!--Start Blog One Single-->
-
-                    <div class="col-xl-6 col-lg-6 wow fadeInDown animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\window-4.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Safe High-Rise Window Cleaning Solutions</h3>
-                                <br>
-                                <p>The cleaning services for high-rise windows work specifically with multiple-story
-                                    buildings which have difficult-to-reach glass sections. The system employs special
-                                    equipment and safe methods to reach high windows and clean all types of contaminants
-                                    from the windows. The service delivers complete cleaning outcomes while following
-                                    safety regulations and maintaining the professional look of the building.</p>
-
-
-
-                            </div>
-                        </div>
+                    <div class="vc-trust__item">
+                        <span class="vc-trust__icon"><span class="icon-packaging"></span></span>
+                        <p>Free Quotes, No Hidden Fees</p>
                     </div>
-
-                    <!--End Blog One Single-->
-
-                    <!--Start Blog One Single-->
-
-                    <div class="col-xl-6 col-lg-6 wow fadeInUp animated" data-wow-delay=".3s"
-                        style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                        <div class="blog-one__single">
-                            <div class="blog-one__single-img">
-                                <div class="inner">
-                                    <img src="assets\images\cleaning\window-5.png" alt="#">
-                                </div>
-
-                            </div>
-
-                            <div class="blog-one__single__content">
-
-                                <h3>Detailed Screen & Frame Cleaning Services</h3>
-                                <br>
-                                <p>The screen and frame cleaning services focus on removing accumulated dust and dirt
-                                    and debris from window screens and tracks and frames. The process enhances airflow
-                                    while it maintains cleanliness and it supports total window cleaning. Regular
-                                    maintenance helps extend the lifespan of window components while ensuring a neat and
-                                    refreshed look throughout the property.</p>
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Blog One Single-->
-
-
-
-
-
                 </div>
             </div>
         </section>
 
-        <!-- new section  -->
-
-        <!--Start Benefits Services Details -->
-        <section class="features-one features-one--about">
-            <div class="features-one__bg">
-            </div>
-            <div class="shape1 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
-            <div class="shape2 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
+        <!-- Residential & Commercial -->
+        <section class="hc-offers">
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
-                            <span>
-                                <h2>Why Choose Our Window Cleaning Services in Mornington Peninsula</h2>
-
-
-                            </span>
+                            <span>Our Services</span>
                         </div>
                     </div>
-
-
+                    <h2>Window Cleaning for Residential &amp; Commercial Properties</h2>
+                    <p class="hc-lead">Keep your windows clean, clear and presentable with professional window cleaning for residential and commercial properties. Regular cleaning helps remove dust, dirt, grime, cobwebs, pollen, water marks and other build-up that can affect the appearance of your windows. One-off and regular cleaning options are available to suit homes, rental properties, Airbnb stays, offices and commercial premises.</p>
                 </div>
 
-
-                <div class="row service-benefits-grid">
-                    <!--Start Features One Single-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.1s">
-                        <div class="features-one__single style2">
-                            <div class="icon-box">
-                                <span class="icon-house"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3 class="card-text-col">Streak-Free Finish</h3>
-                                <p>The professional cleaning team uses advanced cleaning techniques together with their
-                                    pure water system to achieve clean windows which show no signs of
-                                    streaks. The team performs glass surface cleaning to remove, stains and
-                                    water marks which creates a transparent view and that improves
-                                    the property’s visual appeal.</p>
+                <div class="hc-offers__list">
+                    <article class="hc-offer">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/window-1.png" alt="Residential window cleaning for homes across the Mornington Peninsula">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">01</span>
+                            <h3>Residential Window Cleaning</h3>
+                            <p>Professional residential window cleaning helps keep your home looking fresh while allowing more natural light through clean, clear glass. Depending on the property and access, cleaning can include interior and exterior glass, frames, sills, tracks and screens.</p>
+                            <p>Window cleaning is also a useful addition to <a href="vacate-cleaning">end of lease cleaning</a>, helping rental properties look clean and well presented before the final inspection. For <a href="airbnb-cleaning">Airbnb</a> and holiday properties, clean windows can also help create a fresher, more inviting space for incoming guests between stays.</p>
+                            <p>Whether you need a one-off clean, seasonal refresh or regular maintenance, the service can be arranged around your property and cleaning schedule.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
-                    <!--End Features One Single-->
+                    </article>
 
-                    <!--Start Features One Single-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.2s">
-                        <div class="features-one__single">
-                            <div class="icon-box">
-                                <span class="icon-window-cleaning"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3>Experienced Professionals</h3>
-                                <p>Skilled window cleaning professionals handle residential, commercial and multi-storey
-                                    properties through their precise work. The cleaning work reaches maximum efficiency
-                                    because workers follow proper techniques while paying attention to small details
-                                    which leads to better results throughout the entire space.</p>
+                    <article class="hc-offer hc-offer--reverse">
+                        <div class="hc-offer__img">
+                            <img src="assets/images/cleaning/window-2.png" alt="Commercial window cleaning for offices and retail premises">
+                        </div>
+                        <div class="hc-offer__body">
+                            <span class="hc-offer__num">02</span>
+                            <h3>Commercial Window Cleaning</h3>
+                            <p>Clean windows help offices, retail stores, rental properties and other commercial premises maintain a professional and well-kept appearance. Commercial window cleaning can be arranged as a one-off service or on a regular schedule to manage ongoing dust, dirt, grime and environmental build-up.</p>
+                            <p>The service can include accessible glass, frames, sills, tracks and screens where required, with the cleaning approach tailored to the property's size, window types and access requirements.</p>
+                            <div class="hc-offer__cta">
+                                <a class="thm-btn" data-bs-toggle="modal" data-bs-target="#exampleModal" href="#">
+                                    <span class="txt">Book Now</span>
+                                </a>
                             </div>
                         </div>
-                    </div>
-
-                    <!--End Features One Single-->
-
-                    <!--Start Features One Single-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.3s">
-                        <div class="features-one__single style2">
-                            <div class="icon-box">
-                                <span class="icon-clean"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3 class="card-text-col">Safe & Reliable Service</h3>
-                                <p>The team uses recognized safety equipment together with established cleaning methods
-                                    to reach high windows and other hard-to-access spaces. The organization conducts its
-                                    cleaning operations through established safety protocols which protect their
-                                    services from harm while they conduct overhead cleaning operations.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Features One Single-->
-                </div>
-
-                <div class="row service-benefits-grid">
-
-                    <!--Start Features One Single-->
-
-                    <div class="col-xl-6 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.2s">
-                        <div class="features-one__single">
-                            <div class="icon-box">
-                                <span class="icon-window-cleaning"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3>Complete Cleaning Solution</h3>
-                                <p>The complete cleaning service extends its scope to include cleaning of all areas
-                                    which require maintenance including glass surfaces and their accompanying
-                                    components. The total service method removes all accumulated dirt and waste from the
-                                    windows which results in better hygiene and full window operation together with
-                                    complete window system cleaning.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Features One Single-->
-                    <!--Start Features One Single-->
-                    <div class="col-xl-6 col-lg-6 col-md-6 wow animated fadeInUp animated" data-wow-delay="0.1s">
-                        <div class="features-one__single style2">
-                            <div class="icon-box">
-                                <span class="icon-house"></span>
-                                <div class="round-box"></div>
-                            </div>
-                            <div class="text-box">
-                                <h3 class="card-text-col">Local & Trusted Service</h3>
-                                <p>The Mornington Peninsula service area which includes Rye, Sorrento, Rosebud, Dromana,
-                                    Mornington and Mount Eliza enables our company to deliver fast response times
-                                    together with dependable service. The delivery of timely services becomes possible
-                                    through local expertise which also helps achieve customer satisfaction while
-                                    maintaining high standards of quality.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Features One Single-->
-
-
-
+                    </article>
                 </div>
             </div>
         </section>
 
-        <!--End Benefits Services Details -->
-
-
-
-
-        <!--Start Our Cleaning Process -->
-        <section class="work-process-one">
+        <!-- What Is Included -->
+        <section class="hc-included" style="background:#f4f7fb;">
             <div class="container">
-                <div class="shape1"><img src="assets/images/shapes/work-process-v1-shape1.png" alt="#"></div>
                 <div class="sec-title text-center">
                     <div class="sub-title">
                         <div class="text">
-                            <span>Our Some Work</span>
+                            <span>What's Included</span>
                         </div>
                     </div>
-                    <h2>Window Cleaning Services Process</h2>
+                    <h2>What Our Window Cleaning Includes</h2>
+                    <p class="hc-lead">Professional window cleaning covers the main areas where dust, dirt, fingerprints, cobwebs and weather-related build-up collect. Depending on the property, the service can include:</p>
                 </div>
-                <div class="row filter-layout masonary-layout" style="position: relative; height: 450px;">
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInLeft animated" data-wow-delay="0ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInLeft; position: absolute; left: 0px; top: 0px;">
-                        <div class="work-process-one__single text-center">
-                            <div class="icon-box">
-                                <span class="icon-packaging"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Initial Inspection & Preparation</h3>
-                                <p>The process starts with a comprehensive evaluation of all windows to determine their
-                                    dirt levels and stain conditions and the requirements for entry. The surrounding
-                                    areas receive protection through the installation of protective materials which
-                                    cover all furniture and flooring and fixture elements. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Work Process One Single-->
 
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInLeft animated" data-wow-delay="100ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft; position: absolute; left: 300px; top: 0px;">
-                        <div class="work-process-one__single mt-100 text-center">
-                            <div class="icon-box">
-                                <span class="icon-working-time"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Dusting & Dry Cleaning</h3>
-                                <p>The dry cleaning equipment eliminates loose dust and cobwebs and surface debris from
-                                    glass and frames and tracks. The procedure establishes protection against scratching
-                                    during wet cleaning while it removes all visible dirt from the surface.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Work Process One Single-->
-
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInRight animated" data-wow-delay="0ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight; position: absolute; left: 600px; top: 0px;">
-                        <div class="work-process-one__single mt-50  text-center">
-                            <div class="icon-box">
-                                <span class="icon-wash-your-hands"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Deep Glass Washing & Stain Removal</h3>
-                                <p>The team uses recognized safety equipment together with established cleaning methods
-                                    to reach high windows and other hard-to-access spaces. The organization conducts its
-                                    cleaning operations through established safety protocols which protect their
-                                    services from harm while they conduct overhead cleaning operations. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Work Process One Single-->
-
-                    <!--Start Work Process One Single-->
-                    <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInRight animated" data-wow-delay="100ms"
-                        data-wow-duration="1000ms"
-                        style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInRight; position: absolute; left: 900px; top: 0px;">
-                        <div class="work-process-one__single text-center">
-                            <div class="icon-box">
-                                <span class="icon-household"></span>
-                            </div>
-                            <div class="content-box">
-                                <h3>Final Detailing & Quality Check</h3>
-                                <p>The cleaning procedure finishes when frames and screens receive cleaning
-                                    and polishing treatment. The final inspection checks for remaining
-                                    streaks or marks which need to be cleaned. The procedure produces a flawless result
-                                    which enhances both visibility and professional appearance for residential and
-                                    commercial properties.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Work Process One Single-->
+                <div class="hc-included__carousel-wrap">
+                <div class="hc-included__grid hc-included__grid--3">
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">01</span>
+                        <div class="hc-included__icon"><span class="icon-window-cleaning"></span></div>
+                        <h3>Interior &amp; Exterior Window Glass</h3>
+                        <p>Cleaned on both sides to remove dust, grime, fingerprints, smudges, water marks and other build-up for a clear, streak-free finish.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">02</span>
+                        <div class="hc-included__icon"><span class="icon-clean"></span></div>
+                        <h3>Window Frames &amp; Sills</h3>
+                        <p>Cleaned to remove accumulated dust, dirt, cobwebs, and environmental residue around the glass.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">03</span>
+                        <div class="hc-included__icon"><span class="icon-household"></span></div>
+                        <h3>Window Tracks</h3>
+                        <p>Cleaned to clear dust, dirt, hair and other debris that collects around sliding and opening windows.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">04</span>
+                        <div class="hc-included__icon"><span class="icon-wash-your-hands"></span></div>
+                        <h3>Flyscreens</h3>
+                        <p>Cleaned to remove dust, pollen, cobwebs and general build-up.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">05</span>
+                        <div class="hc-included__icon"><span class="icon-house"></span></div>
+                        <h3>Glass Doors &amp; Fixed Panels</h3>
+                        <p>Sliding doors, entry doors, sidelights and fixed glass panels are cleaned to remove fingerprints, smudges and everyday marks.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">06</span>
+                        <div class="hc-included__icon"><span class="icon-working-time"></span></div>
+                        <h3>Balustrades &amp; Balcony Glass</h3>
+                        <p>Cleaned to remove dust, weather marks and surface build-up while maintaining clear views.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">07</span>
+                        <div class="hc-included__icon"><span class="icon-clean"></span></div>
+                        <h3>Glass Pool Fencing</h3>
+                        <p>Cleaned to remove water marks, dust, fingerprints and other residue.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">08</span>
+                        <div class="hc-included__icon"><span class="icon-window-cleaning"></span></div>
+                        <h3>Skylights &amp; High Windows</h3>
+                        <p>Cleaned where safe to reach, helping remove dust, dirt and weather-related build-up.</p>
+                    </article>
+                    <article class="hc-included__card">
+                        <span class="hc-included__num">09</span>
+                        <div class="hc-included__icon"><span class="icon-packaging"></span></div>
+                        <h3>Cobweb &amp; Surface Build-Up Removal</h3>
+                        <p>Visible cobwebs and dirt around window areas are removed to leave the surrounding areas neat.</p>
+                    </article>
+                </div>
+                <div class="hc-included__mobile-nav" aria-hidden="true">
+                    <button type="button" class="hc-included__mobile-nav-btn hc-included__mobile-nav-btn--prev" aria-label="Previous item">
+                        <span class="fa fa-angle-left"></span>
+                    </button>
+                    <button type="button" class="hc-included__mobile-nav-btn hc-included__mobile-nav-btn--next" aria-label="Next item">
+                        <span class="fa fa-angle-right"></span>
+                    </button>
+                </div>
                 </div>
             </div>
         </section>
-        <!--End Our Cleaning Process -->
+
+        <!-- What to Expect / Process -->
+        <section class="hc-process">
+            <div class="container">
+                <div class="sec-title text-center">
+                    <div class="sub-title">
+                        <div class="text">
+                            <span>How It Works</span>
+                        </div>
+                    </div>
+                    <h2>What to Expect from Our Professional Window Cleaning Service</h2>
+                    <p class="hc-lead" style="max-width:820px;margin:16px auto 0;">When you choose Rest Easy for professional window cleaning, you can expect a thorough and reliable service focused on achieving clean, clear and well-maintained windows. The service is carried out using suitable professional equipment and cleaning methods based on the condition and accessibility of your windows.</p>
+                </div>
+                <div class="hc-steps">
+                    <div class="hc-step">
+                        <div class="hc-step__num">1</div>
+                        <h3>Initial Assessment</h3>
+                        <p>Windows are assessed to identify their condition, accessibility and cleaning requirements.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">2</div>
+                        <h3>Glass Cleaning</h3>
+                        <p>Dust, dirt, fingerprints, cobwebs, water marks and other surface buildup are removed.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">3</div>
+                        <h3>Frames and Sills</h3>
+                        <p>Accessible window frames and sills can be cleaned where included in the service.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">4</div>
+                        <h3>High &amp; Difficult-to-Reach Windows</h3>
+                        <p>Suitable equipment and safety practices are used for windows that require additional access.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">5</div>
+                        <h3>Streak-Free Finish</h3>
+                        <p>Careful cleaning techniques are used to achieve a clear and polished appearance.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">6</div>
+                        <h3>Final Check</h3>
+                        <p>Windows are inspected after cleaning to ensure visible marks and residue have been addressed.</p>
+                    </div>
+                    <div class="hc-step">
+                        <div class="hc-step__num">7</div>
+                        <h3>Professional Service</h3>
+                        <p>Clear communication, careful workmanship and reliable service are provided throughout the cleaning process.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Why Choose Us -->
+        <section class="hc-why">
+            <div class="container">
+                <div class="hc-why__inner">
+                    <div class="sec-title text-center">
+                        <div class="sub-title">
+                            <div class="text">
+                                <span>Why Choose Us</span>
+                            </div>
+                        </div>
+                        <h2>Why Choose Rest Easy for Window Cleaning?</h2>
+                    </div>
+
+                    <p class="hc-why__lead">Choosing Rest Easy for professional window cleaning means having a reliable team to help keep your property clean, clear and well maintained. Our staff take a careful and professional approach to every job, assessing the windows and access requirements before selecting suitable cleaning methods and equipment. Whether cleaning a residential property, rental, Airbnb, office or commercial premises, the team focuses on delivering consistent results while taking care around glass, frames and surrounding areas.</p>
+
+                    <div class="hc-why-grid">
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-house"></span></span>
+                            <div>
+                                <h3>Experienced Cleaning Staff</h3>
+                                <p>Our team is trained to handle different window types, cleaning requirements and property layouts.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-packaging"></span></span>
+                            <div>
+                                <h3>Professional Approach</h3>
+                                <p>Staff arrive prepared, communicate clearly and carry out the work with care and attention.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-clean"></span></span>
+                            <div>
+                                <h3>Thorough Cleaning</h3>
+                                <p>The team focuses on removing dirt, dust, fingerprints, cobwebs, water marks and other buildup from accessible surfaces.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-household"></span></span>
+                            <div>
+                                <h3>Care Around Your Property</h3>
+                                <p>Staff take appropriate care around furniture, floors, walls, fixtures and surrounding surfaces during the cleaning process.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-window-cleaning"></span></span>
+                            <div>
+                                <h3>Professional Equipment</h3>
+                                <p>Suitable equipment and cleaning techniques are used according to the condition and accessibility of the windows.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-working-time"></span></span>
+                            <div>
+                                <h3>Safety-Conscious Staff</h3>
+                                <p>High and difficult-to-reach windows are assessed carefully, with appropriate equipment and safety practices used where required.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-clean"></span></span>
+                            <div>
+                                <h3>Reliable Service</h3>
+                                <p>Our staff work to complete each job efficiently while maintaining a consistent standard of cleaning.</p>
+                            </div>
+                        </div>
+                        <div class="hc-why-item hc-why-item--detail">
+                            <span class="hc-why-item__icon"><span class="icon-house"></span></span>
+                            <div>
+                                <h3>Residential &amp; Commercial Experience</h3>
+                                <p>The team provides window cleaning for homes, rental properties, Airbnb accommodation, offices and commercial premises.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!--Start CTA  -->
         <section class="cta-one">
@@ -706,10 +583,8 @@
             <div class="auto-container">
                 <div class="cta-one__inner">
                     <div class="text-box">
-                        <h2>Book Professional Cleaning Today</h2><br>
-                        <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with
-                            reliable professional cleaning services.<br> Contact our team today to schedule your
-                            cleaning service or request a customized quote.</p>
+                        <h2>Book Professional Window Cleaning Today</h2><br>
+                        <p style="color:white">Keep your windows clean, clear and streak-free with reliable professional window cleaning across the Mornington Peninsula.<br> Contact our team today to schedule your service or request a free quote.</p>
                     </div>
 
                     <div class="btn-box">

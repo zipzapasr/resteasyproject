@@ -15,8 +15,8 @@
 
                                 <div class="main-header-two__middle">
                                     <div class="main-menu-box">
-                                        <a href="#" class="mobile-nav__toggler">
-                                            <i class="fa fa-bars"></i>
+                                        <a href="#" class="mobile-nav__toggler" aria-label="Open mobile menu" role="button">
+                                            <i class="fa fa-bars" aria-hidden="true"></i>
                                         </a>
 
                                         <ul class="main-menu__list">

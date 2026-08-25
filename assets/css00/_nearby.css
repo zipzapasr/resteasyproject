@@ -1,0 +1,37 @@
+.nearby-areas {
+  padding: 70px 0;
+  background:
+    radial-gradient(ellipse 70% 50% at 0% 0%, rgba(255, 94, 21, 0.06), transparent 55%),
+    #f4f7fb;
+}
+
+.nearby-areas__inner {
+  max-width: 920px;
+  margin: 0 auto;
+  text-align: center;
+  background: #fff;
+  border: 1px solid #e4ebf3;
+  border-radius: 20px;
+  padding: 42px 36px 40px;
+  box-shadow: 0 12px 32px rgba(0, 35, 89, 0.06);
+}
+
+.nearby-areas__inner h2 {
+  margin: 0 0 14px;
+  color: var(--thm-base, #002359);
+  font-size: 32px;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.nearby-areas__inner p {
+  margin: 0 auto 24px;
+  max-width: 680px;
+  color: #5b6b7c;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.nearby-areas .aws-areas__tags {
+  justify-content: center;
+}

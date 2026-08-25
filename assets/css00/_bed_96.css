@@ -1,0 +1,77 @@
+.hc-why-item--detail p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.hc-why-carousel {
+  margin-top: 8px;
+}
+
+.hc-why-carousel .owl-stage {
+  display: flex;
+  align-items: stretch;
+}
+
+.hc-why-carousel .owl-item {
+  display: flex;
+  height: auto;
+}
+
+.hc-why-carousel .item {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.hc-why-carousel .hc-why-item {
+  width: 100%;
+  height: 100%;
+  min-height: 210px;
+}
+
+.hc-why-carousel .owl-nav {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.hc-why-carousel .owl-nav button {
+  width: 42px;
+  height: 42px;
+  margin: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.12) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  color: #fff !important;
+  font-size: 18px;
+}
+
+.hc-why-carousel .owl-nav button:hover {
+  background: var(--thm-primary) !important;
+  border-color: var(--thm-primary) !important;
+}
+
+.hc-why-carousel .owl-dots {
+  margin-top: 12px;
+  text-align: center;
+}
+
+.hc-why-carousel .owl-dots .owl-dot span {
+  width: 8px;
+  height: 8px;
+  margin: 0 4px;
+  background: rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  display: block;
+}
+
+.hc-why-carousel .owl-dots .owl-dot.active span {
+  width: 22px;
+  border-radius: 8px;
+  background: var(--thm-primary, #ff5e15);
+}
+
+.hc-prep {

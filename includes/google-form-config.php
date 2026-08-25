@@ -2,6 +2,7 @@
 /**
  * Google Form + enquiry email settings (used by contact forms site-wide).
  */
+$resteasyFormRecipientEmail = 'sales@zipzap.in';
 $resteasyGoogleForm = array(
     'action' => 'https://docs.google.com/forms/d/e/1FAIpQLSdCIbBIsKXWtOcwRe28oKjqaYnTl6guL9RDVwQ7PWZQjdRPrA/formResponse',
     'fbzx' => '5596094188197341058',
@@ -13,4 +14,4 @@ $resteasyGoogleForm = array(
         'message' => 'entry.230954203',
     ),
 );
-$resteasyEnquiryEmailUrl = 'assets/inc/sendemail.php';
+$resteasyEnquiryEmailUrl = '/assets/inc/sendemail.php';

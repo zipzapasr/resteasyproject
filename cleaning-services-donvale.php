@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Donvale | Professional Local Cleaners</title>
+  <title>Cleaning Services in Donvale | Rest Easy Services</title>
   <meta name="description"
-    content="Professional cleaning services in Donvale for homes and properties. Enjoy reliable, thorough cleaning tailored to your needs, with quality results every time." />
+    content="Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Donvale" />
+    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Donvale" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-donvale" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Donvale | Professional Local Cleaners" />
+  <meta property="og:title" content="Cleaning Services in Donvale | Rest Easy Services" />
   <meta property="og:description"
-    content="Professional cleaning services in Donvale for homes and properties. Enjoy reliable, thorough cleaning tailored to your needs, with quality results every time." />
+    content="Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-donvale" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,12 +22,12 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Donvale | Professional Local Cleaners" />
+  <meta name="twitter:title" content="Cleaning Services in Donvale | Rest Easy Services" />
   <meta name="twitter:description"
-    content="Professional cleaning services in Donvale for homes and properties. Enjoy reliable, thorough cleaning tailored to your needs, with quality results every time." />
+    content="Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
- <script type="application/ld+json">
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -51,9 +51,9 @@
     {
       "@type": "Service",
       "@id": "https://resteasyservices.com.au/cleaning-services-donvale/#service",
-      "name": "Cleaning Services Donvale",
+      "name": "Cleaning Services in Donvale",
       "url": "https://resteasyservices.com.au/cleaning-services-donvale",
-      "description": "Professional cleaning services in Donvale for homes, apartments, offices, Airbnb properties, end of lease cleaning, carpet cleaning, window cleaning, pressure washing, NDIS cleaning, garden maintenance, home maintenance, linen hire, locksmith services and car park cleaning.",
+      "description": "Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes.",
       "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
         "@id": "https://resteasyservices.com.au/#business"
@@ -64,19 +64,16 @@
       },
       "serviceType": [
         "House Cleaning",
-        "Apartment Cleaning",
-        "Office Cleaning",
-        "Commercial Cleaning",
-        "End of Lease Cleaning",
+        "Vacate Cleaning",
         "Airbnb Cleaning",
-        "Carpet Cleaning",
         "Window Cleaning",
-        "Pressure Washing",
-        "Garden Maintenance",
-        "Home Maintenance",
         "Linen Hire",
+        "Home Maintenance",
+        "Garden Maintenance",
         "NDIS Cleaning",
         "Locksmith Services",
+        "Carpet Cleaning",
+        "Pressure Washing",
         "Car Park Cleaning"
       ]
     },
@@ -86,94 +83,89 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Which regions are covered by your cleaners?",
+          "name": "What local cleaning services can I book near me in Donvale?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Donvale cleaners provide cleaning services in the neighbouring area enabling clients to keep their commercial and residential properties clean and tidy."
+            "text": "House cleaning, window and carpet cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you provide one-off cleaning in Donvale?",
+          "name": "Do you clean the big homes on bush blocks and acreage?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Donvale provides one-off cleaning services for the instances of transfer, special events, property refreshing, or seasonal cleaning, hence your needs can be taken care of."
+            "text": "That's a lot of what we do in Donvale. We bring the right size team and enough time for a larger home and block rather than rushing it."
           }
         },
         {
           "@type": "Question",
-          "name": "Do cleaners have the resources to handle large properties in Donvale?",
+          "name": "Can you clean the big windows on a home with bush views?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, cleaning crews can handle properties of all types including apartments, family houses, and bigger residential complexes."
+            "text": "Yes, and it's one of the most-asked jobs here. Large glass with a bush outlook picks up dust and pollen fast, and we clear it inside and out, tracks included."
           }
         },
         {
           "@type": "Question",
-          "name": "Can you clean rental properties?",
+          "name": "Do you handle the extra leaf litter and gutters on a treed block?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, rental property cleaning in Donvale is supplied to landlords and tenants who need to maintain their properties during or after the occupancy."
+            "text": "We do. Between the garden work, gutters and general upkeep, we help stay ahead of the leaf and gum debris a Donvale block generates."
           }
         },
         {
           "@type": "Question",
-          "name": "Are your services for cleaning offices in Donvale?",
+          "name": "Do you clean around pools, decks and tennis courts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Donvale office cleaning services create clean and safe workplaces for employees and guests."
+            "text": "We do, usually with pressure washing. Shaded, damp surrounds grow moss and leaf stain, and a wash brings them back."
           }
         },
         {
           "@type": "Question",
-          "name": "Is kitchen and bathroom cleaning done professionally?",
+          "name": "Can I set up a regular weekly or fortnightly clean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, professional cleaning services help in all areas that have a lot of use such as kitchens and bathrooms to ensure all dirt, stains and build-up are taken care of properly."
+            "text": "Yes, and it's our most common booking here. Donvale is a settled family suburb, so ongoing regular cleaning suits most households."
           }
         },
         {
           "@type": "Question",
-          "name": "When can I schedule the cleaning?",
+          "name": "Do you offer end-of-lease cleaning in Donvale?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, cleaning appointments in Donvale can be scheduled at a convenient time according to your needs and requirements."
+            "text": "Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you clean holiday rental properties?",
+          "name": "Can carpet cleaning get out everyday dirt and pet odours?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, holiday rental cleaning in Donvale ensures that properties used for holidays are cleaned and presented after each stay."
+            "text": "Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes with kids and dogs."
           }
         },
         {
           "@type": "Question",
-          "name": "Do you have eco-friendly cleaning options available in Donvale?",
+          "name": "Is NDIS cleaning available in Donvale?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cleaning solutions can vary depending on individual property choice with solutions that are gentle or strong as required."
+            "text": "It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable."
           }
         },
         {
           "@type": "Question",
-          "name": "Why should you take professional cleaning services in Donvale?",
+          "name": "Do you offer same-day cleaning in Donvale?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Professional cleaners make it easier as well as effective for cleaning and using the right method to ensure cleanliness of the property."
+            "text": "Sometimes, depending on the day and the job. It's worth calling early if your timing's tight."
           }
         }
       ]
     }
   ]
 }
-</script>
-
-
-
-
-
+  </script>
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -210,7 +202,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -244,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2>Donvale</h2>
+          <h1>Cleaning Services in Donvale</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -252,7 +244,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li>Donvale</li>
+            <li>Cleaning Services in Donvale</li>
           </ul>
         </div>
       </div>
@@ -266,16 +258,10 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Donvale | Professional Local Cleaners</h1>
+                <h2>What can professional cleaning services in Donvale do for your acreage?</h2>
               </div>
               <div class="text-box">
-                <p>Are you searching for trustworthy cleaning services in Donvale? Professional cleaning services offer
-                  the finest cleaning available for houses, offices, condos and rental properties. Cleaning services
-                  include regular house cleaning, end of lease cleaning, Airbnb cleaning, carpet cleaning, window
-                  cleaning, pressure cleaning, and many more. With its quality of work and efficient cleaning methods,
-                  the properties will be kept clean, hygienic and well-maintained. Experienced cleaners use good
-                  equipment, as well as proven techniques, to achieve high results in cleaning of residential and
-                  commercial properties in Donvale.</p>
+                <p>They provide specialised maintenance for a semi-rural suburb where homes meet the bush, handling some of the largest and most heavily treed blocks in the area. If you need an experienced cleaner near you, Rest Easy Services covers the range in Donvale: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Donvale clean and well kept.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -290,7 +276,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-Langwarrin.png" alt="Cleaning Services"
+              <img src="assets/images/location.jpeg" alt="Cleaning Services in Donvale"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -299,41 +285,141 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Our Service Coverage Around Donvale</h2>
+          <p class="hc-lead">We look after Donvale and the surrounding streets, along with the wider eastern and south-eastern suburbs, and out to the Mornington Peninsula.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+              <a class="aws-areas__tag" href="cleaning-services-skye"><span class="aws-areas__dot"></span>Skye</a>
+              <a class="aws-areas__tag" href="cleaning-services-patterson-lakes"><span class="aws-areas__dot"></span>Patterson Lakes</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What's Different About Cleaning a Donvale Home?</h2>
+          <p class="hc-lead">Donvale isn't standard suburbia. It's big blocks, bush outlooks and a lot of tree cover, and that changes the kind of cleaning it needs.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>Where the bush meets the suburbs</h3>
+            <p>Many Donvale homes back onto the Mullum Mullum Creek reserves or sit among heavy native tree cover. That brings a lot of leaf litter and gum debris into gutters, onto paths and toward the door, so the outdoor side of keeping a home tidy is a bigger job here than most places.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>Acreage and big, glassy homes</h3>
+            <p>Towards the northern and eastern end, blocks run from half an acre up to a couple of hectares, often with pools, tennis courts and large homes built around floor-to-ceiling glass to take in the bush. Big windows and big footprints mean the window cleaning and the house clean are both a step up in scale.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Settled family owner-occupiers</h3>
+            <p>Donvale is a suburb of established families who buy for the space, the quiet and the schools, and stay. That points to steady, ongoing cleaning paired with real garden and outdoor upkeep, rather than quick turnovers.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Donvale Cleaning Services | Cleaning Experts for Various Services</h2>
+              <span style="letter-spacing: normal;">
+                <h2>Which Cleaning Tasks Can We Take Off Your Hands in Donvale?</h2>
               </span>
+              <p>From a weekly clean to a full property and garden tidy-up, it's all handled by one local team, so you're not chasing a different company for each job.</p>
             </div>
           </div>
-          <p>
-            <br>
-          </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-boxhill.png" alt="house-cleaning-boxhill">
+                  <img src="assets/images/location/house-cleaning-boxhill.png" alt="house-cleaning-donvale">
                 </div>
               </div>
-              <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>Fresh and clean your home with a house cleaning service in Donvale. Our cleaning professionals can
-                  get your kitchens, bathrooms, bedrooms and living spaces cleaned.</p>
+                <p>Regular or one-off house cleaning in Donvale, built around your home and week. Bigger homes on bigger blocks are exactly what we're set up for, weekly or as a single deep clean.</p>
               </div>
             </div>
           </div>
@@ -344,18 +430,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\end-of-lease-cleaning-boxhill.png"
-                    alt="end-of-lease-cleaning-boxhill">
+                  <img src="assets/images/location/end-of-lease-cleaning-boxhill.png" alt="vacate-cleaning-donvale">
                 </div>
               </div>
-              <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">End of Lease Cleaning</a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>Maximize the chances of your rental property success with end of lease cleaning services. Our
-                  end-of-lease cleaning services ensure that you leave your property clean and spotless.</p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
@@ -366,17 +449,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-boxhill.png" alt="airbnb-cleaning-boxhill">
+                  <img src="assets/images/location/airbnb-cleaning-boxhill.png" alt="airbnb-cleaning-donvale">
                 </div>
               </div>
-              <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning</a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Provide a satisfying experience for your guests with Airbnb cleaning services. Our quick cleaning
-                  services ensure that your holiday homes stay clean and fresh.</p>
+                <p>For the short-stays around the area, we handle the turnover between guests and can bring fresh linen along, ready for the next check-in.</p>
               </div>
             </div>
           </div>
@@ -386,43 +467,32 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-boxhill.png" alt="window-cleaning-boxhill">
+                  <img src="assets/images/location/window-cleaning-boxhill.png" alt="window-cleaning-donvale">
                 </div>
               </div>
-              <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Improve the look of your property with our window cleaning services in Donvale. Our experts will get
-                  rid of all dirt and marks to make your windows sparkling clean.</p>
+                <p>This is a big one in Donvale. Homes built around large glass to capture the bush outlook need proper window cleaning inside and out, tracks included, to keep those views clear of dust, pollen and grime.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-boxhill.png" alt="linen-hire-boxhill">
+                  <img src="assets/images/location/linen-hire-boxhill.png" alt="linen-hire-donvale">
                 </div>
               </div>
-              <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Hire</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>We provide linen hire solutions in Donvale and surrounding areas. Your table linen will be clean and
-                  fresh for your home, rental premises, or business.</p>
+                <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather skip the washing between guests.</p>
               </div>
             </div>
           </div>
@@ -432,18 +502,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-maintenance-boxhill.png" alt="house-maintenance-boxhill">
+                  <img src="assets/images/location/house-maintenance-boxhill.png" alt="house-maintenance-donvale">
                 </div>
               </div>
-              <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">House Maintenance
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>A professional agency provides house maintenance services in Donvale in order to help clients
-                  maintain and repair their homes. </p>
+                <p>Minor repairs and general upkeep alongside the cleaning, including the gutters and outdoor jobs that a heavily treed bush block keeps generating.</p>
               </div>
             </div>
           </div>
@@ -454,17 +521,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\garden-maintenance-boxhill.png" alt="garden-maintenance-boxhill">
+                  <img src="assets/images/location/garden-maintenance-boxhill.png" alt="garden-maintenance-donvale">
                 </div>
               </div>
-              <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Keeping your garden neat and tidy is easy due to our garden maintenance services. You can count on
-                  getting beautiful gardens, lawns, and other types of outdoor space maintained regularly.</p>
+                <p>Big blocks, native gardens and bushland edges take real upkeep. We keep on top of the mowing, hedging, weeding, green-waste and leaf load across Donvale year-round.</p>
               </div>
             </div>
           </div>
@@ -474,17 +539,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-boxhill.png" alt="ndis-cleaning-boxhill">
+                  <img src="assets/images/location/ndis-cleaning-boxhill.png" alt="ndis-cleaning-donvale">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">NDIS Cleaning</a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>Our NDIS cleaning services ensure that the participants in Donvale have access to thorough but
-                  dignified cleaning support from qualified professionals.</p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
@@ -494,17 +557,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/location/locksmith-boxhill.png" alt="locksmith-boxhill">
+                  <img src="assets/images/location/locksmith-boxhill.png" alt="locksmith-donvale">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="locksmith-services">Locksmiths</a>
+                  <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Get high-quality locksmith services in Donvale. We will help you with your lock, repair, or security
-                  needs.</p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and sheds around the area.</p>
               </div>
             </div>
           </div>
@@ -514,17 +575,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-boxhill.png" alt="carpet-cleaning-boxhill">
+                  <img src="assets/images/location/carpet-cleaning-boxhill.png" alt="carpet-cleaning-donvale">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning</a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Revitalize your carpets through our services for carpet cleaning in Donvale. Our advanced techniques
-                  will effectively remove stains, dust, and allergens.</p>
+                <p>Steam cleaning in Donvale that lifts ground-in dirt, dust and stains out of the fibres, plus pet odours. A regular one for busy family homes on big blocks.</p>
               </div>
             </div>
           </div>
@@ -534,17 +593,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-washing-boxhill.png" alt="pressure-washing-boxhill">
+                  <img src="assets/images/location/pressure-washing-boxhill.png" alt="pressure-washing-donvale">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Enhance the look of your outdoor facilities with our pressure washing services throughout the Donvale
-                  region. Driveways, footpaths, and other outdoor facilities will be thoroughly cleaned.</p>
+                <p>Driveways, paths, pool surrounds and decks washed back to clear the moss, mould, leaf stain and grime that shaded, tree-lined bush blocks tend to grow.</p>
               </div>
             </div>
           </div>
@@ -554,78 +611,27 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-boxhill.png" alt="car-park-cleaning-boxhill">
+                  <img src="assets/images/location/car-park-cleaning-boxhill.png" alt="car-park-cleaning-donvale">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Professional car park cleaning services in Donvale help keep your parking space clean and safe.
-                  Professionals remove dust, dirt, and other unwanted stuff from the parking lot.</p>
+                <p>For the shopping strips and body corporate car parks around the area. Swept and washed so they stay tidy and presentable.</p>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-    <!--Start Our Cleaning Process -->
-
-    <!--Start Residential & Rental -->
-
-    <section class="job-one">
-      <div class="job-one__bg" style="background-image: url(assets/images/nds.png);"></div>
-      <div class="container">
-        <div class="row">
-          <!--Start Job One Content-->
-          <div class="col-xl-6">
-            <div class="job-one__content">
-              <div class="title">
-                <h2>Reasons to Choose Our Cleaners in Donvale</h2>
-              </div>
-
-              <div class="text-box">
-
-                <div class="services-details-text2">
-                  <p class="only-p">Select our expert cleaners in Donvale for dependable and thorough cleaning services.
-                    Our qualified cleaners provide their expertise to residential houses and offices ensuring maximum
-                    hygiene, great quality of work and satisfaction of our clients by using advanced cleaning methods.
-                  </p>
-                  <ul>
-                    <li>
-                      <p>Experts in cleaning</p>
-                    </li>
-
-                    <li>
-                      <p>Trustworthy and punctual service</p>
-                    </li>
-
-                    <li>
-                      <p>Top-quality cleaning equipment</p>
-                    </li>
-                    <li>
-                      <p>Attention to minor details </p>
-                    </li>
-                    <li>
-                      <p>Wide array of cleaning options </p>
-                    </li>
-                    <li>
-                      <p>Residential and commercial cleaning services</p>
-                    </li>
-                    <li>
-                      <p>Exceptional clean results</p>
-                    </li>
-                  </ul>
-
-
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <!--End Job One Content-->
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
         </div>
       </div>
     </section>
@@ -638,9 +644,7 @@
           <div class="text-box">
             <h2>Book Professional Cleaning Today</h2>
             <br>
-            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable
-              professional cleaning services. <br> Contact our team today to schedule your cleaning service or request a
-              customized quote. </p>
+            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable professional cleaning services. Contact our team today to schedule your cleaning service or request a customised quote.</p>
           </div>
           <div class="btn-box">
             <a class="thm-btn" href="contact.php">
@@ -651,13 +655,14 @@
       </div>
     </section>
     <!--End  CTA  -->
-    <!-- review section --> <?php include "includes/reviews.php"; ?>
+    <!-- review section -->
+    <?php include "includes/reviews.php"; ?>
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -670,11 +675,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Which regions are covered by your cleaners?</h3>
+                  <h3>What local cleaning services can I book near me in Donvale?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Donvale cleaners provide cleaning services in the neighbouring area enabling clients to keep their
-                    commercial and residential properties clean and tidy.</p>
+                  <p>House cleaning, window and carpet cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -682,11 +686,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you provide one-off cleaning in Donvale?</h3>
+                  <h3>Do you clean the big homes on bush blocks and acreage?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Donvale provides one-off cleaning services for the instances of transfer, special events, property
-                    refreshing, or seasonal cleaning, hence your needs can be taken care of.</p>
+                  <p>That's a lot of what we do in Donvale. We bring the right size team and enough time for a larger home and block rather than rushing it.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -694,11 +697,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do cleaners have the resources to handle large properties in Donvale?</h3>
+                  <h3>Can you clean the big windows on a home with bush views?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning crews can handle properties of all types including apartments, family houses, and
-                    bigger residential complexes.</p>
+                  <p>Yes, and it's one of the most-asked jobs here. Large glass with a bush outlook picks up dust and pollen fast, and we clear it inside and out, tracks included.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -706,11 +708,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can you clean rental properties?</h3>
+                  <h3>Do you handle the extra leaf litter and gutters on a treed block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, rental property cleaning in Donvale is supplied to landlords and tenants who need to maintain
-                    their properties during or after the occupancy.</p>
+                  <p>We do. Between the garden work, gutters and general upkeep, we help stay ahead of the leaf and gum debris a Donvale block generates.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -718,10 +719,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are your services for cleaning offices in Donvale?</h3>
+                  <h3>Do you clean around pools, decks and tennis courts?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Donvale office cleaning services create clean and safe workplaces for employees and guests.</p>
+                  <p>We do, usually with pressure washing. Shaded, damp surrounds grow moss and leaf stain, and a wash brings them back.</p>
                 </div>
               </li>
             </ul>
@@ -735,11 +736,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> Is kitchen and bathroom cleaning done professionally?</h3>
+                  <h3>Can I set up a regular weekly or fortnightly clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, professional cleaning services help in all areas that have a lot of use such as kitchens and
-                    bathrooms to ensure all dirt, stains and build-up are taken care of properly.</p>
+                  <p>Yes, and it's our most common booking here. Donvale is a settled family suburb, so ongoing regular cleaning suits most households.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -747,11 +747,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>When can I schedule the cleaning?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Donvale?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning appointments in Donvale can be scheduled at a convenient time according to your needs
-                    and requirements.</p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -759,11 +758,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you clean holiday rental properties?</h3>
+                  <h3>Can carpet cleaning get out everyday dirt and pet odours?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, holiday rental cleaning in Donvale ensures that properties used for holidays are cleaned and
-                    presented after each stay.</p>
+                  <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes with kids and dogs.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -771,12 +769,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Do you have eco-friendly cleaning options available in Donvale?</h3>
+                  <h3>Is NDIS cleaning available in Donvale?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Cleaning solutions can vary depending on individual property choice with solutions that are gentle
-                    or strong as required.
-                  </p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -784,16 +780,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Why should you take professional cleaning services in Donvale?</h3>
+                  <h3>Do you offer same-day cleaning in Donvale?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Professional cleaners make it easier as well as effective for cleaning and using the right method
-                    to ensure cleanliness of the property.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

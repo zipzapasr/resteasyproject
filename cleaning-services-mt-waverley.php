@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Trusted Cleaning Services Mount Waverley for All Requirements</title>
+  <title>Cleaning Services in Mt Waverley | Rest Easy Services</title>
   <meta name="description"
-    content="Trusted cleaning services Mount Waverley for homes, offices, and rentals. Vacate, carpet, window, Airbnb, and NDIS cleaning. Call 0429 780 896." />
+    content="Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Mount Waverley." />
+    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Mt Waverley" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-mt-waverley" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Trusted Cleaning Services Mount Waverley for All Requirements" />
+  <meta property="og:title" content="Cleaning Services in Mt Waverley | Rest Easy Services" />
   <meta property="og:description"
-    content="Trusted cleaning services Mount Waverley for homes, offices, and rentals. Vacate, carpet, window, Airbnb, and NDIS cleaning. Call 0429 780 896." />
+    content="Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-mt-waverley" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Trusted Cleaning Services Mount Waverley for All Requirements" />
+  <meta name="twitter:title" content="Cleaning Services in Mt Waverley | Rest Easy Services" />
   <meta name="twitter:description"
-    content="Trusted cleaning services Mount Waverley for homes, offices, and rentals. Vacate, carpet, window, Airbnb, and NDIS cleaning. Call 0429 780 896." />
+    content="Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -50,122 +50,122 @@
     },
     {
       "@type": "Service",
-      "@id": "https://resteasyservices.com.au/cleaning-services-mount-waverley/#service",
-      "name": "Cleaning Services Mount Waverley",
-      "url": "https://resteasyservices.com.au/cleaning-services-mount-waverley",
-      "description": "Professional cleaning services in Mount Waverley for residential and commercial properties, including house cleaning, carpet cleaning, window cleaning, pressure cleaning, Airbnb cleaning, linen hire, garden maintenance, locksmith services and other property maintenance solutions.",
+      "@id": "https://resteasyservices.com.au/cleaning-services-mt-waverley/#service",
+      "name": "Cleaning Services in Mt Waverley",
+      "url": "https://resteasyservices.com.au/cleaning-services-mt-waverley",
+      "description": "Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes.",
       "image": "https://resteasyservices.com.au/assets/images/location.jpeg",
       "provider": {
         "@id": "https://resteasyservices.com.au/#business"
       },
       "areaServed": {
         "@type": "City",
-        "name": "Mount Waverley"
+        "name": "Mt Waverley"
       },
       "serviceType": [
         "House Cleaning",
-        "Commercial Cleaning",
-        "Airbnb Cleaning",
         "Vacate Cleaning",
-        "Carpet Cleaning",
+        "Airbnb Cleaning",
         "Window Cleaning",
-        "Pressure Cleaning",
-        "Garden Maintenance",
         "Linen Hire",
+        "Home Maintenance",
+        "Garden Maintenance",
+        "NDIS Cleaning",
         "Locksmith Services",
-        "Property Maintenance"
+        "Carpet Cleaning",
+        "Pressure Washing",
+        "Car Park Cleaning"
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://resteasyservices.com.au/cleaning-services-mount-waverley/#faq",
+      "@id": "https://resteasyservices.com.au/cleaning-services-mt-waverley/#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What kinds of buildings benefit from cleaning services in Mt Waverley?",
+          "name": "What local cleaning services can I book near me in Mt Waverley?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cleaning services can be availed for homes, flats, workplaces, boutiques, hospitals, Airbnb homes, and all kinds of commercial real estate."
+            "text": "House cleaning, carpet and window cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, car park cleaning, linen hire, locksmith work and NDIS cleaning."
           }
         },
         {
           "@type": "Question",
-          "name": "Can different cleaning services be booked together?",
+          "name": "Do you clean larger family homes on big blocks?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, household cleaning, rug cleaning, window cleaning, pressure cleaning, and yard maintenance can be arranged at the same time."
+            "text": "That's most of what we do in Mt Waverley. We bring the right size team and enough time for a bigger home rather than rushing it."
           }
         },
         {
           "@type": "Question",
-          "name": "Can one time cleaning service be availed?",
+          "name": "Can you do a regular weekly or fortnightly clean?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, one time cleaning can take place on special events, seasonal cleaning, home inspections, or when there is a need for additional cleaning."
+            "text": "Yes, and it's our most common booking here. Mt Waverley is a settled family suburb, so ongoing regular cleaning suits most households."
           }
         },
         {
           "@type": "Question",
-          "name": "Is cleaning service useful for property owners?",
+          "name": "Do you handle the garden on a big, leafy block?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, cleaning services are used to keep rental properties in order, get homes ready for a new tenant, and keep property in good condition."
+            "text": "We do. Mowing, hedging, weeding and green-waste removal, suited to Mt Waverley's larger, established gardens, plus the autumn leaf load on tree-lined streets."
           }
         },
         {
           "@type": "Question",
-          "name": "Is window cleaning available for 2-storey houses?",
+          "name": "Do you do a first clean on a new build?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, window cleaning is available for both 1-and 2-storey residences and business buildings."
+            "text": "We do. New homes come with construction dust and residue on floors, windows and surfaces, and we clear all of it so you move into a genuinely clean place."
           }
         },
         {
           "@type": "Question",
-          "name": "Can carpet cleaning improve air quality?",
+          "name": "Can carpet cleaning get out everyday dirt and pet odours?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, carpet cleaning service clears dust, allergens, and debris enhancing the air quality of the premises."
+            "text": "Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes with kids and dogs."
           }
         },
         {
           "@type": "Question",
-          "name": "Is garden maintenance available throughout the year?",
+          "name": "Do you offer end-of-lease cleaning in Mt Waverley?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, garden maintenance services with lawn mowing, trimming, gardening are available year-round."
+            "text": "Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond."
           }
         },
         {
           "@type": "Question",
-          "name": "What does the linen hire service include?",
+          "name": "Do you clean townhouses and apartments too?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The linen hire service consists of fresh bed linens, pillow covers, towels, bedding for Airbnb homes, and short-term accommodation properties."
+            "text": "We do, including shared body corporate areas. Just let us know whether it's your place or the whole block."
           }
         },
         {
           "@type": "Question",
-          "name": "Are locksmith services available for lock upgrades?",
+          "name": "Is NDIS cleaning available in Mt Waverley?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, locksmith services for changing locks and upgrading locks, lock re-keying, repairing locks, and installing locks are available for residential and commercial use."
+            "text": "It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable."
           }
         },
         {
           "@type": "Question",
-          "name": "How does regular professional cleaning benefit a property?",
+          "name": "Do you offer same-day cleaning in Mt Waverley?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cleaning regularly will maintain cleanliness, lessen the accumulation of dirt and allergens, protect surfaces, and help create a health-friendly environment."
+            "text": "Sometimes, depending on the day and the job. It's worth calling early if your timing's tight."
           }
         }
       ]
     }
   ]
 }
-</script>
-
+  </script>
   <!-- Favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -202,7 +202,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Mount Waverley</h2>
+          <h1>Cleaning Services in Mt Waverley</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -244,7 +244,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Mount Waverley</li>
+            <li>Cleaning Services in Mt Waverley</li>
           </ul>
         </div>
       </div>
@@ -258,13 +258,10 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Trusted Cleaning Services Mount Waverley for All Requirements</h1>
+                <h2>Why rely on professional cleaning services in Mt Waverley for your family home?</h2>
               </div>
               <div class="text-box">
-                <p>Cleaning Services Mount Waverley make it possible to keep your property clean and hygienic as they
-                  offer a lot of services such as: house cleaning, office cleaning, end of lease cleaning, carpet
-                  cleaning, window cleaning, garden maintenance, linen hire, pressure washing for residential
-                  properties, and commercial property.</p>
+                <p>They offer meticulous attention for a leafy, established family suburb known for its sought-after schools, generous blocks and the creeks and reserves the streets wind around. When searching for a careful cleaner near you, Rest Easy Services covers the range in Mt Waverley: house cleaning, carpet cleaning, window cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning, car park cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Mt Waverley clean and well kept.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -279,7 +276,7 @@
           </div>
           <div class="col-xl-6">
             <div class="service-detail-img">
-              <img src="assets\images\location\cleaning-services-Langwarrin.png" alt="Cleaning Services"
+              <img src="assets/images/location.jpeg" alt="Cleaning Services in Mt Waverley"
                 class="img-fluid rounded" />
             </div>
           </div>
@@ -288,41 +285,141 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
+    <!-- Service Area  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Service Coverage</span>
+            </div>
+          </div>
+          <h2>Local Coverage Area</h2>
+          <p class="hc-lead">We look after Mt Waverley and the surrounding streets, along with the wider eastern and south-eastern suburbs, and out to the Mornington Peninsula.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+              <a class="aws-areas__tag" href="cleaning-services-somerville"><span class="aws-areas__dot"></span>Somerville</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-chelsea-heights"><span class="aws-areas__dot"></span>Chelsea Heights</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+              <a class="aws-areas__tag" href="cleaning-services-skye"><span class="aws-areas__dot"></span>Skye</a>
+              <a class="aws-areas__tag" href="cleaning-services-patterson-lakes"><span class="aws-areas__dot"></span>Patterson Lakes</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-boxhill"><span class="aws-areas__dot"></span>Box Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag is-active" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!-- Service Area end  -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span style="letter-spacing: normal;">Local Insight</span>
+            </div>
+          </div>
+          <h2>What's Cleaning Like for a Mt Waverley Family Home?</h2>
+          <p class="hc-lead">Mt Waverley is proper family-suburb territory, with bigger homes on bigger blocks than you'll find closer to the city, and the cleaning reflects that.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>Big blocks and established gardens</h3>
+            <p>Many Mt Waverley homes sit on the generous blocks laid out from the 1930s onwards, on leafy streets near Valley Reserve and the local creek trails. That means more house to clean and real gardens to keep tidy, with plenty of leaf litter through autumn on the more established, tree-lined streets.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>A suburb built around family life</h3>
+            <p>This is a suburb of homeowners and families who tend to stay for years, drawn by the schools and the green space. That points to steady, ongoing cleaning rather than constant turnovers, plus carpet cleaning to keep up with what kids and pets bring through a busy house.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>From mid-century brick to new builds</h3>
+            <p>Mt Waverley is a mix of classic mid-century brick homes, many now being renovated, and newer townhouses and apartments going up around them. That brings a range of work, from regular cleans on established homes to a first clean on a brand-new build.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
         <div class="sec-title text-center">
           <div class="sub-title">
             <div class="text">
-              <span>
-                <h2>Quality Cleaning Services in Mt Waverley for All Needs</h2>
+              <span style="letter-spacing: normal;">
+                <h2>What Range of Cleaning Services Do We Provide in Mt Waverley?</h2>
               </span>
+              <p>From a weekly family clean to a full bond clean or a first clean on a new build, it's all handled by one local team.</p>
             </div>
           </div>
-          <p>
-            <br>
-          </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\house-cleaning-services-in-langwarrin.png" alt="#">
+                  <img src="assets/images/location/house-cleaning-services-in-langwarrin.png" alt="house-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- House Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>A professional house cleaning service can maintain cleanliness and order in each room of your house
-                  by removing dust, dirt, and grime making your home clean and healthy.</p>
+                <p>Regular or one-off house cleaning in Mt Waverley, built around a busy family week. Bigger family homes are our bread and butter here, whether it's a weekly visit or a single deep clean.</p>
               </div>
             </div>
           </div>
@@ -333,18 +430,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\vacate-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets/images/location/vacate-cleaning-services-langwarrin.png" alt="vacate-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Ending Lease Cleaning </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>End of lease cleaning services are designed for landlords and property managers so they can inspect
-                  rented buildings. The vacate cleaning service includes kitchens, bathrooms, floors, and other areas.
-                </p>
+                <p>End-of-lease cleans done to the standard agents check at the final inspection, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
@@ -355,18 +449,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\airbnb-cleaning-services-langwarrin.png" alt="#">
+                  <img src="assets/images/location/airbnb-cleaning-services-langwarrin.png" alt="airbnb-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning </a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Airbnb cleaning includes sanitising the area where the guests will stay, changing linen, and
-                  preparing bathrooms for the arrival of guests with complete attention to hygiene and comfort.
-                </p>
+                <p>For the short-stays around the area, we handle the turnover between guests and can bring fresh linen along, ready for the next check-in.</p>
               </div>
             </div>
           </div>
@@ -376,45 +467,32 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\window-cleaning-langwarrin.png" alt="#">
+                  <img src="assets/images/location/window-cleaning-langwarrin.png" alt="window-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- Garden Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Professional window cleaning service will help not only to get rid of dust, dirt, water stains and
-                  fingerprints on the windows but will also make them clean on the inside and outside.
-                </p>
+                <p>Inside and out, tracks included. Leafy, tree-lined blocks throw more dust and pollen onto the glass, and we clear it properly rather than smearing it around.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-          <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;">
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\linen-hire-langwarrin.png" alt="#">
+                  <img src="assets/images/location/linen-hire-langwarrin.png" alt="linen-hire-mt-waverley">
                 </div>
               </div>
-              <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Hire of Linen</a>
+                  <a href="linen-hire">Linen Hire for Your Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Fresh linen hire involves quality linens, sheets, pillowcases, and towels for short stay properties,
-                  ensuring guests enjoy a clean and pleasant experience.
-                </p>
+                <p>Laundered sheets and towels delivered ready to go, handy for anyone running a rental who'd rather skip the washing between guests.</p>
               </div>
             </div>
           </div>
@@ -424,18 +502,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\home-maintenance-in-langwarrin.png" alt="#">
+                  <img src="assets/images/location/home-maintenance-in-langwarrin.png" alt="house-maintenance-mt-waverley">
                 </div>
               </div>
-              <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">Maintenance of house
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>Home maintenance involves small repairs as well as routine maintenance of houses to keep them
-                  functioning properly.</p>
+                <p>Minor repairs and general upkeep alongside the cleaning, which suits older brick homes where small jobs mount up over time.</p>
               </div>
             </div>
           </div>
@@ -446,17 +521,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\maintenance-of-garden-langwarrin.png" alt="#">
+                  <img src="assets/images/location/maintenance-of-garden-langwarrin.png" alt="garden-maintenance-mt-waverley">
                 </div>
               </div>
-              <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="garden-maintenance-services">Garden Services</a>
+                  <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Garden maintenance refers to mowing the lawn, cutting down branches, trimming hedges, and pulling
-                  weeds to keep a garden neat and beautiful.</p>
+                <p>Bigger blocks and established gardens take real upkeep. We keep on top of the mowing, hedging, weeding and green-waste across Mt Waverley year-round.</p>
               </div>
             </div>
           </div>
@@ -466,17 +539,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\ndis-cleaning-langwarrin.png" alt="#">
+                  <img src="assets/images/location/ndis-cleaning-langwarrin.png" alt="ndis-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">Cleaning Services for NDIS clients</a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>NDIS cleaning helps clients by providing them cleaning services to keep their homes clean, healthy,
-                  and safe.</p>
+                <p>Reliable, respectful cleaning support for NDIS participants, kept to the same cleaner wherever we can manage it.</p>
               </div>
             </div>
           </div>
@@ -486,17 +557,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="#">
+                  <img src="assets/images/cleaning/locksmith-services-2.png" alt="locksmith-mt-waverley">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="locksmith-services">Locksmithing</a>
+                  <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Locksmith services are available for different types of locks in homes and businesses, providing
-                  fast, reliable, and professional assistance whenever required.</p>
+                <p>Lockouts, lock changes and rekeying, sorted quickly for homes and sheds around the area.</p>
               </div>
             </div>
           </div>
@@ -506,17 +575,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\carpet-cleaning-langwarrin.png" alt="#">
+                  <img src="assets/images/location/carpet-cleaning-langwarrin.png" alt="carpet-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Carpet cleaning is done to clean the carpets to keep them fresh and extend the life of carpets.</p>
+                <p>Steam cleaning in Mt Waverley that lifts ground-in dirt, dust and stains out of the fibres, plus pet odours. A regular one for busy family homes.</p>
               </div>
             </div>
           </div>
@@ -526,16 +593,15 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\pressure-cleaning-langwarrin.png" alt="#">
+                  <img src="assets/images/location/pressure-cleaning-langwarrin.png" alt="pressure-washing-mt-waverley">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="pressure-washing">Power-washing</a>
+                  <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Pressure cleaning is a process of removing mold, algae, grease, dirt, and grime from driveways</p>
+                <p>Driveways, paths and outdoor areas washed back to clear the moss, mould and leaf stain that build up on shaded, established blocks.</p>
               </div>
             </div>
           </div>
@@ -545,95 +611,30 @@
             <div class="blog-one__single">
               <div class="blog-one__single-img">
                 <div class="inner">
-                  <img src="assets\images\location\car-park-cleaning-langwarrin.png" alt="#">
+                  <img src="assets/images/location/car-park-cleaning-langwarrin.png" alt="car-park-cleaning-mt-waverley">
                 </div>
               </div>
-              <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="car-park-cleaning">Car park cleaning</a>
+                  <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Cleaning the car parking areas can also be done in order to make them clean, safe, and good looking.
-                </p>
+                <p>For the shopping strips and body corporate car parks around Mt Waverley. Swept and washed so they stay tidy and presentable.</p>
               </div>
             </div>
           </div>
+        </div>
+        <div class="location-services__mobile-nav">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
         </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
-
-    <!--Start Benefits Services Details -->
-    <section class="features-two service-features-section" style="background-color:#f1f3f2">
-      <div class="container">
-        <div class="sec-title text-center">
-
-          <h2>Advantages of Choosing Our Cleaners in Mount Waverley.
-          </h2>
-        </div>
-        <div class="row">
-          <div class="col-xl-12">
-            <div class="features-two__inner">
-              <div class="features-two__img">
-                <img src="assets/images/cleaning-process-mt-waverley.png" alt="#">
-              </div>
-              <ul class="features-two__list">
-                <li class="wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                  <div class="count-box counted"><span>1</span></div>
-                  <div class="inner">
-                    <h2 style="font-size: 21px;">Cleaning experts.
-                    </h2>
-                    <p>Inexperienced cleaning professionals use tried and tested cleaning techniques and tools to
-                      achieve consistent and quality results.
-                    </p>
-                  </div>
-                </li>
-
-                <li class="style2 style3 wow fadeInRight animated animated" data-wow-delay="0ms"
-                  data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                  <div class="count-box counted"><span>2</span></div>
-                  <div class="inner">
-                    <h2><span class="box-blue">Full Range of Services</span></h2>
-                    <p>Our list of services includes house cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning,
-                      window cleaning, and property maintenance.
-                    </p>
-                  </div>
-                </li>
-              </ul>
-
-              <ul class="features-two__list">
-                <li class="style3 wow fadeInLeft animated animated" data-wow-delay="100ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: fadeInLeft;">
-                  <div class="count-box counted"><span>3</span></div>
-                  <div class="inner">
-                    <h2><span class="box-blue">Various Scheduling Options</span></h2>
-                    <p>Single, weekly, bi-weekly, and monthly cleaning services are provided depending on the type of
-                      property and cleaning needs.</p>
-                  </div>
-                </li>
-
-                <li class="style2  wow fadeInRight animated animated" data-wow-delay="0ms" data-wow-duration="1000ms"
-                  style="visibility: visible; animation-duration: 1000ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                  <div class="count-box counted"><span>4</span></div>
-                  <div class="inner">
-                    <h2> Professional and Reliable Service</h2>
-                    <p>All our cleaning services are provided at a high level using quality materials and proper
-                      techniques.
-
-                    </p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!--End Benefits Services Details -->
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -643,9 +644,7 @@
           <div class="text-box">
             <h2>Book Professional Cleaning Today</h2>
             <br>
-            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable
-              professional cleaning services. <br> Contact our team today to schedule your cleaning service or request a
-              customized quote. </p>
+            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable professional cleaning services. Contact our team today to schedule your cleaning service or request a customised quote.</p>
           </div>
           <div class="btn-box">
             <a class="thm-btn" href="contact.php">
@@ -661,9 +660,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">Most Commonly Asked Questions</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -676,11 +675,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What kinds of buildings benefit from cleaning services in Mt Waverley?</h3>
+                  <h3>What local cleaning services can I book near me in Mt Waverley?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Cleaning services can be availed for homes, flats, workplaces, boutiques, hospitals, Airbnb homes,
-                    and all kinds of commercial real estate.</p>
+                  <p>House cleaning, carpet and window cleaning, garden and house maintenance, pressure washing, vacate and end-of-lease cleans, Airbnb turnovers, car park cleaning, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -688,12 +686,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can different cleaning services be booked together?</h3>
+                  <h3>Do you clean larger family homes on big blocks?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, household cleaning, rug cleaning, window cleaning, pressure cleaning, and yard maintenance can
-                    be arranged at the same time.
-                  </p>
+                  <p>That's most of what we do in Mt Waverley. We bring the right size team and enough time for a bigger home rather than rushing it.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -701,12 +697,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can one time cleaning service be availed?</h3>
+                  <h3>Can you do a regular weekly or fortnightly clean?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, one time cleaning can take place on special events, seasonal cleaning, home inspections, or
-                    when there is a need for additional cleaning.
-                  </p>
+                  <p>Yes, and it's our most common booking here. Mt Waverley is a settled family suburb, so ongoing regular cleaning suits most households.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -714,11 +708,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> Is cleaning service useful for property owners?</h3>
+                  <h3>Do you handle the garden on a big, leafy block?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, cleaning services are used to keep rental properties in order, get homes ready for a new
-                    tenant, and keep property in good condition</p>
+                  <p>We do. Mowing, hedging, weeding and green-waste removal, suited to Mt Waverley's larger, established gardens, plus the autumn leaf load on tree-lined streets.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -726,10 +719,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is window cleaning available for 2-storey houses?</h3>
+                  <h3>Do you do a first clean on a new build?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, window cleaning is available for both 1-and 2-storey residences and business buildings.</p>
+                  <p>We do. New homes come with construction dust and residue on floors, windows and surfaces, and we clear all of it so you move into a genuinely clean place.</p>
                 </div>
               </li>
             </ul>
@@ -743,12 +736,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can carpet cleaning improve air quality?</h3>
+                  <h3>Can carpet cleaning get out everyday dirt and pet odours?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, carpet cleaning service clears dust, allergens, and debris enhancing the air quality of the
-                    premises.
-                  </p>
+                  <p>Steam cleaning lifts ground-in dirt and dust out of the fibres along with stains and pet smells. Handy for busy family homes with kids and dogs.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -756,12 +747,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Is garden maintenance available throughout the year?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Mt Waverley?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Is it possible to receive garden maintenance services in different seasons?
-                    Yes, garden maintenance services with lawn mowing, trimming, gardening are available year-round.
-                  </p>
+                  <p>Moving out? A vacate clean gets the property back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -769,11 +758,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What does the linen hire service include?</h3>
+                  <h3>Do you clean townhouses and apartments too?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>The linen hire service consists of fresh bed linens, pillow covers, towels, bedding for Airbnb
-                    homes, and short-term accommodation properties.</p>
+                  <p>We do, including shared body corporate areas. Just let us know whether it's your place or the whole block.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -781,12 +769,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are locksmith services available for lock upgrades?</h3>
+                  <h3>Is NDIS cleaning available in Mt Waverley?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, locksmith services for changing locks and upgrading locks, lock re-keying, repairing locks,
-                    and installing locks are available for residential and commercial use.
-                  </p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -794,16 +780,14 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>How does regular professional cleaning benefit a property?</h3>
+                  <h3>Do you offer same-day cleaning in Mt Waverley?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Cleaning regularly will maintain cleanliness, lessen the accumulation of dirt and allergens,
-                    protect surfaces, and help create a health-friendly environment.</p>
+                  <p>Sometimes, depending on the day and the job. It's worth calling early if your timing's tight.</p>
                 </div>
               </li>
             </ul>
           </div>
-          <!--End About One Content-->
           <!--End About One Content-->
         </div>
       </div>

@@ -7,13 +7,13 @@ $mail = new PHPMailer();
 
 
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'just55.justhost.com';  // Specify main and backup SMTP servers
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'themeforest@ismail-hossain.me';                 // SMTP username
-$mail->Password = 'AsDf12**';                           // SMTP password
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 465;                                    // TCP port to connect to
+$mail->isSMTP(); // Set mailer to use SMTP
+$mail->Host = 'smtp.hostinger.com'; // Specify main and backup SMTP servers
+$mail->SMTPAuth = true; // Enable SMTP authentication
+$mail->Username = 'info@resteasyservices.com.au'; // SMTP username
+$mail->Password = 'DDs!^1&#@^!@!%%'; // SMTP password
+$mail->SMTPSecure =PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS;; // Enable TLS encryption, `ssl` also accepted
+$mail->Port = 465; // TCP port to connect to                                 // TCP port to connect to
 
 $message = "";
 $status = "false";
@@ -32,8 +32,8 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
         $botcheck = $_POST['form_botcheck'];
 
-        $toemail = 'spam.thememascot@gmail.com'; // Your Email Address
-        $toname = 'ThemeMascot'; // Your Name
+        $toemail = 'bookings@resteasyservices.com.au';
+        $toname = 'Rest Easy Services';
 
         if( $botcheck == '' ) {
 

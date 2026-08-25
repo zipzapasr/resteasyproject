@@ -200,7 +200,7 @@
   <link rel="stylesheet" href="assets/css/color-1.css" />
 </head>
 
-<body>
+<body class="location-page">
   <div class="page-wrapper">
     <!--Start Main Header One--> <?php include "includes/header.php"; ?>
     <!--End Main Header One-->
@@ -234,7 +234,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Rosebud</h2>
+          <h1> Cleaning Services in Rosebud</h1>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -242,7 +242,7 @@
             <li>
               <span class="icon-right"></span>
             </li>
-            <li> Rosebud</li>
+            <li> Cleaning Services in Rosebud</li>
           </ul>
         </div>
       </div>
@@ -259,12 +259,7 @@
                 <h1>Cleaning Services Rosebud | Residential & Commercial Cleaning </h1>
               </div>
               <div class="text-box">
-                <p>Cleaning services Rosebud provides professional property maintenance and cleaning services for
-                  residential homes, offices, commercial properties, and holiday rental properties. Services offered
-                  include cleaning services for vacate cleaning, window cleaning, house cleaning, pressure washing,
-                  garden maintenance, car parking, carpet cleaning, linen hire, locksmith, and NDIS cleaning. These
-                  services are offered with detail ensuring the cleanliness, hygiene, and maintenance of the property.
-                </p>
+                <p>Rosebud is the biggest town on the southern Mornington Peninsula, with a two-kilometre shopping strip along Point Nepean Road and one of the largest foreshore camping grounds on the bay, so there's a constant mix of homes, holiday lets and businesses that need keeping on top of. If you're looking for a dependable cleaner near you, Rest Easy Services handles all of it in Rosebud: house cleaning, Airbnb turnover cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire are part of the mix too, keeping local properties across Rosebud clean and ready through both the busy season and the quiet months.</p>
               </div>
               <br>
               <div class="btn-box">
@@ -288,8 +283,60 @@
       </div>
     </section>
     <!--End Services Details -->
-    <!-- Service Area  --> <?php include "includes/all-location.php"; ?>
-    <!-- Service Area end  -->
+    <section class="rye-footprint">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span>Service Coverage</span>
+            </div>
+          </div>
+          <h2>Areas We Cover Around Rosebud</h2>
+          <p class="hc-lead">We look after Rosebud, from the shopping strip to the foreshore streets, along with the wider Mornington Peninsula, Frankston, Brighton and Melbourne's south-east.</p>
+        </div>
+
+        <div class="rye-footprint__grid">
+          <article class="rye-footprint__card">
+            <h3>Mornington Peninsula</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-mornington"><span class="aws-areas__dot"></span>Mornington</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Mount Martha</span>
+              <a class="aws-areas__tag is-active" href="cleaning-services-rosebud"><span class="aws-areas__dot"></span>Rosebud</a>
+              <a class="aws-areas__tag" href="cleaning-services-dromana"><span class="aws-areas__dot"></span>Dromana</a>
+              <a class="aws-areas__tag" href="cleaning-services-mount-eliza"><span class="aws-areas__dot"></span>Mount Eliza</a>
+              <a class="aws-areas__tag" href="cleaning-services-rye"><span class="aws-areas__dot"></span>Rye</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Bayside &amp; Frankston</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-brighton"><span class="aws-areas__dot"></span>Brighton</a>
+              <span class="aws-areas__tag"><span class="aws-areas__dot"></span>Sandringham</span>
+              <a class="aws-areas__tag" href="cleaning-services-frankston"><span class="aws-areas__dot"></span>Frankston</a>
+              <a class="aws-areas__tag" href="cleaning-services-carrum-downs"><span class="aws-areas__dot"></span>Carrum Downs</a>
+              <a class="aws-areas__tag" href="cleaning-services-langwarrin"><span class="aws-areas__dot"></span>Langwarrin</a>
+            </div>
+          </article>
+
+          <article class="rye-footprint__card">
+            <h3>Eastern &amp; South-East</h3>
+            <div class="aws-areas__tags">
+              <a class="aws-areas__tag" href="cleaning-services-toorak"><span class="aws-areas__dot"></span>Toorak</a>
+              <a class="aws-areas__tag" href="cleaning-services-doncaster"><span class="aws-areas__dot"></span>Doncaster</a>
+              <a class="aws-areas__tag" href="cleaning-services-donvale"><span class="aws-areas__dot"></span>Donvale</a>
+              <a class="aws-areas__tag" href="cleaning-services-camberwell"><span class="aws-areas__dot"></span>Camberwell</a>
+              <a class="aws-areas__tag" href="cleaning-services-vermont"><span class="aws-areas__dot"></span>Vermont</a>
+              <a class="aws-areas__tag" href="cleaning-services-wheelers-hill"><span class="aws-areas__dot"></span>Wheelers Hill</a>
+              <a class="aws-areas__tag" href="cleaning-services-glen-waverley"><span class="aws-areas__dot"></span>Glen Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-mt-waverley"><span class="aws-areas__dot"></span>Mt Waverley</a>
+              <a class="aws-areas__tag" href="cleaning-services-burwood"><span class="aws-areas__dot"></span>Burwood</a>
+              <a class="aws-areas__tag" href="cleaning-services-keysborough"><span class="aws-areas__dot"></span>Keysborough</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
     <!--End Services Details -->
     <section class="blog-one">
       <div class="container">
@@ -297,15 +344,17 @@
           <div class="sub-title">
             <div class="text">
               <span>
-                <h2>Professional Cleaners in Rosebud for Each Service</h2>
+                <h2>Which Cleaning Tasks Can We Take Off Your Hands in Rosebud?</h2>
               </span>
+              <p>From a weekly home clean to a full commercial fit-out, it's all handled by one local team, so you're not chasing different companies for different jobs.</p>
             </div>
           </div>
           <p>
             <br>
           </p>
         </div>
-        <div class="row">
+        <div class="location-services__carousel-wrap">
+        <div class="row location-services__grid">
           <!--Start Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInUp animated animated" data-wow-delay=".3s"
             style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -321,8 +370,7 @@
                   <a href="house-cleaning">House Cleaning</a>
                 </h3>
                 <br>
-                <p>House cleaning services by professionals in Rosebud assure all rooms are clean, hygienic, fresh ,and
-                  comfortable for daily living.</p>
+                <p>Regular or one-off house cleaning in Rosebud, built around your routine. A lot of local clients book fortnightly, with a bigger clean before family visit over summer.</p>
               </div>
             </div>
           </div>
@@ -339,11 +387,10 @@
               <!-- Linen Hire -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="vacate-cleaning">Vacate Cleaning </a>
+                  <a href="vacate-cleaning">Vacate Cleaning</a>
                 </h3>
                 <br>
-                <p>Vacate cleaning in Rosebud guarantees cleaning of rental properties for inspection and handover, ensuring results every time. 
-                </p>
+                <p>End-of-lease cleans done to the standard agents inspect against, so the bond comes back and the next tenants move into a fresh place.</p>
               </div>
             </div>
           </div>
@@ -360,12 +407,10 @@
               <!-- House Maintenance -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="airbnb-cleaning">Airbnb Cleaning </a>
+                  <a href="airbnb-cleaning">Airbnb Clean Up</a>
                 </h3>
                 <br>
-                <p>Reliable Airbnb cleaning services in Rosebud guarantee cleanliness and commissioning of holiday
-                  rental for the next guests.
-                </p>
+                <p>With so many short-stay rentals in Rosebud, fast turnovers matter. We clean between guests and can bring the linen with us, ready for the next check-in.</p>
               </div>
             </div>
           </div>
@@ -384,16 +429,10 @@
                   <a href="window-cleaning">Window Cleaning</a>
                 </h3>
                 <br>
-                <p>Window cleaning professionals in Rosebud remove dirt and stains, leaving windows sparkling, crystal-clear, and streak-free.
-                </p>
+                <p>Bay-front glass picks up salt and grime quickly. We clear the film off the panes and get into the tracks, where the build-up actually sits.</p>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <!--Start Blog One Single-->
-        </div>
-        <div class="row">
           <!--Start Blog One Single-->
           <!--End Blog One Single-->
           <div class="col-xl-3 col-lg-3 wow fadeInDown animated animated" data-wow-delay=".3s"
@@ -407,11 +446,10 @@
               <!-- Car Park Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="linen-hire">Linen Rental</a>
+                  <a href="linen-hire">Linen Hire for Vacation Rental</a>
                 </h3>
                 <br>
-                <p>Quality linen hire in Rosebud guarantees the provision of fresh sheets, towels ,and bedding for
-                  houses and holiday accommodations. </p>
+                <p>Fresh sheets and towels laundered and delivered, so hosts aren't stuck doing washing between bookings during the busy stretch.</p>
               </div>
             </div>
           </div>
@@ -427,12 +465,10 @@
               <!-- Pressure Washing -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="house-maintenance">House Repair and Maintenances
-                  </a>
+                  <a href="house-maintenance">Home Maintenance</a>
                 </h3>
                 <br>
-                <p>House repair and maintenance in Rosebud includes keeping homes safe and functioning smoothly for
-                  years.</p>
+                <p>Minor repairs and general upkeep alongside the cleaning. Good for holiday homes, where small jobs pile up unnoticed between visits.</p>
               </div>
             </div>
           </div>
@@ -449,10 +485,10 @@
               <!-- Airbnb Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="garden-maintenance-services">Garden Maintenance Services</a>
+                  <a href="garden-maintenance-services">Garden Maintenance</a>
                 </h3>
                 <br>
-                <p>Garden maintenance service in Rosebud helps maintain lawns, gardens in good health and condition.</p>
+                <p>Lawns, hedges and general tidy-ups across Rosebud, timed so a place stays presentable whether it's lived in full-time or only used over the holidays.</p>
               </div>
             </div>
           </div>
@@ -468,11 +504,10 @@
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="ndis-cleaning-services">Professional NDIS Cleaning Service</a>
+                  <a href="ndis-cleaning-services">NDIS Cleaning Service</a>
                 </h3>
                 <br>
-                <p>NDIS cleaning service in Rossendale ensures healthy living spaces by providing hygiene cleaning
-                  services.</p>
+                <p>Dependable cleaning support for NDIS participants, kept to the same cleaner where we can, so it's a familiar face each visit.</p>
               </div>
             </div>
           </div>
@@ -491,7 +526,7 @@
                   <a href="locksmith-services">Locksmith Services</a>
                 </h3>
                 <br>
-                <p>Locksmith services master in providing lock replacement, rekeying, and repairing services.</p>
+                <p>Lockouts, lock changes and rekeying sorted quickly. Handy for rentals and holiday homes that change hands often.</p>
               </div>
             </div>
           </div>
@@ -507,11 +542,10 @@
               <!-- Window Cleaning -->
               <div class="blog-one__single__content">
                 <h3 class="location-text">
-                  <a href="carpet-cleaning">Carpet Cleaning
-                  </a>
+                  <a href="carpet-cleaning">Carpet Cleanup</a>
                 </h3>
                 <br>
-                <p>Carpet cleaning service restores the appearance of carpets by removing dust, dirt, and stains.</p>
+                <p>Steam cleaning across Rosebud that pulls sand, grit and stains out of the fibres rather than just off the top, plus pet odours while we're at it.</p>
               </div>
             </div>
           </div>
@@ -530,7 +564,7 @@
                   <a href="pressure-washing">Pressure Washing</a>
                 </h3>
                 <br>
-                <p>Pressure washing in Rosebud removes dirt, stains, grime, and mold from patios, driveways, pathways, and walls.</p>
+                <p>Driveways, paths and outdoor areas washed back to clear the mould, lichen and salt that build up in damp, shaded corners near the bay.</p>
               </div>
             </div>
           </div>
@@ -549,15 +583,65 @@
                   <a href="car-park-cleaning">Car Park Cleaning</a>
                 </h3>
                 <br>
-                <p>Car park cleaning eliminates oil stains, litter, dirt, and rubbish, ensuring a cleaner, safer environment daily.
-                </p>
+                <p>For the shopfronts, plazas and body corporate car parks around Rosebud's commercial strip. Swept and washed so they stay tidy through the peak months.</p>
               </div>
             </div>
           </div>
         </div>
+        <div class="location-services__mobile-nav" aria-hidden="true">
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--prev" aria-label="Previous service">
+            <span class="fa fa-angle-left"></span>
+          </button>
+          <button type="button" class="location-services__mobile-nav-btn location-services__mobile-nav-btn--next" aria-label="Next service">
+            <span class="fa fa-angle-right"></span>
+          </button>
+        </div>
+        </div>
       </div>
     </section>
-    <!--Start Our Cleaning Process -->
+
+    <section class="hc-included location-insight">
+      <div class="container">
+        <div class="sec-title text-center">
+          <div class="sub-title">
+            <div class="text">
+              <span>Local Insight</span>
+            </div>
+          </div>
+          <h2>Why Does Rosebud Need Cleaners All Year Round?</h2>
+          <p class="hc-lead">Most Peninsula beach towns run hot in summer and go quiet the rest of the year. Rosebud is busier than that, and the cleaning follows suit.</p>
+        </div>
+
+        <div class="hc-included__grid hc-included__grid--3">
+          <article class="hc-included__card">
+            <span class="hc-included__num">01</span>
+            <div class="hc-included__icon">
+              <span class="icon-house"></span>
+            </div>
+            <h3>The Peninsula's biggest bay town</h3>
+            <p>Rosebud has the shops, the plaza, the cinema and the hospital, so it isn't only holiday homes here. There's a real year-round population, plus the commercial side of things, from small shopfronts to body corporate blocks that need regular upkeep.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">02</span>
+            <div class="hc-included__icon">
+              <span class="icon-working-time"></span>
+            </div>
+            <h3>A foreshore that doubles the town each summer</h3>
+            <p>The Rosebud camping ground is a tradition going back generations, and come summer the town's population swells. Holiday houses and short-stay rentals run at full tilt from December, then a lot of them sit quiet again by autumn and need a proper reset before the next season.</p>
+          </article>
+
+          <article class="hc-included__card">
+            <span class="hc-included__num">03</span>
+            <div class="hc-included__icon">
+              <span class="icon-clean"></span>
+            </div>
+            <h3>Plenty of long-term and older residents</h3>
+            <p>With a lot of retirees and long-settled families, Rosebud has strong demand for the steady, regular kind of clean. That includes NDIS support and ongoing home help, where having the same reliable cleaner turn up matters more than a one-off.</p>
+          </article>
+        </div>
+      </div>
+    </section>
 
     <!--Start CTA  -->
     <section class="cta-one">
@@ -566,10 +650,8 @@
         <div class="cta-one__inner">
           <div class="text-box">
             <h2>Book Professional Cleaning Today</h2>
-            <br>
-            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable
-              professional cleaning services. <br> Contact our team today to schedule your cleaning service or request a
-              customized quote. </p>
+          
+            <p style="color:white">Keep your property fresh, hygienic, and perfectly maintained with reliable professional cleaning services. Contact our team today to schedule your cleaning service or request a customised quote.</p>
           </div>
           <div class="btn-box">
             <a class="thm-btn" href="contact.php">
@@ -585,9 +667,9 @@
     <!-- review section -->
     <!--Start Residential & Rental -->
     <section class="about-two">
-      <div class="sec-title text-center" style="margin-bottom:80px; z-index: 999;">
+      <div class="sec-title text-center">
         <div class="sub-title"></div>
-        <h4 style="font-size: 30px;">FAQS</h4>
+        <h4 style="font-size: 30px;">FAQs</h4>
       </div>
       <div class="about-two__bg" style="background-image: url(assets/images/pattern/about-v2-pattern.png);"></div>
       <div class="container">
@@ -600,11 +682,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3> What kinds of cleaning services do you offer in Rosebud?</h3>
+                  <h3>What local cleaning services can I book near me in Rosebud?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>We provide house cleaning, vacate cleaning, Airbnb cleaning, carpet cleaning, window cleaning,
-                    pressure washing, and many others.</p>
+                  <p>House cleaning, vacate and end-of-lease cleans, Airbnb turnovers, carpet and window cleaning, pressure washing, garden and house maintenance, linen hire, locksmith work and NDIS cleaning.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -612,12 +693,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are you providing end of lease cleaning in Rosebud?</h3>
+                  <h3>Do you clean shopfronts and commercial spaces along the strip?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, vacate cleaning is offered, which consists of preparing rental properties for inspections and
-                    future residents.
-                  </p>
+                  <p>We do. Rosebud has a lot more commercial property than most Peninsula towns, so alongside homes we handle offices, shopfronts and body corporate common areas.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -625,11 +704,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I order regular house cleaning?</h3>
+                  <h3>Can you turn a holiday rental around quickly over summer?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, we have weekly, fortnightly ,and monthly cleaning services that will meet your requirements.
-                  </p>
+                  <p>That's one of our most-booked jobs here. Quick changeover cleans between guests, with linen hire on top if you want the beds made up and ready.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -637,11 +715,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are you cleaning Airbnb and holiday rental properties?</h3>
+                  <h3>Do you offer regular cleaning for older residents?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, our service for Airbnb cleaning includes cleaning, sanitising, and preparing the properties
-                    between stays of the guests.</p>
+                  <p>We do a lot of this in Rosebud. Steady weekly or fortnightly cleaning with the same cleaner where possible, including support for NDIS participants.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -649,11 +726,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are carpet cleaning services offered in Rosebud?</h3>
+                  <h3>Do you offer end-of-lease cleaning in Rosebud?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, professional carpet cleaning helps to remove stains, dirt, allergens ,and odours from any
-                    carpet type.</p>
+                  <p>Moving out? A vacate clean gets the place back to inspection standard, giving you the best shot at your full bond.</p>
                 </div>
               </li>
             </ul>
@@ -667,11 +743,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>You are providing window cleaning services, aren't you?</h3>
+                  <h3>Will the camping season and summer crowds affect getting a booking?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes ,we offer indoor and outdoor window cleaning for commercial and residential properties.
-                  </p>
+                  <p>It can. Rosebud gets flat out from December, so if you need us during the school holidays it pays to lock in a time early.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -679,11 +754,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>What kind of surfaces can you clean with a pressure washer?</h3>
+                  <h3>Can carpet cleaning shift sand and salt from the beach?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Driveways, patios, walkways, walls, fences, decks ,and other outdoor surfaces can be cleaned
-                    professionally.</p>
+                  <p>Steam cleaning lifts embedded sand and salt along with everyday dirt and stains. It's a common ask in a town where everyone's a short walk from the water.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -691,11 +765,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are there NDIS cleaning services available in Rosebud?</h3>
+                  <h3>Do you maintain gardens on holiday homes while owners are away?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes. NDIS cleaning provides support for the client in keeping the living area safe, clean, and
-                    hygienic.</p>
+                  <p>We keep them tidy year-round so the place looks cared for between visits. Mowing, hedges, weeding and green-waste removal.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -703,12 +776,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Are garden care services available?</h3>
+                  <h3>Is NDIS cleaning available in Rosebud?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>The garden services provided include grass cutting, hedges pruning, maintaining cleanliness of the
-                    lawn, and overall garden maintenance.
-                  </p>
+                  <p>It is. Reliable, respectful support to keep a participant's home clean, safe and comfortable.</p>
                 </div>
               </li>
               <li class="accordion block">
@@ -716,11 +787,10 @@
                   <div class="icon-outer">
                     <i class="icon-up-arrow"></i>
                   </div>
-                  <h3>Can I reserve several services at once?</h3>
+                  <h3>Do you do same-day cleaning in Rosebud?</h3>
                 </div>
                 <div class="acc-content">
-                  <p>Yes, it is possible to combine several cleaning and maintenance services into a single appointment.
-                  </p>
+                  <p>Sometimes, depending on the day and the job. It's tighter over summer, so call early if your timing matters.</p>
                 </div>
               </li>
             </ul>

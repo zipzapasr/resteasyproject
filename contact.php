@@ -236,14 +236,14 @@
                                     </div>
                                    <div class="col-xl-6 col-lg-12">
                                         <div class="comment-form__input-box">
-                                        <input type="text" name="<?php echo htmlspecialchars($googleForm['fields']['suburb'], ENT_QUOTES, 'UTF-8'); ?>" data-enquiry-field="suburb" placeholder="Suburb *" required>
+                                        <input type="text" name="<?php echo htmlspecialchars($googleForm['fields']['suburb'], ENT_QUOTES, 'UTF-8'); ?>" data-enquiry-field="suburb" placeholder="Suburb">
                                         </div>
                                     </div> 
                                 </div>
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12">
                                         <div class="comment-form__input-box">
-                                            <textarea name="<?php echo htmlspecialchars($googleForm['fields']['message'], ENT_QUOTES, 'UTF-8'); ?>" data-enquiry-field="message" placeholder="Your Message *" required></textarea>
+                                            <textarea name="<?php echo htmlspecialchars($googleForm['fields']['message'], ENT_QUOTES, 'UTF-8'); ?>" data-enquiry-field="message" placeholder="Your Message"></textarea>
                                         </div>
 
                                         <input type="hidden" name="fvv" value="1">

@@ -1,0 +1,23 @@
+/* Lighthouse: font-display swap for icon fonts (avoids invisible text delay) */
+@font-face {
+  font-family: 'icomoon';
+  src: url('../vendors/thm-icons/fonts/icomoon.woff?orkqwr') format('woff'),
+       url('../vendors/thm-icons/fonts/icomoon.ttf?orkqwr') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../vendors/fontawesome/webfonts/fa-brands-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('../vendors/fontawesome/webfonts/fa-solid-900.woff2') format('woff2');
+}

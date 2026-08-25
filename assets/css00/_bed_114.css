@@ -1,0 +1,151 @@
+.hc-extras {
+  padding: 90px 0 80px;
+  background: #fff;
+}
+
+.hc-included__card {
+  position: relative;
+  overflow: hidden;
+}
+
+.hc-included__num {
+  position: absolute;
+  top: 16px;
+  right: 18px;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 1;
+  color: rgba(0, 35, 89, 0.08);
+}
+
+.vc-trust {
+  padding: 0 0 20px;
+  margin-top: -28px;
+  position: relative;
+  z-index: 2;
+}
+
+.vc-trust__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  background: #fff;
+  border: 1px solid #e4ebf3;
+  border-radius: 18px;
+  box-shadow: 0 16px 40px rgba(0, 35, 89, 0.08);
+  padding: 18px;
+}
+
+.vc-trust__item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 10px;
+}
+
+.vc-trust__icon {
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  background: var(--thm-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.vc-trust__icon span::before {
+  color: #fff;
+  font-size: 20px;
+}
+
+.vc-trust__item p {
+  margin: 0;
+  color: var(--thm-black);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.hc-prep__item {
+  position: relative;
+  padding-left: 22px;
+}
+
+.hc-prep__num {
+  display: inline-block;
+  color: var(--thm-primary);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  margin-bottom: 6px;
+}
+
+.vc-extra__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 40px;
+}
+
+.vc-extra {
+  background: #fff;
+  border: 1px solid #e4ebf3;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 35, 89, 0.05);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vc-extra:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 36px rgba(0, 35, 89, 0.1);
+}
+
+.vc-extra__img {
+  height: 190px;
+  overflow: hidden;
+  background: #eef2f7;
+}
+
+.vc-extra__img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.vc-extra__body {
+  padding: 22px 22px 24px;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
+.vc-extra__body h3 {
+  margin: 0 0 10px;
+  color: var(--thm-black);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.vc-extra__body p {
+  margin: 0 0 16px;
+  color: #5b6b7c;
+  font-size: 15px;
+  line-height: 1.7;
+  flex: 1 1 auto;
+}
+
+.vc-extra__body a {
+  color: var(--thm-primary);
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.vc-extra__body a:hover {
+  color: var(--thm-black);
+}

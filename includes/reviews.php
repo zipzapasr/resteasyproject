@@ -91,7 +91,7 @@ if (is_array($googleLiveData)) {
                                             <img src="<?php echo htmlspecialchars($reviewPhoto, ENT_QUOTES, 'UTF-8'); ?>" alt="<?php echo htmlspecialchars($reviewName, ENT_QUOTES, 'UTF-8'); ?>" loading="lazy" referrerpolicy="no-referrer">
                                         </div>
                                         <div class="google-review-card__meta">
-                                            <h4 class="google-review-card__name"><?php echo htmlspecialchars($reviewName, ENT_QUOTES, 'UTF-8'); ?></h4>
+                                            <p class="google-review-card__name"><?php echo htmlspecialchars($reviewName, ENT_QUOTES, 'UTF-8'); ?></p>
                                             <?php if ($reviewTime): ?>
                                             <span class="google-review-card__time"><?php echo htmlspecialchars($reviewTime, ENT_QUOTES, 'UTF-8'); ?></span>
                                             <?php endif; ?>

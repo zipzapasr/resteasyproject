@@ -7,11 +7,11 @@ $mail = new PHPMailer();
 
 //$mail->SMTPDebug = 3; // Enable verbose debug output
 $mail->isSMTP(); // Set mailer to use SMTP
-$mail->Host = 'steelthemes.com'; // Specify main and backup SMTP servers
+$mail->Host = 'smtp.hostinger.com'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
-$mail->Username = 'cform@steelthemes.com'; // SMTP username
-$mail->Password = 'AsDf12**'; // SMTP password
-$mail->SMTPSecure = true; // Enable TLS encryption, `ssl` also accepted
+$mail->Username = 'info@resteasyservices.com.au'; // SMTP username
+$mail->Password = 'DDs!^1&#@^!@!%%'; // SMTP password
+$mail->SMTPSecure =PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS;; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465; // TCP port to connect to
 
 $message = "";
@@ -30,8 +30,8 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
  $botcheck = $_POST['form_botcheck'];
 
- $toemail = 'templatecform@gmail.com'; // Your Email Address
- $toname = 'template_path'; // Your Name
+ $toemail = 'bookings@resteasyservices.com.au';
+ $toname = 'Rest Easy Services';
 
  if( $botcheck == '' ) {
 

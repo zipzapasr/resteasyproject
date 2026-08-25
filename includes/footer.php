@@ -159,7 +159,7 @@
 
 /* --- Bottom bar --- */
 .re-footer__bottom {
-    background-color: #e07b2a;
+    background-color: #ff5e15;
     padding: 14px 0;
     margin-top: 40px;
 }
@@ -331,6 +331,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about-us">About Us</a></li>
                             <li><a href="reviews">Reviews</a></li>
+                            <li><a href="blog">Blog</a></li>
                             <li><a href="contact">Contact</a></li>
                             <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Bookings</a></li>
                              
@@ -603,7 +604,7 @@ function reFooterToggle(id) {
                                     <div class="comment-form__input-box">
                                         <input type="text"
                                             name="<?php echo htmlspecialchars($googleForm['fields']['suburb'], ENT_QUOTES, 'UTF-8'); ?>"
-                                            data-enquiry-field="suburb" placeholder="Suburb *" required>
+                                            data-enquiry-field="suburb" placeholder="Suburb">
                                     </div>
                                 </div>
                             </div>
@@ -613,7 +614,7 @@ function reFooterToggle(id) {
                                         <textarea
                                             name="<?php echo htmlspecialchars($googleForm['fields']['message'], ENT_QUOTES, 'UTF-8'); ?>"
                                             data-enquiry-field="message"
-                                            placeholder="Your Message *" required></textarea>
+                                            placeholder="Your Message"></textarea>
                                     </div>
                                     <br>
 
@@ -768,9 +769,10 @@ function reFooterToggle(id) {
     }
 </script>
 
-<!-- Contact Form AJAX Handler (site-wide) -->
+<!-- Contact Form AJAX Handler (site-wide) — deferred to reduce TBT -->
 <script>
-    (function ($) {
+    function resteasyInitContactForms() {
+    (window.resteasyOnReady || function (fn) { fn(window.jQuery); })(function ($) {
         if (!$) return;
 
         function getMessageBox($form) {
@@ -838,7 +840,7 @@ function reFooterToggle(id) {
                         },
                         error: function () {
                             setBoxStyle($messages, false);
-                            $messages.html('<strong>Error:</strong> There was a problem submitting your enquiry. Please try again or contact us directly at <a href="mailto:sales@resteasyservices.com.au">sales@resteasyservices.com.au</a>').fadeIn();
+                            $messages.html('<strong>Error:</strong> There was a problem submitting your enquiry. Please try again or contact us directly at <a href="mailto:bookings@resteasyservices.com.au">bookings@resteasyservices.com.au</a>').fadeIn();
                         },
                         complete: function () {
                             $btn.prop('disabled', false);
@@ -857,7 +859,16 @@ function reFooterToggle(id) {
                 });
             });
         });
-    })(window.jQuery);
+    });
+    }
+
+    if ('requestIdleCallback' in window) {
+        requestIdleCallback(resteasyInitContactForms, { timeout: 5000 });
+    } else {
+        window.addEventListener('load', function () {
+            setTimeout(resteasyInitContactForms, 2000);
+        });
+    }
 </script>
 
 <!-- Footer Accordion for Mobile -->

@@ -163,6 +163,46 @@
       });
     }
 
+    // Vacate / service "Why Choose Us" card carousel
+    if ($(".hc-why-carousel").length && $.fn.owlCarousel) {
+      $(".hc-why-carousel").each(function () {
+        var elm = $(this);
+        if (elm.data("owl.carousel")) return;
+
+        var wrap = elm.closest(".hc-why-carousel-wrap");
+        var $dots = wrap.find(".hc-why-carousel__dots");
+
+        elm.owlCarousel({
+          loop: true,
+          center: false,
+          autoplay: false,
+          margin: 18,
+          nav: false,
+          dots: true,
+          dotsContainer: $dots.length ? $dots : false,
+          smartSpeed: 500,
+          responsive: {
+            0: { items: 1, margin: 12, stagePadding: 0 },
+            576: { items: 2, margin: 14, stagePadding: 0 },
+            768: { items: 2, margin: 18, stagePadding: 0 },
+            992: { items: 2, margin: 20, stagePadding: 0 },
+            1200: { items: 2, margin: 24, stagePadding: 0 }
+          }
+        });
+
+        if (wrap.length) {
+          wrap.find(".hc-why-carousel__nav--prev").on("click", function (e) {
+            e.preventDefault();
+            elm.trigger("prev.owl.carousel");
+          });
+          wrap.find(".hc-why-carousel__nav--next").on("click", function (e) {
+            e.preventDefault();
+            elm.trigger("next.owl.carousel");
+          });
+        }
+      });
+    }
+
     // Services cards: horizontal carousel on mobile only
     (function initFeatureThreeMobileCarousel() {
       var $wrap = $(".feature-three__carousel-wrap");
@@ -691,6 +731,9 @@
 
   if ($.fn.ptTimeSelect && $('input[name="time"]').length) {
     $('input[name="time"]').ptTimeSelect();
+  } else if ($('#ptTimeSelectCntr').length) {
+    // Theme JS injects the timepicker markup globally; hide if unused
+    $('#ptTimeSelectCntr').hide();
   }
 
 
@@ -890,26 +933,32 @@
   };
 
 
-  //Accordion Box
-  if ($('.accordion-box').length) {
-    $(".accordion-box").on('click', '.acc-btn', function () {
+  //Accordion Box — toggle open/close; one open per column
+  if ($(".accordion-box").length) {
+    $(document).off("click.resteasyAccordion", ".accordion-box .acc-btn");
+    $(document).on("click.resteasyAccordion", ".accordion-box .acc-btn", function (e) {
+      e.preventDefault();
 
-      var outerBox = $(this).parents('.accordion-box');
-      var target = $(this).parents('.accordion');
+      var $btn = $(this);
+      var $outerBox = $btn.closest(".accordion-box");
+      var $target = $btn.closest(".accordion");
+      var $content = $btn.next(".acc-content");
 
-      if ($(this).hasClass('active') !== true) {
-        $(outerBox).find('.accordion .acc-btn').removeClass('active');
+      // Clicking the open item closes it
+      if ($btn.hasClass("active") || $content.is(":visible")) {
+        $btn.removeClass("active");
+        $target.removeClass("active-block");
+        $content.slideUp(300);
+        return;
       }
 
-      if ($(this).next('.acc-content').is(':visible')) {
-        return false;
-      } else {
-        $(this).addClass('active');
-        $(outerBox).children('.accordion').removeClass('active-block');
-        $(outerBox).find('.accordion').children('.acc-content').slideUp(300);
-        target.addClass('active-block');
-        $(this).next('.acc-content').slideDown(300);
-      }
+      $outerBox.find(".accordion .acc-btn").removeClass("active");
+      $outerBox.find(".accordion").removeClass("active-block");
+      $outerBox.find(".accordion > .acc-content").slideUp(300);
+
+      $btn.addClass("active");
+      $target.addClass("active-block");
+      $content.slideDown(300);
     });
   }
 
@@ -1146,12 +1195,65 @@
     input[0].setSelectionRange(caret_pos, caret_pos);
   }
 
+  // Location service cards: 3-line clamp + Read more / Read less
+  function initLocationServicesReadMore() {
+    var $scopes = $(".location-services__grid, .location-services__mobile-carousel");
 
+    $scopes.find(".blog-one__single__content > p").each(function () {
+      var $p = $(this);
+      if ($p.data("location-readmore-ready")) {
+        return;
+      }
+      $p.data("location-readmore-ready", true);
+      $p.addClass("location-services__desc");
 
+      if (!$p.next(".location-services__read-more").length) {
+        $p.after(
+          '<button type="button" class="location-services__read-more" aria-expanded="false">Read more</button>'
+        );
+      }
+    });
 
+    function syncAllVisibility() {
+      $scopes.find(".location-services__desc").each(function () {
+        var $p = $(this);
+        var $btn = $p.next(".location-services__read-more");
+        if (!$btn.length) {
+          return;
+        }
+        if ($p.hasClass("is-expanded")) {
+          $btn.show();
+          return;
+        }
+        var el = $p[0];
+        if (el.scrollHeight > el.clientHeight + 1) {
+          $btn.show();
+        } else {
+          $btn.hide();
+        }
+      });
+    }
 
+    $scopes
+      .off("click.locationReadMore", ".location-services__read-more")
+      .on("click.locationReadMore", ".location-services__read-more", function () {
+        var $btn = $(this);
+        var $p = $btn.prev(".location-services__desc");
+        if (!$p.length) {
+          return;
+        }
+        var expanded = $p.hasClass("is-expanded");
+        $p.toggleClass("is-expanded", !expanded);
+        $btn.attr("aria-expanded", String(!expanded));
+        $btn.text(expanded ? "Read more" : "Read less");
+        syncAllVisibility();
+      });
 
+    syncAllVisibility();
+    $(window).off("resize.locationReadMore").on("resize.locationReadMore", syncAllVisibility);
+  }
 
-
+  initLocationServicesReadMore();
+  $(window).on("load", initLocationServicesReadMore);
 
 })(jQuery);

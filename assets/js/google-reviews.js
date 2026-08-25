@@ -64,7 +64,7 @@
               '<img src="' + escapeHtml(photo) + '" alt="' + escapeHtml(name) + '" loading="lazy" referrerpolicy="no-referrer">' +
             '</div>' +
             '<div class="google-review-card__meta">' +
-              '<h4 class="google-review-card__name">' + escapeHtml(name) + '</h4>' +
+              '<p class="google-review-card__name">' + escapeHtml(name) + '</p>' +
               (time ? '<span class="google-review-card__time">' + escapeHtml(time) + '</span>' : '') +
             '</div>' +
           '</div>' +

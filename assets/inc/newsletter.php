@@ -83,8 +83,10 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     $saved = @file_put_contents($subscribersFile, $entry, FILE_APPEND | LOCK_EX);
     
     if ($saved !== false) {
+        require_once __DIR__ . '/../../includes/google-form-config.php';
+
         // Send notification email to admin
-        $toEmail = 'info@resteasyservices.com.au';
+        $toEmail = $resteasyFormRecipientEmail ?? 'bookings@resteasyservices.com.au';
         $subject = 'New Newsletter Subscription';
         
         $headers = "MIME-Version: 1.0\r\n";
