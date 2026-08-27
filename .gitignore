@@ -1,0 +1,8 @@
+# Accidental git directory copy (must never be committed)
+.git.*/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
