@@ -56,8 +56,11 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     
     require_once __DIR__ . '/../../includes/google-form-config.php';
 
-    // Recipient - Rest Easy Services email
-    $toEmail = $resteasyFormRecipientEmail ?? 'sales@zipzap.in';
+    // Recipient(s) for Rest Easy enquiries
+    $toEmails = $resteasyFormRecipientEmail ?? array('bookings@resteasyservices.com.au');
+    if (!is_array($toEmails)) {
+        $toEmails = array($toEmails);
+    }
 
     // Build email body
     $emailBody = "
@@ -134,33 +137,42 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     // Send email via SMTP (PHP mail() is unreliable on most hosts)
     require_once __DIR__ . '/phpmailer/class.phpmailer.php';
     require_once __DIR__ . '/phpmailer/class.smtp.php';
+    require_once __DIR__ . '/smtp-config.php';
 
+    $smtpCreds = resteasy_smtp_credentials();
     $mail = new PHPMailer();
-    $mail->isSMTP();
-    $mail->Host = 'smtp.hostinger.com';
-    $mail->SMTPAuth = true;
-    $mail->Username = 'info@resteasyservices.com.au';
-    $mail->Password = 'DDs!^1&#@^!@!%%';
-    $mail->SMTPSecure = 'ssl';
-    $mail->Port = 465;
-    $mail->CharSet = 'UTF-8';
-    $mail->SetFrom('info@resteasyservices.com.au', 'Rest Easy Services');
+    $mail->SetFrom($smtpCreds['from_email'], $smtpCreds['from_name']);
     $mail->AddReplyTo($email, $name);
-    $mail->AddAddress($toEmail, 'Rest Easy Services');
+    foreach ($toEmails as $addr) {
+        $addr = trim((string) $addr);
+        if ($addr !== '') {
+            $mail->AddAddress($addr, 'Rest Easy Services');
+        }
+    }
     $mail->Subject = $subject;
     $mail->MsgHTML($emailBody);
     $mail->IsHTML(true);
 
-    $mailSent = $mail->Send();
+    $smtpError = null;
+    $mailSent = resteasy_smtp_send($mail, $smtpError);
+
+    // Log SMTP result for debugging
+    $logLine = date('Y-m-d H:i:s') . ' | sent=' . ($mailSent ? '1' : '0')
+        . ' | to=' . implode(',', $toEmails)
+        . ' | from_form=' . $email
+        . ($mailSent ? '' : (' | error=' . $smtpError))
+        . "\n";
+    @file_put_contents(__DIR__ . DIRECTORY_SEPARATOR . 'mail_log.txt', $logLine, FILE_APPEND | LOCK_EX);
 
     if ($mailSent) {
         $response['success'] = true;
         $response['message'] = 'Thank you for your enquiry! We have received your message and will get back to you as soon as possible.';
     } else {
-        if ($wantsJson) {
-            http_response_code(500);
-        }
-        $response['message'] = 'Sorry, there was a problem sending your message. Please try again or contact us directly at sales@zipzap.in';
+        // Enquiry is already saved in contact_submissions.txt — still show success to visitor
+        // so leads are not lost when the host blocks outbound SMTP (common on Hostinger).
+        $response['success'] = true;
+        $response['message'] = 'Thank you for your enquiry! We have received your message and will get back to you as soon as possible.';
+        $response['mail_warning'] = $smtpError;
     }
     
 } else {

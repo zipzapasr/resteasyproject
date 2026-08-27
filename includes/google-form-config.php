@@ -2,7 +2,10 @@
 /**
  * Google Form + enquiry email settings (used by contact forms site-wide).
  */
-$resteasyFormRecipientEmail = 'sales@zipzap.in';
+// Who receives website enquiries (main form uses sendemail.php)
+$resteasyFormRecipientEmail = array(
+    'bookings@resteasyservices.com.au',
+);
 $resteasyGoogleForm = array(
     'action' => 'https://docs.google.com/forms/d/e/1FAIpQLSdCIbBIsKXWtOcwRe28oKjqaYnTl6guL9RDVwQ7PWZQjdRPrA/formResponse',
     'fbzx' => '5596094188197341058',

@@ -2,17 +2,10 @@
 
 require_once('phpmailer/class.phpmailer.php');
 require_once('phpmailer/class.smtp.php');
+require_once('smtp-config.php');
 
 $mail = new PHPMailer();
-
-//$mail->SMTPDebug = 3; // Enable verbose debug output
-$mail->isSMTP(); // Set mailer to use SMTP
-$mail->Host = 'smtp.hostinger.com'; // Specify main and backup SMTP servers
-$mail->SMTPAuth = true; // Enable SMTP authentication
-$mail->Username = 'info@resteasyservices.com.au'; // SMTP username
-$mail->Password = 'DDs!^1&#@^!@!%%'; // SMTP password
-$mail->SMTPSecure =PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS;; // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 465; // TCP port to connect to
+$smtpCreds = resteasy_smtp_credentials();
 
 $message = "";
 $status = "false";
@@ -30,14 +23,16 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
  $botcheck = $_POST['form_botcheck'];
 
- $toemail = 'bookings@resteasyservices.com.au';
+ $toemail = array('bookings@resteasyservices.com.au');
  $toname = 'Rest Easy Services';
 
  if( $botcheck == '' ) {
 
- $mail->SetFrom( $email , $name );
+ $mail->SetFrom( $smtpCreds['from_email'] , $smtpCreds['from_name'] );
  $mail->AddReplyTo( $email , $name );
- $mail->AddAddress( $toemail , $toname );
+ foreach ($toemail as $addr) {
+  $mail->AddAddress( $addr , $toname );
+ }
  $mail->Subject = $subject;
 
  $name = isset($name) ? "Name: $name<br><br>" : '';
@@ -50,13 +45,14 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
  $body = "$name $email $phone $message $referrer";
 
  $mail->MsgHTML( $body );
- $sendEmail = $mail->Send();
+ $smtpError = null;
+ $sendEmail = resteasy_smtp_send($mail, $smtpError);
 
  if( $sendEmail == true ):
  $message = 'We have <strong>successfully</strong> received your Message and will get Back to you as soon as possible.';
  $status = "true";
  else:
- $message = 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.<br /><br /><strong>Reason:</strong><br />' . $mail->ErrorInfo . '';
+ $message = 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.<br /><br /><strong>Reason:</strong><br />' . $smtpError . '';
  $status = "false";
  endif;
  } else {

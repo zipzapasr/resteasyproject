@@ -5658,25 +5658,16 @@ body {
     }
 
     .location-services__mobile-carousel .location-services__desc,
-<<<<<<< HEAD
     .location-services__grid .location-services__desc {
         display: -webkit-box;
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 3;
         overflow: hidden;
         text-overflow: ellipsis;
-=======
-    .location-services__grid .location-services__desc,
-    .location-services__mobile-carousel .blog-one__single__content > p,
-    .location-services__grid .blog-one__single__content > p {
-        display: block;
-        overflow: visible;
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
         margin: 0;
         font-size: 14px;
         line-height: 1.55;
         color: #6b7280;
-<<<<<<< HEAD
         min-height: calc(1.55em * 3);
     }
 
@@ -5686,21 +5677,15 @@ body {
         -webkit-line-clamp: unset;
         overflow: visible;
         min-height: 0;
-=======
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     }
 
     .location-services__mobile-carousel .location-services__read-more,
     .location-services__grid .location-services__read-more {
-<<<<<<< HEAD
         display: inline-block;
         margin-top: auto;
         padding-top: 8px;
         align-self: flex-start;
         text-align: left;
-=======
-        display: none !important;
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     }
 
     .location-services__mobile-carousel .owl-dots {

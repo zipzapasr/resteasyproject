@@ -1208,7 +1208,6 @@
   };
 
 
-<<<<<<< HEAD
   //Accordion Box — toggle open/close; one open per column
   if ($(".accordion-box").length) {
     $(document).off("click.resteasyAccordion", ".accordion-box .acc-btn");
@@ -1224,45 +1223,17 @@
       if ($btn.hasClass("active") || $content.is(":visible")) {
         $btn.removeClass("active");
         $target.removeClass("active-block");
-        $content.slideUp(300);
+        $content.stop(true, true).slideUp(300);
         return;
       }
 
       $outerBox.find(".accordion .acc-btn").removeClass("active");
       $outerBox.find(".accordion").removeClass("active-block");
-      $outerBox.find(".accordion > .acc-content").slideUp(300);
+      $outerBox.find(".accordion > .acc-content").stop(true, true).slideUp(300);
 
       $btn.addClass("active");
       $target.addClass("active-block");
-      $content.slideDown(300);
-=======
-  //Accordion Box
-  if ($('.accordion-box').length) {
-    $(".accordion-box").off('click.accToggle').on('click.accToggle', '.acc-btn', function (e) {
-      e.preventDefault();
-
-      var $btn = $(this);
-      var $outerBox = $btn.closest('.accordion-box');
-      var $target = $btn.closest('.accordion');
-      var $content = $btn.next('.acc-content');
-
-      // Clicking an open item closes it
-      if ($btn.hasClass('active')) {
-        $btn.removeClass('active');
-        $target.removeClass('active-block');
-        $content.stop(true, true).slideUp(300);
-        return;
-      }
-
-      // Open this item and close others in the same column
-      $outerBox.find('.accordion .acc-btn').removeClass('active');
-      $outerBox.find('.accordion').removeClass('active-block');
-      $outerBox.find('.accordion > .acc-content').stop(true, true).slideUp(300);
-
-      $btn.addClass('active');
-      $target.addClass('active-block');
       $content.stop(true, true).slideDown(300);
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
     });
   }
 

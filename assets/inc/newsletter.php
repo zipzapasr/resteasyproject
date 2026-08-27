@@ -86,7 +86,11 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
         require_once __DIR__ . '/../../includes/google-form-config.php';
 
         // Send notification email to admin
-        $toEmail = $resteasyFormRecipientEmail ?? 'bookings@resteasyservices.com.au';
+        $toEmails = $resteasyFormRecipientEmail ?? array('bookings@resteasyservices.com.au');
+        if (!is_array($toEmails)) {
+            $toEmails = array($toEmails);
+        }
+        $toEmail = implode(', ', $toEmails);
         $subject = 'New Newsletter Subscription';
         
         $headers = "MIME-Version: 1.0\r\n";

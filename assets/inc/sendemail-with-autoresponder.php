@@ -2,19 +2,11 @@
 
 require_once('phpmailer/class.phpmailer.php');
 require_once('phpmailer/class.smtp.php');
+require_once('smtp-config.php');
 
 $mail = new PHPMailer();
 $autoresponder = new PHPMailer();
-
-//$mail->SMTPDebug = 3;                               // Enable verbose debug output
-$mail->isSMTP(); // Set mailer to use SMTP
-$mail->Host = 'smtp.hostinger.com'; // Specify main and backup SMTP servers
-$mail->SMTPAuth = true; // Enable SMTP authentication
-$mail->Username = 'info@resteasyservices.com.au'; // SMTP username
-$mail->Password = 'DDs!^1&#@^!@!%%'; // SMTP password
-$mail->SMTPSecure =PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS;; // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 465; // TCP port to connect to                                // TCP port to connect to
-
+$smtpCreds = resteasy_smtp_credentials();
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
     if( $_POST['contact-form-name'] != '' AND $_POST['contact-form-email'] != '' AND $_POST['contact-form-subject'] != '' ) {
@@ -25,27 +17,28 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         $phone = $_POST['contact-form-phone'];
         $message = $_POST['contact-form-message'];
 
-
 		$subject = isset($subject) ? $subject : 'New Message From Contact Form';
 
 		$botcheck = $_POST['contact-form-botcheck'];
 
-        $toemail = 'bookings@resteasyservices.com.au';
+        $toemail = array('bookings@resteasyservices.com.au');
         $toname = 'Rest Easy Services';
 
 		if( $botcheck == '' ) {
 
-			$mail->SetFrom( $email , $name );
+			$mail->SetFrom( $smtpCreds['from_email'] , $smtpCreds['from_name'] );
 			$mail->AddReplyTo( $email , $name );
-			$mail->AddAddress( $toemail , $toname );
+			foreach ($toemail as $addr) {
+				$mail->AddAddress( $addr , $toname );
+			}
 			$mail->Subject = $subject;
 
-			$autoresponder->SetFrom( $toemail , $toname );
-			$autoresponder->AddReplyTo( $toemail , $toname );
+			$autoresponder->SetFrom( $smtpCreds['from_email'] , $smtpCreds['from_name'] );
+			$autoresponder->AddReplyTo( $smtpCreds['from_email'] , $smtpCreds['from_name'] );
 			$autoresponder->AddAddress( $email , $name );
 			$autoresponder->Subject = 'We\'ve received your Email';
 
-			$ar_body = "Thank you for contacting us. We will reply within 24 hours.<br><br>Regards,<br>Your Company.";
+			$ar_body = "Thank you for contacting us. We will reply within 24 hours.<br><br>Regards,<br>Rest Easy Services.";
 
 			$name = isset($name) ? "Name: $name<br><br>" : '';
 			$email = isset($email) ? "Email: $email<br><br>" : '';
@@ -56,17 +49,16 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 			$body = "$name $email $phone $message $referrer";
 
-			$ar_body = "Thank you for contacting us. We will reply within 24 hours.<br><br>Regards,<br>Your Company.";
-
 			$autoresponder->MsgHTML( $ar_body );
 			$mail->MsgHTML( $body );
-			$sendEmail = $mail->Send();
+			$smtpError = null;
+			$sendEmail = resteasy_smtp_send($mail, $smtpError);
 
 			if( $sendEmail == true ):
-				$send_arEmail = $autoresponder->Send();
+				resteasy_smtp_send($autoresponder, $smtpError);
 				echo 'We have <strong>successfully</strong> received your Message and will get Back to you as soon as possible.';
 			else:
-				echo 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.<br /><br /><strong>Reason:</strong><br />' . $mail->ErrorInfo . '';
+				echo 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.<br /><br /><strong>Reason:</strong><br />' . $smtpError . '';
 			endif;
 		} else {
 			echo 'Bot <strong>Detected</strong>.! Clean yourself Botster.!';

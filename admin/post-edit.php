@@ -106,6 +106,14 @@ tinymce.init({
     plugins: 'advlist autolink lists link charmap preview anchor searchreplace visualblocks code fullscreen insertdatetime table wordcount',
     toolbar: 'undo redo | blocks | bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link table | removeformat | code fullscreen',
     content_style: 'body { font-family: Open Sans, Arial, sans-serif; font-size: 16px; line-height: 1.7; }',
+    // Keep root-relative or absolute hrefs. Default relative_urls rewrites
+    // https://site/page → ../../page from /blog/admin/post-edit, which the
+    // server sanitizer then strips down to a bare <a>.
+    relative_urls: false,
+    remove_script_host: true,
+    document_base_url: <?= json_encode(rtrim(BLOG_BASE_URL, '/') . '/', JSON_UNESCAPED_SLASHES) ?>,
+    convert_urls: true,
+    link_default_protocol: 'https',
     branding: false,
     promotion: false
 });
