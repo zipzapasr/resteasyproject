@@ -14,6 +14,7 @@ $resteasyGoogleForm = array(
         'email' => 'entry.317856632',
         'phone' => 'entry.2075248938',
         'suburb' => 'entry.1778987614',
+        'service' => 'entry.814260044',
         'message' => 'entry.230954203',
     ),
 );

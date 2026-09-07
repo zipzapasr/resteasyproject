@@ -9,7 +9,15 @@
             if (!key) return;
             data[key] = (el.value || '').trim();
         });
+        if (data.service) {
+            data.subject = 'Website Enquiry: ' + data.service;
+        }
         return data;
+    }
+
+    function prependServiceToMessage(form) {
+        // Service now has its own Google Form field. Keep message clean.
+        return;
     }
 
     function sendEnquiryEmail(form, data) {
@@ -46,7 +54,9 @@
         form.dataset.enquiryEmailBound = '1';
 
         form.addEventListener('submit', function () {
-            sendEnquiryEmail(form, collectEnquiry(form));
+            var enquiry = collectEnquiry(form);
+            sendEnquiryEmail(form, enquiry);
+            prependServiceToMessage(form);
         });
     }
 

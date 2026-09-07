@@ -243,6 +243,25 @@
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12">
                                         <div class="comment-form__input-box">
+                                            <select class="ignore"
+                                                name="<?php echo htmlspecialchars($googleForm['fields']['service'], ENT_QUOTES, 'UTF-8'); ?>"
+                                                data-enquiry-field="service" required autocomplete="off">
+                                                <option value="">Select a service *</option>
+                                                <option value="Cleaning">Cleaning</option>
+                                                <option value="Linen Hire">Linen Hire</option>
+                                                <option value="Gardening">Gardening</option>
+                                                <option value="Rubbish Removal">Rubbish Removal</option>
+                                                <option value="Handy Man">Handy Man</option>
+                                                <option value="Pressure Wash">Pressure Wash</option>
+                                                <option value="Electrician">Electrician</option>
+                                                <option value="Plumbing">Plumbing</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xl-12 col-lg-12">
+                                        <div class="comment-form__input-box">
                                             <textarea name="<?php echo htmlspecialchars($googleForm['fields']['message'], ENT_QUOTES, 'UTF-8'); ?>" data-enquiry-field="message" placeholder="Your Message"></textarea>
                                         </div>
 

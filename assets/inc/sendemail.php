@@ -33,6 +33,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     $email = isset($_POST['email']) ? trim($_POST['email']) : '';
     $phone = isset($_POST['phone']) ? trim($_POST['phone']) : '';
     $suburb = isset($_POST['suburb']) ? trim($_POST['suburb']) : '';
+    $service = isset($_POST['service']) ? trim($_POST['service']) : '';
     $subject = isset($_POST['subject']) ? trim($_POST['subject']) : '';
     $message = isset($_POST['message']) ? trim($_POST['message']) : '';
     
@@ -51,7 +52,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
     
     // Set default subject if empty
     if (empty($subject)) {
-        $subject = 'New Enquiry from Website';
+        $subject = $service !== '' ? ('Website Enquiry: ' . $service) : 'New Enquiry from Website';
     }
     
     require_once __DIR__ . '/../../includes/google-form-config.php';
@@ -100,6 +101,10 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
                     <div class='value'>" . htmlspecialchars($suburb ?: 'Not provided') . "</div>
                 </div>
                 <div class='field'>
+                    <div class='label'>Service:</div>
+                    <div class='value'>" . htmlspecialchars($service ?: 'Not provided') . "</div>
+                </div>
+                <div class='field'>
                     <div class='label'>Subject:</div>
                     <div class='value'>" . htmlspecialchars($subject) . "</div>
                 </div>
@@ -129,6 +134,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') === 'POST') {
         'email' => $email,
         'phone' => $phone,
         'suburb' => $suburb,
+        'service' => $service,
         'subject' => $subject,
         'message' => $message
     )) . "\n";

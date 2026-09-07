@@ -575,7 +575,7 @@ function reFooterToggle(id) {
                             method="POST" target="gform_hidden_iframe_modal" class="comment-one__form"
                             data-google-form="1"
                             data-enquiry-email-url="<?php echo htmlspecialchars($resteasyEnquiryEmailUrl, ENT_QUOTES, 'UTF-8'); ?>"
-                            autocomplete="on">
+                            autocomplete="off">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-12">
                                     <div class="comment-form__input-box">
@@ -610,6 +610,25 @@ function reFooterToggle(id) {
                             </div>
                             <div class="row">
                                 <div class="col-xl-12 col-lg-12">
+                                    <div class="comment-form__input-box">
+                                        <select class="ignore"
+                                            name="<?php echo htmlspecialchars($googleForm['fields']['service'], ENT_QUOTES, 'UTF-8'); ?>"
+                                            data-enquiry-field="service" required autocomplete="off">
+                                            <option value="">Select a service *</option>
+                                            <option value="Cleaning">Cleaning</option>
+                                            <option value="Linen Hire">Linen Hire</option>
+                                            <option value="Gardening">Gardening</option>
+                                            <option value="Rubbish Removal">Rubbish Removal</option>
+                                            <option value="Handy Man">Handy Man</option>
+                                            <option value="Pressure Wash">Pressure Wash</option>
+                                            <option value="Electrician">Electrician</option>
+                                            <option value="Plumbing">Plumbing</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xl-12 col-lg-12">
                                     <div class="comment-form__input-boxx">
                                         <textarea
                                             name="<?php echo htmlspecialchars($googleForm['fields']['message'], ENT_QUOTES, 'UTF-8'); ?>"
@@ -636,6 +655,19 @@ function reFooterToggle(id) {
                             (function () {
                                 var form = document.getElementById('contact-form');
                                 if (!form) return;
+
+                                var serviceSelect = form.querySelector('select[data-enquiry-field="service"]');
+                                var modal = document.getElementById('exampleModal');
+                                function resetServiceDefault() {
+                                    if (serviceSelect) {
+                                        serviceSelect.selectedIndex = 0;
+                                        serviceSelect.value = '';
+                                    }
+                                }
+                                resetServiceDefault();
+                                if (modal) {
+                                    modal.addEventListener('show.bs.modal', resetServiceDefault);
+                                }
 
                                 var action = (form.getAttribute('action') || '').toLowerCase();
                                 var isGoogle = action.indexOf('docs.google.com/forms') !== -1 || action.indexOf('google.com/forms') !== -1;

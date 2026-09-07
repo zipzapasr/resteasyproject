@@ -47,6 +47,7 @@ function resteasy_normalize_google_reviews($data)
             'relative_time_description' => !empty($review['relativePublishTimeDescription'])
                 ? $review['relativePublishTimeDescription']
                 : '',
+            'publish_time' => !empty($review['publishTime']) ? (string) $review['publishTime'] : '',
             'text' => $text,
             'rating' => !empty($review['rating']) ? (int) $review['rating'] : 5,
             'review_url' => $reviewUrl,
@@ -84,6 +85,9 @@ function resteasy_normalize_legacy_google_reviews($data)
             'profile_photo_url' => !empty($review['profile_photo_url']) ? $review['profile_photo_url'] : '',
             'relative_time_description' => !empty($review['relative_time_description'])
                 ? $review['relative_time_description']
+                : '',
+            'publish_time' => !empty($review['time'])
+                ? gmdate('c', (int) $review['time'])
                 : '',
             'text' => $text,
             'rating' => !empty($review['rating']) ? (int) $review['rating'] : 5,
@@ -163,6 +167,7 @@ function resteasy_load_curated_google_reviews()
             'relative_time_description' => !empty($review['relative_time_description'])
                 ? $review['relative_time_description']
                 : '',
+            'publish_time' => !empty($review['publish_time']) ? (string) $review['publish_time'] : '',
             'text' => $review['text'],
             'rating' => !empty($review['rating']) ? (int) $review['rating'] : 5,
             'review_url' => !empty($review['review_url']) ? $review['review_url'] : '',
@@ -195,13 +200,36 @@ function resteasy_merge_google_reviews($primary, $secondary, $limit = 15)
         }
         $key = resteasy_google_review_dedupe_key($review);
         if (isset($seen[$key])) {
+            // Prefer the copy that has a publish_time / fresher relative time.
+            $existingIndex = $seen[$key];
+            $existing = $merged[$existingIndex];
+            $incomingHasTime = !empty($review['publish_time']);
+            $existingHasTime = !empty($existing['publish_time']);
+            if ($incomingHasTime && !$existingHasTime) {
+                $merged[$existingIndex] = $review;
+            } elseif ($incomingHasTime && $existingHasTime
+                && strtotime((string) $review['publish_time']) > strtotime((string) $existing['publish_time'])) {
+                $merged[$existingIndex] = $review;
+            } elseif (!empty($review['relative_time_description']) && empty($existing['relative_time_description'])) {
+                $merged[$existingIndex]['relative_time_description'] = $review['relative_time_description'];
+            }
             continue;
         }
-        $seen[$key] = true;
+        $seen[$key] = count($merged);
         $merged[] = $review;
-        if (count($merged) >= $limit) {
-            break;
+    }
+
+    usort($merged, static function (array $a, array $b): int {
+        $aTime = !empty($a['publish_time']) ? strtotime((string) $a['publish_time']) : 0;
+        $bTime = !empty($b['publish_time']) ? strtotime((string) $b['publish_time']) : 0;
+        if ($aTime === $bTime) {
+            return 0;
         }
+        return ($aTime > $bTime) ? -1 : 1;
+    });
+
+    if (count($merged) > $limit) {
+        $merged = array_slice($merged, 0, $limit);
     }
 
     return $merged;
@@ -216,7 +244,7 @@ function resteasy_fetch_google_reviews($forceRefresh = false)
     }
 
     $cacheFile = resteasy_get_google_reviews_cache_file();
-    $cacheTtl = 3600;
+    $cacheTtl = 900; // 15 minutes — keep newest Google reviews fresher
 
     if (!$forceRefresh && is_readable($cacheFile) && (time() - filemtime($cacheFile)) < $cacheTtl) {
         $cachedJson = @file_get_contents($cacheFile);
@@ -231,19 +259,15 @@ function resteasy_fetch_google_reviews($forceRefresh = false)
     $apiKey = 'AIzaSyCC_r5F1eC4o7ct4filjaurPn1Zxcre_Kk';
     $referer = 'https://resteasyservices.com.au/';
 
-    // Separate key used ONLY for the legacy Place Details web service below.
-    // IMPORTANT: the legacy API rejects keys that have HTTP-referrer restrictions
-    // ("API keys with referer restrictions cannot be used with this API"). This key
-    // must be either unrestricted or restricted by the server's IP address, and must
-    // have the (legacy) "Places API" enabled in Google Cloud. Leave empty to skip the
-    // legacy call and use the Places API (New) below instead (most-relevant reviews).
-    $legacyApiKey = '';
+    // Legacy Place Details is the only Google endpoint that supports reviews_sort=newest.
+    // Needs Places API (legacy) enabled, and a key that is unrestricted or IP-restricted
+    // (HTTP-referrer keys are rejected). Set GOOGLE_PLACES_LEGACY_KEY in the environment,
+    // or paste the key below.
+    $legacyApiKey = getenv('GOOGLE_PLACES_LEGACY_KEY') ?: '';
 
     $output = null;
 
-    // 1) Legacy Place Details API. This is the ONLY Google endpoint that supports
-    //    reviews_sort=newest, so it returns the 5 most recent reviews. The Places
-    //    API (New) always returns the 5 "most relevant" reviews and ignores any sort.
+    // 1) Legacy Place Details API — 5 newest reviews.
     if ($legacyApiKey !== '') {
         $legacyUrl = 'https://maps.googleapis.com/maps/api/place/details/json?' . http_build_query(array(
             'place_id' => $placeId,
@@ -264,8 +288,7 @@ function resteasy_fetch_google_reviews($forceRefresh = false)
         }
     }
 
-    // 2) Fall back to the Places API (New) if the legacy API is unavailable
-    //    (e.g. not enabled on the project). Reviews will be "most relevant" here.
+    // 2) Places API (New) — returns up to 5 "most relevant" reviews (not newest).
     if ($output === null) {
         $url = 'https://places.googleapis.com/v1/places/' . rawurlencode($placeId);
         $headers = array(
@@ -285,8 +308,7 @@ function resteasy_fetch_google_reviews($forceRefresh = false)
         }
     }
 
-    // Curated reviews let us show more than Google's hard cap of 5 reviews, and
-    // guarantee the newest reviews appear even when the API returns "most relevant".
+    // Curated reviews let us show more than Google's hard cap of 5 reviews.
     $curated = resteasy_load_curated_google_reviews();
 
     if ($output === null && empty($curated)) {
@@ -306,9 +328,11 @@ function resteasy_fetch_google_reviews($forceRefresh = false)
     }
 
     if (!empty($curated)) {
-        // Curated reviews are listed first (newest-first, owner-controlled order);
-        // any additional live reviews not already curated are appended.
-        $output['reviews'] = resteasy_merge_google_reviews($curated, $output['reviews'], 15);
+        // Live Google reviews first (fresher dates/text), then curated extras.
+        // Final list is sorted newest-first by publish_time when available.
+        $output['reviews'] = resteasy_merge_google_reviews($output['reviews'], $curated, 15);
+    } else {
+        $output['reviews'] = resteasy_merge_google_reviews($output['reviews'], array(), 15);
     }
 
     $json = json_encode($output);
