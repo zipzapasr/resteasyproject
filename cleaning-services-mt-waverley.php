@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Mt Waverley | Rest Easy Services</title>
+  <title>Cleaning Services Mount Waverley | Free Quotes Today</title>
   <meta name="description"
-    content="Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes." />
+    content="House cleaning, end-of-lease and carpet cleaning in Mount Waverley, done to inspection standard. Flexible times, rated 4.4 on Google. Book a free quote." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Mt Waverley" />
+    content="cleaning services Mount Waverley, house cleaning Mount Waverley, vacate cleaning Mount Waverley, end of lease cleaning Mount Waverley, Airbnb cleaning Mount Waverley, window cleaning Mount Waverley, carpet cleaning Mount Waverley, pressure washing Mount Waverley" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-mt-waverley" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Mt Waverley | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Mount Waverley | Free Quotes Today" />
   <meta property="og:description"
-    content="Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes." />
+    content="House cleaning, end-of-lease and carpet cleaning in Mount Waverley, done to inspection standard. Flexible times, rated 4.4 on Google. Book a free quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-mt-waverley" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Mt Waverley | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Mount Waverley | Free Quotes Today" />
   <meta name="twitter:description"
-    content="Local house, carpet & window cleaning in Mt Waverley. Insured, police-checked cleaners for big family homes, leafy garden blocks & new builds. Free quotes." />
+    content="House cleaning, end-of-lease and carpet cleaning in Mount Waverley, done to inspection standard. Flexible times, rated 4.4 on Google. Book a free quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Mt Waverley</h1>
+          <span>Cleaning Services in Mt Waverley</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>Why rely on professional cleaning services in Mt Waverley for your family home?</h2>
+                <h1>Cleaning Services in Mount Waverley, Done to Inspection Standard</h1>
               </div>
               <div class="text-box">
                 <p>They offer meticulous attention for a leafy, established family suburb known for its sought-after schools, generous blocks and the creeks and reserves the streets wind around. When searching for a careful cleaner near you, Rest Easy Services covers the range in Mt Waverley: house cleaning, carpet cleaning, window cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning, car park cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Mt Waverley clean and well kept.</p>

@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Rosebud | Residential & Commercial Cleaning </title>
+  <title>Cleaning Services Rosebud | Local Team, Quick Response </title>
   <meta name="description"
-    content="Professional cleaning services in Rosebud for residential and commercial properties. Get reliable house cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning and more." />
+    content="Airbnb changeovers, linen hire, house and vacate cleaning in Rosebud. Based minutes away in Capel Sound, so we get there fast. Request a free quote." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Rosebud." />
+    content="cleaning services Rosebud, house cleaning Rosebud, vacate cleaning Rosebud, end of lease cleaning Rosebud, Airbnb cleaning Rosebud, window cleaning Rosebud, carpet cleaning Rosebud, pressure washing Rosebud" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-rosebud" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Rosebud | Residential & Commercial Cleaning " />
+  <meta property="og:title" content="Cleaning Services Rosebud | Local Team, Quick Response " />
   <meta property="og:description"
-    content="Professional cleaning services in Rosebud for residential and commercial properties. Get reliable house cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning and more." />
+    content="Airbnb changeovers, linen hire, house and vacate cleaning in Rosebud. Based minutes away in Capel Sound, so we get there fast. Request a free quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-rosebud" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Rosebud | Residential & Commercial Cleaning " />
+  <meta name="twitter:title" content="Cleaning Services Rosebud | Local Team, Quick Response " />
   <meta name="twitter:description"
-    content="Professional cleaning services in Rosebud for residential and commercial properties. Get reliable house cleaning, Airbnb cleaning, vacate cleaning, carpet cleaning and more." />
+    content="Airbnb changeovers, linen hire, house and vacate cleaning in Rosebud. Based minutes away in Capel Sound, so we get there fast. Request a free quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -234,7 +234,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Rosebud</h1>
+          <span> Cleaning Services in Rosebud</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -256,7 +256,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Rosebud | Residential & Commercial Cleaning </h1>
+                <h1>Cleaning Services in Rosebud, Minutes From Your Door</h1>
               </div>
               <div class="text-box">
                 <p>Rosebud is the biggest town on the southern Mornington Peninsula, with a two-kilometre shopping strip along Point Nepean Road and one of the largest foreshore camping grounds on the bay, so there's a constant mix of homes, holiday lets and businesses that need keeping on top of. If you're looking for a dependable cleaner near you, Rest Easy Services handles all of it in Rosebud: house cleaning, Airbnb turnover cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire are part of the mix too, keeping local properties across Rosebud clean and ready through both the busy season and the quiet months.</p>

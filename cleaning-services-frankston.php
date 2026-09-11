@@ -4,18 +4,18 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Frankston Cleaning Services for Cleaner Living Spaces </title>
+    <title>Cleaning Services Frankston | Reliable, Insured Team</title>
     <meta name="description"
-        content="Professional cleaning services in Frankston for homes, offices, and rental properties. Enjoy cleaner, healthier, and well-maintained living and working spaces." />
+        content="Frankston cleaners for weekly house cleans, vacate cleans, carpets, windows and offices. Reliable, insured and rated 4.4 on Google. Get your free quote." />
     <meta name="keywords"
-        content="cleaning services frankston, vacate cleaning frankston, end of lease cleaning frankston, airbnb cleaning frankston, house cleaning frankston, window cleaning frankston, carpet cleaning frankston, pressure washing frankston" />
+        content="cleaning services Frankston, house cleaning Frankston, vacate cleaning Frankston, end of lease cleaning Frankston, Airbnb cleaning Frankston, window cleaning Frankston, carpet cleaning Frankston, pressure washing Frankston" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-frankston" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Frankston Cleaning Services for Cleaner Living Spaces " />
+    <meta property="og:title" content="Cleaning Services Frankston | Reliable, Insured Team" />
     <meta property="og:description"
-        content="Professional cleaning services in Frankston for homes, offices, and rental properties. Enjoy cleaner, healthier, and well-maintained living and working spaces." />
+        content="Frankston cleaners for weekly house cleans, vacate cleans, carpets, windows and offices. Reliable, insured and rated 4.4 on Google. Get your free quote." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-frankston" />
     <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -24,9 +24,9 @@
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Frankston Cleaning Services for Cleaner Living Spaces " />
+    <meta name="twitter:title" content="Cleaning Services Frankston | Reliable, Insured Team" />
     <meta name="twitter:description"
-        content="Professional cleaning services in Frankston for homes, offices, and rental properties. Enjoy cleaner, healthier, and well-maintained living and working spaces." />
+        content="Frankston cleaners for weekly house cleans, vacate cleans, carpets, windows and offices. Reliable, insured and rated 4.4 on Google. Get your free quote." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
 
     <!-- Schema.org JSON-LD -->
@@ -212,7 +212,7 @@
             <div class="shape6 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Frankston</h2>
+                    <span>Frankston</span>
                     <ul class="thm-breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li><span class="icon-right"></span></li>
@@ -232,7 +232,7 @@
                     <div class="col-xl-6">
                         <div class="team-details__middle-content">
                             <div class="title">
-                                <h1>Expert Cleaning Services in Frankston </h1>
+                                <h1>Cleaning Services in Frankston Households and Offices Rely On</h1>
                             </div>
                             <div class="text-box">
                                 <p>Frankston's bayside location brings its own cleaning challenges — salt air and sea spray settle on windows and outdoor surfaces faster than in inland suburbs, and with a steady mix of rentals, holiday lets, and family homes across the area, cleaning needs here vary property to property. Our team delivers high-quality cleaning services in Frankston, ensures properties are clean, presentable and ready for homeowners, tenants, landlords and holiday-let operators, whether it’s a weekly home clean, a vacate clean for inspection, or same-day turnaround between Airbnb guests. We offer a service tailored to the real needs of your property in Frankston Beach and surrounding suburbs.

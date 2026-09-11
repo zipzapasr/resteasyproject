@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Brighton | Rest Easy Services</title>
+  <title>Cleaning Services Brighton | Discreet and Detailed</title>
   <meta name="description"
-    content="Local house, window & carpet cleaning in Brighton. Insured, police-checked cleaners for period homes, modern mansions, coastal glass & gardens. Free quotes." />
+    content="Detail-focused cleaners for Brighton homes - regular cleans, salt-streaked windows, carpets and vacate cleaning. Discreet, insured, 4.4 stars on Google." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Brighton" />
+    content="cleaning services Brighton, house cleaning Brighton, vacate cleaning Brighton, end of lease cleaning Brighton, Airbnb cleaning Brighton, window cleaning Brighton, carpet cleaning Brighton, pressure washing Brighton" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-brighton" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Brighton | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Brighton | Discreet and Detailed" />
   <meta property="og:description"
-    content="Local house, window & carpet cleaning in Brighton. Insured, police-checked cleaners for period homes, modern mansions, coastal glass & gardens. Free quotes." />
+    content="Detail-focused cleaners for Brighton homes - regular cleans, salt-streaked windows, carpets and vacate cleaning. Discreet, insured, 4.4 stars on Google." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-brighton" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Brighton | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Brighton | Discreet and Detailed" />
   <meta name="twitter:description"
-    content="Local house, window & carpet cleaning in Brighton. Insured, police-checked cleaners for period homes, modern mansions, coastal glass & gardens. Free quotes." />
+    content="Detail-focused cleaners for Brighton homes - regular cleans, salt-streaked windows, carpets and vacate cleaning. Discreet, insured, 4.4 stars on Google." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Brighton</h1>
+          <span>Cleaning Services in Brighton</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>Why choose professional cleaning services in Brighton for your home?</h2>
+                <h1>Cleaning Services in Brighton With an Eye for Detail</h1>
               </div>
               <div class="text-box">
                 <p>Because they provide the exacting care required for a prestigious bayside suburb known for its grand period and modern homes, the boutique Church Street strip and the iconic bathing boxes. If you're looking for a trusted cleaner near you, Rest Easy Services covers the range in Brighton: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Brighton clean and beautifully kept.</p>

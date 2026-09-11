@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Expert Cleaning Services Rye for Every Property</title>
+  <title>Cleaning Services Rye | Fast Holiday Home Turnovers</title>
   <meta name="description"
-    content="Expert cleaning services in Rye for homes, offices, holiday rentals, and commercial properties. Reliable, affordable cleaning with exceptional results every time." />
+    content="Fast holiday-home turnovers in Rye with linen hire, plus house, vacate and carpet cleaning. Sand and salt handled properly. Book your changeover clean today." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Rye" />
+    content="cleaning services Rye, house cleaning Rye, vacate cleaning Rye, end of lease cleaning Rye, Airbnb cleaning Rye, window cleaning Rye, carpet cleaning Rye, pressure washing Rye" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-rye" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Expert Cleaning Services Rye for Every Property" />
+  <meta property="og:title" content="Cleaning Services Rye | Fast Holiday Home Turnovers" />
   <meta property="og:description"
-    content="Expert cleaning services in Rye for homes, offices, holiday rentals, and commercial properties. Reliable, affordable cleaning with exceptional results every time." />
+    content="Fast holiday-home turnovers in Rye with linen hire, plus house, vacate and carpet cleaning. Sand and salt handled properly. Book your changeover clean today." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-rye" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Expert Cleaning Services Rye for Every Property" />
+  <meta name="twitter:title" content="Cleaning Services Rye | Fast Holiday Home Turnovers" />
   <meta name="twitter:description"
-    content="Expert cleaning services in Rye for homes, offices, holiday rentals, and commercial properties. Reliable, affordable cleaning with exceptional results every time." />
+    content="Fast holiday-home turnovers in Rye with linen hire, plus house, vacate and carpet cleaning. Sand and salt handled properly. Book your changeover clean today." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
 <script type="application/ld+json">
@@ -234,7 +234,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Rye</h1>
+          <span> Cleaning Services in Rye</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -256,7 +256,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Expert Cleaning Services Rye for Every Property</h1>
+                <h1>Cleaning Services in Rye for Homes and Holiday Rentals</h1>
               </div>
               <div class="text-box">
                 <p>Rye sits at the narrow tip of the Mornington Peninsula, with the calm bay front beach on one side and the Bass Strait back beach on the other, so homes here pick up sand and salt from both directions on top of the wear that comes with a holiday town. When you need a trusted cleaner near you, Rest Easy Services covers the full range in Rye: house cleaning, Airbnb turnover cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes, holiday rentals and businesses across Rye clean and ready to use.</p>

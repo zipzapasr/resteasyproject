@@ -224,7 +224,7 @@
             <div class="shape6 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Terms &amp; Conditions</h2>
+                    <span>Terms &amp; Conditions</span>
                     <ul class="thm-breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li><span class="icon-right"></span></li>

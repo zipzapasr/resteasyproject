@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Dromana for Homes & Businesses</title>
+  <title>Cleaning Services Dromana | Homes Ready for Guests</title>
   <meta name="description"
-    content="Cleaning Services Dromana offers professional home and business cleaning, including vacate, window, carpet, Airbnb, garden, and NDIS cleaning services." />
+    content="Between-guest cleans, linen hire and regular house cleaning in Dromana, so the beach house is always guest-ready. Local team since 2012. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Dromana" />
+    content="cleaning services Dromana, house cleaning Dromana, vacate cleaning Dromana, end of lease cleaning Dromana, Airbnb cleaning Dromana, window cleaning Dromana, carpet cleaning Dromana, pressure washing Dromana" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-dromana" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Dromana for Homes & Businesses" />
+  <meta property="og:title" content="Cleaning Services Dromana | Homes Ready for Guests" />
   <meta property="og:description"
-    content="Cleaning Services Dromana offers professional home and business cleaning, including vacate, window, carpet, Airbnb, garden, and NDIS cleaning services." />
+    content="Between-guest cleans, linen hire and regular house cleaning in Dromana, so the beach house is always guest-ready. Local team since 2012. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-dromana" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Dromana for Homes & Businesses" />
+  <meta name="twitter:title" content="Cleaning Services Dromana | Homes Ready for Guests" />
   <meta name="twitter:description"
-    content="Cleaning Services Dromana offers professional home and business cleaning, including vacate, window, carpet, Airbnb, garden, and NDIS cleaning services." />
+    content="Between-guest cleans, linen hire and regular house cleaning in Dromana, so the beach house is always guest-ready. Local team since 2012. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
  <script type="application/ld+json">
@@ -236,8 +236,8 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Dromana
-          </h1>
+          <span>Cleaning Services in Dromana 
+          </span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -260,7 +260,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Dromana for Homes & Businesses</h1>
+                <h1>Cleaning Services in Dromana That Keep Your Home Guest Ready</h1>
               </div>
               <div class="text-box">
                 <p>Dromana sits at the foot of Arthurs Seat, the highest point on the Mornington Peninsula, with bay-front streets on one side and bushland-backed homes climbing the hillside on the other. For those needing an expert cleaner near you, Rest Easy Services covers the lot in Dromana: house cleaning, Airbnb turnover cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire round out the range, keeping local homes, holiday rentals and businesses across Dromana clean and ready to use.</p>

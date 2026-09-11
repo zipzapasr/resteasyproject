@@ -236,7 +236,7 @@
             <div class="shape6 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Car Park Cleaning</h2>
+                    <span>Car Park Cleaning</span>
                     <ul class="thm-breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li><span class="icon-right"></span></li>

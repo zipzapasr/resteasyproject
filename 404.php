@@ -157,7 +157,7 @@ http_response_code(404);
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Page Not Found</h2>
+                    <span>Page Not Found</span>
                     <ul class="thm-breadcrumb">
                         <li>
                             <a href="index.php">Home</a>

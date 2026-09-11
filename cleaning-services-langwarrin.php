@@ -4,16 +4,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Langwarrin | Rest Easy Services</title>
-  <meta name="description" content="Local house, carpet & window cleaning in Langwarrin. Insured, police-checked cleaners for big family homes, leafy blocks and bushland-edge gardens. Free quotes." />
+  <title>Cleaning Services Langwarrin | Inside and Out</title>
+  <meta name="description" content="Cleaners and gardeners for Langwarrin's bigger homes and blocks: house cleaning, lawns, hedges, windows and pressure washing. Friendly local team since 2012." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Langwarrin" />
+    content="cleaning services Langwarrin, house cleaning Langwarrin, vacate cleaning Langwarrin, end of lease cleaning Langwarrin, Airbnb cleaning Langwarrin, window cleaning Langwarrin, carpet cleaning Langwarrin, pressure washing Langwarrin" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-langwarrin" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Expert Cleaning Services in Langwarrin for Spotless Spaces " />
+  <meta property="og:title" content="Cleaning Services Langwarrin | Inside and Out" />
   <meta property="og:description"
-    content="Expert cleaning services in Langwarrin, Melbourne for homes and businesses. House cleaning, carpet cleaning, vacate cleaning, and more." />
+    content="Cleaners and gardeners for Langwarrin's bigger homes and blocks: house cleaning, lawns, hedges, windows and pressure washing. Friendly local team since 2012." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-langwarrin" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -21,9 +21,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Expert Cleaning Services in Langwarrin for Spotless Spaces" />
+  <meta name="twitter:title" content="Cleaning Services Langwarrin | Inside and Out" />
   <meta name="twitter:description"
-    content="Expert cleaning services in Langwarrin, Melbourne for homes and businesses. House cleaning, carpet cleaning, vacate cleaning, and more." />
+    content="Cleaners and gardeners for Langwarrin's bigger homes and blocks: house cleaning, lawns, hedges, windows and pressure washing. Friendly local team since 2012." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -207,7 +207,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Langwarrin</h1>
+          <span> Cleaning Services in Langwarrin</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -229,7 +229,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>Why Choose Professional Cleaning Services in Langwarrin for Your Property?</h2>
+                <h1>Cleaning Services in Langwarrin, Inside the Home and Out</h1>
               </div>
               <div class="text-box">
                 <p>Langwarrin is a leafy garden-and-park suburb inland from Frankston, known for its big family blocks, the Flora and Fauna Reserve on its western edge and the heritage gardens at Cruden Farm. When you need an experienced cleaner near you, Rest Easy Services covers the range in Langwarrin: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Langwarrin clean and well kept.</p>

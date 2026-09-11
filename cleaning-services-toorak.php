@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Toorak | Rest Easy Services</title>
+  <title>Cleaning Services Toorak | Vetted, Discreet Cleaners</title>
   <meta name="description"
-    content="Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes." />
+    content="Premium home cleaning in Toorak: regular housekeeping, carpets, windows and property maintenance. Vetted, insured cleaners who respect your home. Free quote." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Toorak" />
+    content="cleaning services Toorak, house cleaning Toorak, vacate cleaning Toorak, end of lease cleaning Toorak, Airbnb cleaning Toorak, window cleaning Toorak, carpet cleaning Toorak, pressure washing Toorak" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-toorak" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Toorak | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Toorak | Vetted, Discreet Cleaners" />
   <meta property="og:description"
-    content="Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes." />
+    content="Premium home cleaning in Toorak: regular housekeeping, carpets, windows and property maintenance. Vetted, insured cleaners who respect your home. Free quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-toorak" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Toorak | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Toorak | Vetted, Discreet Cleaners" />
   <meta name="twitter:description"
-    content="Discreet, high-end house, carpet & window cleaning in Toorak. Trusted cleaners for heritage mansions, luxury apartments & formal gardens. Free quotes." />
+    content="Premium home cleaning in Toorak: regular housekeeping, carpets, windows and property maintenance. Vetted, insured cleaners who respect your home. Free quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Toorak</h1>
+          <span>Cleaning Services in Toorak</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>How do professional cleaning services in Toorak maintain prestige homes?</h2>
+                <h1>Cleaning Services in Toorak From Discreet, Vetted Cleaners</h1>
               </div>
               <div class="text-box">
                 <p>They offer discreet, high-end care for Melbourne's most prestigious suburb, preserving period mansions, leafy streets, formal gardens and luxury apartments. When searching for a meticulous cleaner near you, Rest Easy Services covers the range in Toorak: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Toorak clean and beautifully kept.</p>

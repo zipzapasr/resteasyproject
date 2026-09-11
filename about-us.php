@@ -132,8 +132,8 @@
             <div class="shape6 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>About us
-                    </h2>
+                    <span>About us
+                    </span>
                     <ul class="thm-breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li><span class="icon-right"></span></li>

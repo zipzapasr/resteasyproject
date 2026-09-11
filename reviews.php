@@ -129,7 +129,7 @@ if (is_array($googleLiveData)) {
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Reviews</h2>
+          <span> Reviews</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>

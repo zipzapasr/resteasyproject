@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Glen Waverley | Rest Easy Services</title>
+  <title>Cleaning Services Glen Waverley | Trusted and Insured</title>
   <meta name="description"
-    content="Premier house, vacate & carpet cleaning in Glen Waverley. Insured, police-checked cleaners for school-zone family homes, Kingsway dining strips & apartments. Free quotes." />
+    content="Book trusted cleaners in Glen Waverley for regular home cleans, end-of-lease, carpets and windows. Flexible times, thorough work, free quotes." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Glen Waverley" />
+    content="cleaning services Glen Waverley, house cleaning Glen Waverley, vacate cleaning Glen Waverley, end of lease cleaning Glen Waverley, Airbnb cleaning Glen Waverley, window cleaning Glen Waverley, carpet cleaning Glen Waverley, pressure washing Glen Waverley" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-glen-waverley" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Glen Waverley | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Glen Waverley | Trusted and Insured" />
   <meta property="og:description"
-    content="Premier house, vacate & carpet cleaning in Glen Waverley. Insured, police-checked cleaners for school-zone family homes, Kingsway dining strips & apartments. Free quotes." />
+    content="Book trusted cleaners in Glen Waverley for regular home cleans, end-of-lease, carpets and windows. Flexible times, thorough work, free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-glen-waverley" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Glen Waverley | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Glen Waverley | Trusted and Insured" />
   <meta name="twitter:description"
-    content="Premier house, vacate & carpet cleaning in Glen Waverley. Insured, police-checked cleaners for school-zone family homes, Kingsway dining strips & apartments. Free quotes." />
+    content="Book trusted cleaners in Glen Waverley for regular home cleans, end-of-lease, carpets and windows. Flexible times, thorough work, free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Glen Waverley</h1>
+          <span>Cleaning Services in Glen Waverley</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>How do professional cleaning services in Glen Waverley elevate your property?</h2>
+                <h1>Cleaning Services in Glen Waverley Families and Landlords Trust</h1>
               </div>
               <div class="text-box">
                 <p>They provide comprehensive care for a thriving eastern hub with busy commercial and dining strips, established family neighbourhoods and a growing apartment market. If you are searching for a premier cleaner near you, Rest Easy Services covers the range in Glen Waverley: house cleaning, vacate cleaning, carpet cleaning, window cleaning, car park cleaning, pressure washing, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Glen Waverley clean and running.</p>

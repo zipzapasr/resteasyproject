@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Keysborough | Rest Easy Services</title>
+  <title>Cleaning Services in Keysborough for Homes and Offices</title>
   <meta name="description"
-    content="Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes." />
+    content="House, office and car park cleaning in Keysborough, plus carpets, windows and pressure washing. One local team for the lot. Get a quote the same day." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Keysborough" />
+    content="cleaning services Keysborough, house cleaning Keysborough, vacate cleaning Keysborough, end of lease cleaning Keysborough, Airbnb cleaning Keysborough, window cleaning Keysborough, carpet cleaning Keysborough, pressure washing Keysborough" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-keysborough" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Keysborough | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services in Keysborough for Homes and Offices" />
   <meta property="og:description"
-    content="Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes." />
+    content="House, office and car park cleaning in Keysborough, plus carpets, windows and pressure washing. One local team for the lot. Get a quote the same day." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-keysborough" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Keysborough | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services in Keysborough for Homes and Offices" />
   <meta name="twitter:description"
-    content="Local house, vacate & carpet cleaning in Keysborough. Insured, police-checked cleaners for new estate homes, established family streets & industrial sites. Free quotes." />
+    content="House, office and car park cleaning in Keysborough, plus carpets, windows and pressure washing. One local team for the lot. Get a quote the same day." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Keysborough</h1>
+          <span>Cleaning Services in Keysborough</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>What can professional cleaning services in Keysborough offer your property?</h2>
+                <h1>Cleaning Services in Keysborough for Homes, Offices and Car Parks</h1>
               </div>
               <div class="text-box">
                 <p>They deliver complete upkeep for one of Melbourne's largest suburbs by area, spanning new master-planned estates, established family homes and a working industrial belt. When you need a reliable cleaner near you, Rest Easy Services covers the range in Keysborough: house cleaning, vacate cleaning, carpet cleaning, window cleaning, car park cleaning, garden maintenance, house maintenance, pressure washing, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Keysborough clean and running.</p>

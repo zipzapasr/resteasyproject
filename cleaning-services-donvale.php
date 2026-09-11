@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Donvale | Rest Easy Services</title>
+  <title>Cleaning Services in Donvale from One Trusted Team</title>
   <meta name="description"
-    content="Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes." />
+    content="Cleaning, gardening and handyman help for Donvale's larger homes and blocks, inside and out. One trusted local team since 2012. Ask for a quote." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Donvale" />
+    content="cleaning services Donvale, house cleaning Donvale, vacate cleaning Donvale, end of lease cleaning Donvale, Airbnb cleaning Donvale, window cleaning Donvale, carpet cleaning Donvale, pressure washing Donvale" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-donvale" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Donvale | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services in Donvale from One Trusted Team" />
   <meta property="og:description"
-    content="Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes." />
+    content="Cleaning, gardening and handyman help for Donvale's larger homes and blocks, inside and out. One trusted local team since 2012. Ask for a quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-donvale" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Donvale | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services in Donvale from One Trusted Team" />
   <meta name="twitter:description"
-    content="Local house, window & carpet cleaning in Donvale. Insured, police-checked cleaners for bush blocks, acreage estates, glass windows & tennis courts. Free quotes." />
+    content="Cleaning, gardening and handyman help for Donvale's larger homes and blocks, inside and out. One trusted local team since 2012. Ask for a quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Donvale</h1>
+          <span>Cleaning Services in Donvale</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>What can professional cleaning services in Donvale do for your acreage?</h2>
+                <h1>Cleaning Services in Donvale, Plus Gardens and Property Upkeep</h1>
               </div>
               <div class="text-box">
                 <p>They provide specialised maintenance for a semi-rural suburb where homes meet the bush, handling some of the largest and most heavily treed blocks in the area. If you need an experienced cleaner near you, Rest Easy Services covers the range in Donvale: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Donvale clean and well kept.</p>

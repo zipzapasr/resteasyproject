@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cleaning Services in Carrum Downs | Rest Easy Services</title>
-    <meta name="description" content="Local house, vacate & carpet cleaning in Carrum Downs. Insured, police-checked cleaners for family homes, rentals, townhouses and business estates. Free quotes." />
-    <meta name="keywords" content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Carrum Downs" />
+    <title>Cleaning Services Carrum Downs | Flexible Bookings</title>
+    <meta name="description" content="From weekly house cleans to end-of-lease and office cleaning in Carrum Downs. Checklist-driven work, flexible times, no lock-in contracts. Free quote today." />
+    <meta name="keywords" content="cleaning services Carrum Downs, house cleaning Carrum Downs, vacate cleaning Carrum Downs, end of lease cleaning Carrum Downs, Airbnb cleaning Carrum Downs, window cleaning Carrum Downs, carpet cleaning Carrum Downs, pressure washing Carrum Downs" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-carrum-downs" />
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Reliable Cleaning Services Carrum Downs for Homes & Offices " />
-    <meta property="og:description" content="Expert cleaning services in Carrum Downs, Melbourne for homes and businesses. House cleaning, carpet cleaning, vacate cleaning, and more." />
+    <meta property="og:title" content="Cleaning Services Carrum Downs | Flexible Bookings" />
+    <meta property="og:description" content="From weekly house cleans to end-of-lease and office cleaning in Carrum Downs. Checklist-driven work, flexible times, no lock-in contracts. Free quote today." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-carrum-downs" />
     <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -18,8 +18,8 @@
     <meta property="og:locale" content="en_AU" />
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Reliable Cleaning Services Carrum Downs for Homes & Offices " />
-    <meta name="twitter:description" content="Expert cleaning services in Carrum Downs, Melbourne for homes and businesses. House cleaning, carpet cleaning, vacate cleaning, and more." />
+    <meta name="twitter:title" content="Cleaning Services Carrum Downs | Flexible Bookings" />
+    <meta name="twitter:description" content="From weekly house cleans to end-of-lease and office cleaning in Carrum Downs. Checklist-driven work, flexible times, no lock-in contracts. Free quote today." />
     <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
     <!-- Schema.org JSON-LD -->
     <script type="application/ld+json">
@@ -228,7 +228,7 @@
         </div>
         <div class="container">
           <div class="page-header__inner">
-            <h1> Cleaning Services in Carrum Downs</h1>
+            <span> Cleaning Services in Carrum Downs</span>
             <ul class="thm-breadcrumb">
               <li>
                 <a href="index.php">Home</a>
@@ -250,7 +250,7 @@
             <div class="col-xl-6">
               <div class="team-details__middle-content">
                 <div class="title">
-                  <h2>What Can Professional Cleaning Services in Carrum Downs Do for Your Property?</h2>
+                  <h1>Cleaning Services in Carrum Downs, Booked Around Your Schedule</h1>
                 </div>
                 <div class="text-box">
                   <p>Carrum Downs is a big, established family suburb inland from Frankston, with residential streets and newer townhouses on one side and a large industrial and shopping estate on the other. For residents looking for a trusted cleaner near you, Rest Easy Services covers all of it in Carrum Downs: house cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, car park cleaning, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round out the range, keeping local homes and businesses across Carrum Downs clean and running.</p>

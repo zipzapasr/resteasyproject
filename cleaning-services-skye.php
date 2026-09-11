@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Skye | Rest Easy Services</title>
+  <title>Cleaning Services Skye: Book Weekly or One-Off</title>
   <meta name="description"
-    content="Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes." />
+    content="House cleaning, post-build and vacate cleaning in Skye, plus carpets and windows. Book weekly, fortnightly or as a one-off. Fast, free quotes." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Skye" />
+    content="cleaning services Skye, house cleaning Skye, vacate cleaning Skye, end of lease cleaning Skye, Airbnb cleaning Skye, window cleaning Skye, carpet cleaning Skye, pressure washing Skye" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-skye" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Skye | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Skye: Book Weekly or One-Off" />
   <meta property="og:description"
-    content="Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes." />
+    content="House cleaning, post-build and vacate cleaning in Skye, plus carpets and windows. Book weekly, fortnightly or as a one-off. Fast, free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-skye" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Skye | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Skye: Book Weekly or One-Off" />
   <meta name="twitter:description"
-    content="Local house, carpet & window cleaning in Skye. Insured, police-checked cleaners for new estate homes, big family blocks and edge-of-country gardens. Free quotes." />
+    content="House cleaning, post-build and vacate cleaning in Skye, plus carpets and windows. Book weekly, fortnightly or as a one-off. Fast, free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
    
@@ -242,7 +242,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Skye</h1>
+          <span> Cleaning Services in Skye</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -264,7 +264,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>What Can Professional Cleaning Services in Skye Offer Your Family Home?</h2>
+                <h1>Cleaning Services in Skye, Weekly, Fortnightly or One-Off</h1>
               </div>
               <div class="text-box">
                 <p>Skye is a quiet, growing family suburb in Melbourne's south-east, known for its newer estates, big blocks and an edge-of-country feel where you can still catch a rural view from the back window. If you're searching for a meticulous cleaner near you, Rest Easy Services covers the range in Skye: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Skye clean and well kept.</p>

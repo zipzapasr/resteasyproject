@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Chelsea Heights | Rest Easy Services</title>
+  <title>Cleaning Services Chelsea Heights: Local and Insured</title>
   <meta name="description"
-    content="Local house, carpet & window cleaning in Chelsea Heights. Insured, police-checked cleaners for family homes near the wetlands and the bay. Regular or one-off. Free quotes." />
+    content="Bayside cleaning in Chelsea Heights: regular house cleans, vacate cleans, carpets, windows and pressure washing. Local, insured cleaners. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Chelsea Heights" />
+    content="cleaning services Chelsea Heights, house cleaning Chelsea Heights, vacate cleaning Chelsea Heights, end of lease cleaning Chelsea Heights, Airbnb cleaning Chelsea Heights, window cleaning Chelsea Heights, carpet cleaning Chelsea Heights, pressure washing Chelsea Heights" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-chelsea-heights" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Chelsea Heights | Professional Cleaners" />
+  <meta property="og:title" content="Cleaning Services Chelsea Heights: Local and Insured" />
   <meta property="og:description"
-    content="Professional Cleaning Services Chelsea Heights for homes and businesses. House, Airbnb, carpet, window, vacate cleaning, garden maintenance, and more." />
+    content="Bayside cleaning in Chelsea Heights: regular house cleans, vacate cleans, carpets, windows and pressure washing. Local, insured cleaners. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-chelsea-heights" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Chelsea Heights | Professional Cleaners" />
+  <meta name="twitter:title" content="Cleaning Services Chelsea Heights: Local and Insured" />
   <meta name="twitter:description"
-    content="Professional Cleaning Services Chelsea Heights for homes and businesses. House, Airbnb, carpet, window, vacate cleaning, garden maintenance, and more." />
+    content="Bayside cleaning in Chelsea Heights: regular house cleans, vacate cleans, carpets, windows and pressure washing. Local, insured cleaners. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
  <script type="application/ld+json">
@@ -241,7 +241,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Chelsea Heights</h1>
+          <span> Cleaning Services in Chelsea Heights</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -263,7 +263,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>How Can Professional Cleaning Services in Chelsea Heights Support Your Home?</h2>
+                <h1>Cleaning Services in Chelsea Heights From a Local, Insured Team</h1>
               </div>
               <div class="text-box">
                 <p>Chelsea Heights is a quiet, green family suburb in the City of Kingston, tucked beside the Edithvale-Seaford Wetlands and only minutes from the Chelsea and Edithvale beaches. For those wanting a dependable cleaner near you, Rest Easy Services covers the range in Chelsea Heights: house cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Chelsea Heights clean and comfortable.</p>

@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services Mornington for Homes & Businesses</title>
+  <title>Cleaning Services Mornington | Local Since 2012</title>
   <meta name="description"
-    content="Need reliable Cleaning Services Mornington? Expert house, office, Airbnb, carpet, pressure washing, and NDIS cleaning. Call 0429 780 896 now." />
+    content="Reliable cleaning in Mornington for houses, shops, offices and holiday rentals, plus carpets, windows and linen hire. Local team, honest pricing, free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Mornington" />
+    content="cleaning services Mornington, house cleaning Mornington, vacate cleaning Mornington, end of lease cleaning Mornington, Airbnb cleaning Mornington, window cleaning Mornington, carpet cleaning Mornington, pressure washing Mornington" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-mornington" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Mornington for Homes & Businesses" />
+  <meta property="og:title" content="Cleaning Services Mornington | Local Since 2012" />
   <meta property="og:description"
-    content="Need reliable Cleaning Services Mornington? Expert house, office, Airbnb, carpet, pressure washing, and NDIS cleaning. Call 0429 780 896 now." />
+    content="Reliable cleaning in Mornington for houses, shops, offices and holiday rentals, plus carpets, windows and linen hire. Local team, honest pricing, free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-mornington" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Mornington for Homes & Businesses" />
+  <meta name="twitter:title" content="Cleaning Services Mornington | Local Since 2012" />
   <meta name="twitter:description"
-    content="Need reliable Cleaning Services Mornington? Expert house, office, Airbnb, carpet, pressure washing, and NDIS cleaning. Call 0429 780 896 now." />
+    content="Reliable cleaning in Mornington for houses, shops, offices and holiday rentals, plus carpets, windows and linen hire. Local team, honest pricing, free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -235,7 +235,8 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Mornington</h1>
+          <span> Cleaning Services in Mornington
+          </span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -257,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Cleaning Services Mornington for Homes & Businesses</h1>
+                <h1>Cleaning Services in Mornington for Homes and Businesses</h1>
               </div>
               <div class="text-box">
                 <p>Mornington is the biggest coastal town on the Peninsula, with a boutique Main Street, the marina at Schnapper Point and a real year-round population rather than only a summer one. When searching for top-rated cleaners near you, Rest Easy Services covers all of it in Mornington: house cleaning, Airbnb turnover cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire round out the range, keeping local homes, holiday rentals and businesses across Mornington clean and running.</p>

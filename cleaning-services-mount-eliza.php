@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mount Eliza Cleaning Services with Experts</title>
+  <title>Cleaning Services Mount Eliza | Thorough Every Visit</title>
   <meta name="description"
-    content="Mount Eliza Cleaning Services with experts offering reliable house, office, Airbnb, vacate, carpet, window, pressure cleaning, and property maintenance solutions." />
+    content="Trusted Mount Eliza cleaners for regular home cleans, guest turnovers, carpets, windows and garden care. Thorough, insured and easy to book. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Mount Eliza" />
+    content="cleaning services Mount Eliza, house cleaning Mount Eliza, vacate cleaning Mount Eliza, end of lease cleaning Mount Eliza, Airbnb cleaning Mount Eliza, window cleaning Mount Eliza, carpet cleaning Mount Eliza, pressure washing Mount Eliza" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-mount-eliza" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Mount Eliza Cleaning Services with Experts" />
+  <meta property="og:title" content="Cleaning Services Mount Eliza | Thorough Every Visit" />
   <meta property="og:description"
-    content="Mount Eliza Cleaning Services with experts offering reliable house, office, Airbnb, vacate, carpet, window, pressure cleaning, and property maintenance solutions." />
+    content="Trusted Mount Eliza cleaners for regular home cleans, guest turnovers, carpets, windows and garden care. Thorough, insured and easy to book. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-mount-eliza" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Mount Eliza Cleaning Services with Experts" />
+  <meta name="twitter:title" content="Cleaning Services Mount Eliza | Thorough Every Visit" />
   <meta name="twitter:description"
-    content="Mount Eliza Cleaning Services with experts offering reliable house, office, Airbnb, vacate, carpet, window, pressure cleaning, and property maintenance solutions." />
+    content="Trusted Mount Eliza cleaners for regular home cleans, guest turnovers, carpets, windows and garden care. Thorough, insured and easy to book. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -234,7 +234,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Mount Eliza</h2>
+          <span> Mount Eliza</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -256,7 +256,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Mount Eliza Cleaning Services with Experts</h1>
+                <h1>Cleaning Services in Mount Eliza, Done Properly Every Visit</h1>
               </div>
               <div class="text-box">
                 <p>Mount Eliza cleaning services offer reliable cleaning and maintenance services for homes and

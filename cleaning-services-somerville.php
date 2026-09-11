@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Somerville | Rest Easy Services</title>
+  <title>Cleaning Services Somerville: Homes, Carpets, Gardens</title>
   <meta name="description"
-    content="Local house, vacate & carpet cleaning in Somerville. Insured, police-checked cleaners for family homes, big blocks and hobby farms. Regular or one-off. Free quotes." />
+    content="House cleaning, carpets, windows, lawns and hedges for Somerville homes and larger blocks. One local team for inside and out. Call 0429 780 896 for a quote." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Somerville" />
+    content="cleaning services Somerville, house cleaning Somerville, vacate cleaning Somerville, end of lease cleaning Somerville, Airbnb cleaning Somerville, window cleaning Somerville, carpet cleaning Somerville, pressure washing Somerville" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-somerville" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services Somerville | Professional Cleaners" />
+  <meta property="og:title" content="Cleaning Services Somerville: Homes, Carpets, Gardens" />
   <meta property="og:description"
-    content="Cleaning Services Somerville for homes, offices, and holiday rentals. House cleaning, vacate cleaning, carpet, window, pressure cleaning, and more." />
+    content="House cleaning, carpets, windows, lawns and hedges for Somerville homes and larger blocks. One local team for inside and out. Call 0429 780 896 for a quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-somerville" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services Somerville | Professional Cleaners" />
+  <meta name="twitter:title" content="Cleaning Services Somerville: Homes, Carpets, Gardens" />
   <meta name="twitter:description"
-    content="Cleaning Services Somerville for homes, offices, and holiday rentals. House cleaning, vacate cleaning, carpet, window, pressure cleaning, and more." />
+    content="House cleaning, carpets, windows, lawns and hedges for Somerville homes and larger blocks. One local team for inside and out. Call 0429 780 896 for a quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -235,7 +235,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Somerville</h1>
+          <span> Cleaning Services in Somerville</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -257,7 +257,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>Why Choose Professional Cleaning Services in Somerville for Your Property?</h2>
+                <h1>Cleaning Services in Somerville for Homes and Gardens</h1>
               </div>
               <div class="text-box">
                 <p>Somerville is a semi-rural township toward the top of the Mornington Peninsula, old orchard country that's grown into a family suburb of bigger blocks, hobby farms and newer estates. If you need a thorough, reliable cleaner near you, Rest Easy Services covers the range in Somerville: house cleaning, vacate cleaning, carpet cleaning, window cleaning, pressure washing, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Somerville clean and well kept.</p>

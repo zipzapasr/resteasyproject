@@ -3590,13 +3590,14 @@ Main Slider Three
   text-align: center;
 }
 
-.page-header__inner h2 {
+.page-header__inner > span {
   color: #ffffff;
   font-size: 45px;
   line-height: 1em;
   font-weight: 700;
   text-transform: capitalize;
   margin-bottom: 25px;
+  display: block;
 }
 
 .page-header__inner .thm-breadcrumb {
@@ -17990,5 +17991,3 @@ a.nearby-areas__tag:focus-visible::before {
 .rye-page .cta-one__inner .btn-box {
   margin-top: 24px;
 }
-
-.page-header__inner h1{color:#fff !important; font-size: 30px !important;}

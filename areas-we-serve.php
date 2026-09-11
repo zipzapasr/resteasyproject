@@ -686,7 +686,7 @@ function render_suburb_chip($name, $suburb_pages) {
             <div class="shape6 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt="#"></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Areas We Serve</h2>
+                    <span>Areas We Serve</span>
                     <ul class="thm-breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li><span class="icon-right"></span></li>

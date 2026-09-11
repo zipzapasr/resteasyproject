@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Box Hill | Rest Easy Services</title>
+  <title>Quick Turnaround Cleaning Services in Box Hill</title>
   <meta name="description"
-    content="Local apartment, house & vacate cleaning in Box Hill. Insured, police-checked cleaners for high-rise towers, student rentals & Box Hill Central retail. Free quotes." />
+    content="Apartment, office and end-of-lease cleaning in Box Hill with quick turnarounds for tenants and landlords, plus carpets and windows. Free quote today." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Box Hill" />
+    content="cleaning services Box Hill, house cleaning Box Hill, vacate cleaning Box Hill, end of lease cleaning Box Hill, Airbnb cleaning Box Hill, window cleaning Box Hill, carpet cleaning Box Hill, pressure washing Box Hill" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-boxhill" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Box Hill | Rest Easy Services" />
+  <meta property="og:title" content="Quick Turnaround Cleaning Services in Box Hill" />
   <meta property="og:description"
-    content="Local apartment, house & vacate cleaning in Box Hill. Insured, police-checked cleaners for high-rise towers, student rentals & Box Hill Central retail. Free quotes." />
+    content="Apartment, office and end-of-lease cleaning in Box Hill with quick turnarounds for tenants and landlords, plus carpets and windows. Free quote today." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-boxhill" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Box Hill | Rest Easy Services" />
+  <meta name="twitter:title" content="Quick Turnaround Cleaning Services in Box Hill" />
   <meta name="twitter:description"
-    content="Local apartment, house & vacate cleaning in Box Hill. Insured, police-checked cleaners for high-rise towers, student rentals & Box Hill Central retail. Free quotes." />
+    content="Apartment, office and end-of-lease cleaning in Box Hill with quick turnarounds for tenants and landlords, plus carpets and windows. Free quote today." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Box Hill</h1>
+          <span>Cleaning Services in Box Hill</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>How can professional cleaning services in Box Hill support your property?</h2>
+                <h1>Cleaning Services in Box Hill With Quick Turnarounds</h1>
               </div>
               <div class="text-box">
                 <p>They offer tailored solutions for a busy, high-density hub with a fast-growing high-rise skyline, a major transit interchange and the Box Hill Central shopping precinct. When you need a dependable cleaner near you, Rest Easy Services covers the range in Box Hill: house cleaning, vacate cleaning, carpet cleaning, window cleaning, car park cleaning, pressure washing, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local apartments, homes and businesses across Box Hill clean and running.</p>

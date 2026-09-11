@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Professional Cleaning Services Doncaster for Properties</title>
+  <title>Cleaning Services Doncaster: No Lock-In Contracts</title>
   <meta name="description"
-    content="Professional cleaning services in Doncaster for homes, offices, and rental properties. Reliable cleaners for house, Airbnb, vacate, carpet, and window cleaning. " />
+    content="Apartment and house cleaning in Doncaster, plus vacate cleans, carpets and windows. Weekly, fortnightly or one-off - no lock-in contracts. Free quotes." />
   <meta name="keywords"
-    content="keywords House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Doncaster" />
+    content="cleaning services Doncaster, house cleaning Doncaster, vacate cleaning Doncaster, end of lease cleaning Doncaster, Airbnb cleaning Doncaster, window cleaning Doncaster, carpet cleaning Doncaster, pressure washing Doncaster" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-doncaster" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Professional Cleaning Services Doncaster for Properties" />
+  <meta property="og:title" content="Cleaning Services Doncaster: No Lock-In Contracts" />
   <meta property="og:description"
-    content="Professional cleaning services in Doncaster for homes, offices, and rental properties. Reliable cleaners for house, Airbnb, vacate, carpet, and window cleaning. " />
+    content="Apartment and house cleaning in Doncaster, plus vacate cleans, carpets and windows. Weekly, fortnightly or one-off - no lock-in contracts. Free quotes." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-doncaster" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Professional Cleaning Services Doncaster for Properties" />
+  <meta name="twitter:title" content="Cleaning Services Doncaster: No Lock-In Contracts" />
   <meta name="twitter:description"
-    content="Professional cleaning services in Doncaster for homes, offices, and rental properties. Reliable cleaners for house, Airbnb, vacate, carpet, and window cleaning. " />
+    content="Apartment and house cleaning in Doncaster, plus vacate cleans, carpets and windows. Weekly, fortnightly or one-off - no lock-in contracts. Free quotes." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
 <script type="application/ld+json">
@@ -240,7 +240,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h2> Doncaster</h2>
+          <span> Doncaster</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -262,7 +262,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h1>Professional Cleaning Services Doncaster for Properties</h1>
+                <h1>Cleaning Services in Doncaster for Apartments and Houses</h1>
               </div>
               <div class="text-box">
                 <p>Keep your home or workplace kind of clean with professional Cleaning Services Doncaster, it’s

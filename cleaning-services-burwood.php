@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Burwood | Rest Easy Services</title>
+  <title>Cleaning Services Burwood | Fast, Flexible Bookings</title>
   <meta name="description"
-    content="Local house, vacate & carpet cleaning in Burwood. Insured, police-checked cleaners for student rentals near Deakin, family homes & Burwood One retail. Free quotes." />
+    content="End-of-lease and regular house cleaning in Burwood, done to inspection standard. Carpets, windows and ovens included. Fast quotes, flexible booking." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Burwood" />
+    content="cleaning services Burwood, house cleaning Burwood, vacate cleaning Burwood, end of lease cleaning Burwood, Airbnb cleaning Burwood, window cleaning Burwood, carpet cleaning Burwood, pressure washing Burwood" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-burwood" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Burwood | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Burwood | Fast, Flexible Bookings" />
   <meta property="og:description"
-    content="Local house, vacate & carpet cleaning in Burwood. Insured, police-checked cleaners for student rentals near Deakin, family homes & Burwood One retail. Free quotes." />
+    content="End-of-lease and regular house cleaning in Burwood, done to inspection standard. Carpets, windows and ovens included. Fast quotes, flexible booking." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-burwood" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Burwood | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Burwood | Fast, Flexible Bookings" />
   <meta name="twitter:description"
-    content="Local house, vacate & carpet cleaning in Burwood. Insured, police-checked cleaners for student rentals near Deakin, family homes & Burwood One retail. Free quotes." />
+    content="End-of-lease and regular house cleaning in Burwood, done to inspection standard. Carpets, windows and ovens included. Fast quotes, flexible booking." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Burwood</h1>
+          <span>Cleaning Services in Burwood</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>What makes professional cleaning services in Burwood essential for your home or rental?</h2>
+                <h1>Cleaning Services in Burwood for Tenants, Owners and Landlords</h1>
               </div>
               <div class="text-box">
                 <p>They provide targeted care for an eastern suburb shaped by Deakin University's main campus, managing a busy mix of student rentals, established family homes and newer apartments. If you are looking for a trusted cleaner near you, Rest Easy Services covers the range in Burwood: house cleaning, vacate cleaning, carpet cleaning, window cleaning, car park cleaning, pressure washing, garden maintenance, house maintenance, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Burwood clean and running.</p>

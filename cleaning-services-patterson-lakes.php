@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Patterson Lakes | Rest Easy Services</title>
+  <title>Cleaning Services Patterson Lakes | Waterfront Homes</title>
   <meta name="description"
-    content="Local house, window & Airbnb cleaning in Patterson Lakes. Insured, police-checked cleaners for waterfront canal homes, jetties and luxury finishes. Free quotes." />
+    content="Cleaning for Patterson Lakes canal homes: salt-marked windows, decks, carpets and regular house cleans. Holiday-let turnovers too. Ask for a free quote." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Patterson Lakes" />
+    content="cleaning services Patterson Lakes, house cleaning Patterson Lakes, vacate cleaning Patterson Lakes, end of lease cleaning Patterson Lakes, Airbnb cleaning Patterson Lakes, window cleaning Patterson Lakes, carpet cleaning Patterson Lakes, pressure washing Patterson Lakes" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-patterson-lakes" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Patterson Lakes | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Patterson Lakes | Waterfront Homes" />
   <meta property="og:description"
-    content="Local house, window & Airbnb cleaning in Patterson Lakes. Insured, police-checked cleaners for waterfront canal homes, jetties and luxury finishes. Free quotes." />
+    content="Cleaning for Patterson Lakes canal homes: salt-marked windows, decks, carpets and regular house cleans. Holiday-let turnovers too. Ask for a free quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-patterson-lakes" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Patterson Lakes | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Patterson Lakes | Waterfront Homes" />
   <meta name="twitter:description"
-    content="Local house, window & Airbnb cleaning in Patterson Lakes. Insured, police-checked cleaners for waterfront canal homes, jetties and luxury finishes. Free quotes." />
+    content="Cleaning for Patterson Lakes canal homes: salt-marked windows, decks, carpets and regular house cleans. Holiday-let turnovers too. Ask for a free quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -241,7 +241,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1> Cleaning Services in Patterson Lakes</h1>
+          <span> Cleaning Services in Patterson Lakes</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -263,7 +263,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>How Do Professional Cleaning Services in Patterson Lakes Care for Waterfront Homes?</h2>
+                <h1>Cleaning Services in Patterson Lakes Built for Waterfront Homes</h1>
               </div>
               <div class="text-box">
                 <p>Patterson Lakes is a waterfront suburb built on an extensive canal network, where a lot of homes sit right on the water with their own jetties and direct boat access to Port Phillip Bay. When looking for a specialist cleaner near you, Rest Easy Services covers the range in Patterson Lakes: house cleaning, window cleaning, Airbnb turnover cleaning, carpet cleaning, pressure washing, vacate cleaning, garden maintenance, house maintenance and locksmith services. NDIS cleaning and linen hire round it out, keeping local waterfront homes, rentals and businesses across Patterson Lakes clean and looking sharp.</p>

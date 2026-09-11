@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Wheelers Hill | Rest Easy Services</title>
+  <title>Cleaning Services in Wheelers Hill That Fit Your Week</title>
   <meta name="description"
-    content="Top-rated house, carpet & window cleaning in Wheelers Hill. Insured, police-checked cleaners for big elevated homes, panoramic glass, pools & gardens. Free quotes." />
+    content="House cleaning, carpets, windows and garden care for Wheelers Hill family homes. Same reliable team every visit, operating since 2012. Free quote today." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Wheelers Hill" />
+    content="cleaning services Wheelers Hill, house cleaning Wheelers Hill, vacate cleaning Wheelers Hill, end of lease cleaning Wheelers Hill, Airbnb cleaning Wheelers Hill, window cleaning Wheelers Hill, carpet cleaning Wheelers Hill, pressure washing Wheelers Hill" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-wheelers-hill" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Wheelers Hill | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services in Wheelers Hill That Fit Your Week" />
   <meta property="og:description"
-    content="Top-rated house, carpet & window cleaning in Wheelers Hill. Insured, police-checked cleaners for big elevated homes, panoramic glass, pools & gardens. Free quotes." />
+    content="House cleaning, carpets, windows and garden care for Wheelers Hill family homes. Same reliable team every visit, operating since 2012. Free quote today." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-wheelers-hill" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Wheelers Hill | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services in Wheelers Hill That Fit Your Week" />
   <meta name="twitter:description"
-    content="Top-rated house, carpet & window cleaning in Wheelers Hill. Insured, police-checked cleaners for big elevated homes, panoramic glass, pools & gardens. Free quotes." />
+    content="House cleaning, carpets, windows and garden care for Wheelers Hill family homes. Same reliable team every visit, operating since 2012. Free quote today." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Wheelers Hill</h1>
+          <span>Cleaning Services in Wheelers Hill</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>Why choose professional cleaning services in Wheelers Hill for your elevated property?</h2>
+                <h1>Cleaning Services in Wheelers Hill for Homes Big and Small</h1>
               </div>
               <div class="text-box">
                 <p>Because they offer dedicated upkeep for a leafy family suburb known for its big blocks, quiet tree-lined streets and proximity to Jells Park. When you need a top-rated cleaner near you, Rest Easy Services covers the range in Wheelers Hill: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Wheelers Hill clean and well kept.</p>

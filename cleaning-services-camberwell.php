@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaning Services in Camberwell | Rest Easy Services</title>
+  <title>Cleaning Services Camberwell | Care for Older Homes</title>
   <meta name="description"
-    content="Local house, carpet & window cleaning in Camberwell. Insured, police-checked cleaners for period family homes, heritage gardens & Burke Road retail. Free quotes." />
+    content="Careful, thorough cleaning for Camberwell's period homes: floors, windows, carpets and vacate cleans. Experienced, insured cleaners. Get a free quote." />
   <meta name="keywords"
-    content="House cleaning, linen hire, house maintenance service, garden maintenance service, NDIS cleaning, locksmith, carpet cleaning, car park cleaning, pressure washing in Camberwell" />
+    content="cleaning services Camberwell, house cleaning Camberwell, vacate cleaning Camberwell, end of lease cleaning Camberwell, Airbnb cleaning Camberwell, window cleaning Camberwell, carpet cleaning Camberwell, pressure washing Camberwell" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://resteasyservices.com.au/cleaning-services-camberwell" />
   <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Cleaning Services in Camberwell | Rest Easy Services" />
+  <meta property="og:title" content="Cleaning Services Camberwell | Care for Older Homes" />
   <meta property="og:description"
-    content="Local house, carpet & window cleaning in Camberwell. Insured, police-checked cleaners for period family homes, heritage gardens & Burke Road retail. Free quotes." />
+    content="Careful, thorough cleaning for Camberwell's period homes: floors, windows, carpets and vacate cleans. Experienced, insured cleaners. Get a free quote." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://resteasyservices.com.au/cleaning-services-camberwell" />
   <meta property="og:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
@@ -22,9 +22,9 @@
   <meta property="og:locale" content="en_AU" />
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cleaning Services in Camberwell | Rest Easy Services" />
+  <meta name="twitter:title" content="Cleaning Services Camberwell | Care for Older Homes" />
   <meta name="twitter:description"
-    content="Local house, carpet & window cleaning in Camberwell. Insured, police-checked cleaners for period family homes, heritage gardens & Burke Road retail. Free quotes." />
+    content="Careful, thorough cleaning for Camberwell's period homes: floors, windows, carpets and vacate cleans. Experienced, insured cleaners. Get a free quote." />
   <meta name="twitter:image" content="https://resteasyservices.com.au/assets/images/resources/main-logo2.png" />
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -236,7 +236,7 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1>Cleaning Services in Camberwell</h1>
+          <span>Cleaning Services in Camberwell</span>
           <ul class="thm-breadcrumb">
             <li>
               <a href="index.php">Home</a>
@@ -258,7 +258,7 @@
           <div class="col-xl-6">
             <div class="team-details__middle-content">
               <div class="title">
-                <h2>What are the benefits of using professional cleaning services in Camberwell?</h2>
+                <h1>Cleaning Services in Camberwell With Care for Older Homes</h1>
               </div>
               <div class="text-box">
                 <p>They provide dedicated upkeep for a leafy, established suburb known for its period family homes, heritage gardens and the busy Burke Road shopping strip. For those needing an expert cleaner near you, Rest Easy Services covers the range in Camberwell: house cleaning, window cleaning, carpet cleaning, garden maintenance, house maintenance, pressure washing, vacate cleaning, Airbnb cleaning, car park cleaning and locksmith services. NDIS cleaning and linen hire round it out, keeping local homes and businesses across Camberwell clean and well kept.</p>

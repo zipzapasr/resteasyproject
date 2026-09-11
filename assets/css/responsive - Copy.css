@@ -887,7 +887,7 @@
         opacity: 0.4;
     }
 
-    .page-header__inner h2 {
+    .page-header__inner > span {
         font-size: 60px;
     }
 
@@ -1644,7 +1644,7 @@
         display: none;
     }
 
-    .page-header__inner h2 {
+    .page-header__inner > span {
         font-size: 45px;
     }
 
