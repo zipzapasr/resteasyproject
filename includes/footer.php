@@ -304,7 +304,7 @@
                         
                         <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
                         <a href="https://www.google.com/maps/place/?q=place_id:ChIJ20vQ2H_K1WoROevGTy-Tj8Y" target="_blank" rel="noopener noreferrer">
-                            6/7 Suffolk St, Capel Sound VIC 3940
+                        6/7 Suffolk St, Rosebud VIC 3940
                         </a>
                     </li>
                     <li>

@@ -349,11 +349,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-<<<<<<< HEAD
                                     <img src="assets/images/frankston/linen-hire-frankston.png" alt="#">
-=======
-                                    <img src="assets/images/frankston/Linen-hire-frankston.png" alt="#">
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                                 </div>
                             </div>
                             <div class="blog-one__single__content">
@@ -467,11 +463,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-<<<<<<< HEAD
                                     <img src="assets/images/frankston/car-park-cleaning-frankston.png" alt="#">
-=======
-                                    <img src="assets/images/frankston/Car-park-cleaning-frankston.png" alt="#">
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                                 </div>
                             </div>
                             <div class="blog-one__single__content">
@@ -491,11 +483,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-<<<<<<< HEAD
                                     <img src="assets/images/frankston/locksmith-services-frankston.png" alt="#">
-=======
-                                    <img src="assets/images/frankston/Locksmith-services-frankston.png" alt="#">
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                                 </div>
                             </div>
                             <div class="blog-one__single__content">
@@ -513,11 +501,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-<<<<<<< HEAD
                                     <img src="assets/images/frankston/ndis-cleaning-frankston.png" alt="#">
-=======
-                                    <img src="assets/images/frankston/NDIS-cleaning-frankston.png" alt="#">
->>>>>>> f53ab3ad2879f3040fec570fb8d7ae7c61ee5fa6
                                 </div>
                             </div>
                             <div class="blog-one__single__content">
